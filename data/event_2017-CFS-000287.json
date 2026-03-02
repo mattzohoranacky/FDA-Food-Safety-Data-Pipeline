@@ -1,0 +1,30 @@
+{
+  "report_number": "2017-CFS-000287",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20170911",
+  "reactions": [
+    "Dysgeusia",
+    "Nausea",
+    "Poisoning"
+  ],
+  "date_started": "20170815",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "Chap Stick Total Hydration",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}
