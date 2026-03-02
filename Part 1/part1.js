@@ -29,7 +29,9 @@ function performRequest(link, success) {
           try {
             var responseObject = JSON.parse(responseString);
             const linkHeader = result.headers.link;
-            console.log('Received ' + responseObject.results.length + ' events from API');
+            if (responseObject.results !== undefined) {
+              console.log('Received ' + responseObject.results.length + ' events from API');
+            }
             
             // Wait for success callback to complete before resolving
             Promise.resolve(success(responseObject)).then(() => {
@@ -70,71 +72,99 @@ function performRequest(link, success) {
 }
 
 async function retrieveEvents(CONCURRENCY_LIMIT, success) {
-  var conc_limit = CONCURRENCY_LIMIT || 3;
+  var conc_limit = Math.max(1, CONCURRENCY_LIMIT) || 3;
   
   try {
-    // Convert date strings to numbers for arithmetic
-    const startNum = Number.parseInt(start);
-    const endNum = Number.parseInt(end);
-    const dateRange = endNum - startNum;
-    const chunkSize = Math.ceil(dateRange / conc_limit);
+    // Request queue
+    const requestQueue = [];
+    let activeCount = 0;
     
-    const eventRetrievers = [];
+    // Parse dates properly to handle month/day boundaries
+    function dateStringToDate(dateStr) {
+      const year = parseInt(dateStr.substring(0, 4));
+      const month = parseInt(dateStr.substring(4, 6)) - 1; // months are 0-indexed
+      const day = parseInt(dateStr.substring(6, 8));
+      return new Date(year, month, day);
+    }
     
-    // Create concurrent requests for each date chunk with pagination support
+    function dateToDateString(date) {
+      const year = date.getFullYear();
+      const month = String(date.getMonth() + 1).padStart(2, '0');
+      const day = String(date.getDate()).padStart(2, '0');
+      return `${year}${month}${day}`;
+    }
+    
+    // Convert date strings to Date objects for proper arithmetic
+    const startDate = dateStringToDate(start);
+    const endDate = dateStringToDate(end);
+    const totalMs = endDate.getTime() - startDate.getTime();
+    const chunkMs = Math.ceil(totalMs / conc_limit);
+    
+    // Queue initial requests for each date chunk
     for (let i = 0; i < conc_limit; i++) {
-      const chunkStart = (startNum + (i * chunkSize)).toString();
-      let chunkEnd = (startNum + ((i + 1) * chunkSize)).toString();
+      const chunkStartDate = new Date(startDate.getTime() + (i * chunkMs));
+      let chunkEndDate = new Date(startDate.getTime() + ((i + 1) * chunkMs));
       
       // Make sure last chunk doesn't exceed end date
-      if (Number.parseInt(chunkEnd) > endNum) {
-        chunkEnd = end;
+      if (chunkEndDate.getTime() > endDate.getTime()) {
+        chunkEndDate = new Date(endDate);
       }
       
-      if (Number.parseInt(chunkStart) >= endNum) {
+      if (chunkStartDate.getTime() >= endDate.getTime()) {
         break; // Don't create more chunks than needed
       }
       
-      console.log('Creating request for date range: ' + chunkStart + ' to ' + chunkEnd);
+      const chunkStart = dateToDateString(chunkStartDate);
+      const chunkEnd = dateToDateString(chunkEndDate);
+            
+      const initialLink = endpoint + '?api_key=joKObkCY2YiDI1x0ENw18Rptd3Scr2Lh0dICGXF0&search=date_started:[' + chunkStart + '+TO+' + chunkEnd + ']&sort=date_started:asc&limit=500';
       
-      const retrieverPromise = (async () => {
-        try {
-          let currentLink = endpoint + '?api_key=3YnAUXIrSQccKmH7VYll8N5SLvBWgCVxPPEGAlzW&search=date_started:[' + chunkStart + '+TO+' + chunkEnd + ']&sort=date_started:asc&limit=100';
-          let totalEventsFetched = 0;
-          
-          // Follow pagination links until no more pages
-          while (currentLink) {
-            console.log('Fetching: ' + currentLink);
-            const response = await performRequest(currentLink, success);
-            
-            if (response.error) {
-              console.error('Error fetching page: ' + response.error);
-              break;
-            }
-            
-            if (response.data && response.data.results) {
-              totalEventsFetched += response.data.results.length;
-              console.log('Total events fetched for this chunk so far: ' + totalEventsFetched);
-            }
-            
-            // Move to next page if available
-            currentLink = response.nextLink;
-          }
-          
-          return { status: 'completed', dateRange: chunkStart + '-' + chunkEnd, totalEvents: totalEventsFetched };
-        } catch (err) {
-          console.error('Error retrieving events for ' + chunkStart + '-' + chunkEnd + ': ' + err);
-          return { status: 'failed', error: err };
-        }
-      })();
-      
-      eventRetrievers.push(retrieverPromise);
+      requestQueue.push({
+        link: initialLink,
+        requestNumber: i + 1,
+        chunkStart,
+        chunkEnd
+      });
     }
     
-    console.log('Executing ' + eventRetrievers.length + ' concurrent date chunk requests');
-    return await Promise.all(eventRetrievers);
+    // Worker function that processes requests from the queue
+    const worker = async () => {
+      while (requestQueue.length > 0) {
+        const item = requestQueue.shift();
+        const { link, requestNumber, chunkStart, chunkEnd } = item;
+        
+        try {
+          console.log('[Request ' + requestNumber + '] Fetching');
+          const response = await performRequest(link, success);
+          
+          if (!response.error && response.nextLink) {
+            // Add next page to queue
+            requestQueue.push({
+              link: response.nextLink,
+              requestNumber,
+              chunkStart,
+              chunkEnd
+            });
+          } else if (response.error) {
+            console.error('[Request ' + requestNumber + '] API error: ' + response.error);
+          }
+        } catch (err) {
+          console.error('[Request ' + requestNumber + '] Error: ' + err);
+        }
+      }
+    };
+    
+    // Start concurrent workers
+    const workers = [];
+    for (let i = 0; i < conc_limit; i++) {
+      workers.push(worker());
+    }
+    
+    // Wait for all workers to complete
+    await Promise.all(workers);
+    return { status: 'completed' };
   } catch (err) {
-    console.error('Error in retrieveEvents: ' + err);
+    console.error('Error while retrieving events: ' + err);
     return { status: 'failed', error: err };
   }
 }
@@ -162,25 +192,25 @@ async function requestEvents() {
         // Track file writes
         let writeCount = 0;
         let writeComplete = 0;
-        
-        for (let c = 0; c < data.results.length; c++) {
-          writeCount++;
-          const reportNumber = data.results[c].report_number;
-          const eventData = data.results[c];
-          const filePath = path.join(dataDir, 'event_' + reportNumber + '.json');
-          
-          fs.writeFile(filePath, JSON.stringify(eventData, null, 2), (err) => {
-            if (err) {
-              console.error('Error writing file: ' + err);
-            } else {
-              console.log('Successfully wrote: ' + filePath);
-            }
-            writeComplete++;
-            // Resolve only when all writes complete
-            if (writeComplete === writeCount) {
-              resolve();
-            }
-          });
+        if (data.results !== undefined) {
+          for (let c = 0; c < data.results.length; c++) {
+            writeCount++;
+            const reportNumber = data.results[c].report_number;
+            const eventData = data.results[c];
+            const filePath = path.join(dataDir, 'event_' + reportNumber + '.json');
+
+            fs.writeFile(filePath, JSON.stringify(eventData, null, 2), (err) => {
+              if (err) {
+                console.error('Error writing file: ' + err);
+              } else {
+              }
+              writeComplete++;
+              // Resolve only when all writes complete
+              if (writeComplete === writeCount) {
+                resolve();
+              }
+            });
+          }
         }
         
         // If no results, resolve immediately
