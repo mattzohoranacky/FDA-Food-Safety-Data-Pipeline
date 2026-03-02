@@ -1,0 +1,28 @@
+{
+  "report_number": "2017-CFS-000017",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20170908",
+  "reactions": [
+    "Blood pressure increased",
+    "Drug screen positive",
+    "Emotional distress",
+    "Insomnia"
+  ],
+  "date_started": "20170907",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THRIVE 4 women",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

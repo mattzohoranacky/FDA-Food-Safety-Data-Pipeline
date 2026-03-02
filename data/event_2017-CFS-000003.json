@@ -1,0 +1,27 @@
+{
+  "report_number": "2017-CFS-000003",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170906",
+  "reactions": [
+    "Abscess",
+    "Staphylococcal infection",
+    "Wound drainage"
+  ],
+  "date_started": "20170815",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAJOR FERROUS DROPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}
