@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-002210",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190301",
+  "reactions": [
+    "Dyspnoea",
+    "Hypersensitivity",
+    "Respiratory tract congestion"
+  ],
+  "date_started": "20190112",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KETO BHB CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KETO MCT OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

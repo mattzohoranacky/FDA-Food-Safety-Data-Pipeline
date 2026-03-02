@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-008237",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20190812",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea"
+  ],
+  "date_started": "20190812",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR. HUMMUS FOOD DIPS OR HUMMUS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

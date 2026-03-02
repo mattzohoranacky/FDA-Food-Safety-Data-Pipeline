@@ -1,0 +1,55 @@
+{
+  "report_number": "2023-CFS-012198",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231106",
+  "reactions": [
+    "Stomatitis"
+  ],
+  "date_started": "20231101",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLASSIC CANDY CORN",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MELLOWCREME CARAMEL APPLES FALL FESTIVAL CANDY CO",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "allergy meds",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin c",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

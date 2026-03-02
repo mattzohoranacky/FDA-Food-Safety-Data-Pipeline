@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-001515",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200205",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal",
+    "Skin irritation"
+  ],
+  "date_started": "20200202",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL BUILDUP BUSTER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO-POO DECADENCE ZERO LATHER ULTRA MOISTURIZING MILK CLEANSE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION DECADENCE ULTRA MOISTURIZING MILK CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "66175",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20040129",
+  "reactions": [
+    "ADVERSE DRUG REACTION",
+    "PANCREATITIS"
+  ],
+  "date_started": "20031120",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAGNUM 357",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGAMEN MVI WITH HERBALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REDBULL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

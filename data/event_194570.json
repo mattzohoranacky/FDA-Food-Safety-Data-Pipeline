@@ -1,0 +1,40 @@
+{
+  "report_number": "194570",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160322",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "EPISTAXIS",
+    "HEADACHE",
+    "MALAISE"
+  ],
+  "date_started": "20160109",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE CO Q-10 100 MG RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE DIABETIC SUPPORT FORMULA COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE SPECIFIC CARE PROSTATE RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

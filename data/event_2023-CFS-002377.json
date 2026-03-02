@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-002377",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220208",
+  "reactions": [
+    "Endometrial cancer stage I",
+    "Ovarian cancer stage III"
+  ],
+  "date_started": "20180709",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

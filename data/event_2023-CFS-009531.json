@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-009531",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230907",
+  "reactions": [
+    "Blood bilirubin increased",
+    "Hepatic enzyme increased",
+    "Liver injury"
+  ],
+  "date_started": "20230711",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STASIS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "2024-CFS-003262",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220705",
+  "reactions": [
+    "Diarrhoea",
+    "Pyrexia",
+    "Salmonellosis",
+    "Vomiting"
+  ],
+  "date_started": "20220605",
+  "consumer": {
+    "age": "10",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NESTLE NESTUM CEREAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GERBER GOOD START GENTLEPRO",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

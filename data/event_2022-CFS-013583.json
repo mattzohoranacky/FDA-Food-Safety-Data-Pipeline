@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-013583",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220903",
+  "reactions": [
+    "Abdominal pain lower",
+    "Altered state of consciousness",
+    "Blood albumin decreased",
+    "Blood alkaline phosphatase decreased",
+    "Bloody discharge",
+    "Chills",
+    "Cold sweat",
+    "Diarrhoea haemorrhagic",
+    "Gastrointestinal inflammation",
+    "Nausea",
+    "Pain",
+    "Vomiting projectile"
+  ],
+  "date_started": "20220831",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PROTEIN SHAKE  VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

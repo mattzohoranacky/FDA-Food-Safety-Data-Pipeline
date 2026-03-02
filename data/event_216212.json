@@ -1,0 +1,28 @@
+{
+  "report_number": "216212",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170803",
+  "reactions": [
+    "Haematemesis",
+    "Haemorrhage",
+    "Hernia"
+  ],
+  "date_started": "20170715",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTRA VITAL GOLD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

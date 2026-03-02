@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-000278",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240109",
+  "reactions": [
+    "Hypersensitivity",
+    "Pruritus",
+    "Skin reaction"
+  ],
+  "date_started": "20231215",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE EXTRA STRENGTH VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

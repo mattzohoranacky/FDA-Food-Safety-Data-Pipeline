@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-001943",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200211",
+  "reactions": [
+    "Abdominal pain upper",
+    "Nausea"
+  ],
+  "date_started": "20190909",
+  "consumer": {
+    "age": "52.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHEER STRENGTH LABS CLA 1500 CONJUGATED LINOLEIC ACID FOR WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHEER STRENGTH LABS FAT BURNER FOR WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ESTROGEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

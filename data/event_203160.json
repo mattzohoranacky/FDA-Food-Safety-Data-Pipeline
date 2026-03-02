@@ -1,0 +1,30 @@
+{
+  "report_number": "203160",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20161019",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "ANGIOEDEMA",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "PRURITUS GENERALISED"
+  ],
+  "date_started": "20161017",
+  "consumer": {
+    "age": "46.65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIMFAST ADVANCED SMOOTHIE??",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

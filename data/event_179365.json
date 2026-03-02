@@ -1,0 +1,46 @@
+{
+  "report_number": "179365",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20140916",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN UPPER",
+    "DISCOMFORT",
+    "FLATULENCE",
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20140915",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MCNEIL NUTRITIONALS, LLC LACTAID FAST ACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FROZEN YOGHURT",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

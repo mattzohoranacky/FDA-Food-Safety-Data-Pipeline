@@ -1,0 +1,44 @@
+{
+  "report_number": "182431",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150123",
+  "reactions": [
+    "LIVER INJURY",
+    "PAIN"
+  ],
+  "date_started": "20140815",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

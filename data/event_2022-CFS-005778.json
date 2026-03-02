@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-005778",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220420",
+  "reactions": [
+    "Hypoglycaemia",
+    "Liver function test abnormal"
+  ],
+  "date_started": "20220410",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATROL MELATONIN FAST DISSOLVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Natrol Melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

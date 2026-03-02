@@ -1,0 +1,36 @@
+{
+  "report_number": "2020-CFS-004700",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200426",
+  "reactions": [
+    "Abortion spontaneous",
+    "Chest discomfort",
+    "Dyspnoea",
+    "Pain",
+    "Palpitations",
+    "Swelling"
+  ],
+  "date_started": "20190625",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLYBY FUEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "prenatal vitamins approved by medical professional",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

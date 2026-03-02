@@ -1,0 +1,57 @@
+{
+  "report_number": "134738",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110120",
+  "reactions": [
+    "BLOOD URINE PRESENT",
+    "EPISTAXIS",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "PHARYNGEAL OEDEMA"
+  ],
+  "date_started": "20101220",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMERICAN HEALTH ESTER C 500 MG (AM089)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM BALANCE B-100 (SW055)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM NATURAL VITAMIN E 400 IU (SW140)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM VITAMIN D-3 400IU (SW 1211)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON ULTRA ACETYL L-CARNITINE 500 MG (SWU093)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON ULTRA L-ARGININE WITH L-ORNITHINE (SWU 457)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

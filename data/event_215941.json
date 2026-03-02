@@ -1,0 +1,40 @@
+{
+  "report_number": "215941",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170718",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea",
+    "Haematemesis",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20170615",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUSTAIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SYNC",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

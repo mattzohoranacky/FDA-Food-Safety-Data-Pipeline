@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-009092",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220530",
+  "reactions": [
+    "Abdominal pain upper",
+    "Colitis",
+    "Diarrhoea",
+    "Fatigue",
+    "Liver abscess",
+    "Nausea"
+  ],
+  "date_started": "20220326",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S ORGANIC STRAWBERRIES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

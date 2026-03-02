@@ -1,0 +1,46 @@
+{
+  "report_number": "2018-CFS-001504",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180117",
+  "reactions": [
+    "Asthenia",
+    "Cough",
+    "Dyspnoea",
+    "Interstitial lung disease"
+  ],
+  "date_started": "20170427",
+  "consumer": {
+    "age": "83",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIMBREL",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Calcium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish Oi",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

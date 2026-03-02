@@ -1,0 +1,45 @@
+{
+  "report_number": "2024-CFS-012414",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241011",
+  "reactions": [
+    "Diarrhoea",
+    "Hypersensitivity",
+    "Swelling"
+  ],
+  "date_started": "20241003",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALL AMERICAN VEGGIE BURGERS",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFECT BURGERS",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VEGGIE BURGERS GLUTEN FREE BLACK BEAN QUINOA",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VEGGIE BURGERS GLUTEN FREE SUPER GREENS",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    }
+  ]
+}

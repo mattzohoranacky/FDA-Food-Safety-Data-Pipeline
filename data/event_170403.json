@@ -1,0 +1,31 @@
+{
+  "report_number": "170403",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130917",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "HEADACHE",
+    "OROPHARYNGEAL SWELLING",
+    "PHARYNGITIS",
+    "STOMATITIS",
+    "VOMITING"
+  ],
+  "date_started": "20130906",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI FLIP COCONUT ALMOND NONFAT YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "146065",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20111122",
+  "reactions": [
+    "HAEMATOCHEZIA",
+    "HAEMORRHOIDS"
+  ],
+  "date_started": "20111101",
+  "consumer": {
+    "age": "86",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY HAIR SKIN AND NAILS 3000MCG OF BIOTIN COATED CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

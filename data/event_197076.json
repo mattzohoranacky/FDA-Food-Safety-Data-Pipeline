@@ -1,0 +1,54 @@
+{
+  "report_number": "197076",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20160602",
+  "reactions": [
+    "ANGINA PECTORIS",
+    "ASTHENIA",
+    "CHEST DISCOMFORT",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FATIGUE",
+    "FEELING ABNORMAL",
+    "HEADACHE",
+    "MUSCULAR WEAKNESS",
+    "NAUSEA",
+    "PARAESTHESIA ORAL",
+    "PRURITUS"
+  ],
+  "date_started": "20160214",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OCUVITE EYE HEALTH GUMMIES (CHEWABLE TABLET)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C (ASCORBIC ACID)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3 (COLECALCIFEROL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

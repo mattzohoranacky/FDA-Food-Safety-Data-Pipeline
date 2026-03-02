@@ -1,0 +1,38 @@
+{
+  "report_number": "113765",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090417",
+  "reactions": [
+    "FOOD ALLERGY",
+    "LOCAL SWELLING",
+    "PARAESTHESIA ORAL",
+    "RASH",
+    "URTICARIA"
+  ],
+  "date_started": "20090415",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RUBY LIGHT TUNA IN WATER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CELERY",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KEN'S EXTRA HEAVY MAYO",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

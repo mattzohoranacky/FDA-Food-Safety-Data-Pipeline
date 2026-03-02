@@ -1,0 +1,43 @@
+{
+  "report_number": "2018-CFS-001494",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180126",
+  "reactions": [
+    "Alanine aminotransferase increased"
+  ],
+  "date_started": "20171120",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE OMEGA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE PHYSIQ PROBIO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE PROTANDIM NRF1 SYNERGIZER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE PROTANDIM NRF2 SYNERGIZER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

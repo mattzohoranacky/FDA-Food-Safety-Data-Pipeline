@@ -1,0 +1,30 @@
+{
+  "report_number": "121109",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20091211",
+  "reactions": [
+    "Anaphylactic shock"
+  ],
+  "date_started": "20091121",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RENEW LIFE ULTIMATE FLORA SUPER CRITICAL - POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RENEW LIFE ULTIMATE FLORA SUPER CRITICAL - POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

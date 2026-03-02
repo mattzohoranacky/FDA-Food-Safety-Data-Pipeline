@@ -1,0 +1,37 @@
+{
+  "report_number": "2024-CFS-005633",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20240602",
+  "reactions": [
+    "Anxiety",
+    "Capillary fragility",
+    "Dental discomfort",
+    "Dry eye",
+    "Headache",
+    "Skin lesion",
+    "Tooth discolouration",
+    "Urticaria"
+  ],
+  "date_started": "20210620",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURE BODY EXTRA ADVANCED DAILY CELLULAR DETOX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VIT. C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

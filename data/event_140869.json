@@ -1,0 +1,31 @@
+{
+  "report_number": "140869",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20091123",
+  "reactions": [
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "HEART RATE ABNORMAL",
+    "PARAESTHESIA",
+    "SKIN DISCOLOURATION",
+    "URTICARIA"
+  ],
+  "date_started": "20091114",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BETTY CROCKER WHITE EASY FLOW DECORATING ICING",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

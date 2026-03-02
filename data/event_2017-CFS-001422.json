@@ -1,0 +1,40 @@
+{
+  "report_number": "2017-CFS-001422",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171030",
+  "reactions": [
+    "Alopecia",
+    "Burning sensation",
+    "Dermatitis contact",
+    "Skin ulcer"
+  ],
+  "date_started": "20170908",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHEA MOISTURE AFRICAN BLACK SOAP DANDRUFF CONTROL SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Biotin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Plexus Bio Cleanse",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

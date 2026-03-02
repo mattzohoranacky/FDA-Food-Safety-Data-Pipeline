@@ -1,0 +1,39 @@
+{
+  "report_number": "167675",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130709",
+  "reactions": [
+    "PARAESTHESIA ORAL",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20130529",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY VITAMIN B-12 1000 MCG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

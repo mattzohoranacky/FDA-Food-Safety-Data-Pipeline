@@ -1,0 +1,33 @@
+{
+  "report_number": "80821",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20050912",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "SEROMA",
+    "STAPHYLOCOCCAL INFECTION"
+  ],
+  "date_started": "20050815",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOLOGICS VITAMIN E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COQ10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

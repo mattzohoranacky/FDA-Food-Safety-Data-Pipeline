@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-011583",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20211117",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea"
+  ],
+  "date_started": "20211116",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOES BUTTERNUT SQUASH SOUP",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Olly women's multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

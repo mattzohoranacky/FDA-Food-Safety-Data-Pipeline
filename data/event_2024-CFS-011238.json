@@ -1,0 +1,40 @@
+{
+  "report_number": "2024-CFS-011238",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240907",
+  "reactions": [
+    "Disturbance in attention",
+    "Dizziness",
+    "Fatigue",
+    "Headache",
+    "Memory impairment",
+    "Mental impairment",
+    "Muscular weakness",
+    "Pain",
+    "Somnolence",
+    "Vertigo"
+  ],
+  "date_started": "20240523",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFE EXTENSION SUPER SELENIUM COMPLEX WITH VITAMIN E 200 MCG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITACOST SELENIUM SELECT 200 MCG 300 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

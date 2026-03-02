@@ -1,0 +1,48 @@
+{
+  "report_number": "80052",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20050808",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ANXIETY",
+    "DISORIENTATION",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "HEADACHE",
+    "HOSPITALISATION",
+    "NAUSEA",
+    "PALPITATIONS",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20050804",
+  "consumer": {
+    "age": "22.58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELEASE ARSENAL X-AFTERNOON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELEASE ARSENAL X-EVENING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELEASE ARSENAL X-MORNING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

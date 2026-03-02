@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-005947",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220425",
+  "reactions": [
+    "Erythema"
+  ],
+  "date_started": "20201205",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESERT ESSENCE COCONUT HAIR DEFRIZZER HEAT PROTECTOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUROPATHICA OAT CALENDULA SOOTHING JELLY MIST",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

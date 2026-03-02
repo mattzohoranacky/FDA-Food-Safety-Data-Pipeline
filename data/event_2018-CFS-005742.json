@@ -1,0 +1,51 @@
+{
+  "report_number": "2018-CFS-005742",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180411",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain",
+    "Arthritis",
+    "Back pain",
+    "Colitis ulcerative",
+    "Diarrhoea",
+    "Diarrhoea haemorrhagic",
+    "Feeling of body temperature change",
+    "Local swelling",
+    "Malaise",
+    "Mouth ulceration",
+    "Nausea",
+    "Pyrexia",
+    "Skin ulcer",
+    "Vomiting"
+  ],
+  "date_started": "20171201",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Iron",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Potassium Chloride",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

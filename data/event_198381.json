@@ -1,0 +1,50 @@
+{
+  "report_number": "198381",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160711",
+  "reactions": [
+    "FAECES DISCOLOURED"
+  ],
+  "date_started": "20160614",
+  "consumer": {
+    "age": "70.77",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BIO-CURCUMIN 400MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SELENIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D 7000IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

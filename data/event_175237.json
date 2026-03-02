@@ -1,0 +1,46 @@
+{
+  "report_number": "175237",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140404",
+  "reactions": [
+    "BLOOD BILIRUBIN INCREASED",
+    "CHROMATURIA",
+    "JAUNDICE",
+    "YELLOW SKIN"
+  ],
+  "date_started": "20140312",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP STRENGTH VITAPAK PROGRAM - AMPLIFIED CREATINE 189",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP STRENGTH VITAPAK PROGRAM - ANABOLIC PRIMER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP STRENGTH VITAPAK PROGRAM - MEGA MEN SPORT FULL STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP STRENGTH VITAPAK PROGRAM - TRIBULUS TERRESTRIS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

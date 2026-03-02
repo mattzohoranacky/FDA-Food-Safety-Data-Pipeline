@@ -1,0 +1,43 @@
+{
+  "report_number": "2018-CFS-007383",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180523",
+  "reactions": [
+    "Bacterial infection",
+    "Dehydration",
+    "Eructation",
+    "Loss of consciousness",
+    "Nausea",
+    "Retching",
+    "Vomiting"
+  ],
+  "date_started": "20180301",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTIMATE BEACHBODY 3-DAY REFRESH FIBER SWEEP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTIMATE BEACHBODY 3-DAY REFRESH VANILLA FRESH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

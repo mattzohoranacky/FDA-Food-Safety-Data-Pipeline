@@ -1,0 +1,43 @@
+{
+  "report_number": "2018-CFS-010087",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180807",
+  "reactions": [
+    "Cardiac arrest",
+    "Epinephrine",
+    "Hypersensitivity",
+    "Malaise",
+    "Swelling",
+    "Vomiting"
+  ],
+  "date_started": "20180717",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX IONIX SUPREME - LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX ISAFLUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

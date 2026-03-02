@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-006748",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180504",
+  "reactions": [
+    "Alopecia",
+    "Dry skin",
+    "Pruritus",
+    "Skin irritation"
+  ],
+  "date_started": "20130915",
+  "consumer": {
+    "age": "64.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN FIG",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN SWEET ALMOND",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

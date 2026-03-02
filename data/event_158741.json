@@ -1,0 +1,61 @@
+{
+  "report_number": "158741",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121107",
+  "reactions": [
+    "BACTERIAL INFECTION",
+    "BRONCHITIS",
+    "BRONCHOSCOPY ABNORMAL",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "COUGH",
+    "HAEMOPHILUS INFECTION",
+    "HAEMOPTYSIS",
+    "HYPERCALCAEMIA",
+    "LUNG NEOPLASM",
+    "MOUTH HAEMORRHAGE",
+    "MYCOBACTERIAL INFECTION",
+    "NODULE",
+    "THROMBOSIS"
+  ],
+  "date_started": "20121010",
+  "consumer": {
+    "age": "85",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GINKGO BILOBA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOJI BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE FOCUS COMPLEX COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE LUTEIN 20 MG SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE SENIOR EYE VISION RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

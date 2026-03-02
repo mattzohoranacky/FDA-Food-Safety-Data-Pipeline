@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-000004",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20240102",
+  "reactions": [
+    "Burning sensation",
+    "Discomfort",
+    "Pain",
+    "Scab"
+  ],
+  "date_started": "20231226",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLD SPICE PURE SPORT HIGH ENDURANCE DEODORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Men's multivitamin daily gummy",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

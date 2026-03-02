@@ -1,0 +1,30 @@
+{
+  "report_number": "160184",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121214",
+  "reactions": [
+    "ASTHENIA",
+    "FAECES DISCOLOURED",
+    "HAEMORRHAGE",
+    "THROMBOSIS"
+  ],
+  "date_started": "20120901",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIVEREX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

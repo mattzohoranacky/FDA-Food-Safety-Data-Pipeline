@@ -1,0 +1,51 @@
+{
+  "report_number": "170285",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130918",
+  "reactions": [
+    "ALOPECIA",
+    "HYPOTRICHOSIS",
+    "PRURITUS",
+    "TRICHORRHEXIS"
+  ],
+  "date_started": "20100723",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRAVANA SMOOTHING SYSTEM - KERATIN TREATMENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VIVISCAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

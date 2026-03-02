@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-011747",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20191107",
+  "reactions": [
+    "Botulism",
+    "Constipation",
+    "Feeding disorder neonatal",
+    "Hypotonia",
+    "Nasal congestion",
+    "Respiratory failure",
+    "Tremor"
+  ],
+  "date_started": "20191101",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PROADVANCE FORMULA POWDER",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PROADVANCE READY-TO-FEED LIQUID FORMULA",
+      "industry_code": "40O",
+      "industry_name": "Liquid Concentrate Formula"
+    }
+  ]
+}

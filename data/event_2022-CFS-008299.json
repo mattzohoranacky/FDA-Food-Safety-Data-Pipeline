@@ -1,0 +1,27 @@
+{
+  "report_number": "2022-CFS-008299",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220523",
+  "reactions": [
+    "Diarrhoea haemorrhagic",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20220515",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

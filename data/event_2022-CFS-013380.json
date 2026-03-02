@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-013380",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220830",
+  "reactions": [
+    "Anorectal swelling",
+    "Oedema",
+    "Proctalgia",
+    "Prostatitis"
+  ],
+  "date_started": "20220809",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REAL HEALTH PROSTATE COMPLETE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multi-vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

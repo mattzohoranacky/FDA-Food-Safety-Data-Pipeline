@@ -1,0 +1,71 @@
+{
+  "report_number": "165545",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130515",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "FLATULENCE",
+    "GASTROINTESTINAL DISORDER",
+    "GASTROINTESTINAL EROSION",
+    "HYPERCHLORHYDRIA",
+    "NAUSEA",
+    "PEPTIC ULCER",
+    "SURGERY",
+    "ULCER"
+  ],
+  "date_started": "20130414",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ACAI 3000 MG PER SERVING RAPID RELEASE LIQUID SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CO Q-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

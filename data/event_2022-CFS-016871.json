@@ -1,0 +1,46 @@
+{
+  "report_number": "2022-CFS-016871",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20221205",
+  "reactions": [
+    "Transient ischaemic attack"
+  ],
+  "date_started": "20210729",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY HIGHLY CONCENTRATED ALOE VERA GEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "calcium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

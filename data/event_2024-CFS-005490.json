@@ -1,0 +1,56 @@
+{
+  "report_number": "2024-CFS-005490",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240526",
+  "reactions": [
+    "Dyspnoea",
+    "Pharyngeal swelling",
+    "Swelling face"
+  ],
+  "date_started": "20240525",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARCTIC ZERO NON DAIRY FROZEN DESSERT",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HISTAMINE DIGEST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE THYROID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRO BIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "report_number": "165463",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130509",
+  "reactions": [
+    "BLINDNESS UNILATERAL",
+    "CEREBROVASCULAR ACCIDENT",
+    "DYSARTHRIA",
+    "FACIAL PALSY",
+    "GRIP STRENGTH DECREASED",
+    "MIGRAINE",
+    "SOMNOLENCE",
+    "SPEECH DISORDER"
+  ],
+  "date_started": "20130413",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MET-RX PROTEIN PLUS POWDER CHOCOLATE FLAVOR 2 LBS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ARTICHOKE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRIMROSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

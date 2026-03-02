@@ -1,0 +1,32 @@
+{
+  "report_number": "66938",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040226",
+  "reactions": [
+    "Oesophageal ulcer"
+  ],
+  "date_started": "20040101",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEPTOPRIN ACUTE METABOLIC REGULATOR (ANOREX)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXYDRENE (CRENULIN-RCC) DEEP TISSUE OXYGENATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

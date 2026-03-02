@@ -1,0 +1,68 @@
+{
+  "report_number": "2022-CFS-013755",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220908",
+  "reactions": [
+    "Blood pressure increased",
+    "Dehydration"
+  ],
+  "date_started": "20220803",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS ACTIVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS RESET COLLAGEN BONE BROTH",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS RESET COLLAGEN SOUP",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS RESET KIT HYDRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS RESET KIT WHEY LEAN- CHOCOLATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS RESET RESTORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS SLIM HUNGER CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RESET SMART SNACK",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

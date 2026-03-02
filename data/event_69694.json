@@ -1,0 +1,46 @@
+{
+  "report_number": "69694",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040514",
+  "reactions": [
+    "DISCOMFORT",
+    "DIZZINESS",
+    "HOSPITALISATION"
+  ],
+  "date_started": "20040512",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORVILLE REDENBACHER'S GOURMET POPPING CORN",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHEESE SANDWICH",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ORANGE JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

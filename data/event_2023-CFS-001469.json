@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-001469",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20220127",
+  "reactions": [
+    "Death",
+    "Injury",
+    "Ovarian cancer"
+  ],
+  "date_started": "20160216",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

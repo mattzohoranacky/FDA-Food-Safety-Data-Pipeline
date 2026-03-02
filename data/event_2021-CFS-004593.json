@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-004593",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210518",
+  "reactions": [
+    "Eye pruritus",
+    "Eye swelling",
+    "Glossitis",
+    "Headache"
+  ],
+  "date_started": "20210428",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE SPIRULINA BLUE-GREEN ALGAE 500MG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Lutein",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Milk Thistle",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

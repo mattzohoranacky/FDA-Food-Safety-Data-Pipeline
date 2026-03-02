@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-005641",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180407",
+  "reactions": [
+    "Allergy to metals",
+    "Hypersensitivity",
+    "Paraesthesia",
+    "Pruritus",
+    "Rash erythematous",
+    "Sensitisation",
+    "Urticaria"
+  ],
+  "date_started": "20180309",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SEBASTIAN DRENCH HAIR SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHEA MOISTURE ORGANIC RAW SHEA BUTTER RESTORATIVE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

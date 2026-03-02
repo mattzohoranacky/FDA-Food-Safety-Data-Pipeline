@@ -1,0 +1,42 @@
+{
+  "report_number": "2022-CFS-005004",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20220409",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Biopsy liver abnormal",
+    "Blood bilirubin increased",
+    "Drug-induced liver injury",
+    "Hepatitis"
+  ],
+  "date_started": "20220405",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

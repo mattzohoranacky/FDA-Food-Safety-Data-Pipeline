@@ -1,0 +1,54 @@
+{
+  "report_number": "2018-CFS-009974",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180803",
+  "reactions": [
+    "Abdominal pain",
+    "Asthenia",
+    "Chills",
+    "Computerised tomogram abnormal",
+    "Condition aggravated",
+    "Decreased appetite",
+    "Diarrhoea",
+    "Enterocolitis infectious",
+    "Eye pain",
+    "Gait disturbance",
+    "Gastrointestinal inflammation",
+    "Hospitalisation",
+    "Hyperhidrosis",
+    "Migraine with aura",
+    "Muscle fatigue",
+    "Myalgia",
+    "Pyrexia",
+    "Salmonella bacteraemia",
+    "Salmonella test positive",
+    "Sepsis",
+    "Typhoid fever",
+    "Vomiting"
+  ],
+  "date_started": "20180721",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR. TOBIAS COLON: 14 DAY QUICK CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Dr. Tobias Colon: 14 Day Quick Cleanse",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-005069",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200511",
+  "reactions": [
+    "Diarrhoea",
+    "Dyspnoea",
+    "Hyperhidrosis",
+    "Hypersensitivity",
+    "Nausea",
+    "Urticaria",
+    "Wheezing"
+  ],
+  "date_started": "20200420",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MCT OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN OPTICLEANSE GHI VANILLA DELIGHT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

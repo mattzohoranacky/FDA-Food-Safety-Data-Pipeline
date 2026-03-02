@@ -1,0 +1,31 @@
+{
+  "report_number": "191468",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150928",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "COELIAC DISEASE",
+    "DIARRHOEA",
+    "NAUSEA"
+  ],
+  "date_started": "20150927",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS GLUTEN-FREE CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

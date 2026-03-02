@@ -1,0 +1,72 @@
+{
+  "report_number": "152375",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120515",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ANALGESIC DRUG LEVEL INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHOLESTASIS",
+    "HEPATITIS",
+    "HEPATITIS C",
+    "HEPATITIS CHOLESTATIC",
+    "HEPATOTOXICITY",
+    "JAUNDICE",
+    "MALAISE",
+    "PRURITUS",
+    "VIRAL LOAD INCREASED"
+  ],
+  "date_started": "20110128",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEASTDROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CASEIN POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LIFE SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SERIOUS MASS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHEY PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

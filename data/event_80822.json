@@ -1,0 +1,29 @@
+{
+  "report_number": "80822",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050912",
+  "reactions": [
+    "BLISTER",
+    "BODY TEMPERATURE INCREASED",
+    "DERMATITIS ALLERGIC",
+    "DYSPNOEA",
+    "PRURITUS",
+    "URTICARIA"
+  ],
+  "date_started": "20050831",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELACORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

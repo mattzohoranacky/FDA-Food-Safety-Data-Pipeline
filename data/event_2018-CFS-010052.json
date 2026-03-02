@@ -1,0 +1,62 @@
+{
+  "report_number": "2018-CFS-010052",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180804",
+  "reactions": [
+    "Abdominal pain upper",
+    "Back pain",
+    "Faeces discoloured",
+    "Flushing",
+    "Food poisoning",
+    "Gastric haemorrhage",
+    "Heart rate irregular",
+    "Muscle spasms"
+  ],
+  "date_started": "20180728",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABSOLUTELY GLUTEN FREE FLATBREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MGCITRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MGOXIDE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUPER SNOOZE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UBIQUINOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

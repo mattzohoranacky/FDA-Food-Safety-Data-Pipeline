@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-004794",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210524",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Blood bilirubin increased",
+    "Drug withdrawal syndrome",
+    "Hepatic enzyme increased",
+    "Jaundice"
+  ],
+  "date_started": "20210316",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

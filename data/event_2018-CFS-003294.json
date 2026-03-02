@@ -1,0 +1,54 @@
+{
+  "report_number": "2018-CFS-003294",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180227",
+  "reactions": [
+    "Food poisoning",
+    "Influenza like illness",
+    "Platelet count decreased",
+    "Rash",
+    "Vomiting"
+  ],
+  "date_started": "20180112",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM FULL SPECTRUM MORINGA OLEIFERA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM HIGH POTENCY VITAMIN D-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM OREGANO OIL 10:1 EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM SENNA LEAF",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM TURMERIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

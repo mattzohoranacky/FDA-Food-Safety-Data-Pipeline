@@ -1,0 +1,32 @@
+{
+  "report_number": "150855",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110928",
+  "reactions": [
+    "Adverse event",
+    "BLOOD PRESSURE DECREASED",
+    "BLOOD PRESSURE FLUCTUATION",
+    "FOOD POISONING",
+    "HEART RATE ABNORMAL",
+    "HEART RATE INCREASED",
+    "PARAESTHESIA",
+    "PRURITUS",
+    "RASH",
+    "VOMITING"
+  ],
+  "date_started": "20110913",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TUNA LOIN",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

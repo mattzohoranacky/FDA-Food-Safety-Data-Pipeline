@@ -1,0 +1,57 @@
+{
+  "report_number": "130838",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100910",
+  "reactions": [
+    "ABASIA",
+    "ASTHENIA",
+    "CHEST DISCOMFORT",
+    "DISTURBANCE IN ATTENTION",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "ELECTROLYTE IMBALANCE",
+    "INSOMNIA",
+    "MENTAL IMPAIRMENT",
+    "MUSCLE SPASMS",
+    "MUSCULAR WEAKNESS",
+    "NAUSEA",
+    "PALPITATIONS",
+    "RESPIRATORY RATE INCREASED",
+    "SUFFOCATION FEELING"
+  ],
+  "date_started": "20100501",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FATIGUE TO FANTASTIC! ADRENAL STRESS END",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MRM BONE MAXIMIZER I I",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURAL FACTORS COQ1 0",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE'S LIFE MAGNESIUM 500M G",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

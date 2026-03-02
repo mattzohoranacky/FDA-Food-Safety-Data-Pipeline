@@ -1,0 +1,61 @@
+{
+  "report_number": "89655",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20061127",
+  "reactions": [
+    "BLOOD BICARBONATE DECREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CALCIUM INCREASED",
+    "BLOOD CHOLESTEROL DECREASED",
+    "BLOOD CREATININE INCREASED",
+    "BLOOD FIBRINOGEN INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD MAGNESIUM INCREASED",
+    "BLOOD PRESSURE DECREASED",
+    "BLOOD UREA INCREASED",
+    "HEPATIC FAILURE",
+    "HIGH DENSITY LIPOPROTEIN DECREASED",
+    "HYPERPLASIA",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "JAUNDICE",
+    "LIPASE INCREASED",
+    "LOW DENSITY LIPOPROTEIN DECREASED",
+    "PCO2 DECREASED",
+    "PLATELET COUNT DECREASED",
+    "PROTEIN TOTAL DECREASED",
+    "PROTHROMBIN TIME PROLONGED",
+    "RENAL FAILURE ACUTE",
+    "THYROXINE DECREASED",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20061120",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUWAY DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FISH OIL SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN A DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "report_number": "139441",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110509",
+  "reactions": [
+    "BLOOD PRESSURE ABNORMAL",
+    "BLOOD PRESSURE SYSTOLIC INCREASED",
+    "HEART RATE INCREASED"
+  ],
+  "date_started": "20110416",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN PERFORMANCE AND VITALITLY PROGRAM DOUBLE STRENGTH FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN PERFORMANCE AND VITALITLY PROGRAM MEGA MEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN PERFORMANCE AND VITALITLY PROGRAM PROSTATE FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN PERFORMANCE AND VITALITLY PROGRAM STAMINOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN PERFORMANCE AND VITALITY PROGRAM LARGININE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

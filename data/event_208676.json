@@ -1,0 +1,40 @@
+{
+  "report_number": "208676",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170308",
+  "reactions": [
+    "ASTHENIA",
+    "CHILLS",
+    "KIDNEY INFECTION",
+    "PYELONEPHRITIS",
+    "TREMOR"
+  ],
+  "date_started": "20170207",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AM RENEW FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PM RESET FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL ALOE CONCENTRATE - MANGO FLAVOR",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "191623",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151123",
+  "reactions": [
+    "INFECTION",
+    "PRURITUS",
+    "RASH"
+  ],
+  "date_started": "20140920",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHITE AND BLUE LION DRAGON TATTOOS INK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "report_number": "87471",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060809",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "FATIGUE",
+    "HEPATITIS TOXIC",
+    "LIVER FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20060220",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MOVE FREE ADVANCED DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HEALTHY IDEAS CALCIUM CARBONATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NOW CALCIUM CARBONATE 200 MAGNESIUM 500 D200, ZINC 10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NOW OMEGA 3 FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NOW VIT C 1000 PLUS 100MG BIOFLAVORNOIDS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OSTEO BI FLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "REXALL Q-SORB COQ-10 200 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SPRING VALLEY VITAMIN D 400IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TWIN LAB SELENIUM 200MCG AND 400 LU E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

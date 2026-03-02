@@ -1,0 +1,40 @@
+{
+  "report_number": "2024-CFS-003164",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240322",
+  "reactions": [
+    "Glomerulonephritis membranous",
+    "Joint swelling",
+    "Peripheral swelling",
+    "Renal failure"
+  ],
+  "date_started": "20230101",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NERVIVE ADVANCED NERVE RELIEF",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NERVIVE NERVE HEALTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NERVIVE NERVE RELIEVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

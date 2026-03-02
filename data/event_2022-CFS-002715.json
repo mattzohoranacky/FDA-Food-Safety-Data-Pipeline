@@ -1,0 +1,27 @@
+{
+  "report_number": "2022-CFS-002715",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220224",
+  "reactions": [
+    "Pyrexia",
+    "Urinary tract infection"
+  ],
+  "date_started": "20220123",
+  "consumer": {
+    "age": "5",
+    "age_unit": "week(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC PRO ADVANCE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "report_number": "2019-CFS-011709",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191125",
+  "reactions": [
+    "Alopecia",
+    "Dry skin",
+    "Hair texture abnormal",
+    "Hypoaesthesia",
+    "Pain",
+    "Swelling"
+  ],
+  "date_started": "20190609",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL LOW-POO DELIGHT WEIGHTLESS WAVES CLEANSER & CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL B LEAVE-IN GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW POO SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

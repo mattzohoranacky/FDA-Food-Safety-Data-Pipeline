@@ -1,0 +1,40 @@
+{
+  "report_number": "2021-CFS-005196",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210602",
+  "reactions": [
+    "Chest discomfort",
+    "Dyspepsia",
+    "Myocardial infarction",
+    "Thrombosis"
+  ],
+  "date_started": "20210503",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODERE BURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODERE GO VARIETY PACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODERE TRIM CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

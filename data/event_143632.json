@@ -1,0 +1,39 @@
+{
+  "report_number": "143632",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110919",
+  "reactions": [
+    "HAEMORRHAGE",
+    "HAEMORRHOIDS",
+    "PAIN"
+  ],
+  "date_started": "20110519",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUAL ACTION CLEANSE COLON CLEAR FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUAL ACTION CLEANSE TOTAL BODY PURIFIER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SOY WHEY PROTEIN POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

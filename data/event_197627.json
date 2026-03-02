@@ -1,0 +1,35 @@
+{
+  "report_number": "197627",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20160502",
+  "reactions": [
+    "Urine analysis abnormal"
+  ],
+  "date_started": "20160108",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENTLE ABSORB IRON 90 COUNT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC CALCIUM GUMMY FRUIT AND CREAM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMAN PRENATAL GUMMY 90",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

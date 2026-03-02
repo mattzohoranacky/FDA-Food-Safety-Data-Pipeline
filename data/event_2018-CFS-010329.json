@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-010329",
+  "outcomes": [
+    "Life Threatening",
+    "Disability"
+  ],
+  "date_created": "20180814",
+  "reactions": [
+    "Foreign body",
+    "Pain",
+    "Vaginal haemorrhage"
+  ],
+  "date_started": "20180618",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BAI COCOFUSIONS MOLOKAI COCONUT ANTIOXIDANT INFUSED",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

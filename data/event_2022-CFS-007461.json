@@ -1,0 +1,48 @@
+{
+  "report_number": "2022-CFS-007461",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220517",
+  "reactions": [
+    "Chemical injury"
+  ],
+  "date_started": "20220417",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLEHENRIKSEN BANANA BRIGHT EYE CREME",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLEHENRIKSEN BANANA BRIGHT VITAMIN C SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "fiber gummies",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "probiotics",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

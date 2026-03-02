@@ -1,0 +1,29 @@
+{
+  "report_number": "207792",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170217",
+  "reactions": [
+    "DIARRHOEA",
+    "ERYTHEMA",
+    "PRURITUS",
+    "PYREXIA",
+    "SWELLING"
+  ],
+  "date_started": "20170107",
+  "consumer": {
+    "age": "88.32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PROTEASE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

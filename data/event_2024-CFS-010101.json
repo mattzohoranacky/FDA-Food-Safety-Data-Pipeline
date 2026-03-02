@@ -1,0 +1,63 @@
+{
+  "report_number": "2024-CFS-010101",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240724",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal distension",
+    "Diarrhoea",
+    "Flatulence"
+  ],
+  "date_started": "20240723",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUGAR ALCOHOLS",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM GLYCINATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MELATONIN LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D IN COCONUT OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

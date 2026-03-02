@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-011361",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220721",
+  "reactions": [
+    "Migraine",
+    "Vomiting"
+  ],
+  "date_started": "20220721",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RECOMP RX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Glycolog",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Myo-Stack",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

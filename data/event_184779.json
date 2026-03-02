@@ -1,0 +1,31 @@
+{
+  "report_number": "184779",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150410",
+  "reactions": [
+    "DIARRHOEA"
+  ],
+  "date_started": "20150325",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SABRA HUMMUS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

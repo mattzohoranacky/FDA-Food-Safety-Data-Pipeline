@@ -1,0 +1,50 @@
+{
+  "report_number": "190020",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150922",
+  "reactions": [
+    "BLISTER",
+    "DECREASED APPETITE",
+    "HEADACHE",
+    "HYPERSENSITIVITY",
+    "LIP SWELLING",
+    "MALAISE",
+    "SKIN DISCOLOURATION",
+    "SOMNOLENCE",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20150829",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN WORLD EVENING PRIMROSE OIL 130MG SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN WORLD FOLIC ACID 800MCG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OTHER SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

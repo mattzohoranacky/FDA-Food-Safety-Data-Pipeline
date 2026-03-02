@@ -1,0 +1,30 @@
+{
+  "report_number": "2020-CFS-004743",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200428",
+  "reactions": [
+    "Dermatitis"
+  ],
+  "date_started": "20200315",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LEAVE IN DECADENCE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL STYLING CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

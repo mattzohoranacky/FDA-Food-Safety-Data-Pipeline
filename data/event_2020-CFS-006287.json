@@ -1,0 +1,43 @@
+{
+  "report_number": "2020-CFS-006287",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200625",
+  "reactions": [
+    "Anaphylactic reaction"
+  ],
+  "date_started": "20200522",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS CHOCOLATE PROTEIN SHAKE MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS DIGESTION PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS FIBER BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS WHOLE FOOD BLEND MULTIVITAMIN MINERAL BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "210017",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170407",
+  "reactions": [
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "HEART RATE INCREASED"
+  ],
+  "date_started": "20170104",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "THRIVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

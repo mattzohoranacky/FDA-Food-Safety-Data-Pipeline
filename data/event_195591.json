@@ -1,0 +1,36 @@
+{
+  "report_number": "195591",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160420",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "CHEST PAIN",
+    "DIARRHOEA",
+    "DYSPEPSIA",
+    "ENDOSCOPY ABNORMAL",
+    "GASTRIC ULCER"
+  ],
+  "date_started": "20160130",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHYSIQ FAT BURNER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROBIO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

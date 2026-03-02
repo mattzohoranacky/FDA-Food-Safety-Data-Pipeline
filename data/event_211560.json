@@ -1,0 +1,45 @@
+{
+  "report_number": "211560",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170508",
+  "reactions": [
+    "Chest discomfort",
+    "Dyspnoea",
+    "Fatigue",
+    "Hyperhidrosis"
+  ],
+  "date_started": "20170426",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TURMERIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Black Pepper",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Continent 8 Soy Milk",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Hershey's Cocoa",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

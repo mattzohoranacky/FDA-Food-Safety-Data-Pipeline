@@ -1,0 +1,36 @@
+{
+  "report_number": "2020-CFS-009842",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200930",
+  "reactions": [
+    "Anxiety",
+    "Blindness transient",
+    "Endocrine disorder",
+    "Eye pain",
+    "Nervousness",
+    "Pruritus",
+    "Rash"
+  ],
+  "date_started": "20200725",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AXE FEVER DEODORANT BODY SPRAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium Citrate",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

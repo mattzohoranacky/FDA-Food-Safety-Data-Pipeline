@@ -1,0 +1,37 @@
+{
+  "report_number": "192682",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160111",
+  "reactions": [
+    "ALOPECIA"
+  ],
+  "date_started": "20160101",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PAUL MITCHELL LAVENDER MINT MOISTURIZING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ACIDOPHILUS SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE MULTI VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "69818",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040622",
+  "reactions": [
+    "CONFUSIONAL STATE",
+    "CONVULSION",
+    "EMERGENCY CARE EXAMINATION",
+    "FALL",
+    "LOSS OF CONSCIOUSNESS"
+  ],
+  "date_started": "20040218",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EPHEDRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

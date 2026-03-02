@@ -1,0 +1,53 @@
+{
+  "report_number": "174628",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140203",
+  "reactions": [
+    "ERYTHEMA",
+    "FACE OEDEMA",
+    "HYPERSENSITIVITY",
+    "PHARYNGEAL OEDEMA",
+    "RASH"
+  ],
+  "date_started": "20140109",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOTIN 5000",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLA 1000",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMEN'S RIPPED VITAPAK PROGRAM WOMENS ULTRA MEGA ACTIVE WITHOUT IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WATEREX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "X-12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

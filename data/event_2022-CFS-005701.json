@@ -1,0 +1,49 @@
+{
+  "report_number": "2022-CFS-005701",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220419",
+  "reactions": [
+    "Haematuria"
+  ],
+  "date_started": "20220403",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THERA BOTANICS 4 IMMUNE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THERA BOTANICS IDEAL PROSTATE+ ULTRA BLEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THERA BOTANICS ULTMAX SEXUAL PERFORMANCE FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "4 Immune",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Ultmax",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

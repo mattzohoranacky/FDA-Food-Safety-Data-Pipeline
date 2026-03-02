@@ -1,0 +1,32 @@
+{
+  "report_number": "186412",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150526",
+  "reactions": [
+    "VOMITING PROJECTILE"
+  ],
+  "date_started": "20150521",
+  "consumer": {
+    "age": "7",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL INFANT FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

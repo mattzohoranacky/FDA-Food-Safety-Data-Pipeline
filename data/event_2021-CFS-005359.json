@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-005359",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210608",
+  "reactions": [
+    "Confusional state",
+    "Dizziness",
+    "Food poisoning",
+    "Hallucination",
+    "Heart rate increased",
+    "Paraesthesia"
+  ],
+  "date_started": "20210602",
+  "consumer": {
+    "age": "38.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    }
+  ]
+}

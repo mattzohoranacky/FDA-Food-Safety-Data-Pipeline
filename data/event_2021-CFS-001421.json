@@ -1,0 +1,60 @@
+{
+  "report_number": "2021-CFS-001421",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20210211",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Arthralgia",
+    "Constipation",
+    "Diarrhoea",
+    "Dizziness",
+    "Eye irritation",
+    "Fatigue",
+    "Feeling abnormal",
+    "Gallbladder pain",
+    "Gastrointestinal pain",
+    "Inflammation",
+    "Malabsorption",
+    "Multi-vitamin deficiency",
+    "Muscle spasms",
+    "Rash",
+    "Tinnitus",
+    "Weight decreased"
+  ],
+  "date_started": "20210130",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE SHIZZLE ORIGINAL RECIPE JERK MARINADE",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

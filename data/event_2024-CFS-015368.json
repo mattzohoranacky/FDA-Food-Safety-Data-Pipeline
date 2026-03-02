@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-015368",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241203",
+  "reactions": [
+    "Chest discomfort",
+    "Palpitations"
+  ],
+  "date_started": "20241202",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEQEMBI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

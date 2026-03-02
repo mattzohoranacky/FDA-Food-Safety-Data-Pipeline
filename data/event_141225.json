@@ -1,0 +1,43 @@
+{
+  "report_number": "141225",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110701",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ARTHRALGIA",
+    "BALANCE DISORDER",
+    "DYSPNOEA",
+    "FATIGUE",
+    "HEADACHE",
+    "MEMORY IMPAIRMENT",
+    "NAUSEA",
+    "ORAL DISCOMFORT",
+    "PAIN",
+    "PALPITATIONS",
+    "RASH",
+    "SLEEP DISORDER",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20091031",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIDENT GUM",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

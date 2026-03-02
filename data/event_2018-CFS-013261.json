@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-013261",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20181107",
+  "reactions": [
+    "Cardiac arrest",
+    "Gallbladder perforation",
+    "Haematemesis",
+    "Medical induction of coma"
+  ],
+  "date_started": "20180927",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GROWN AMERICAN SUPERFOOD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

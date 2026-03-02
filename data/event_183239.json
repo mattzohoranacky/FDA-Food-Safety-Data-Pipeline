@@ -1,0 +1,52 @@
+{
+  "report_number": "183239",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150224",
+  "reactions": [
+    "BLOOD SODIUM DECREASED",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HYPONATRAEMIA",
+    "VOMITING"
+  ],
+  "date_started": "20100114",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX CLEANSE FOR LIFE LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX IONIX SUPREME LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX ISAFLUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

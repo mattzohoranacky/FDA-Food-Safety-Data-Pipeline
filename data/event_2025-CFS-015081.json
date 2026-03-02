@@ -1,0 +1,31 @@
+{
+  "report_number": "2025-CFS-015081",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20250917",
+  "reactions": [
+    "Diarrhoea",
+    "Emergency care",
+    "Hospitalisation",
+    "Nausea",
+    "Unresponsive to stimuli",
+    "Vomiting"
+  ],
+  "date_started": "20250907",
+  "consumer": {
+    "age": "6",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTH'S BEST CEREAL, ORGANIC, WHOLE GRAIN, OATMEAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

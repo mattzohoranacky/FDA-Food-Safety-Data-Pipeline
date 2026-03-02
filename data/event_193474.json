@@ -1,0 +1,30 @@
+{
+  "report_number": "193474",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160120",
+  "reactions": [
+    "RASH",
+    "SWELLING",
+    "SWELLING FACE"
+  ],
+  "date_started": "20160113",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOSTESS DONETTES MINI POWDERED DONUTS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENSURE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

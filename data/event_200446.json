@@ -1,0 +1,57 @@
+{
+  "report_number": "200446",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160805",
+  "reactions": [
+    "ASTHENIA",
+    "COLONIC ABSCESS",
+    "FATIGUE",
+    "IMPAIRED HEALING",
+    "INFECTION",
+    "INSOMNIA",
+    "NIGHT SWEATS",
+    "VITAMIN B6 INCREASED",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20110223",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE ALPHA LIPOIC ACID 600 MG CAPS DIETARY SUPPLEMENT CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE CALCIUM LACTATE 650 MG TABLETS (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE CHELATED ZINC ZINC GLUCONATE 50 MG TABLETS DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE MSM 1000MG CAPS (DIETARY SUPPLEMENT) CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE TURMERIC 800 MG RAPID RELEASE CAPSULES (DIETARY SUPPLEMENT) RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

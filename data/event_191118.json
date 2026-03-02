@@ -1,0 +1,32 @@
+{
+  "report_number": "191118",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151030",
+  "reactions": [
+    "CHEST PAIN",
+    "COELIAC DISEASE"
+  ],
+  "date_started": "20151006",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUTEN FREE CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

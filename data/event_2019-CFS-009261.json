@@ -1,0 +1,37 @@
+{
+  "report_number": "2019-CFS-009261",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190908",
+  "reactions": [
+    "Disorientation",
+    "Dyspepsia"
+  ],
+  "date_started": "20190908",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HILLENDALE FARMS ONE DOZEN EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Apricot Power Megazyme Forte",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium Glycinate",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

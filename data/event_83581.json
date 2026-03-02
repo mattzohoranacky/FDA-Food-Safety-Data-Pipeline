@@ -1,0 +1,32 @@
+{
+  "report_number": "83581",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060123",
+  "reactions": [
+    "Hepatic failure",
+    "Jaundice",
+    "Liver function test abnormal",
+    "Malaise",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20051230",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELACORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

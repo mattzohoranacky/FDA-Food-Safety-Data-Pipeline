@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-003368",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180225",
+  "reactions": [
+    "Acne",
+    "Acne cystic",
+    "Alopecia",
+    "Erythema",
+    "Rash pruritic",
+    "Skin ulcer",
+    "Trichorrhexis"
+  ],
+  "date_started": "20180213",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT SMOOTHING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT SMOOTHING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

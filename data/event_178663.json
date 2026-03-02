@@ -1,0 +1,36 @@
+{
+  "report_number": "178663",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140814",
+  "reactions": [
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "INFLAMMATION",
+    "MUSCULOSKELETAL PAIN",
+    "PLEURISY",
+    "PLEURITIC PAIN"
+  ],
+  "date_started": "20140717",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOPALINA FLAX SEED PLUS FIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIX STAR PRO NUTRITION TESTOSTERONE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

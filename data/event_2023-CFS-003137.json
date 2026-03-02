@@ -1,0 +1,25 @@
+{
+  "report_number": "2023-CFS-003137",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230323",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Food poisoning"
+  ],
+  "date_started": "20230322",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKETSIDE SWEET ICED TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

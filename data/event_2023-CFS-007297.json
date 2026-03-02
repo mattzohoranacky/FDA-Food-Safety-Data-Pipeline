@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-007297",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230713",
+  "reactions": [
+    "Dizziness",
+    "Nausea",
+    "Vertigo",
+    "Vomiting"
+  ],
+  "date_started": "20230619",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JARROW FORMULAS VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

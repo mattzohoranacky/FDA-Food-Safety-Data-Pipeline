@@ -1,0 +1,29 @@
+{
+  "report_number": "2020-CFS-008484",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200831",
+  "reactions": [
+    "Crying",
+    "Diarrhoea",
+    "Pyrexia",
+    "Salmonellosis"
+  ],
+  "date_started": "20200828",
+  "consumer": {
+    "age": "15",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRO-ADVANCE OPTIGRO",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

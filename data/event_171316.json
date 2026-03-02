@@ -1,0 +1,33 @@
+{
+  "report_number": "171316",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131022",
+  "reactions": [
+    "CARDIAC ARREST",
+    "Death",
+    "HYPERHIDROSIS",
+    "HYPOTHERMIA",
+    "NAUSEA",
+    "RESPIRATORY FAILURE",
+    "TACHYCARDIA",
+    "VOMITING"
+  ],
+  "date_started": "20131017",
+  "consumer": {
+    "age": "19.15",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DNP (DINITROPHANOL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

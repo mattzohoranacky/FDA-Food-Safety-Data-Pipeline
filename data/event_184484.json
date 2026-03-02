@@ -1,0 +1,30 @@
+{
+  "report_number": "184484",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150406",
+  "reactions": [
+    "CHEMICAL INJURY"
+  ],
+  "date_started": "20150402",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAIR FOR MEN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

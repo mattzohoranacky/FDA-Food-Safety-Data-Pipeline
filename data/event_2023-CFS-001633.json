@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-001633",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230215",
+  "reactions": [
+    "Cushing's syndrome",
+    "Type 2 diabetes mellitus",
+    "Weight increased"
+  ],
+  "date_started": "20230214",
+  "consumer": {
+    "age": "47.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTR KING REFORZADO CON ORTIGA Y OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Alli-Triple",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

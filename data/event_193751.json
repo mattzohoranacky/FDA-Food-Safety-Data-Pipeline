@@ -1,0 +1,31 @@
+{
+  "report_number": "193751",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160216",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CEREBROVASCULAR ACCIDENT",
+    "DIZZINESS",
+    "HEADACHE",
+    "HYPOAESTHESIA",
+    "WALKING AID USER"
+  ],
+  "date_started": "20160110",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

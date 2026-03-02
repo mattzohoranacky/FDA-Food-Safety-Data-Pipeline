@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-003049",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230321",
+  "reactions": [
+    "Burning sensation",
+    "Skin haemorrhage"
+  ],
+  "date_started": "20230101",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRESEMME DRY SHAMPOO VOLUMIZING",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

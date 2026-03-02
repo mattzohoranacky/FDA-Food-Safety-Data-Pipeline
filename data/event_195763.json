@@ -1,0 +1,37 @@
+{
+  "report_number": "195763",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160422",
+  "reactions": [
+    "DYSPNOEA",
+    "FOREIGN BODY"
+  ],
+  "date_started": "20160406",
+  "consumer": {
+    "age": "85",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE FULL STRENGTH MINI OMEGA 3 (DIETARY SUPPLEMENT) SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COQ10 VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

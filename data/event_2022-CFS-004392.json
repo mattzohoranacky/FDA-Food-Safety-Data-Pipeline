@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-004392",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220329",
+  "reactions": [
+    "Diarrhoea",
+    "Escherichia infection",
+    "Pyrexia",
+    "Urinary tract infection"
+  ],
+  "date_started": "20220301",
+  "consumer": {
+    "age": "7",
+    "age_unit": "week(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC ADVANCE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC TOTAL CONTROL",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

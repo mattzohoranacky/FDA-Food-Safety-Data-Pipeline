@@ -1,0 +1,51 @@
+{
+  "report_number": "2019-CFS-006345",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190619",
+  "reactions": [
+    "Blood pressure increased",
+    "Electrocardiogram abnormal",
+    "Renal impairment"
+  ],
+  "date_started": "20190428",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE BIOCHARGE PEACH MIXED BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE MEAL REPLACEMENT SHAKE CHOC PKTS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE MNS 3 NO RESTORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE SLIM - MIXED BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE SPARK FRUIT PUNCH CAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

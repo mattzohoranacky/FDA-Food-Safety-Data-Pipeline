@@ -1,0 +1,28 @@
+{
+  "report_number": "2017-CFS-002088",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20171123",
+  "reactions": [
+    "Cerebral thrombosis",
+    "Cerebral venous thrombosis",
+    "Headache"
+  ],
+  "date_started": "20171107",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVISION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

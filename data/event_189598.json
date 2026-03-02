@@ -1,0 +1,51 @@
+{
+  "report_number": "189598",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150911",
+  "reactions": [
+    "ANXIETY",
+    "BACK PAIN",
+    "CHEST DISCOMFORT",
+    "CHEST PAIN",
+    "CHOKING",
+    "COUGH",
+    "DYSPHAGIA",
+    "FOREIGN BODY",
+    "MULTIPLE SCLEROSIS RELAPSE",
+    "OROPHARYNGEAL PAIN"
+  ],
+  "date_started": "20150828",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL CALCIUM PEARLS-BERRY AND CREAM CALCIUM CARBONATE + VITAMIN D COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL PETITES CHOLECALCIFEROL + CALCIUM CITRATE FILM COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM CHLORIDE DIHYDRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

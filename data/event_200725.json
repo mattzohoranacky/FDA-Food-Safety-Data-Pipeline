@@ -1,0 +1,50 @@
+{
+  "report_number": "200725",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160826",
+  "reactions": [
+    "ALOPECIA",
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20130703",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN PEACH CLEANSING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN POMEGRANITE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN SIXTHIRTEEN CLEANSING TREATMENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN SWEET ALMOND MINT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

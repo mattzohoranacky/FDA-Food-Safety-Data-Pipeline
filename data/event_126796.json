@@ -1,0 +1,43 @@
+{
+  "report_number": "126796",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20100505",
+  "reactions": [
+    "ABORTION SPONTANEOUS"
+  ],
+  "date_started": "20081027",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE FORMULA 1 SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE HERBAL ALOE CONCENTRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE NATURE'S RAW GUARANA TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE SNACK DEFENSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

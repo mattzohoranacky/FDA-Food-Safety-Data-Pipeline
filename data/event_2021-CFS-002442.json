@@ -1,0 +1,51 @@
+{
+  "report_number": "2021-CFS-002442",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210316",
+  "reactions": [
+    "Varicose vein ruptured"
+  ],
+  "date_started": "20201204",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE BEET ROOT EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE BILBERRY EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE CRANBERRY FRUIT CONCENTRATE TRIPLE STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE TURMERIC & POMEGRANATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Unspecified probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

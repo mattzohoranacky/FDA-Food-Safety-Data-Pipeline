@@ -1,0 +1,31 @@
+{
+  "report_number": "91328",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070216",
+  "reactions": [
+    "COLONOSCOPY",
+    "DIARRHOEA",
+    "ENDOSCOPY",
+    "MALAISE",
+    "OESOPHAGOGASTRODUODENOSCOPY",
+    "WEIGHT DECREASED",
+    "X-RAY WITH CONTRAST UPPER GASTROINTESTINAL TRACT"
+  ],
+  "date_started": "20060901",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

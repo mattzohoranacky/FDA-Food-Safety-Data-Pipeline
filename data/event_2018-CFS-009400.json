@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-009400",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180717",
+  "reactions": [
+    "Alopecia",
+    "Burning sensation",
+    "Pruritus",
+    "Rash",
+    "Skin ulcer",
+    "Trichorrhexis"
+  ],
+  "date_started": "20180301",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REVITALIZE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

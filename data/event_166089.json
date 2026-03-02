@@ -1,0 +1,40 @@
+{
+  "report_number": "166089",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130530",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "BODY TEMPERATURE INCREASED",
+    "BURNING SENSATION",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FEELING HOT"
+  ],
+  "date_started": "20130507",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CULTURELLE DIGESTIVE HEALTH CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLORAJEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLORAJEN3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

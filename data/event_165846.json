@@ -1,0 +1,41 @@
+{
+  "report_number": "165846",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130522",
+  "reactions": [
+    "DYSPNOEA",
+    "FLUSHING",
+    "FORMICATION",
+    "HYPERSENSITIVITY",
+    "PANIC ATTACK",
+    "PARAESTHESIA",
+    "SWELLING"
+  ],
+  "date_started": "20130429",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE NIACIN 500MG COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CO-Q-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "report_number": "2024-CFS-003440",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20240402",
+  "reactions": [
+    "Blood pressure increased",
+    "Disorientation",
+    "Dizziness",
+    "Hallucination",
+    "Muscle spasms",
+    "Tonic clonic movements"
+  ],
+  "date_started": "20240326",
+  "consumer": {
+    "age": "54.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVOLUTION ORGANIX DELTA 8 HONEY",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "L-LYSINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM GLYCINATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

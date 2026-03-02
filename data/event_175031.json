@@ -1,0 +1,31 @@
+{
+  "report_number": "175031",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140327",
+  "reactions": [
+    "MYOCARDIAL INFARCTION",
+    "SURGERY"
+  ],
+  "date_started": "20140312",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAC MARKETING AGELESS MALE DAILY DEFENSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAC MARKETING AGELESS MALE SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

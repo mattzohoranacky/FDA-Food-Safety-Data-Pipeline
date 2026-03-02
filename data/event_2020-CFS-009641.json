@@ -1,0 +1,42 @@
+{
+  "report_number": "2020-CFS-009641",
+  "outcomes": [
+    "Death",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200929",
+  "reactions": [
+    "Anxiety",
+    "Death",
+    "Deep vein thrombosis",
+    "Dehydration",
+    "Dyspnoea",
+    "Epistaxis",
+    "Haemorrhage",
+    "Maternal exposure during pregnancy",
+    "Ovarian cancer metastatic",
+    "Pleural effusion",
+    "Renal failure acute",
+    "Retroperitoneal cancer"
+  ],
+  "date_started": "20130322",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

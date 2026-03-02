@@ -1,0 +1,64 @@
+{
+  "report_number": "189534",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150908",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ANXIETY",
+    "COLITIS",
+    "CONSTIPATION",
+    "DIARRHOEA",
+    "FEELING ABNORMAL",
+    "HAEMATOCHEZIA",
+    "HAEMORRHOIDAL HAEMORRHAGE",
+    "HYPERHIDROSIS",
+    "NAUSEA",
+    "PAIN",
+    "STRESS",
+    "SUICIDAL IDEATION",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20150713",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM WOMEN UNDER 50 MULTIMINERALS MULTIVITAMIMS TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALTRATE 600 D CALCIUM CARBONATE CHOLECALCIFEROL CHEWABLE TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM OXIDE TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STRENGTIA PROBIOTICS CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TUMERIC CURCUMA LONGA RHIZOME TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

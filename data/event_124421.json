@@ -1,0 +1,31 @@
+{
+  "report_number": "124421",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100317",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "HAEMATOCHEZIA",
+    "HEADACHE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20090825",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW CARLSBAD AQUAFARM OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-001086",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200131",
+  "reactions": [
+    "Loss of consciousness",
+    "Retching"
+  ],
+  "date_started": "20190530",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLARITY CREAMER - KETO NOOTROPIC MCT OIL - NON-GMO CREAMER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

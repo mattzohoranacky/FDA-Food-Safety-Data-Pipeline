@@ -1,0 +1,38 @@
+{
+  "report_number": "2023-CFS-013340",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20231201",
+  "reactions": [
+    "Erythema",
+    "Pruritus",
+    "Swelling"
+  ],
+  "date_started": "20231130",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROVEN PERSONALIZED EYE CREAM DAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROVEN PERSONALIZED MOISTURIZER WITH BROAD SPECTRUM SPF SUNSCREEN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

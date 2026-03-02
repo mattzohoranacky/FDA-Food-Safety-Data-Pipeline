@@ -1,0 +1,40 @@
+{
+  "report_number": "2022-CFS-010762",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220711",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain",
+    "Constipation",
+    "Pain in extremity"
+  ],
+  "date_started": "20220428",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY RED YEAST RICE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin d",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multi vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

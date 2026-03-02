@@ -1,0 +1,31 @@
+{
+  "report_number": "67601",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040218",
+  "reactions": [
+    "ASTHENIA",
+    "DELIRIUM",
+    "EMERGENCY CARE EXAMINATION",
+    "HOSPITALISATION",
+    "LOSS OF CONSCIOUSNESS"
+  ],
+  "date_started": "20040124",
+  "consumer": {
+    "age": "18",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOBE ADRENALINE RUSH DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

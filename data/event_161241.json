@@ -1,0 +1,52 @@
+{
+  "report_number": "161241",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130118",
+  "reactions": [
+    "ACUTE HEPATIC FAILURE",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANXIETY",
+    "ASCITES",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD SODIUM DECREASED",
+    "BODY TEMPERATURE INCREASED",
+    "BRAIN OEDEMA",
+    "CHROMATURIA",
+    "FATIGUE",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "MENTAL STATUS CHANGES",
+    "NAUSEA"
+  ],
+  "date_started": "20110816",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELSIUS FRUIT DRINK SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXY-ELITE PRO SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHEY PROTEIN SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

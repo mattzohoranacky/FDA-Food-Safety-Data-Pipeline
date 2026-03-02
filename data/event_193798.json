@@ -1,0 +1,56 @@
+{
+  "report_number": "193798",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160217",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "BLOOD PRESSURE DECREASED",
+    "FEELING HOT",
+    "LOSS OF CONSCIOUSNESS",
+    "PRURITUS",
+    "SWELLING FACE",
+    "SWOLLEN TONGUE",
+    "URTICARIA",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20160115",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIBER DRINK - NONSPECIFIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL CLEANSE - NONSPECIFIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OMEGAPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARK ENERGY DRINK - NONSPECIFIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POTASSIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

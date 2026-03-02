@@ -1,0 +1,41 @@
+{
+  "report_number": "67277",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20040311",
+  "reactions": [
+    "DIPLOPIA",
+    "GLAUCOMA",
+    "INTRAOCULAR PRESSURE INCREASED",
+    "OPHTHALMOLOGICAL EXAMINATION"
+  ],
+  "date_started": "20030805",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REMIFEMIN TABLET (CIMICIFUGA)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALTRATE + D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

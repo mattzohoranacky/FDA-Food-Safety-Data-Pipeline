@@ -1,0 +1,52 @@
+{
+  "report_number": "206760",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170124",
+  "reactions": [
+    "ASTHENIA",
+    "BLINDNESS",
+    "DECREASED APPETITE",
+    "EYE PAIN",
+    "EYELID PAIN",
+    "FOREIGN BODY SENSATION IN EYES",
+    "NAUSEA",
+    "VISUAL ACUITY REDUCED",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20160101",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2 FORMULA SOFT GELS (CAPSULE, SOFT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM CITRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

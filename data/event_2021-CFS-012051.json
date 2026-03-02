@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-012051",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20211122",
+  "reactions": [
+    "Abdominal distension",
+    "Fatigue",
+    "Feeling abnormal",
+    "Flatulence"
+  ],
+  "date_started": "20211118",
+  "consumer": {
+    "age": "23.1",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CVS HEALTH BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin d drops",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

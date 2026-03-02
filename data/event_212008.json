@@ -1,0 +1,33 @@
+{
+  "report_number": "212008",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161110",
+  "reactions": [
+    "Adverse event",
+    "CHEST PAIN",
+    "DIARRHOEA",
+    "DYSPNOEA",
+    "DYSPNOEA EXERTIONAL",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "FOOD POISONING",
+    "PRURITUS",
+    "URTICARIA"
+  ],
+  "date_started": "20161019",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SYSCO AHI TUNA STEAK",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

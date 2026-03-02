@@ -1,0 +1,45 @@
+{
+  "report_number": "178463",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140805",
+  "reactions": [
+    "BLINDNESS",
+    "TRANSIENT ISCHAEMIC ATTACK",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20140712",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION LUTEIN SOFTGELS CAPSULEN SOFT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM CITRATE MAGNESIUM CALCIUM CITRATE, MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN VITAMINS NOS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "143728",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110921",
+  "reactions": [
+    "EPISTAXIS",
+    "HAEMOGLOBIN DECREASED",
+    "HEART RATE INCREASED",
+    "PALPITATIONS"
+  ],
+  "date_started": "20110624",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2 SOFT GELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

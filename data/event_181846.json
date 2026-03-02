@@ -1,0 +1,35 @@
+{
+  "report_number": "181846",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20141204",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA"
+  ],
+  "date_started": "20141202",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GULF PACIFIC BLUE DIAMOND ENRICHED AMERICAN RICE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KROGER RAW PACKAGED SPINACH WITH TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KROGER SPINACH WITH AN ITALIAN ROLL AND AGED SWISS CHEESE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

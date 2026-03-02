@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-005764",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230905",
+  "reactions": [
+    "Dysphagia",
+    "Dyspnoea",
+    "Erythema",
+    "Hypersensitivity",
+    "Pruritus"
+  ],
+  "date_started": "20230902",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAKED JUICE MANGO MIGHTY",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

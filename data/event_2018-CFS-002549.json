@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-002549",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180213",
+  "reactions": [
+    "Hypersensitivity",
+    "Lip swelling",
+    "Pain",
+    "Throat irritation"
+  ],
+  "date_started": "20180116",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OSTEO BI-FLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "THERAQUIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

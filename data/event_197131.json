@@ -1,0 +1,35 @@
+{
+  "report_number": "197131",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160607",
+  "reactions": [
+    "ALLERGY TEST POSITIVE",
+    "HAEMORRHAGE",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "RASH GENERALISED"
+  ],
+  "date_started": "20150201",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BABY WIPES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VANIPLY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

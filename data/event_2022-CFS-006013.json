@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-006013",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220426",
+  "reactions": [
+    "Blood pressure increased",
+    "Convulsion",
+    "Hypervitaminosis",
+    "Malaise",
+    "Renal failure",
+    "Syncope"
+  ],
+  "date_started": "20220301",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE VITAMIN COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

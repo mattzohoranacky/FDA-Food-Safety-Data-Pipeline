@@ -1,0 +1,40 @@
+{
+  "report_number": "69007",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20040510",
+  "reactions": [
+    "BLOOD CULTURE POSITIVE",
+    "DEATH",
+    "GASTROENTERITIS VIBRIO",
+    "HOSPITALISATION"
+  ],
+  "date_started": "20040404",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COOKED FISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COOKED OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COOKED SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

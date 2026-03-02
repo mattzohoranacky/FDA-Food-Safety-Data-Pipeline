@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-007764",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240618",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20240501",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CVS HEALTH B-12 1000MCG TIMED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CVS HEALTH FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "195260",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160408",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ANXIETY",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "EUPHORIC MOOD",
+    "PHARYNGEAL DISORDER",
+    "PRESYNCOPE",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20160223",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING VALLEY GINGER ROOT 550MG CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS AND SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

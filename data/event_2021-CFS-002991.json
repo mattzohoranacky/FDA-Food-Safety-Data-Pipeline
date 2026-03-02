@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-002991",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210402",
+  "reactions": [
+    "Abdominal pain upper",
+    "Back pain",
+    "Cystitis"
+  ],
+  "date_started": "20201012",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ENERGYFIZZ GINSENG FIZZ STICKS CITRUS FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ENERGYFIZZ GINSENG FIZZ STICKS POMEGRANATE FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

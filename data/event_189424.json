@@ -1,0 +1,57 @@
+{
+  "report_number": "189424",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150904",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ALPHA-1 ANTI-TRYPSIN INCREASED",
+    "AMYLASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD IRON INCREASED",
+    "CHROMATURIA",
+    "COMPUTERISED TOMOGRAM ABDOMEN ABNORMAL",
+    "DRUG-INDUCED LIVER INJURY",
+    "EOSINOPHIL COUNT DECREASED",
+    "FATIGUE",
+    "HEPATITIS A ANTIBODY POSITIVE",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "JAUNDICE",
+    "LIPASE INCREASED",
+    "NAUSEA",
+    "NEUTROPHIL COUNT INCREASED",
+    "SERUM FERRITIN INCREASED",
+    "SMOOTH MUSCLE ANTIBODY POSITIVE",
+    "TRANSFERRIN INCREASED"
+  ],
+  "date_started": "20140106",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAIRWAY HOLDINGS ECHINACEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S WAY SLIPPERY ELM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S WAY VALERIAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

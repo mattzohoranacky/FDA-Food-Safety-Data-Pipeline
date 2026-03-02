@@ -1,0 +1,27 @@
+{
+  "report_number": "2017-CFS-002983",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171222",
+  "reactions": [
+    "Death",
+    "Exposure to chemical pollution"
+  ],
+  "date_started": "20161219",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

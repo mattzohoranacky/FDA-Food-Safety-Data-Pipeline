@@ -1,0 +1,38 @@
+{
+  "report_number": "197583",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160615",
+  "reactions": [
+    "ANAEMIA",
+    "BLOOD IRON DECREASED",
+    "HAEMORRHAGE"
+  ],
+  "date_started": "20160227",
+  "consumer": {
+    "age": "67.67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALL DAY ENERGY GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CO Q10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON PILLS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

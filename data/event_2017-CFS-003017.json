@@ -1,0 +1,36 @@
+{
+  "report_number": "2017-CFS-003017",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20171223",
+  "reactions": [
+    "Infection"
+  ],
+  "date_started": "20171208",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEPRO",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PROTEIN",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

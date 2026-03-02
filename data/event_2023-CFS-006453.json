@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-006453",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230626",
+  "reactions": [
+    "Adrenal insufficiency",
+    "Blood potassium decreased",
+    "Blood sodium decreased",
+    "Decreased appetite",
+    "Poisoning",
+    "Syncope",
+    "Thyroid disorder"
+  ],
+  "date_started": "20230526",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTRI AJO KING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "173947",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140206",
+  "reactions": [
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "MUSCLE SPASMS"
+  ],
+  "date_started": "20140111",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR CHROME C4 EXTREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BASIC AMINO ACIDS (UNSPECIFIED)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MUSCLEPHARM PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

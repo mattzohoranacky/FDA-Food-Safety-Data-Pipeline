@@ -1,0 +1,35 @@
+{
+  "report_number": "146757",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20111215",
+  "reactions": [
+    "CONTUSION",
+    "INTERNATIONAL NORMALISED RATIO ABNORMAL",
+    "INTERNATIONAL NORMALISED RATIO DECREASED",
+    "PAIN IN EXTREMITY",
+    "THROMBOSIS"
+  ],
+  "date_started": "20110310",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY FLEXAMIN TRIPLE STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

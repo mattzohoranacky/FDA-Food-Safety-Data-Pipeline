@@ -1,0 +1,55 @@
+{
+  "report_number": "2020-CFS-004964",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200505",
+  "reactions": [
+    "Micturition urgency"
+  ],
+  "date_started": "20150101",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWEET'N LOW",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MVI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Mega Reds with Krill Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Preservision AREDS 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

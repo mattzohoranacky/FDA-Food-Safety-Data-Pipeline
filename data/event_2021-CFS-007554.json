@@ -1,0 +1,29 @@
+{
+  "report_number": "2021-CFS-007554",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210803",
+  "reactions": [
+    "Cough",
+    "Dyspepsia",
+    "Insomnia",
+    "Pneumonia",
+    "Urinary retention",
+    "Urinary tract infection"
+  ],
+  "date_started": "20210712",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREVAGEN REGULAR STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

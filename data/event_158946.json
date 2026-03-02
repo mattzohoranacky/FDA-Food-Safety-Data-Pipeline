@@ -1,0 +1,38 @@
+{
+  "report_number": "158946",
+  "outcomes": [
+    "Required Intervention",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20121113",
+  "reactions": [
+    "CONVULSION",
+    "EPILEPSY",
+    "GRAND MAL CONVULSION",
+    "HALLUCINATION",
+    "AUDITORY",
+    "VISUAL",
+    "TEMPORAL LOBE EPILEPSY"
+  ],
+  "date_started": "20120201",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ASPARTAME IN DIET COKE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ASPARTAME IN FRUIT STRIPE GUM",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

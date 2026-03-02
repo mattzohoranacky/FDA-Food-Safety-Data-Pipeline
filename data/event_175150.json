@@ -1,0 +1,48 @@
+{
+  "report_number": "175150",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140227",
+  "reactions": [
+    "ERYTHEMA",
+    "EYE SWELLING",
+    "FEELING HOT",
+    "HYPERSENSITIVITY",
+    "LIP SWELLING",
+    "PRURITUS",
+    "PRURITUS GENERALISED",
+    "SWELLING",
+    "URTICARIA"
+  ],
+  "date_started": "20140131",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NATURALS NIACIN 500 MG TIME RELEASE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "QUICK MELT B-12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

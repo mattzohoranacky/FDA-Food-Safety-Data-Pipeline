@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-007099",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230710",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20230619",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMBEREN MULTI-SYMPTOM MENOPAUSE RELIEF",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMBEREN PERI MENOPAUSE RELIEF OR AMBEREN MULTI-SYMPTOM MENOPAUSE RELIEF",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

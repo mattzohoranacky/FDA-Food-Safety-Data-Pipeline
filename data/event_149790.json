@@ -1,0 +1,42 @@
+{
+  "report_number": "149790",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120305",
+  "reactions": [
+    "ASTHENIA",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "GAIT DISTURBANCE",
+    "INFLUENZA LIKE ILLNESS",
+    "NERVOUSNESS"
+  ],
+  "date_started": "20110215",
+  "consumer": {
+    "age": "87",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

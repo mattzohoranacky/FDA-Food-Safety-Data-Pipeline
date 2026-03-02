@@ -1,0 +1,48 @@
+{
+  "report_number": "2023-CFS-008941",
+  "outcomes": [
+    "Allergic Reaction"
+  ],
+  "date_created": "20230823",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20220617",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AJNE NASSAU",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CBD OIL BY VITAL BODY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IBS LAVENDER SS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OSEA SALT SCRUB",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Hydrocortisone",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

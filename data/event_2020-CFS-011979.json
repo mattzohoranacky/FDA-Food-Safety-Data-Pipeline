@@ -1,0 +1,29 @@
+{
+  "report_number": "2020-CFS-011979",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201122",
+  "reactions": [
+    "Tooth fracture"
+  ],
+  "date_started": "20201023",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE MACARONI AND CHEESE",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Great Value Macaroni & Cheese",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

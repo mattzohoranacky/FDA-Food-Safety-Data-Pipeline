@@ -1,0 +1,40 @@
+{
+  "report_number": "2018-CFS-013554",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20181114",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain",
+    "Asthenia",
+    "Intestinal obstruction",
+    "Nausea"
+  ],
+  "date_started": "20181017",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX IONIX SUPREME-LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX ISAFLUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

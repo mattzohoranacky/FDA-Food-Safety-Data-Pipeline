@@ -1,0 +1,32 @@
+{
+  "report_number": "212584",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170525",
+  "reactions": [
+    "Erythema",
+    "Pruritus"
+  ],
+  "date_started": "20170404",
+  "consumer": {
+    "age": "83",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM MULTIGUMMIES WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

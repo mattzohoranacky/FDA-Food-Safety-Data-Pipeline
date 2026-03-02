@@ -1,0 +1,39 @@
+{
+  "report_number": "91244",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20070212",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BIOPSY LIVER",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CREATINE PHOSPHOKINASE MB ABNORMAL",
+    "CHOLESTASIS",
+    "HEPATIC ENZYME INCREASED",
+    "INTERNATIONAL NORMALISED RATIO DECREASED",
+    "JAUNDICE"
+  ],
+  "date_started": "20060819",
+  "consumer": {
+    "age": "34.52",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MASTERDROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REDLINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

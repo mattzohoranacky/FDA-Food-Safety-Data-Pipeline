@@ -1,0 +1,28 @@
+{
+  "report_number": "99474",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060919",
+  "reactions": [
+    "DEATH",
+    "RENAL FAILURE",
+    "UROSEPSIS"
+  ],
+  "date_started": "20060907",
+  "consumer": {
+    "age": "87",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH EXPRESS SPINACH PLUS CARROTS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

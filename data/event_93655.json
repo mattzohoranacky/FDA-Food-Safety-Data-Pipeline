@@ -1,0 +1,42 @@
+{
+  "report_number": "93655",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20070613",
+  "reactions": [
+    "ANXIETY",
+    "ASTHENIA",
+    "CONVULSION",
+    "DEPRESSION",
+    "FATIGUE",
+    "INSOMNIA",
+    "MEMORY IMPAIRMENT",
+    "MYALGIA",
+    "OBSESSIVE-COMPULSIVE DISORDER",
+    "PANIC ATTACK",
+    "RESTLESSNESS",
+    "VISUAL DISTURBANCE"
+  ],
+  "date_started": "20070320",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET PEPSI",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

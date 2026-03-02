@@ -1,0 +1,42 @@
+{
+  "report_number": "110622",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090226",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DISCOMFORT",
+    "FLATULENCE",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "PAIN",
+    "RASH",
+    "RESPIRATORY ARREST",
+    "SCREAMING"
+  ],
+  "date_started": "20081229",
+  "consumer": {
+    "age": "33",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALIMENTUM WITH DHA AND ARA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEOCATE WITH DHA ARA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

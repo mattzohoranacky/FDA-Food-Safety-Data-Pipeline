@@ -1,0 +1,38 @@
+{
+  "report_number": "71792",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20030916",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "HYPOAESTHESIA ORAL",
+    "INFLUENZA LIKE ILLNESS",
+    "PARAESTHESIA",
+    "PARAESTHESIA ORAL",
+    "PRURITUS",
+    "SWELLING",
+    "URTICARIA"
+  ],
+  "date_started": "20030915",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAYONNAISE",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STARKIST CHUNK WHITE ALBACORE TUNA IN WATER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

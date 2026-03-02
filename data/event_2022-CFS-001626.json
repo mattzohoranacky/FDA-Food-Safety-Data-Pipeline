@@ -1,0 +1,40 @@
+{
+  "report_number": "2022-CFS-001626",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220202",
+  "reactions": [
+    "Amnesia",
+    "Atrial fibrillation",
+    "Cerebral haemorrhage",
+    "Nausea",
+    "Transient ischaemic attack"
+  ],
+  "date_started": "20210101",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

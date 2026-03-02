@@ -1,0 +1,59 @@
+{
+  "report_number": "181708",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20150102",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANAPHYLACTIC REACTION",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN DECREASED",
+    "BLOOD CALCIUM DECREASED",
+    "BLOOD CREATININE DECREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD PRESSURE IMMEASURABLE",
+    "BLOOD SODIUM DECREASED",
+    "BREATH SOUNDS ABSENT",
+    "CARBON DIOXIDE DECREASED",
+    "CARDIO-RESPIRATORY ARREST",
+    "DISCOMFORT",
+    "DYSPNOEA",
+    "Death",
+    "HEART SOUNDS ABNORMAL",
+    "HYPOXIA",
+    "PERIORBITAL OEDEMA",
+    "PULSE ABNORMAL",
+    "PULSE ABSENT",
+    "RASH ERYTHEMATOUS",
+    "RETCHING",
+    "TRYPTASE INCREASED"
+  ],
+  "date_started": "20141119",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIQUIGEN",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROSS CARBOHYDRATE FREE FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BENEPROTEIN POWDER (NESTLE)",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

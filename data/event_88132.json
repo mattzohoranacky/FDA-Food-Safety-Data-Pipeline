@@ -1,0 +1,41 @@
+{
+  "report_number": "88132",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20060823",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "VOMITING"
+  ],
+  "date_started": "20060719",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALBERTSONS CHUNK LIGHT TUNA IN WATER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LEMON JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LIME JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONIONS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

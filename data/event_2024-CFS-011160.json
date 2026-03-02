@@ -1,0 +1,38 @@
+{
+  "report_number": "2024-CFS-011160",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240903",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Vomiting"
+  ],
+  "date_started": "20240831",
+  "consumer": {
+    "age": "11",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NEUROPRO",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BABY PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

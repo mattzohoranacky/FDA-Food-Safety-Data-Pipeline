@@ -1,0 +1,48 @@
+{
+  "report_number": "92901",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20070507",
+  "reactions": [
+    "ARTHRALGIA",
+    "CYANOSIS",
+    "ERYTHEMA",
+    "OEDEMA PERIPHERAL",
+    "PALLOR",
+    "PARAESTHESIA",
+    "RAYNAUD'S PHENOMENON"
+  ],
+  "date_started": "20070215",
+  "consumer": {
+    "age": "64.99",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RADIANCE 5-HTP 50 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CARBONYL IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "135197",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110202",
+  "reactions": [
+    "Adverse event",
+    "COUGH",
+    "DIVERTICULUM",
+    "HYPOTHERMIA",
+    "INCREASED BRONCHIAL SECRETION",
+    "PARAPARESIS"
+  ],
+  "date_started": "20110122",
+  "consumer": {
+    "age": "88",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLORA PURE FLAX OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-000066",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20240102",
+  "reactions": [
+    "Chemical burn",
+    "Erythema"
+  ],
+  "date_started": "20231212",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OY! ORGANIC YOUNG CLEAR SKIN CLEANSING MOISTURISER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OY! ORGANIC YOUNG CLEAR SKIN PURIFYING SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

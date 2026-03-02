@@ -1,0 +1,33 @@
+{
+  "report_number": "83884",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060123",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "APPETITE DISORDER",
+    "BACTERIAL INFECTION",
+    "BLOOD PRESSURE FLUCTUATION",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HEADACHE",
+    "HYPERTENSION",
+    "VOMITING"
+  ],
+  "date_started": "20060117",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SAM'S CHOICE COLA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-001833",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240207",
+  "reactions": [
+    "Dyspepsia",
+    "Headache",
+    "Nausea"
+  ],
+  "date_started": "20230905",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENDURANCE FOREVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

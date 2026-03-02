@@ -1,0 +1,32 @@
+{
+  "report_number": "160587",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20121231",
+  "reactions": [
+    "ARRHYTHMIA",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "CHEST PAIN"
+  ],
+  "date_started": "20121204",
+  "consumer": {
+    "age": "62.55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METAGENICS, INC: OMEGAGENICS EPA-DHA 500",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SOURCE ONE CHOLESSTRINOL HPE 75 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

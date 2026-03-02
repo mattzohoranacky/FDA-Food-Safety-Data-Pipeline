@@ -1,0 +1,42 @@
+{
+  "report_number": "2020-CFS-000210",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200107",
+  "reactions": [
+    "Headache"
+  ],
+  "date_started": "20200107",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HFL PLATINUM SERIES CHOLESLO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CoQ10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "magnesium glycinate",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

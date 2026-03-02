@@ -1,0 +1,30 @@
+{
+  "report_number": "199537",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160719",
+  "reactions": [
+    "DIZZINESS",
+    "FEELING COLD",
+    "NAUSEA",
+    "Product taste abnormal",
+    "VOMITING"
+  ],
+  "date_started": "20160716",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURAQUA PURIFIED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

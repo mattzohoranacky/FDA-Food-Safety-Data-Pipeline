@@ -1,0 +1,32 @@
+{
+  "report_number": "195849",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160428",
+  "reactions": [
+    "CONDITION AGGRAVATED",
+    "ERYTHEMA"
+  ],
+  "date_started": "20160325",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLD BOND ULTIMATE STRENGTH & RESILIENCE SKIN THERAPY LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHOLODIAL SILVER TOPICAL SPRAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

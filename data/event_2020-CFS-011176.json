@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-011176",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201022",
+  "reactions": [
+    "Chest pain",
+    "Diarrhoea",
+    "Gastrointestinal pain"
+  ],
+  "date_started": "20200926",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE PROTANDIM NRF1 SYNERGIZER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE PROTANDIM NRF2 SYNERGIZER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

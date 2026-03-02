@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-000141",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200104",
+  "reactions": [
+    "Alopecia",
+    "Dry skin",
+    "Erythema",
+    "Eye infection",
+    "Hypersensitivity",
+    "Onychoclasis",
+    "Pain",
+    "Rosacea"
+  ],
+  "date_started": "20180301",
+  "consumer": {
+    "age": "42.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL DECADENCE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL MELT INTO MOISTURE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

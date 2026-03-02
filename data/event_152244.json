@@ -1,0 +1,32 @@
+{
+  "report_number": "152244",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120315",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "PRURITUS",
+    "RASH",
+    "VOMITING"
+  ],
+  "date_started": "20120308",
+  "consumer": {
+    "age": "15",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ODWALLA CHOCOLATE PROTEIN SOY & DAIRY PROTEIN SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

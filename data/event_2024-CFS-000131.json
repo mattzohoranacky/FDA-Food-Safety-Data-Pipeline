@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-000131",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240105",
+  "reactions": [
+    "Retching"
+  ],
+  "date_started": "20231224",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAIRLIFE MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

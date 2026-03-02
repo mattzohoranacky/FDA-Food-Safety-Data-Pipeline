@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-004797",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190513",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Pyrexia"
+  ],
+  "date_started": "20190512",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUTCH FARMS EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

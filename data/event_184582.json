@@ -1,0 +1,45 @@
+{
+  "report_number": "184582",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150408",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE",
+    "AMYLASE",
+    "ASPARTATE AMINOTRANSFERASE",
+    "AUTOIMMUNE HEPATITIS",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHROMATURIA",
+    "DECREASED APPETITE",
+    "DRUG-INDUCED LIVER INJURY",
+    "FAECES DISCOLOURED",
+    "GALLBLADDER DISORDER",
+    "HEPATITIS E ANTIBODY POSITIVE",
+    "HLA MARKER STUDY POSITIVE",
+    "JAUNDICE",
+    "NAUSEA",
+    "TRANSAMINASES INCREASED",
+    "VOMITING"
+  ],
+  "date_started": "20130515",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ENERGY FIZZ STICK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ARBONNE 7-DAY BODY CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

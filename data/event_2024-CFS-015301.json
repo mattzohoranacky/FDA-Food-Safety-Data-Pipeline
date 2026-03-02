@@ -1,0 +1,48 @@
+{
+  "report_number": "2024-CFS-015301",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241203",
+  "reactions": [
+    "Blood pressure decreased",
+    "Blood pressure increased",
+    "Fatigue",
+    "Headache",
+    "Loss of consciousness",
+    "Syncope",
+    "Tinnitus"
+  ],
+  "date_started": "20241101",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREVAGEN REGULAR STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POTASSIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

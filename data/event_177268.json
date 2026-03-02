@@ -1,0 +1,38 @@
+{
+  "report_number": "177268",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140617",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED",
+    "DYSARTHRIA",
+    "PULMONARY CONGESTION"
+  ],
+  "date_started": "20140416",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DETOX FORMULA US",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "AGELOC VITALITY PHARMANEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MY VICTORY AC COMPLEX PHARMANEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

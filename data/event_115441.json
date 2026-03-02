@@ -1,0 +1,39 @@
+{
+  "report_number": "115441",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090709",
+  "reactions": [
+    "DEHYDRATION",
+    "VOMITING"
+  ],
+  "date_started": "20090704",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LACTAID FAST ACT CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SKIM MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

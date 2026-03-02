@@ -1,0 +1,51 @@
+{
+  "report_number": "2024-CFS-010107",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240724",
+  "reactions": [
+    "Burning sensation",
+    "Hypersensitivity",
+    "Nausea",
+    "Nerve injury",
+    "Spinal pain",
+    "Tinnitus",
+    "Tremor"
+  ],
+  "date_started": "20240702",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BUBLY SPARKLING WATER COCONUT PINEAPPLE FLAVOR",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GINKGO BILOBA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GINSENG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

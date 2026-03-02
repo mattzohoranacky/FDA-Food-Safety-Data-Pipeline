@@ -1,0 +1,56 @@
+{
+  "report_number": "186128",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150518",
+  "reactions": [
+    "BLOOD ELECTROLYTES ABNORMAL",
+    "BLOOD POTASSIUM DECREASED",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "EXTRASYSTOLES",
+    "LOSS OF CONSCIOUSNESS",
+    "URINE KETONE BODY PRESENT"
+  ],
+  "date_started": "20150418",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL CLEANSE WITH CITRUS FIBER DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEAL REPLACEMENT SHAKE - CHOCOLATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OMEGAPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARK ENERGY DRINK 14 CT MANDARIN ORANGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARK ENERGY DRINK MANGO-STRAWBERRY 14 CT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

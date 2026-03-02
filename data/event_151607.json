@@ -1,0 +1,36 @@
+{
+  "report_number": "151607",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120424",
+  "reactions": [
+    "ACUTE MYOCARDIAL INFARCTION",
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20111211",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JACK3D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUROCORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

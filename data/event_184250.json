@@ -1,0 +1,29 @@
+{
+  "report_number": "184250",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150331",
+  "reactions": [
+    "ARRHYTHMIA",
+    "ASTHENIA",
+    "BLOOD PRESSURE INCREASED",
+    "HEADACHE",
+    "METAL POISONING",
+    "SOMNOLENCE"
+  ],
+  "date_started": "20150306",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARTAN WHOLE GRAIN BROWN RICE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

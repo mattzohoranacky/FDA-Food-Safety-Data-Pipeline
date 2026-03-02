@@ -1,0 +1,42 @@
+{
+  "report_number": "92113",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070316",
+  "reactions": [
+    "ASTHENIA",
+    "CONFUSIONAL STATE",
+    "ELECTROLYTE IMBALANCE",
+    "FATIGUE",
+    "HAEMODYNAMIC INSTABILITY",
+    "HEADACHE",
+    "HYPOKALAEMIA",
+    "HYPONATRAEMIA",
+    "MALAISE",
+    "MEMORY IMPAIRMENT",
+    "TREMOR"
+  ],
+  "date_started": "20070115",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENVISION BALANCE ANTI-OXIDANT MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENVISION BURN METABOLISM BOOSTER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

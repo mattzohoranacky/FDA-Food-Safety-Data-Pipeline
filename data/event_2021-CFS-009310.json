@@ -1,0 +1,35 @@
+{
+  "report_number": "2021-CFS-009310",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210909",
+  "reactions": [
+    "Food poisoning"
+  ],
+  "date_started": "20210825",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

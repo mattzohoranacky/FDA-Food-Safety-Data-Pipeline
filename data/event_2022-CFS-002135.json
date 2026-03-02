@@ -1,0 +1,42 @@
+{
+  "report_number": "2022-CFS-002135",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220214",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal",
+    "Trichorrhexis"
+  ],
+  "date_started": "20220129",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "K18 BIOMIMETIC HAIRSCIENCE LEAVE IN MOLECULAR REPAIR HAIR MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Olaplex #3 treatment",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Shu Uemura Wonder Worker spray",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Viori hair shampoo",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

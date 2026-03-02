@@ -1,0 +1,102 @@
+{
+  "report_number": "197125",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160607",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "AMMONIA INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHROMATURIA",
+    "CONFUSIONAL STATE",
+    "DECREASED APPETITE",
+    "DYSGEUSIA",
+    "FAECES PALE",
+    "HEPATIC ENZYME INCREASED",
+    "NAUSEA",
+    "PRURITUS"
+  ],
+  "date_started": "20160518",
+  "consumer": {
+    "age": "83",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRICYCLINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CO Q10 UBIQUINOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CVS VITAMIN C 1000 MG TABS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GREEN TEA EXTRACT CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ORGANIC PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OSTA DERM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OSTEO VEGAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TURMERIC CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3 5000 UNIT CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN E 400 IU CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VSL #3",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

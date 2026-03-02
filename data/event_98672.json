@@ -1,0 +1,43 @@
+{
+  "report_number": "98672",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20071127",
+  "reactions": [
+    "Adverse reaction",
+    "HAIR TEXTURE ABNORMAL",
+    "MADAROSIS",
+    "TRICHORRHEXIS"
+  ],
+  "date_started": "20071105",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHN FRIEDA COLLECTION LUMINOUS COLOR GLAZE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHN FRIEDA COLLECTION SHEER BLONDE, HIGHLIGHT ACTIVATING MOISTURIZING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CLOUD NINE REPAIR MOUSSE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KENRA HAIR SPRAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-008491",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200831",
+  "reactions": [
+    "Blood pressure decreased",
+    "Clostridium test positive",
+    "Diarrhoea",
+    "Dizziness",
+    "Malaise"
+  ],
+  "date_started": "20200725",
+  "consumer": {
+    "age": "46.5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRITE LEMON LIME",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "daily multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

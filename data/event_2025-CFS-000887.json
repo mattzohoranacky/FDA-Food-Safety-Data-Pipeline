@@ -1,0 +1,34 @@
+{
+  "report_number": "2025-CFS-000887",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250120",
+  "reactions": [
+    "Bedridden",
+    "Diarrhoea",
+    "Fatigue",
+    "Nausea",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20250118",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOES BBQ CHICKEN PIZZA",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOES ORGANIC CAESAR SALAD KIT",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "124283",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20100311",
+  "reactions": [
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20100307",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLLY GUACAMOLE GUACAMOLE DIP",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HORMEL CHI-CHI'S MEXICAN SAVORY GARLIC CHICKEN DINNER",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

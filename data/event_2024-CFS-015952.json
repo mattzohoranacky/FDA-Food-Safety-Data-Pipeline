@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-015952",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241219",
+  "reactions": [
+    "Hypersensitivity",
+    "Nausea",
+    "Pain"
+  ],
+  "date_started": "20241210",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEEP FOODS  CHICKEN CURRY KATI STREET WRAP",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEEP FOODS POTATO & PEA SAMOSA KATI STREET WRAP",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

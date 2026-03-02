@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-006888",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20180511",
+  "reactions": [
+    "Asthenia",
+    "Decreased appetite",
+    "Gastrooesophageal reflux disease",
+    "Infrequent bowel movements"
+  ],
+  "date_started": "20180419",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR. WHITAKER BERBERINE GLUCOGOLD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B6",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

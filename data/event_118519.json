@@ -1,0 +1,63 @@
+{
+  "report_number": "118519",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091005",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANOREXIA",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHOLESTASIS",
+    "CHROMATURIA",
+    "HEPATIC NECROSIS",
+    "HEPATITIS C ANTIBODY",
+    "JAUNDICE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "LIVER INJURY",
+    "LYMPHOCYTIC INFILTRATION",
+    "NAUSEA",
+    "NECROSIS",
+    "PRURITUS",
+    "RASH"
+  ],
+  "date_started": "20071119",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MASS TABS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "AMINOVOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NO XPLODE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ULTIMATE MAN VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHEY TECH PRO 24",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "2022-CFS-014602",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220929",
+  "reactions": [
+    "Diarrhoea",
+    "Salmonellosis",
+    "Vomiting"
+  ],
+  "date_started": "20220924",
+  "consumer": {
+    "age": "10",
+    "age_unit": "week(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL PROSOBEE SIMPLY PLANT-BASED",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

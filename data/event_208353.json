@@ -1,0 +1,63 @@
+{
+  "report_number": "208353",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170301",
+  "reactions": [
+    "HEADACHE",
+    "MALAISE",
+    "PALPITATIONS",
+    "PRESYNCOPE"
+  ],
+  "date_started": "20170228",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GRANULATED SUGAR",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA3 OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POWDERED CREAMER",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

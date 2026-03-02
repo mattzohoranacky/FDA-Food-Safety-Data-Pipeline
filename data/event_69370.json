@@ -1,0 +1,36 @@
+{
+  "report_number": "69370",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20040602",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED"
+  ],
+  "date_started": "20040526",
+  "consumer": {
+    "age": "3.22",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA NO CALORIE SWEETENER",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ORANGE KOOL AID",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PREZTELS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

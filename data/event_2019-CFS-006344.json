@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-006344",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190619",
+  "reactions": [
+    "Blood cholesterol increased",
+    "Blood magnesium decreased",
+    "Blood pressure increased",
+    "Blood sodium decreased",
+    "Diarrhoea",
+    "Headache",
+    "Heart rate increased",
+    "Vision blurred"
+  ],
+  "date_started": "20190602",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENZYMATIC COMPLETE LIVER CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

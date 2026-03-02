@@ -1,0 +1,30 @@
+{
+  "report_number": "157265",
+  "outcomes": [
+    "Death",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121001",
+  "reactions": [
+    "DEATH",
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "SHOCK",
+    "VOMITING",
+    "Vibrio test positive"
+  ],
+  "date_started": "20110728",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW CLAMS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

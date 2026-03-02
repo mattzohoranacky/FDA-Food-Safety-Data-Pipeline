@@ -1,0 +1,39 @@
+{
+  "report_number": "2023-CFS-009959",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230919",
+  "reactions": [
+    "Burning sensation",
+    "Hypersensitivity",
+    "Hypoaesthesia",
+    "Pain",
+    "Pruritus",
+    "Swelling face",
+    "Urticaria"
+  ],
+  "date_started": "20230904",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREVAGEN REGULAR STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamin for women 50+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

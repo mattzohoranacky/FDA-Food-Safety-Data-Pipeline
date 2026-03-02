@@ -1,0 +1,39 @@
+{
+  "report_number": "151217",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120413",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLOOD LACTIC ACID INCREASED",
+    "DYSPNOEA",
+    "FLATULENCE",
+    "HYPERHIDROSIS",
+    "LIPASE INCREASED",
+    "NAUSEA",
+    "PANCREATITIS",
+    "VOMITING",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20120219",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2019-CFS-005134",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190523",
+  "reactions": [
+    "Abdominal pain upper",
+    "Migraine"
+  ],
+  "date_started": "20190511",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHYSICIANS PREFERRED CBD TINCTURE OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED COOKIE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED CREAM",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

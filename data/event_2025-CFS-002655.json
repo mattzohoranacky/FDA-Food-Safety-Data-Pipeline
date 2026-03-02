@@ -1,0 +1,27 @@
+{
+  "report_number": "2025-CFS-002655",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20250303",
+  "reactions": [
+    "Respiration abnormal"
+  ],
+  "date_started": "20220622",
+  "consumer": {
+    "age": "1",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GRIPE WATER NIGHTTIME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

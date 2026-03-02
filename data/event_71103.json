@@ -1,0 +1,30 @@
+{
+  "report_number": "71103",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20040804",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BILIRUBIN CONJUGATED INCREASED",
+    "CHOLESTASIS",
+    "HEPATIC NECROSIS",
+    "HOSPITALISATION",
+    "JAUNDICE"
+  ],
+  "date_started": "20040713",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIMSPA X 32",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

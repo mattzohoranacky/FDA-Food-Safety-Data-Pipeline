@@ -1,0 +1,31 @@
+{
+  "report_number": "208314",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20170225",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CARDIAC DISORDER"
+  ],
+  "date_started": "20170202",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHYSIC CANDY CURVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PHYSIC CANDY CURVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

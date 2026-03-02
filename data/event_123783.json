@@ -1,0 +1,37 @@
+{
+  "report_number": "123783",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100216",
+  "reactions": [
+    "BLOOD CALCIUM INCREASED",
+    "BLOOD CREATININE INCREASED",
+    "DECREASED APPETITE",
+    "HYPERVITAMINOSIS D",
+    "NAUSEA",
+    "PANCREATIC ENZYMES INCREASED",
+    "VOMITING"
+  ],
+  "date_started": "20100115",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTIMATE POWER MEAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

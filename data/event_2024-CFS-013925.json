@@ -1,0 +1,41 @@
+{
+  "report_number": "2024-CFS-013925",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241106",
+  "reactions": [
+    "Dizziness",
+    "Emergency care",
+    "Fatigue",
+    "Hospitalisation"
+  ],
+  "date_started": "20241021",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RITUAL ESSENTIAL FOR WOMEN PRENATAL MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RITUAL NATAL CHOLINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RITUAL OMEGA 3 DHA PLUS EPA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

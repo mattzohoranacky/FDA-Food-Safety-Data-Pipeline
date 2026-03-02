@@ -1,0 +1,35 @@
+{
+  "report_number": "90430",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20070108",
+  "reactions": [
+    "BLOOD CHOLESTEROL INCREASED",
+    "BLOOD TESTOSTERONE DECREASED",
+    "BLOOD TRIGLYCERIDES INCREASED",
+    "HIGH DENSITY LIPOPROTEIN DECREASED",
+    "LIPIDS ABNORMAL",
+    "LOW DENSITY LIPOPROTEIN INCREASED"
+  ],
+  "date_started": "20061214",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALPHA TEST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEBBER PHARMACEUTICALS OXODROL 12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

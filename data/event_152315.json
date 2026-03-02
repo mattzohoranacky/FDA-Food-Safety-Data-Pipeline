@@ -1,0 +1,38 @@
+{
+  "report_number": "152315",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20120511",
+  "reactions": [
+    "CHOKING",
+    "FOREIGN BODY TRAUMA",
+    "OBSTRUCTIVE AIRWAYS DISORDER"
+  ],
+  "date_started": "20120427",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQUATE COMPLETE ULTRA WOMEN'S HEALTH MULTIVITAMIN MULTIMINERAL TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

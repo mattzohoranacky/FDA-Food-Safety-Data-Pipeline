@@ -1,0 +1,44 @@
+{
+  "report_number": "2020-CFS-002393",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20200220",
+  "reactions": [
+    "Chest pain",
+    "Dysuria",
+    "Gastrooesophageal reflux disease"
+  ],
+  "date_started": "20200210",
+  "consumer": {
+    "age": "41.7",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STOCKNUTRA TRIBULUS TERRESTRIS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Conjugated Lionleiec acid",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Elite Burn",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Yohimbe",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "2022-CFS-004251",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20220323",
+  "reactions": [
+    "Swelling"
+  ],
+  "date_started": "20220320",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MASON NATURAL GLUCOSAMINE CHONDROITIN 1500 1200 JOINT HEALTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Biotin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Culterelle probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

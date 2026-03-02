@@ -1,0 +1,57 @@
+{
+  "report_number": "199852",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160729",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "BLOOD PRESSURE INCREASED",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "DIVERTICULITIS",
+    "GASTROENTERITIS",
+    "MUSCLE SPASMS",
+    "NAUSEA",
+    "PAIN",
+    "PYREXIA"
+  ],
+  "date_started": "20160626",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE SUPER B COMPLEX (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATUREMADE BIOTIN 2500 (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATUREMADE VITAMIN B-12 (DIETARY SUPPLEMENT), 1000 UG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATUREMADE VITAMIN D3, 2000 IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SCHIFF MEGA RED OMEGA 3 (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

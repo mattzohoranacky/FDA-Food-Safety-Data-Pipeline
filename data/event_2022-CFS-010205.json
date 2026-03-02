@@ -1,0 +1,58 @@
+{
+  "report_number": "2022-CFS-010205",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220627",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Back pain",
+    "Blood bilirubin",
+    "Blood urine present",
+    "Discomfort",
+    "Hepatic enzyme increased",
+    "Pyrexia"
+  ],
+  "date_started": "20220605",
+  "consumer": {
+    "age": "42.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRENCH LENTIL LEEK CRUMBLES",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Organic iodine supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Women's Multi-Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "probiotics",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

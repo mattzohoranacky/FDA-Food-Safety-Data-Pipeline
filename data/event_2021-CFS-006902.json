@@ -1,0 +1,38 @@
+{
+  "report_number": "2021-CFS-006902",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20210717",
+  "reactions": [
+    "Abdominal pain upper",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20210714",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEB NATURALLY LEAVENED COUNTRY WHITE SCRATCH MADE BREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "woman multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

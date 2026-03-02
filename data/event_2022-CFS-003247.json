@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-003247",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220307",
+  "reactions": [
+    "Confusional state",
+    "Disorientation",
+    "Dizziness",
+    "Vomiting"
+  ],
+  "date_started": "20220228",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH GASTROMEND HP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

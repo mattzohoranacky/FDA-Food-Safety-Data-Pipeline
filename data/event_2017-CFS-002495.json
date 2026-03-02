@@ -1,0 +1,32 @@
+{
+  "report_number": "2017-CFS-002495",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20171211",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea"
+  ],
+  "date_started": "20171015",
+  "consumer": {
+    "age": "87",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "Patriot Power Greens, regular strength",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Patriot Power Greens",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

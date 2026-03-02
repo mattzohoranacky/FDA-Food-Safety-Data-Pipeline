@@ -1,0 +1,52 @@
+{
+  "report_number": "2022-CFS-010187",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220627",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Blood pressure increased",
+    "Heart rate increased",
+    "Paraesthesia",
+    "Swelling",
+    "Swelling face",
+    "Throat tightness",
+    "Tongue discolouration",
+    "Vomiting"
+  ],
+  "date_started": "20220623",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLOUR POP SO JUICY PLUMPING GLOSS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MARY RUTH'S MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

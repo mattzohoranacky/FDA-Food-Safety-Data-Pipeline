@@ -1,0 +1,60 @@
+{
+  "report_number": "117717",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090910",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS VIBRIO",
+    "MALAISE",
+    "Vibrio test positive"
+  ],
+  "date_started": "20090812",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRAB",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRAWFISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FINFISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MUSSELS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

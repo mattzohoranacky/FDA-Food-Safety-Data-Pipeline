@@ -1,0 +1,33 @@
+{
+  "report_number": "162838",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130227",
+  "reactions": [
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "HYPERTENSION",
+    "Vibrio test positive"
+  ],
+  "date_started": "20120720",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW CLAMS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

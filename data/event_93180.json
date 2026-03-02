@@ -1,0 +1,36 @@
+{
+  "report_number": "93180",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20070521",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DYSPNOEA",
+    "HEADACHE",
+    "HEART RATE INCREASED",
+    "INFLUENZA LIKE ILLNESS",
+    "LYMPHADENOPATHY",
+    "MYALGIA"
+  ],
+  "date_started": "20070517",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AGELESS ESSENTIALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AGELESS EXTRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

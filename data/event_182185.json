@@ -1,0 +1,38 @@
+{
+  "report_number": "182185",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150127",
+  "reactions": [
+    "CONDITION AGGRAVATED",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FORMICATION",
+    "LACTIC ACIDOSIS",
+    "NAUSEA",
+    "PALPITATIONS",
+    "PSYCHOMOTOR HYPERACTIVITY"
+  ],
+  "date_started": "20141212",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTRA GLUCLOSE CONTROL CHOCOLATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTRA GLUCOSE CONTROL VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

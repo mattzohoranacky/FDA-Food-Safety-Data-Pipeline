@@ -1,0 +1,42 @@
+{
+  "report_number": "128655",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100728",
+  "reactions": [
+    "HYPOAESTHESIA"
+  ],
+  "date_started": "20091224",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM BRAND GOJI BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM CINNAMON, GYMNEMA, MULBERRY COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULITVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

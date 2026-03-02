@@ -1,0 +1,39 @@
+{
+  "report_number": "146998",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20111222",
+  "reactions": [
+    "RENAL FAILURE"
+  ],
+  "date_started": "20111112",
+  "consumer": {
+    "age": "48.02",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL BODY RAPID CLEANSE 7-DAY PROGRAM CAPTURE WITH NATURAL ACACIA FIBER 63 GRAMS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL BODY RAPID CLEANSE 7-DAY PROGRAM DETOXIFY WITH DEEP ORGAN CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL BODY RAPID CLEANSE 7-DAY PROGRAM ELIMINATE WITH COLON CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

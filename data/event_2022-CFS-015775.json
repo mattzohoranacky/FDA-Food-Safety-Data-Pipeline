@@ -1,0 +1,44 @@
+{
+  "report_number": "2022-CFS-015775",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20221101",
+  "reactions": [
+    "Heart rate increased",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20221028",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FEEL FREE PLANT BASED HERBAL SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Men's daily supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

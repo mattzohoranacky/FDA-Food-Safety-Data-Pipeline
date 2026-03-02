@@ -1,0 +1,30 @@
+{
+  "report_number": "2020-CFS-001458",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20200204",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Blood pressure increased",
+    "Blood triglycerides increased",
+    "Fatigue",
+    "Heart rate irregular",
+    "Pain",
+    "Somnolence"
+  ],
+  "date_started": "20200127",
+  "consumer": {
+    "age": "36.3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVL LEANMODE STIMULANT FREE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

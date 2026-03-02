@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-011162",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220718",
+  "reactions": [
+    "Disturbance in attention",
+    "Heart rate increased",
+    "Nerve injury",
+    "Somnolence",
+    "Substance-induced psychotic disorder"
+  ],
+  "date_started": "20220619",
+  "consumer": {
+    "age": "35.8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THC EDIBLE CANDY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THC EDIBLE CHOCOLATE",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

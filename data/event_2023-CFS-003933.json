@@ -1,0 +1,54 @@
+{
+  "report_number": "2023-CFS-003933",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230412",
+  "reactions": [
+    "Hypersensitivity",
+    "Swelling"
+  ],
+  "date_started": "20230411",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAIRLIFE WHOLE ULTRA-FILTERED MILK LACTOSE FREE OR FAIRLIFE LACTOSE-FR",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium glycinate",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NutriGold Vitamin D3 (Bioavailable, vegan vitamin D (as cholecalciferol) from non-GMO verified",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NutriGold Vitamin K2-MK7",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "omega 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "sustainable, wild-crafted lichen to support calcium absorption, bone, dental, prostate, and breast health.*)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

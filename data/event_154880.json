@@ -1,0 +1,29 @@
+{
+  "report_number": "154880",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120711",
+  "reactions": [
+    "ERYTHEMA",
+    "FOOD ALLERGY",
+    "Food poisoning",
+    "PRURITUS",
+    "SKIN DISCOLOURATION",
+    "VOMITING"
+  ],
+  "date_started": "20120709",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRED MEYER FRESH, HEADED & GUTTED WILD SOCKEYE SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

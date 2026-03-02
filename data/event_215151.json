@@ -1,0 +1,40 @@
+{
+  "report_number": "215151",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170713",
+  "reactions": [
+    "Cellulitis",
+    "Chills",
+    "Erythema",
+    "Feeling of body temperature change",
+    "Hyperhidrosis",
+    "Hypersensitivity",
+    "Local swelling",
+    "Pruritus",
+    "Tenderness"
+  ],
+  "date_started": "20170626",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLATIUM SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

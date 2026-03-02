@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-001607",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20180124",
+  "reactions": [
+    "Arthralgia",
+    "Fatigue",
+    "Fibromyalgia",
+    "Malaise",
+    "Myalgia",
+    "Pain"
+  ],
+  "date_started": "20180101",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "Stevia RUSSEL STOVER CHOCOLATES",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Herbalife Sleep Aids",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

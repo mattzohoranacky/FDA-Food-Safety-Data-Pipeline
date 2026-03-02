@@ -1,0 +1,54 @@
+{
+  "report_number": "2024-CFS-011161",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240903",
+  "reactions": [
+    "Abdominal pain upper",
+    "Anaphylactic reaction",
+    "Chest pain",
+    "Dizziness",
+    "Dysphonia",
+    "Dyspnoea",
+    "Nausea",
+    "Oropharyngeal pain",
+    "Throat tightness"
+  ],
+  "date_started": "20240823",
+  "consumer": {
+    "age": "67.8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRISPY GREEN CRISPY FRUIT MANGO",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BENADRYL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

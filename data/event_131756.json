@@ -1,0 +1,65 @@
+{
+  "report_number": "131756",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20101103",
+  "reactions": [
+    "DYSPNOEA",
+    "HEART RATE INCREASED",
+    "HYPERTENSION",
+    "HYPOAESTHESIA",
+    "NEURALGIA",
+    "SWELLING"
+  ],
+  "date_started": "20100918",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE HERBAL ALOE CONCENTRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE HERBAL TEA CONCENTRATE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE HERBALIFELINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE NITEWORKS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE RELAX NOW",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE SLEEP NOW",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "124593",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20100317",
+  "reactions": [
+    "DIZZINESS",
+    "NAUSEA",
+    "PRESYNCOPE"
+  ],
+  "date_started": "20091203",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY MENS 50 PLUS ADVANTAGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MEMBER'S MARK CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

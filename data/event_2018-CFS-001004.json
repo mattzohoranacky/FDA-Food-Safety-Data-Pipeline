@@ -1,0 +1,41 @@
+{
+  "report_number": "2018-CFS-001004",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171219",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Dermatitis",
+    "Pruritus"
+  ],
+  "date_started": "20171212",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GT'S KOMBUCHA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Hair, Skin and nails vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

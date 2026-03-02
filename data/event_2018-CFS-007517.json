@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-007517",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180526",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Fatigue",
+    "Hyperhidrosis",
+    "Muscle spasms",
+    "Nausea"
+  ],
+  "date_started": "20180525",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLAIN SOY MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi-vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

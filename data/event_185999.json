@@ -1,0 +1,51 @@
+{
+  "report_number": "185999",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150511",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "CHOLELITHIASIS",
+    "CONSTIPATION",
+    "NEPHROLITHIASIS"
+  ],
+  "date_started": "20150325",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLORAFIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFELINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1 HEALTHY MEAL NUTRITIONAL SHAKE MIX (COOKIES N CREAM FLAVOR)",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL ALOE CONCENTRATE (MANGO FLAVOR)",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL TEA CONCENTRATE (LEMON FLAVOR)",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

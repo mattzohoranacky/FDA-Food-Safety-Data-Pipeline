@@ -1,0 +1,29 @@
+{
+  "report_number": "2020-CFS-011188",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20201028",
+  "reactions": [
+    "Blood creatinine increased",
+    "Chills",
+    "Hepatic failure",
+    "Muscle spasms",
+    "Pallor",
+    "Renal failure"
+  ],
+  "date_started": "20200801",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC MEGA MEN ENERGY AND METABOLISM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

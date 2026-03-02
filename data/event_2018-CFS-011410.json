@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-011410",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180913",
+  "reactions": [
+    "Hypersensitivity",
+    "Pruritus",
+    "Rash erythematous",
+    "Urticaria"
+  ],
+  "date_started": "20180907",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARNIER FRUCTIS SLEEK AND SHINE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARNIER FRUCTIS SLEEK AND SHINE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

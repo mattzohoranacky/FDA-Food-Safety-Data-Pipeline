@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-001919",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200211",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Dry skin",
+    "Hair texture abnormal",
+    "Pruritus",
+    "Skin exfoliation",
+    "Skin irritation",
+    "Skin ulcer",
+    "Trichorrhexis"
+  ],
+  "date_started": "20190525",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO-POO ORIGINAL ZERO LATHER CONDITIONING CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION ORIGINAL DAILY CREAM CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

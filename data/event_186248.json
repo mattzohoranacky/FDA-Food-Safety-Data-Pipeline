@@ -1,0 +1,39 @@
+{
+  "report_number": "186248",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150519",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "FATIGUE",
+    "NAUSEA"
+  ],
+  "date_started": "20150506",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HAAGEN DAZS COFFEE ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HAAGEN DAZS VANILLA RASPBERRY ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

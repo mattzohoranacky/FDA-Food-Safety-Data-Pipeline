@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-002707",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220224",
+  "reactions": [
+    "Decreased appetite",
+    "Diarrhoea",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20220211",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

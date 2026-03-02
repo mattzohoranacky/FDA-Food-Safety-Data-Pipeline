@@ -1,0 +1,44 @@
+{
+  "report_number": "2022-CFS-010942",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220713",
+  "reactions": [
+    "Abdominal pain",
+    "Chest pain",
+    "Chromaturia",
+    "Pyrexia",
+    "Rash generalised",
+    "Thirst"
+  ],
+  "date_started": "20220601",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST ARTICHOKE FLATBREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "algae omega supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

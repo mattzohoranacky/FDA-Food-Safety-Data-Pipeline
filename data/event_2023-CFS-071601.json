@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-071601",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20231226",
+  "reactions": [
+    "Chemical burn",
+    "Rash"
+  ],
+  "date_started": "20231117",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FORMULATOR SAMPLE SHOP ALOE POWDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FORMULATOR SAMPLE SHOP AZELAIC ACID LIPOSOME",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

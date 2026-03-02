@@ -1,0 +1,37 @@
+{
+  "report_number": "141331",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20110711",
+  "reactions": [
+    "CHOKING"
+  ],
+  "date_started": "20110630",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL PETITES CHOLECALCIFEROL  CALCIUM CITRATE FILM COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "report_number": "174048",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140214",
+  "reactions": [
+    "BLOOD PRESSURE SYSTOLIC INCREASED",
+    "NAUSEA"
+  ],
+  "date_started": "20140122",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE WOMENS PACK (CAL MAG D ADVANCED)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE WOMENS PACK (COMPLEX FOR HAIR, SKIN AND NAILS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE WOMENS PACK (DAILY MULTI)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE WOMENS PACK (OCEAN ESSENTIALS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "2022-CFS-016649",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20221129",
+  "reactions": [
+    "Atrial fibrillation",
+    "Blood pressure increased",
+    "Heart rate increased"
+  ],
+  "date_started": "20221014",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS EASE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS SLIM MICROBIOME ACTIVATING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS XFACTOR PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "report_number": "116861",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090813",
+  "reactions": [
+    "ACNE",
+    "BURNING SENSATION",
+    "ERYTHEMA",
+    "PRURITUS",
+    "RASH PUSTULAR",
+    "SWELLING"
+  ],
+  "date_started": "20090627",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

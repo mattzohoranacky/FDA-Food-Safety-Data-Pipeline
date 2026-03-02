@@ -1,0 +1,92 @@
+{
+  "report_number": "165735",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130520",
+  "reactions": [
+    "APHASIA",
+    "ASTHENIA",
+    "BLINDNESS",
+    "CEREBROVASCULAR ACCIDENT",
+    "DYSGRAPHIA",
+    "HEADACHE",
+    "NAUSEA",
+    "NEUROLOGICAL SYMPTOM",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20110901",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE NITEWORKS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ACTIVE FIBER COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CORE COMPLEX WITH COQ10 PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL ALOE CONCENTRATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL TEA CONCENTRATE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFELINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MEGA GARLIC PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN BAR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SNACK DEFENSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TRI-SHIELD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

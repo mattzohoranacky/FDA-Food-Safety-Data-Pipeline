@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-006034",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220426",
+  "reactions": [
+    "Diarrhoea"
+  ],
+  "date_started": "20220103",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Centrum Silver 50+ for Woman",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B12 B-Complex",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS LUCKY CHARMS CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

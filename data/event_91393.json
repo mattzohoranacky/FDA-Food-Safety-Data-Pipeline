@@ -1,0 +1,52 @@
+{
+  "report_number": "91393",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20070220",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "BEDRIDDEN",
+    "BODY TEMPERATURE FLUCTUATION",
+    "BODY TEMPERATURE INCREASED",
+    "CHAPPED LIPS",
+    "DIARRHOEA",
+    "DRY SKIN",
+    "FAECES DISCOLOURED",
+    "GASTROINTESTINAL PAIN",
+    "HEADACHE",
+    "HEPATIC PAIN",
+    "HEPATOMEGALY",
+    "MALAISE",
+    "MUSCLE SPASMS",
+    "MUSCULOSKELETAL STIFFNESS",
+    "NAIL DISORDER",
+    "NAUSEA",
+    "RENAL PAIN",
+    "TONGUE DISORDER",
+    "URINARY RETENTION"
+  ],
+  "date_started": "20070212",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN SMOOTH PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PETER PAN CRUNCHY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

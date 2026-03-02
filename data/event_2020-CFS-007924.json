@@ -1,0 +1,36 @@
+{
+  "report_number": "2020-CFS-007924",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20200817",
+  "reactions": [
+    "Asthenia",
+    "Diarrhoea",
+    "Headache",
+    "Lethargy",
+    "Loss of consciousness",
+    "Syncope"
+  ],
+  "date_started": "20200730",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE HERBAL EASE HERBAL LAXATIVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Unspecified probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

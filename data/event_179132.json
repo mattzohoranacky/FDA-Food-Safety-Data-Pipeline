@@ -1,0 +1,40 @@
+{
+  "report_number": "179132",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140905",
+  "reactions": [
+    "BURNING SENSATION",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FEELING HOT",
+    "HEADACHE",
+    "INSOMNIA",
+    "NERVOUSNESS",
+    "PAIN",
+    "PARAESTHESIA",
+    "RASH",
+    "SUNBURN"
+  ],
+  "date_started": "20140810",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAJOR TIME RELEASE NIACIN 500MG CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GLUCOSAMINE CHONDROITIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

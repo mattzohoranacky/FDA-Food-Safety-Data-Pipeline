@@ -1,0 +1,37 @@
+{
+  "report_number": "185576",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150416",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "DYSPNOEA",
+    "EXTRASYSTOLES",
+    "HEADACHE",
+    "HEART RATE INCREASED",
+    "NAUSEA"
+  ],
+  "date_started": "20150325",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MNS MAX C MAXIMUM APPETITE CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARK ENERGY DRINK MANGO-STRAWBERRY 14 CT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

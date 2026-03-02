@@ -1,0 +1,42 @@
+{
+  "report_number": "2020-CFS-002165",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200216",
+  "reactions": [
+    "Alopecia"
+  ],
+  "date_started": "20181101",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL STYLE CREAMS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

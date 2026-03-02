@@ -1,0 +1,36 @@
+{
+  "report_number": "2024-CFS-011767",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240925",
+  "reactions": [
+    "Dizziness",
+    "Dry mouth",
+    "Nausea"
+  ],
+  "date_started": "20240823",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WYLER'S CHICKEN POWDER",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

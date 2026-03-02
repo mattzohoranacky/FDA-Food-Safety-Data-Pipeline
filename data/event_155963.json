@@ -1,0 +1,88 @@
+{
+  "report_number": "155963",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120829",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ARTHRALGIA",
+    "FLATULENCE",
+    "GASTRITIS",
+    "HAEMATEMESIS",
+    "HAEMATOCHEZIA",
+    "HYPERHIDROSIS",
+    "MUSCLE SPASMS",
+    "MUSCULAR WEAKNESS",
+    "NAUSEA",
+    "OESOPHAGITIS",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20090721",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE CELL ACTIVATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE CELL-U-LOSS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE HERBAL TEA CONCENTRATE ORIGINAL",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE MULTIVITAMIN COMPLEX FORMULA 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE SNACK DEFENSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE TOTAL CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE FORMULA 1 DUTCH CHOCOLATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE PROTEIN BAR DELUXE CHOCOLATE PEANUT",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE PROTEIN BAR DELUXE CITRUS LEMON",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE PROTEIN BAR DELUXE VANILLA ALMOND",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

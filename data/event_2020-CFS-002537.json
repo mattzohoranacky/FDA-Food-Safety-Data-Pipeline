@@ -1,0 +1,27 @@
+{
+  "report_number": "2020-CFS-002537",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200220",
+  "reactions": [
+    "Botulism"
+  ],
+  "date_started": "20191021",
+  "consumer": {
+    "age": "15",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRO ADVANCED INFANT FORMULA CANNED",
+      "industry_code": "40M",
+      "industry_name": "Formula Raw Material"
+    }
+  ]
+}

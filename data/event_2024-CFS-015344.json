@@ -1,0 +1,42 @@
+{
+  "report_number": "2024-CFS-015344",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241204",
+  "reactions": [
+    "Pain"
+  ],
+  "date_started": "20241203",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GIA RUSSIA POTATO GNOCCI",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOCATELLI GRATED PARMESEAN",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PUBLIX WHIPPING CREAM",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PUBLIX MOCK TENDER STEAKS",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

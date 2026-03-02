@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-007103",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20200722",
+  "reactions": [
+    "Blood cholesterol abnormal",
+    "Blood triglycerides increased",
+    "Low density lipoprotein increased"
+  ],
+  "date_started": "19881201",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER WOMEN'S 50+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OSTEO Bl-FLEX JOINT & HEART",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

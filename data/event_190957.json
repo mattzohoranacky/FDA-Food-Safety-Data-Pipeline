@@ -1,0 +1,46 @@
+{
+  "report_number": "190957",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151027",
+  "reactions": [
+    "HEADACHE",
+    "PLICATED TONGUE",
+    "TONGUE DISCOLOURATION",
+    "TONGUE EXFOLIATION"
+  ],
+  "date_started": "20151021",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DENTYNE CINNAMON FIRE GUM",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL (NORDIC NATURAL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTC (ALIGN)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D (NATURE MADE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

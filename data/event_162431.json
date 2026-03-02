@@ -1,0 +1,38 @@
+{
+  "report_number": "162431",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130219",
+  "reactions": [
+    "DYSURIA",
+    "RECTAL HAEMORRHAGE",
+    "VAGINAL INFLAMMATION"
+  ],
+  "date_started": "20130212",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHILLIPS' COLON HEALTH BIFIDOBACTERIUM + LACTOBACILLUS CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLAXSEED OIL LINUM USITATISSIMUM SEED OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

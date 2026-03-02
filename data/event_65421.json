@@ -1,0 +1,36 @@
+{
+  "report_number": "65421",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040106",
+  "reactions": [
+    "ALOPECIA"
+  ],
+  "date_started": "20030821",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GATORADE SPORTS DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOOTHPASTE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

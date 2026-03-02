@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-001875",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200211",
+  "reactions": [
+    "Acne",
+    "Alopecia",
+    "Feeling abnormal",
+    "Hair texture abnormal",
+    "Headache",
+    "Skin exfoliation",
+    "Skin ulcer",
+    "Visual acuity reduced"
+  ],
+  "date_started": "20200208",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW-POO DELIGHT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO-POO ORIGINAL CONDITIONING CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

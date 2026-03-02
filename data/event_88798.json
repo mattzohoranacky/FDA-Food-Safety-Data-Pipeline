@@ -1,0 +1,42 @@
+{
+  "report_number": "88798",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20060916",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "ASTHENIA",
+    "DIARRHOEA",
+    "FATIGUE",
+    "FLATULENCE",
+    "GASTROINTESTINAL DISORDER",
+    "MALAISE"
+  ],
+  "date_started": "20060910",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH EXPRESS SPINACH FRESH SPINACH (BABY SPINACH)",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SANDWICH",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

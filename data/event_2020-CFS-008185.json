@@ -1,0 +1,50 @@
+{
+  "report_number": "2020-CFS-008185",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200824",
+  "reactions": [
+    "Aphasia",
+    "Blood creatinine increased",
+    "Cardiac enzymes increased",
+    "Chest discomfort",
+    "Dyspnoea",
+    "Hypoaesthesia",
+    "Malaise",
+    "Paraesthesia"
+  ],
+  "date_started": "20200721",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEYOND RAW CHEMISTRY LABS CREATINE HCL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEYOND RAW LIT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GHOST SIZE (NON COMPANY) POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED PROTEIN PRODUCT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

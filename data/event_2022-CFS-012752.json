@@ -1,0 +1,44 @@
+{
+  "report_number": "2022-CFS-012752",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220816",
+  "reactions": [
+    "Urinary tract infection"
+  ],
+  "date_started": "20220729",
+  "consumer": {
+    "age": "89.3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCERNA ORIGINAL",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ascorbic acid",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "lutein",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "omege-3 acid ethyl esters",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

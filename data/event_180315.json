@@ -1,0 +1,46 @@
+{
+  "report_number": "180315",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20141025",
+  "reactions": [
+    "DECREASED APPETITE",
+    "DELIRIUM",
+    "DISORIENTATION",
+    "FOREIGN BODY TRAUMA",
+    "INSOMNIA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20141022",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POWDERED CAFFEINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CREATINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MEDIUM CHAIN TRIGLYCERIDE (MCT) OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHEY ISOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "191321",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20151109",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BIOPSY LIVER ABNORMAL",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHROMATURIA",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "DRUG-INDUCED LIVER INJURY",
+    "FATIGUE",
+    "JAUNDICE",
+    "PRURITUS"
+  ],
+  "date_started": "20140704",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

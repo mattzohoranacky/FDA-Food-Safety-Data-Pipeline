@@ -1,0 +1,60 @@
+{
+  "report_number": "2020-CFS-010974",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20201028",
+  "reactions": [
+    "Abdominal distension",
+    "Aphagia",
+    "Gastrointestinal disorder",
+    "Large intestinal stenosis",
+    "Nausea",
+    "Retching"
+  ],
+  "date_started": "20200909",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ABSORBABLE CALCIUM 600MG PLUS MAGNESIUM 300MG & VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE HIGH POTENCY MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE MAGNESIUM CITRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ODORLESS GARLIC EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Prickly Peach dietary supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Unspecified high dosage of iron",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-004701",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240429",
+  "reactions": [
+    "Diarrhoea",
+    "Illness",
+    "Salmonellosis",
+    "Tethered oral tissue"
+  ],
+  "date_started": "20240415",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NESTLE ALFAMINO POWDERED INFANT FORMULA WITH IRON",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

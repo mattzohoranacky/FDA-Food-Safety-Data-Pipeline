@@ -1,0 +1,51 @@
+{
+  "report_number": "2020-CFS-001841",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200209",
+  "reactions": [
+    "Rash erythematous",
+    "Skin irritation",
+    "Skin reaction",
+    "Skin sensitisation"
+  ],
+  "date_started": "20200107",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL B'LEAVE IN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW POO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL MISTER RIGHT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL WAVEMAKER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

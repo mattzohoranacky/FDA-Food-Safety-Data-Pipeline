@@ -1,0 +1,76 @@
+{
+  "report_number": "2022-CFS-001953",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220208",
+  "reactions": [
+    "Balance disorder",
+    "Dizziness",
+    "Dry mouth",
+    "Paranoia",
+    "Tremor"
+  ],
+  "date_started": "20220208",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEGAL JANE PREMIUM HEMP FLOWER DELTA 8 BLUE RASPBERRY CUBE",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B 12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B6",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Calcium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Glucosamine",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Herbal teas",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Omega 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Womens multi vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

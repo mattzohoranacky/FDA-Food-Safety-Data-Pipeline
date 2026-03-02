@@ -1,0 +1,45 @@
+{
+  "report_number": "2024-CFS-005044",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240510",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Generalised tonic-clonic seizure",
+    "Glossodynia",
+    "Loss of consciousness",
+    "Swollen tongue",
+    "Tongue discolouration",
+    "Urticaria"
+  ],
+  "date_started": "20240419",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORTHO MOLECULAR PRODUCTS LIQUID VITAMIN D3 WITH K2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ARMOUR THYROID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GAIA HERBS VITEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

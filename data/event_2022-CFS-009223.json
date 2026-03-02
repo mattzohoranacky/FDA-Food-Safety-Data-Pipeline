@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-009223",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220602",
+  "reactions": [
+    "Abdominal pain",
+    "Decreased appetite",
+    "Diarrhoea",
+    "Faeces discoloured",
+    "Fatigue",
+    "Flatulence",
+    "Nausea"
+  ],
+  "date_started": "20220526",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One-A-Day Women's multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

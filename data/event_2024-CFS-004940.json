@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-004940",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240507",
+  "reactions": [
+    "Abdominal pain",
+    "Anaphylactic reaction",
+    "Cough",
+    "Retching",
+    "Wheezing"
+  ],
+  "date_started": "20240503",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOODIE GIRL BIRTHDAY CAKE SANDWICH COOKIE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

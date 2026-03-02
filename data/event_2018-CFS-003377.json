@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-003377",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180226",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal",
+    "Menstruation irregular",
+    "Pruritus generalised",
+    "Rash",
+    "Trichorrhexis"
+  ],
+  "date_started": "20180118",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT DEEP SMOOTHING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

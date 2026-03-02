@@ -1,0 +1,28 @@
+{
+  "report_number": "131356",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100518",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "HEART RATE INCREASED",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20100509",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "report_number": "2019-CFS-000053",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20190103",
+  "reactions": [
+    "Alopecia",
+    "Amnesia",
+    "Diarrhoea",
+    "Dysgeusia",
+    "Dyspnoea",
+    "Thirst",
+    "Weight decreased"
+  ],
+  "date_started": "20181224",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WELLPATH RENEW MULTI COLLAGEN PROTEIN TYPES I,II,III,V,X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

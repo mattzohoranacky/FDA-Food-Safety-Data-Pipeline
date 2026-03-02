@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-002166",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230301",
+  "reactions": [
+    "Alopecia",
+    "Trichorrhexis"
+  ],
+  "date_started": "20230227",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX NUMBER 3 HAIR PERFECTOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "shilajit + liquid minerals",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

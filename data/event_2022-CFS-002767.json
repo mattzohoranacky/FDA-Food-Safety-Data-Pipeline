@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-002767",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220225",
+  "reactions": [
+    "Arthritis bacterial",
+    "Bacterial test positive",
+    "Haematoma",
+    "Malaise",
+    "Pyrexia",
+    "Staphylococcal abscess"
+  ],
+  "date_started": "20220131",
+  "consumer": {
+    "age": "6",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC PRO ADVANCE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

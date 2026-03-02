@@ -1,0 +1,52 @@
+{
+  "report_number": "214254",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170622",
+  "reactions": [
+    "Abdominal distension",
+    "Decreased appetite",
+    "Eye swelling",
+    "Periorbital contusion",
+    "Sleep disorder"
+  ],
+  "date_started": "20170617",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROXEED PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Lutein",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "equat4e complete multivitamin adults 50+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

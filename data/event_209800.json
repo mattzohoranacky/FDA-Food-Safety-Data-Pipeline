@@ -1,0 +1,35 @@
+{
+  "report_number": "209800",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170327",
+  "reactions": [
+    "DERMATITIS",
+    "DISCOMFORT",
+    "ERYTHEMA",
+    "PAIN",
+    "PAIN OF SKIN",
+    "SKIN IRRITATION"
+  ],
+  "date_started": "20170326",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURIFYING CREAM CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

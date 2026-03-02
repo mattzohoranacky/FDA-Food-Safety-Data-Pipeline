@@ -1,0 +1,68 @@
+{
+  "report_number": "166855",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130620",
+  "reactions": [
+    "DERMATITIS ALLERGIC",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20130524",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "21 DAY HERBAL CLEANSING PROGRAM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELL ACTIVATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLORAFIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FORMULA 2 MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1 COOKIES & CREAM",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL TEA CONCENTRATE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN DRINK MIX",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

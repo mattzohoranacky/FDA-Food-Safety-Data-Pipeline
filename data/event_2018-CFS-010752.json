@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-010752",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180827",
+  "reactions": [
+    "Blood magnesium abnormal",
+    "Fall",
+    "Head injury",
+    "Heart rate increased",
+    "Laceration",
+    "Loss of consciousness",
+    "Oxygen consumption decreased"
+  ],
+  "date_started": "20180720",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN ATP IGNITE MIXED BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

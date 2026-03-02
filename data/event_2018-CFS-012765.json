@@ -1,0 +1,79 @@
+{
+  "report_number": "2018-CFS-012765",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20181019",
+  "reactions": [
+    "Abdominal pain lower",
+    "Decreased appetite",
+    "Diarrhoea",
+    "Diverticulitis",
+    "Hypotension",
+    "Nausea",
+    "Pyrexia"
+  ],
+  "date_started": "20180711",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOBAR CRANBERRY ORANGE",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE FIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE SLAM STRAWBERRY BASIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE SPARK BLUE RASPBERRY STICKS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE SPARK WATERMELON STICKS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CATALYST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL CLEANSE DIETARY SUPPLEMENT (BUNDLE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL CLEANSE PROBIOTIC DIETARY SUPPLEMENT (BUNDLE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MNS 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

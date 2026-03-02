@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-011311",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240911",
+  "reactions": [
+    "Adverse event"
+  ],
+  "date_started": "20240911",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRICOST WHEY PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NUTRICOST WHEY PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

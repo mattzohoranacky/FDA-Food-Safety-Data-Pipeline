@@ -1,0 +1,45 @@
+{
+  "report_number": "159405",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121123",
+  "reactions": [
+    "DECREASED APPETITE",
+    "PANCREATITIS",
+    "STOMACH DISCOMFORT"
+  ],
+  "date_started": "20100404",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAPOWER VITAMIN SUPPLEMENT ANTIOXIDANT TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAPOWER VITAMIN SUPPLEMENT ENERGIZER TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAPOWER VITAMIN SUPPLEMENT SUPERJUICE TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAPOWER VITAMIN SUPPLEMENTS MINERAL TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

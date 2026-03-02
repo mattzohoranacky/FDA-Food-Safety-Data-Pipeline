@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-008645",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200906",
+  "reactions": [
+    "Choking",
+    "Dyspnoea"
+  ],
+  "date_started": "20200824",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SNAPDRAGON VIETNAMESE PHO",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Snapdragon Vietnamese Pho Noodles",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "185152",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20150420",
+  "reactions": [
+    "ANGIOEDEMA",
+    "BLOOD PRESSURE DECREASED",
+    "CHOKING",
+    "DYSPNOEA",
+    "FOOD ALLERGY",
+    "PHARYNGEAL OEDEMA",
+    "PRURITUS",
+    "SWOLLEN TONGUE",
+    "VOMITING"
+  ],
+  "date_started": "20150417",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRAFT SEASONED GRATED PARMESAN CHEESE HOT PEPPER TRIO",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SPAGHETTI",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    }
+  ]
+}

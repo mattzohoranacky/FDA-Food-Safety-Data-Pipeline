@@ -1,0 +1,31 @@
+{
+  "report_number": "2025-CFS-005504",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250413",
+  "reactions": [
+    "Diarrhoea",
+    "Vomiting"
+  ],
+  "date_started": "20250408",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEATI MUSHROOM ROOT CUTLETS CRISPY",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

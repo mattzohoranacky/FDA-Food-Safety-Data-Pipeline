@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-016086",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241223",
+  "reactions": [
+    "Diarrhoea",
+    "Dyspnoea",
+    "Fatigue",
+    "Hypersensitivity",
+    "Nausea",
+    "Pain",
+    "Swelling"
+  ],
+  "date_started": "20241219",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ICE MOUNTAIN SPRING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

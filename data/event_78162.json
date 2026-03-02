@@ -1,0 +1,30 @@
+{
+  "report_number": "78162",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050324",
+  "reactions": [
+    "BLISTER",
+    "ERYTHEMA",
+    "SWELLING"
+  ],
+  "date_started": "20050321",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLGATE SIMPLY WHITE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOOTHPASTE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-015660",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241211",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Food poisoning",
+    "Headache",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20241210",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOT OR COLD TERIYAKI VEGETABLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FRESH EXPRESS HOT OR COLD KIT TERIYAKI VEGETABLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-011000",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201025",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Fatigue",
+    "Nausea"
+  ],
+  "date_started": "20201008",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLE TRUTH ORGANICS 4 CHEESE PIZZA",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLE TRUTH ORGANICS BROCCOLI FLORETS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLE TRUTH ORGANICS GROUND TURKEY",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "report_number": "212044",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20170517",
+  "reactions": [
+    "Thrombocytopenia"
+  ],
+  "date_started": "20170331",
+  "consumer": {
+    "age": "91",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHEWABLE SUPER PAPAYA ENZYME PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOLIC ACID 800 MCG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TIMED RELEASE B-12 1000 MCG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIPLE SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

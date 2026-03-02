@@ -1,0 +1,77 @@
+{
+  "report_number": "2024-CFS-010941",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240827",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Blood alkaline phosphatase increased",
+    "Blood bilirubin increased",
+    "Contusion",
+    "Drug-induced liver injury",
+    "Fatigue",
+    "Gamma-glutamyltransferase increased",
+    "Jaundice",
+    "Nausea",
+    "Pruritus",
+    "Red blood cell sedimentation rate increased"
+  ],
+  "date_started": "20240723",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE 7 DAY FRESH START",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ENERGYFIZZ GINSENG FIZZ STICKS SWEET CITRUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE GREENSYNERGY ELIXIR, CITRUS FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE IMMUNITYFIZZ VITAMIN C FIZZ STICK ROSEMARY FIG FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE INNERCALM ADAPTOGENIC DE-STRESS POWDER WITH ASHWAGANDHA AND SAFFRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE MINDHEALTH FOCUS SUPER POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE MUSHROOM POWDER DAILY DEFENSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE SKINELIXIR COLLAGEN BUILDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

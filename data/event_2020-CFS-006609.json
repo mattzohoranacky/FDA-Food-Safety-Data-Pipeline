@@ -1,0 +1,39 @@
+{
+  "report_number": "2020-CFS-006609",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200705",
+  "reactions": [
+    "Abdominal pain upper",
+    "Dizziness",
+    "Headache",
+    "Vomiting"
+  ],
+  "date_started": "20200705",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCALLOPS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

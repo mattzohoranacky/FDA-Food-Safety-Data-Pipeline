@@ -1,0 +1,31 @@
+{
+  "report_number": "170078",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130918",
+  "reactions": [
+    "Lip swelling",
+    "Staphylococcal infection",
+    "Swelling face"
+  ],
+  "date_started": "20130828",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI KEY LIME FLIPS",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHOBANI KEY LIME FLIPS",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

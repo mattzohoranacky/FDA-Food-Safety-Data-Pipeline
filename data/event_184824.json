@@ -1,0 +1,57 @@
+{
+  "report_number": "184824",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150410",
+  "reactions": [
+    "DYSPNOEA",
+    "PARAESTHESIA",
+    "RASH ERYTHEMATOUS"
+  ],
+  "date_started": "20150310",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED PROGRAM DIETARY SUPPLEMENT PACKET BIOTIN 5000",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED PROGRAM DIETARY SUPPLEMENT PACKET CLA 1000",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED PROGRAM DIETARY SUPPLEMENT PACKET WATEREX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED PROGRAM DIETARY SUPPLEMENT PACKET WOMEN'S ULTRA MEGA ACTIVE WITHOUT IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED PROGRAM DIETARY SUPPLEMENT PACKET X-12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RIPPED WHEY PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

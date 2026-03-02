@@ -1,0 +1,38 @@
+{
+  "report_number": "144961",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20111027",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "DIZZINESS",
+    "DYSPEPSIA",
+    "EPISTAXIS",
+    "HEADACHE",
+    "HOT FLUSH",
+    "MALAISE",
+    "NAUSEA"
+  ],
+  "date_started": "20111002",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE VITAMIN C 1000 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

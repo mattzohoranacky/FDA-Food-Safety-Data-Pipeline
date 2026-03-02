@@ -1,0 +1,36 @@
+{
+  "report_number": "206004",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170104",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "HEADACHE",
+    "HEPATIC PAIN",
+    "HOSPITALISATION",
+    "NAUSEA",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20161124",
+  "consumer": {
+    "age": "62.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAD+ CELL REGENERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TAURINE 1000MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-004492",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190501",
+  "reactions": [
+    "Abdominal pain",
+    "Abdominal pain upper",
+    "Chromaturia",
+    "Dehydration",
+    "Fatigue",
+    "Jaundice",
+    "Nausea",
+    "Unresponsive to stimuli",
+    "Vomiting"
+  ],
+  "date_started": "20190301",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT DRINK MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT MAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

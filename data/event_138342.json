@@ -1,0 +1,32 @@
+{
+  "report_number": "138342",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110421",
+  "reactions": [
+    "ERYTHEMA",
+    "PARAESTHESIA"
+  ],
+  "date_started": "20110331",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARK ENERGY DRINK - CHERRY (CANISTER)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MEAL REPLACEMENT SHAKE - CHOCOLATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

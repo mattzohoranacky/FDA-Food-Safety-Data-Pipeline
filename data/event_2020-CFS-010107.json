@@ -1,0 +1,44 @@
+{
+  "report_number": "2020-CFS-010107",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201009",
+  "reactions": [
+    "Anaemia",
+    "Cervicitis",
+    "Colon cancer",
+    "Death",
+    "Diverticulitis",
+    "Hepatic lesion",
+    "Large intestine polyp",
+    "Leiomyoma",
+    "Lymphadenopathy",
+    "Myocardial infarction",
+    "Neuropathy peripheral",
+    "Ovarian cancer stage III",
+    "Small intestinal obstruction"
+  ],
+  "date_started": "20150512",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

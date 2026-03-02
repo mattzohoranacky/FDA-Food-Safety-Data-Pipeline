@@ -1,0 +1,53 @@
+{
+  "report_number": "2019-CFS-004514",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190504",
+  "reactions": [
+    "Abdominal pain upper",
+    "Acne",
+    "Alopecia",
+    "Bone pain",
+    "Disturbance in attention",
+    "Dyspepsia",
+    "Dyspnoea",
+    "Eye pruritus",
+    "Fatigue",
+    "Feeling cold",
+    "Feeling of body temperature change",
+    "Headache",
+    "Insomnia",
+    "Myalgia",
+    "Nasal discomfort",
+    "Night sweats",
+    "Oesophageal pain",
+    "Pain",
+    "Rash",
+    "Skin exfoliation",
+    "Speech disorder",
+    "Weight decreased",
+    "Yellow skin"
+  ],
+  "date_started": "20181029",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY 5HTP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTREANCE REDICALM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

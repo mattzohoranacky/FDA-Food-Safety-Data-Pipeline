@@ -1,0 +1,42 @@
+{
+  "report_number": "216450",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170811",
+  "reactions": [
+    "BLISTER",
+    "BURNING SENSATION",
+    "CHAPPED LIPS",
+    "CHEMICAL INJURY",
+    "ERYTHEMA",
+    "LIP BLISTER",
+    "LIP EXFOLIATION",
+    "ORAL DISCOMFORT",
+    "SCAR",
+    "SECRETION DISCHARGE",
+    "SKIN IRRITATION",
+    "SUNBURN"
+  ],
+  "date_started": "20170808",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIPSENSE GLOSS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIPSENSE LIPSTICK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

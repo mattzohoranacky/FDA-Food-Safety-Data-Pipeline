@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-008972",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220527",
+  "reactions": [
+    "Abdominal pain upper",
+    "Vomiting"
+  ],
+  "date_started": "20220526",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF NATURAL CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Whey Protein",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

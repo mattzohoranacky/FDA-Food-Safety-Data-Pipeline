@@ -1,0 +1,38 @@
+{
+  "report_number": "2019-CFS-005097",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190523",
+  "reactions": [
+    "Headache",
+    "Pruritus generalised",
+    "Urticaria"
+  ],
+  "date_started": "20190208",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALTRATE 600 PLUS D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY COLLAGEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMEN'S 50 PLUS HEALTHY ADVANTAGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "211419",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170502",
+  "reactions": [
+    "Blood creatinine increased",
+    "Blood triglycerides increased"
+  ],
+  "date_started": "20170105",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE LUTEIN 40MG SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNKNOWN SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

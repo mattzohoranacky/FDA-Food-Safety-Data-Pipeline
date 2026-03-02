@@ -1,0 +1,45 @@
+{
+  "report_number": "2023-CFS-009552",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230909",
+  "reactions": [
+    "Aneurysm",
+    "Dysphagia",
+    "Eructation",
+    "Respiratory disorder",
+    "Sensation of foreign body"
+  ],
+  "date_started": "20230606",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE ENERGY B12 GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE VITAMIN D3 5000 IU GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE IRON 18 MG GUMMIES WITH VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE MULTI FOR HER GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

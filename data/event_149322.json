@@ -1,0 +1,64 @@
+{
+  "report_number": "149322",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120227",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ACUTE HEPATIC FAILURE",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "ASTHENIA",
+    "BLOOD BILIRUBIN INCREASED",
+    "BODY TEMPERATURE INCREASED",
+    "CONFUSIONAL STATE",
+    "HAEMOGLOBIN DECREASED",
+    "HEPATIC NECROSIS",
+    "INTERNATIONAL NORMALISED RATIO DECREASED",
+    "JAUNDICE",
+    "MALAISE",
+    "NAUSEA",
+    "SEPSIS",
+    "VOMITING",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20110602",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAT BURNER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STACKER 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WOMENS ONE A DAY MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

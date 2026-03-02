@@ -1,0 +1,54 @@
+{
+  "report_number": "2024-CFS-010461",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240807",
+  "reactions": [
+    "Swelling"
+  ],
+  "date_started": "20240511",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE CRUSHED PINEAPPLE IN 100% JUICE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "25 MG FERRIOUS OXIDE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "300 MG GROUND EGG SHELL",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "300 MG POTASSIUM CHLORIDE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE AND A HALF TSP BAKING SODA",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE EIGHTH TSP MAGNESIUM OXIDE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-013101",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20201229",
+  "reactions": [
+    "Liver disorder",
+    "Liver function test abnormal"
+  ],
+  "date_started": "20200301",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BULLETPROOF 360 INC BRAIN OCTANE OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BULLETPROOF 360 INC UNFLAVORED COLLAGEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BULLETPROOF 360 INC XCT OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

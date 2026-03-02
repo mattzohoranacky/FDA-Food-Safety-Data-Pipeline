@@ -1,0 +1,42 @@
+{
+  "report_number": "2019-CFS-006384",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20190620",
+  "reactions": [
+    "Nausea"
+  ],
+  "date_started": "20190501",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM MULTIGUMMIES WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12 [CYANOCOBALAMIN]",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D [COLECALCIFEROL]",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN E [TOCOPHERYL ACETATE]",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

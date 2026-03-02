@@ -1,0 +1,50 @@
+{
+  "report_number": "199739",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160801",
+  "reactions": [
+    "ALOPECIA",
+    "ALOPECIA SCARRING"
+  ],
+  "date_started": "20120302",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN FIG CLEANSING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM MULTIVITAMIN FOR WOMEN 50+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FINEST NUTRITION BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FINEST NUTRITION FLAXSEED OIL SOFT GELS (1300 MG)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RENEWLIFE WOMEN ' S CARE ULTIMATE FLORA PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

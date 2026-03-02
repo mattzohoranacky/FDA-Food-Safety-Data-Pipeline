@@ -1,0 +1,37 @@
+{
+  "report_number": "2019-CFS-010762",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20191024",
+  "reactions": [
+    "Colitis",
+    "Large intestinal haemorrhage"
+  ],
+  "date_started": "20190920",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHILLIPS' COLON HEALTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B (VITAMIN B COMPLEX)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C & ROSEHIP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

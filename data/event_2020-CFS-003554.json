@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-003554",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200317",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal",
+    "Pruritus"
+  ],
+  "date_started": "20200218",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GHOST BOND GLUE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOT 2 B GLUED SPRAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

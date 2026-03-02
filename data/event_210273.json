@@ -1,0 +1,26 @@
+{
+  "report_number": "210273",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170414",
+  "reactions": [
+    "FOOD POISONING",
+    "MALAISE"
+  ],
+  "date_started": "20170222",
+  "consumer": {
+    "age": "66.83",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAIRY PURE MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

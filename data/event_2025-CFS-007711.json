@@ -1,0 +1,44 @@
+{
+  "report_number": "2025-CFS-007711",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220830",
+  "reactions": [
+    "Abdominal pain",
+    "Hepatic neoplasm"
+  ],
+  "date_started": "20211224",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST OOEY GOEY MIDNIGHT FUDGE ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "report_number": "179064",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140904",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANOREXIA",
+    "ANTI-HBS ANTIBODY POSITIVE",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CARCINOID TUMOUR",
+    "CERULOPLASMIN INCREASED",
+    "CHILLS",
+    "CHROMATURIA",
+    "EOSINOPHIL COUNT INCREASED",
+    "FAECES DISCOLOURED",
+    "FATIGUE",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "NAUSEA",
+    "NEUTROPHIL COUNT INCREASED",
+    "PRURITUS",
+    "SPLENOMEGALY"
+  ],
+  "date_started": "20130901",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SASQUATCH DNA PURE MASS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SILYBUM MARIANUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

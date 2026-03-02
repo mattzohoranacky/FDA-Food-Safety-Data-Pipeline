@@ -1,0 +1,30 @@
+{
+  "report_number": "78729",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050602",
+  "reactions": [
+    "PHARYNGITIS"
+  ],
+  "date_started": "20050401",
+  "consumer": {
+    "age": "76.18",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALCIUM CITRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTER SHELL CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

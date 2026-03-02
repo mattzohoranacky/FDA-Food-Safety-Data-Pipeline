@@ -1,0 +1,38 @@
+{
+  "report_number": "72312",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20040921",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "BONE CANCER METASTATIC",
+    "HOSPITALISATION",
+    "HYPERHIDROSIS",
+    "KIDNEY INFECTION",
+    "RIGORS"
+  ],
+  "date_started": "20040501",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

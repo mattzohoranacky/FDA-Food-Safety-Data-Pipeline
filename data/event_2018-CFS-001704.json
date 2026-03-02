@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-001704",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180201",
+  "reactions": [
+    "Blood pressure increased",
+    "Cerebrovascular accident",
+    "Dizziness",
+    "Loss of consciousness",
+    "Penile haemorrhage",
+    "Thalamus haemorrhage"
+  ],
+  "date_started": "20170304",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXTENZE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Steel-Libido Red",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

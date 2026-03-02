@@ -1,0 +1,31 @@
+{
+  "report_number": "114257",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090312",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BURNING SENSATION",
+    "Biliary dyskinesia",
+    "INTESTINAL FUNCTIONAL DISORDER",
+    "VOMITING"
+  ],
+  "date_started": "20090221",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEL REY TORTILLA DE HARINA FAJITA SIZE FLOUR TORTILLAS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

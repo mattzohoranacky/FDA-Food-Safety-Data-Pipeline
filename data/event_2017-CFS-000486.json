@@ -1,0 +1,31 @@
+{
+  "report_number": "2017-CFS-000486",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20170929",
+  "reactions": [
+    "Blood ketone body increased",
+    "Dehydration",
+    "Glucose tolerance impaired",
+    "Glycosylated haemoglobin increased",
+    "Migraine",
+    "Neurological symptom",
+    "Protein urine present"
+  ],
+  "date_started": "20161215",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELEASE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

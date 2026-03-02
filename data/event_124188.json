@@ -1,0 +1,39 @@
+{
+  "report_number": "124188",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090825",
+  "reactions": [
+    "Adverse event",
+    "CEREBROVASCULAR ACCIDENT",
+    "DEAFNESS",
+    "DIZZINESS",
+    "DYSARTHRIA",
+    "DYSTONIA",
+    "ENERGY INCREASED",
+    "LETHARGY",
+    "LOSS OF CONSCIOUSNESS",
+    "MOVEMENT DISORDER",
+    "VISION BLURRED",
+    "VISUAL ACUITY REDUCED"
+  ],
+  "date_started": "20090721",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOS - ENERGY DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

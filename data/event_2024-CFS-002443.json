@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-002443",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240226",
+  "reactions": [
+    "Abdominal pain upper",
+    "Bacterial infection",
+    "Blood urine present",
+    "Chills",
+    "Colitis",
+    "Diarrhoea",
+    "Food poisoning",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20240217",
+  "consumer": {
+    "age": "42.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKETSIDE PRE PACKAGED LETTUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

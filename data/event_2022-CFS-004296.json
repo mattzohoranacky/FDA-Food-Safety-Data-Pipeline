@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-004296",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220324",
+  "reactions": [
+    "Diarrhoea",
+    "Gastrointestinal disorder",
+    "Milk allergy"
+  ],
+  "date_started": "20190827",
+  "consumer": {
+    "age": "20",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC DMO",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ELECARE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

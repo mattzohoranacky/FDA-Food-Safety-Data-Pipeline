@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-002135",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20200213",
+  "reactions": [
+    "Choking",
+    "Dyspnoea",
+    "Foreign body",
+    "Speech disorder"
+  ],
+  "date_started": "20200207",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL CALCIUM + D SLOW RELEASE 1200",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MINERAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-001604",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220202",
+  "reactions": [
+    "Chills",
+    "Erythema",
+    "Fatigue",
+    "Nausea",
+    "Urticaria",
+    "Vomiting"
+  ],
+  "date_started": "20220123",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOCHEM 100% WHEY ISOLATE PROTEIN NATURAL FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Milk/Berries/Walnuts",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

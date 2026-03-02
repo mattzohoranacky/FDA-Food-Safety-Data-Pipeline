@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-002571",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250301",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Nausea",
+    "Rash",
+    "Swelling",
+    "Vomiting"
+  ],
+  "date_started": "20250228",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TILAMOOK MUDSLIDE ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

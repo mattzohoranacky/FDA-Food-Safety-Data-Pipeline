@@ -1,0 +1,43 @@
+{
+  "report_number": "2024-CFS-000887",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240119",
+  "reactions": [
+    "Erythema",
+    "Hypersensitivity",
+    "Pharyngeal swelling",
+    "Tachycardia",
+    "Vomiting"
+  ],
+  "date_started": "20240112",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AG1 WHOLE FOOD NON SPECIFIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "protein shake",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

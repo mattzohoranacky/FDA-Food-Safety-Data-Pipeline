@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-001519",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180117",
+  "reactions": [
+    "Grand mal convulsion",
+    "Mydriasis"
+  ],
+  "date_started": "20180116",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHIQUITA BANANAS",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE BANANAS",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRUIT COCKTAIL",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

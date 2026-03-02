@@ -1,0 +1,57 @@
+{
+  "report_number": "2019-CFS-012373",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191218",
+  "reactions": [
+    "Dermatitis contact",
+    "Hypersensitivity",
+    "Pruritus",
+    "Swelling face"
+  ],
+  "date_started": "20191215",
+  "consumer": {
+    "age": "36.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRYOLAN  FOUNDATION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRYOLAN  PRIMER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRYOLAN PROFESSIONAL MAKEUP PRODUCT NEBULA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Cod liver oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "collagen supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "prebiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

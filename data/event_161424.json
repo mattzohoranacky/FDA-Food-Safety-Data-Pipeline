@@ -1,0 +1,67 @@
+{
+  "report_number": "161424",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130123",
+  "reactions": [
+    "ANXIETY",
+    "ASTHENIA",
+    "BREATH SOUNDS ABNORMAL",
+    "CARDIAC MURMUR",
+    "CHRONIC OBSTRUCTIVE PULMONARY DISEASE",
+    "DEHYDRATION",
+    "DEPRESSED MOOD",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "ELECTROCARDIOGRAM ABNORMAL",
+    "ELECTROCARDIOGRAM P WAVE ABNORMAL",
+    "GASTRITIS",
+    "HEART RATE INCREASED",
+    "HYPOTENSION",
+    "MALAISE",
+    "MYOCARDIAL INFARCTION",
+    "NAUSEA",
+    "PAIN",
+    "PRODUCTIVE COUGH",
+    "SINUS TACHYCARDIA",
+    "VOMITING",
+    "WHEEZING"
+  ],
+  "date_started": "20121222",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ASTAFX SUPER FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ULTIMATE H.A.",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

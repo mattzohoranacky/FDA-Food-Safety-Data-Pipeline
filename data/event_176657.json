@@ -1,0 +1,54 @@
+{
+  "report_number": "176657",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140521",
+  "reactions": [
+    "ASTHENIA",
+    "BURNING SENSATION",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "LIP SWELLING",
+    "SKIN IRRITATION"
+  ],
+  "date_started": "20140428",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM BIOTIN 5000",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM CLA 1000",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM WATEREX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM WOMEN'S ULTRA MEGA ACTIVE WITHOUT IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM X-12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

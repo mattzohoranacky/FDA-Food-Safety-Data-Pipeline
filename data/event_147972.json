@@ -1,0 +1,33 @@
+{
+  "report_number": "147972",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120118",
+  "reactions": [
+    "DERMATITIS CONTACT",
+    "Hypersensitivity",
+    "PRURITUS",
+    "RASH"
+  ],
+  "date_started": "20120114",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVEDA BODY LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVEDA SHAKRA BODY MIST",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

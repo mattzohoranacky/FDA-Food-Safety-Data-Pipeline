@@ -1,0 +1,45 @@
+{
+  "report_number": "2020-CFS-009139",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200922",
+  "reactions": [
+    "Abdominal pain",
+    "Adnexa uteri mass",
+    "Blood creatinine increased",
+    "Bone disorder",
+    "Death",
+    "Gallbladder oedema",
+    "Hydronephrosis",
+    "Ileus",
+    "Lymphadenopathy",
+    "Ovarian cancer stage III",
+    "Pelvic inflammatory disease",
+    "Pregnancy",
+    "Renal failure acute",
+    "Thrombocytopenia"
+  ],
+  "date_started": "20061121",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

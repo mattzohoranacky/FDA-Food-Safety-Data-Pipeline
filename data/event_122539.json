@@ -1,0 +1,36 @@
+{
+  "report_number": "122539",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20091230",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD PHOSPHORUS DECREASED",
+    "CHROMATURIA",
+    "MYALGIA",
+    "PAIN IN EXTREMITY",
+    "POLLAKIURIA",
+    "PROTEIN TOTAL DECREASED",
+    "RHABDOMYOLYSIS",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20091218",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MITOTROPIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

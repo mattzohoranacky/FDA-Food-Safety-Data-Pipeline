@@ -1,0 +1,36 @@
+{
+  "report_number": "190830",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151022",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "COELIAC DISEASE",
+    "HYPERSENSITIVITY",
+    "MENORRHAGIA",
+    "PAIN"
+  ],
+  "date_started": "20150901",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHEERIOS REGULAR",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

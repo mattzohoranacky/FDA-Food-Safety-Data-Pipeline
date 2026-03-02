@@ -1,0 +1,34 @@
+{
+  "report_number": "2020-CFS-005641",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Congenital Anomaly",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200602",
+  "reactions": [
+    "Abortion spontaneous"
+  ],
+  "date_started": "20200531",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BADIA GROUND NUTMEG NUEZ MOSCADA MOLIDA",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Prenatal vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

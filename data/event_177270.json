@@ -1,0 +1,42 @@
+{
+  "report_number": "177270",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140619",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "APHAGIA",
+    "CHEST PAIN",
+    "DIARRHOEA",
+    "EYE SWELLING",
+    "URTICARIA"
+  ],
+  "date_started": "20140605",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUBIOTICS CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM VITAMIN D CALCIUM D3 CALCIUM CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

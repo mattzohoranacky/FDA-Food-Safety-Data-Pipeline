@@ -1,0 +1,40 @@
+{
+  "report_number": "193970",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160225",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "HEPATOTOXICITY",
+    "LIVER INJURY"
+  ],
+  "date_started": "20151221",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARCINIA CAMBOGIA PREMIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIPOTRIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROLEAN CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

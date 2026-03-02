@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-011972",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241006",
+  "reactions": [
+    "Abdominal pain",
+    "Nephrolithiasis"
+  ],
+  "date_started": "20240712",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LMNT ELECTROLYTE DRINK MIX",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

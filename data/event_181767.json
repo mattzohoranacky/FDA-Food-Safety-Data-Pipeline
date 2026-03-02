@@ -1,0 +1,75 @@
+{
+  "report_number": "181767",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150106",
+  "reactions": [
+    "ABDOMINAL PAIN LOWER",
+    "ARTHRALGIA",
+    "BALANCE DISORDER",
+    "DIZZINESS",
+    "FATIGUE",
+    "GASTROINTESTINAL INFLAMMATION",
+    "HEADACHE",
+    "MUSCULAR WEAKNESS",
+    "PANCREATIC DISORDER",
+    "PARAESTHESIA",
+    "SKIN DISORDER",
+    "TREMOR",
+    "VISION BLURRED",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20140721",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARANATHA ALMOND BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JUICE BLAST",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2021-CFS-003322",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210413",
+  "reactions": [
+    "Chemical injury"
+  ],
+  "date_started": "20180101",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SKIN TONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "skin toner",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

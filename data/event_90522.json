@@ -1,0 +1,53 @@
+{
+  "report_number": "90522",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070108",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL PAIN",
+    "Adverse reaction",
+    "DIARRHOEA",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20070101",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTHBOUND FARM SPRING MIX",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COLBY CHEESE, PRESHREDDED",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GROUND HAMBURGER",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SALSA",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TORTILLA CHIPS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "173670",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20131231",
+  "reactions": [
+    "CHOKING"
+  ],
+  "date_started": "20131219",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY MEN'S HEALTH FORMULA (MULTIVITAMINS, MINERALS, LYCOPENE) FILM-COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CINNAMON (CINNAMOMUM VERUM)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ECHINACEA (ECHINACEA PURPUREA)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C (ASCORBIC ACID)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

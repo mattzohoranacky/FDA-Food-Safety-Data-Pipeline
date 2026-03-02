@@ -1,0 +1,57 @@
+{
+  "report_number": "2019-CFS-009538",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190917",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal",
+    "Seborrhoeic dermatitis",
+    "Skin ulcer"
+  ],
+  "date_started": "20190101",
+  "consumer": {
+    "age": "70.9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL CURL CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL FRIZZ FREE FOAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LO-POO SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL WAVEMAKER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Cod Liver Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

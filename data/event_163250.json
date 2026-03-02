@@ -1,0 +1,30 @@
+{
+  "report_number": "163250",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130312",
+  "reactions": [
+    "RESPIRATORY SYNCYTIAL VIRUS BRONCHIOLITIS"
+  ],
+  "date_started": "20130215",
+  "consumer": {
+    "age": "6",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRENATAL (SIMILAC PRENATAL VITAMIN) (OPEN LABEL) DHA LUTEIN SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRENATAL (SIMILAC PRENATAL VITAMIN) (OPEN LABEL) MULTIVITAMIN AND MINERAL TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

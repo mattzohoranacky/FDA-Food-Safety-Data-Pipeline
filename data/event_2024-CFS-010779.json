@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-010779",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240807",
+  "reactions": [
+    "Cough",
+    "Loss of consciousness",
+    "Seizure"
+  ],
+  "date_started": "20240806",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND SHRUUMZ CHOCOLATE BAR",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

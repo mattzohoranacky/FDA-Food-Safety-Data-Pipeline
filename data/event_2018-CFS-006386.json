@@ -1,0 +1,27 @@
+{
+  "report_number": "2018-CFS-006386",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180416",
+  "reactions": [
+    "Hepatic cirrhosis",
+    "Hepatic steatosis"
+  ],
+  "date_started": "20180408",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR. PEPPER",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    }
+  ]
+}

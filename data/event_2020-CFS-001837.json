@@ -1,0 +1,44 @@
+{
+  "report_number": "2020-CFS-001837",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200209",
+  "reactions": [
+    "Haemorrhage",
+    "Pruritus",
+    "Skin exfoliation"
+  ],
+  "date_started": "20190801",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL B-LEAVIN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL DECADENCE LINE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO POO SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL SUPER CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

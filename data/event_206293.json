@@ -1,0 +1,43 @@
+{
+  "report_number": "206293",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170111",
+  "reactions": [
+    "ANXIETY DISORDER",
+    "DEPRESSION",
+    "DEREALISATION",
+    "ELECTROCARDIOGRAM ABNORMAL",
+    "FOOD ALLERGY",
+    "HEADACHE",
+    "HEART RATE INCREASED",
+    "NAUSEA",
+    "PANIC ATTACK",
+    "SUICIDAL IDEATION",
+    "VISUAL ACUITY REDUCED",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20160824",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIPO6RX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

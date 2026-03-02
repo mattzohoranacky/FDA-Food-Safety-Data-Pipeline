@@ -1,0 +1,36 @@
+{
+  "report_number": "192404",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151229",
+  "reactions": [
+    "BURNING SENSATION"
+  ],
+  "date_started": "20151213",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUTROGENA OIL FREE MOISTUREIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

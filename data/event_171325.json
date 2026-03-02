@@ -1,0 +1,34 @@
+{
+  "report_number": "171325",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131022",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20131018",
+  "consumer": {
+    "age": "16",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S PROMISE ORGANIC CHOCOLATE SOY MILK",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S PROMISE ORGANIC VANILLA SOY MILK",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    }
+  ]
+}

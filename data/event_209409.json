@@ -1,0 +1,35 @@
+{
+  "report_number": "209409",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170322",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ATRIAL FIBRILLATION",
+    "FLATULENCE",
+    "GASTRIC DISORDER",
+    "GASTROINTESTINAL DISORDER",
+    "PALPITATIONS"
+  ],
+  "date_started": "20161122",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2 FORMULA SOFT GELS (CAPSULE, SOFT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

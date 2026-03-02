@@ -1,0 +1,39 @@
+{
+  "report_number": "85786",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060523",
+  "reactions": [
+    "ASTHENIA",
+    "BLOOD CREATININE INCREASED",
+    "BLOOD GLUCOSE DECREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD POTASSIUM INCREASED",
+    "BLOOD UREA INCREASED",
+    "DIZZINESS",
+    "ELECTROCARDIOGRAM QT PROLONGED",
+    "GENERALISED OEDEMA",
+    "HYPERHIDROSIS",
+    "HYPERKALAEMIA",
+    "HYPOGLYCAEMIA",
+    "HYPOXIA",
+    "RENAL IMPAIRMENT",
+    "TREMOR"
+  ],
+  "date_started": "20060506",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCAPPRESS PCL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "report_number": "153813",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20120626",
+  "reactions": [
+    "MYOCARDIAL INFARCTION"
+  ],
+  "date_started": "20120404",
+  "consumer": {
+    "age": "56.36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE FORMULA 1",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE HERBAL ALOE CONCENTRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE HERBAL TEA CONCENTRATE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE PROTEIN DRINK MIX",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "126280",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100512",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "PNEUMONIA",
+    "PYREXIA",
+    "URINARY TRACT INFECTION",
+    "VOMITING"
+  ],
+  "date_started": "20100406",
+  "consumer": {
+    "age": "92",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

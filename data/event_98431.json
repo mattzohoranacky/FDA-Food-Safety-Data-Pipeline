@@ -1,0 +1,30 @@
+{
+  "report_number": "98431",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20071003",
+  "reactions": [
+    "VOMITING"
+  ],
+  "date_started": "20070916",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NURSERY PURIFIED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JUICE",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    }
+  ]
+}

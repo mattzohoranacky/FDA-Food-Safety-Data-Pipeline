@@ -1,0 +1,52 @@
+{
+  "report_number": "112441",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090428",
+  "reactions": [
+    "CONSTIPATION",
+    "DIARRHOEA",
+    "DRUG DEPENDENCE",
+    "FALL",
+    "HIP FRACTURE",
+    "LOSS OF CONSCIOUSNESS",
+    "MUSCLE ATROPHY",
+    "WEIGHT DECREASED",
+    "WHEELCHAIR USER"
+  ],
+  "date_started": "20090304",
+  "consumer": {
+    "age": "95",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHILLIPS LAXATIVE DIETARY SUPPLEMENT CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHILLIPS MILK OF MAGNESIA CHERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHILLIPS MILK OF MAGNESIA ORIGINAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "140262",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110617",
+  "reactions": [
+    "ACUTE HEPATIC FAILURE",
+    "ASTHENIA",
+    "BLOOD BILIRUBIN INCREASED",
+    "FATIGUE",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATOCELLULAR INJURY",
+    "JAUNDICE",
+    "PRURITUS",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20110107",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANDROBOLIN 350",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOVEDEX XT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

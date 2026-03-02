@@ -1,0 +1,45 @@
+{
+  "report_number": "180852",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20141117",
+  "reactions": [
+    "DEFORMITY",
+    "HAIR COLOUR CHANGES",
+    "HYPOTRICHOSIS",
+    "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20141101",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEIERSDORF  NIVEA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVLON PRODUCTS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SEA MINERAL PRODUCTS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

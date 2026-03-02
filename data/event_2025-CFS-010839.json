@@ -1,0 +1,32 @@
+{
+  "report_number": "2025-CFS-010839",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250710",
+  "reactions": [
+    "Abdominal distension",
+    "Headache"
+  ],
+  "date_started": "20250703",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KACHAVA CHAI",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KACHAVA MATCHA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

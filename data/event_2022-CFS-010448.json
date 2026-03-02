@@ -1,0 +1,49 @@
+{
+  "report_number": "2022-CFS-010448",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220629",
+  "reactions": [
+    "Chills",
+    "Chromaturia",
+    "Fatigue",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20220616",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Garden of Life Vitamin Code women's multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Renew Life women's probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

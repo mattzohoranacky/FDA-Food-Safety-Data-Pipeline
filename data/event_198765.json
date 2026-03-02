@@ -1,0 +1,35 @@
+{
+  "report_number": "198765",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160721",
+  "reactions": [
+    "COUGH",
+    "EYE SWELLING",
+    "LIP SWELLING",
+    "SNEEZING",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20160716",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

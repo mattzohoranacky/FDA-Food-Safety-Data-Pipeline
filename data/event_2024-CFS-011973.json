@@ -1,0 +1,36 @@
+{
+  "report_number": "2024-CFS-011973",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241004",
+  "reactions": [
+    "Abdominal pain upper"
+  ],
+  "date_started": "20240926",
+  "consumer": {
+    "age": "45.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KUKA FLEX VERDE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MICROBIOT FIT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

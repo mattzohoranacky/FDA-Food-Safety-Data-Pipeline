@@ -1,0 +1,35 @@
+{
+  "report_number": "129148",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20100730",
+  "reactions": [
+    "HEADACHE",
+    "NAUSEA",
+    "PHOTOPHOBIA",
+    "SINUS HEADACHE",
+    "VISUAL ACUITY REDUCED",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20100722",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUCRALOSE",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

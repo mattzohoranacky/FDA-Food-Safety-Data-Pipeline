@@ -1,0 +1,33 @@
+{
+  "report_number": "116021",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20080821",
+  "reactions": [
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "URTICARIA"
+  ],
+  "date_started": "20080819",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE BUNNY BLUE BUNNY BOMB POP",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KASHI TLC (TASTY LITTLE CEREAL) BAKED APPLE SPICE BAR",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

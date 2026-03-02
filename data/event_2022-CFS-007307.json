@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-007307",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20211129",
+  "reactions": [
+    "Ovarian cancer stage II"
+  ],
+  "date_started": "20131118",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHNSONS POWDER NO UPC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHOWER TO SHOWER NO UPC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

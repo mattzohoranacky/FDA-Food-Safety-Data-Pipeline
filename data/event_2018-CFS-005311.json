@@ -1,0 +1,44 @@
+{
+  "report_number": "2018-CFS-005311",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180402",
+  "reactions": [
+    "Abdominal pain",
+    "Dyspepsia",
+    "Hepatic enzyme increased",
+    "Muscle spasms"
+  ],
+  "date_started": "20180227",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE NATURAL RICH BERRY-LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "E+SHOT-RASPBERRY FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISA FLUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

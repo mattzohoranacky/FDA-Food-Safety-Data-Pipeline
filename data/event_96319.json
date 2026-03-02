@@ -1,0 +1,41 @@
+{
+  "report_number": "96319",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070829",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "ERYTHEMA",
+    "MALAISE",
+    "NAUSEA",
+    "SKIN DISCOLOURATION",
+    "TREMOR"
+  ],
+  "date_started": "20070621",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BARBARA'S BAKERY SHREDDED MULTI GRAIN SPOONFULS MULTIGRAIN CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHERRY PIE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

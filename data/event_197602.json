@@ -1,0 +1,36 @@
+{
+  "report_number": "197602",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160621",
+  "reactions": [
+    "ALOPECIA"
+  ],
+  "date_started": "20160601",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN 613 HAIR CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER FOR WOMEN 50+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

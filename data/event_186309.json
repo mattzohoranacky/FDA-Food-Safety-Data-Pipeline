@@ -1,0 +1,27 @@
+{
+  "report_number": "186309",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150430",
+  "reactions": [
+    "BLOOD GLUCOSE ABNORMAL",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD PRESSURE FLUCTUATION",
+    "BLOOD PRESSURE INCREASED",
+    "FOOD POISONING",
+    "HYPERTENSIVE CRISIS"
+  ],
+  "date_started": "20150412",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEYVILLE SOY PROTEIN ISOLATE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

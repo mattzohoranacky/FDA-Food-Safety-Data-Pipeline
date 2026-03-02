@@ -1,0 +1,28 @@
+{
+  "report_number": "99145",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20071204",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CONVULSION",
+    "DIARRHOEA",
+    "HEART RATE IRREGULAR",
+    "VOMITING"
+  ],
+  "date_started": "20071201",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HI-TECH PHARMACEUTICALS STAMINA-RX 550 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

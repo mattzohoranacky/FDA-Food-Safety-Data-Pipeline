@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-008691",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220104",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Fatigue",
+    "Headache",
+    "Listeriosis",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20211221",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH EXPRESS ROMAINE LETTUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

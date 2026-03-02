@@ -1,0 +1,33 @@
+{
+  "report_number": "201860",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160926",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "DIPLOPIA",
+    "HEADACHE"
+  ],
+  "date_started": "20160823",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR - P6 - G4 CHROME SERIES - 180 CAPSLES (US)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI-VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

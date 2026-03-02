@@ -1,0 +1,26 @@
+{
+  "report_number": "2022-CFS-012777",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220817",
+  "reactions": [
+    "Abdominal pain",
+    "Gastrointestinal inflammation"
+  ],
+  "date_started": "20220611",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PIRQ",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

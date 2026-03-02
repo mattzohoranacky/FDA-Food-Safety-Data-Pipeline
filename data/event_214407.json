@@ -1,0 +1,54 @@
+{
+  "report_number": "214407",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170622",
+  "reactions": [
+    "CALCINOSIS",
+    "DIVERTICULITIS",
+    "EYE DISORDER",
+    "EYE HAEMORRHAGE",
+    "HAEMORRHAGE",
+    "OCULAR HYPERAEMIA"
+  ],
+  "date_started": "20170310",
+  "consumer": {
+    "age": "92",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OCUVITE ADULT 50+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OCUVITE EYE + MULTI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENSURE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3 (COLECALCIFEROL)(400 IU (INTERNATIONAL UNIT) (COLECALCIFEROL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-008201",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190812",
+  "reactions": [
+    "Dyspnoea",
+    "Pain",
+    "Pulmonary embolism"
+  ],
+  "date_started": "20181001",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE  FLUSH FREE NIACIN INOSITOL NICOTINATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE C-500 MG WITH BIOFLAVONIODS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

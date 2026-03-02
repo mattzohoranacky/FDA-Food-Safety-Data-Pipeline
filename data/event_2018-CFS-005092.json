@@ -1,0 +1,47 @@
+{
+  "report_number": "2018-CFS-005092",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180323",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal distension",
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Blood alkaline phosphatase increased",
+    "Blood bilirubin increased",
+    "Chromaturia",
+    "Fatigue",
+    "Gamma-glutamyltransferase increased",
+    "Hepatic enzyme increased",
+    "Jaundice"
+  ],
+  "date_started": "20170101",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EPIGENETIC LABS THREE-MUSHROOOM SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY CHOCOLATE VEGAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TURMERIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

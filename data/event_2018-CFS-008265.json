@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-008265",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180617",
+  "reactions": [
+    "Chapped lips",
+    "Lip exfoliation",
+    "Lip haemorrhage",
+    "Oral discomfort"
+  ],
+  "date_started": "20180616",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS COCONUT MILK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS VANILLA MINT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "General multi vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "123388",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20080718",
+  "reactions": [
+    "DIARRHOEA",
+    "GASTROENTERITIS NOROVIRUS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20080710",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH STRAWBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GREEN SEEDLESS GRAPES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SAFEWAY VEGGIE TRAY",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

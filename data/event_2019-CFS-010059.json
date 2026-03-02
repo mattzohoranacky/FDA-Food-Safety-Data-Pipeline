@@ -1,0 +1,53 @@
+{
+  "report_number": "2019-CFS-010059",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20191001",
+  "reactions": [
+    "Anaphylactic shock"
+  ],
+  "date_started": "20190916",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIQUE ADVANCED KIT - SLIQUE BARS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIQUE ADVANCED KIT - SLIQUE CITRASLIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIQUE ADVANCED KIT - SLIQUE ESSENCE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIQUE ADVANCED KIT - SLIQUE GUM",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIQUE ADVANCED KIT - SLIQUE SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIQUE ADVANCED KIT - SLIQUE TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

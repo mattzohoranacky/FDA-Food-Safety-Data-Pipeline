@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-007422",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210729",
+  "reactions": [
+    "Nephrolithiasis"
+  ],
+  "date_started": "20210704",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY ELDERBERRY GUMMIES 100MG OF ELDERBERRY WITH VITAMIN C, VITAMIN D AND ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin C 250mg Gummies",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-001968",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20220207",
+  "reactions": [
+    "Dyspnoea",
+    "Erectile dysfunction",
+    "Mydriasis",
+    "Nausea",
+    "Pain",
+    "Paraesthesia",
+    "Tremor"
+  ],
+  "date_started": "20220205",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA RHINO 82000",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

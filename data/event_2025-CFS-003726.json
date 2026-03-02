@@ -1,0 +1,34 @@
+{
+  "report_number": "2025-CFS-003726",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20250320",
+  "reactions": [
+    "Gastrointestinal haemorrhage",
+    "Haematochezia",
+    "Haemoglobin decreased"
+  ],
+  "date_started": "20250129",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COENZYME Q-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TURMERIC SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

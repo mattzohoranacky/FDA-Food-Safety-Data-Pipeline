@@ -1,0 +1,33 @@
+{
+  "report_number": "209759",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170330",
+  "reactions": [
+    "NAUSEA",
+    "PARAESTHESIA ORAL",
+    "POISONING",
+    "STRESS"
+  ],
+  "date_started": "20170329",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VEGAN FUDGE BROWNIE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLORADIX IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

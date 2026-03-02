@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-000040",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220103",
+  "reactions": [
+    "Diarrhoea",
+    "Rash",
+    "Urticaria"
+  ],
+  "date_started": "20211231",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BABY'S ONLY PLANT BASED PEA PROTEIN TODDLER FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Nature Path Formula",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

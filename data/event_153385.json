@@ -1,0 +1,37 @@
+{
+  "report_number": "153385",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120613",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CHEST DISCOMFORT",
+    "FLUSHING",
+    "HEART RATE INCREASED",
+    "PALPITATIONS",
+    "RESPIRATORY RATE INCREASED",
+    "SWELLING FACE",
+    "TREMOR"
+  ],
+  "date_started": "20120112",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE NIACIN 250 MG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

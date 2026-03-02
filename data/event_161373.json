@@ -1,0 +1,27 @@
+{
+  "report_number": "161373",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20121130",
+  "reactions": [
+    "HEPATOTOXICITY",
+    "HYPERBILIRUBINAEMIA",
+    "JAUNDICE",
+    "PRURITUS"
+  ],
+  "date_started": "20121021",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUTTANT PLEXX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "report_number": "191541",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150828",
+  "reactions": [
+    "CHEMICAL INJURY",
+    "NAIL INJURY",
+    "ONYCHOLYSIS",
+    "ONYCHOMYCOSIS",
+    "PAIN IN EXTREMITY"
+  ],
+  "date_started": "20150610",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MENTALITY NAIL POLISH - CRYSTAL CHROME COLLECTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MENTALITY NAIL POLISH - EARTH TONE MATTES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MENTALITY NAIL POLISH - JELLY HALO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MENTALITY NAIL POLISH - NEON GLAZES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MENTALITY NAIL POLISH - WHITE MATTE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

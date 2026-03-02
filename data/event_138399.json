@@ -1,0 +1,36 @@
+{
+  "report_number": "138399",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110310",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "DIARRHOEA",
+    "HEADACHE",
+    "NAUSEA"
+  ],
+  "date_started": "20110304",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SKIPPY ROASTED HONEY NUT SUPER CHUNK PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WELCHS GRAPE JELLY",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

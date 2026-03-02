@@ -1,0 +1,37 @@
+{
+  "report_number": "90367",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20061229",
+  "reactions": [
+    "Adverse reaction",
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "DIARRHOEA",
+    "FEELING HOT",
+    "MALAISE",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20061224",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RESER'S SEAFOOD CHEESE BALL SPREAD",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRACKERS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

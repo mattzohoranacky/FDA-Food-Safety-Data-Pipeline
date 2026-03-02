@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-003133",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200303",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal",
+    "Pruritus",
+    "Skin ulcer"
+  ],
+  "date_started": "20191001",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVEENO CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVEENO OAT MILK BLEND SHAMPOO DAILY MOISTURE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

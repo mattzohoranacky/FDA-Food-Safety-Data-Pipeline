@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-004994",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190517",
+  "reactions": [
+    "Erythema",
+    "Rash generalised",
+    "Swelling"
+  ],
+  "date_started": "20181205",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DYNAMIC BLACK TATTOO INK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCALPA INK BLACK TATTOO INK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

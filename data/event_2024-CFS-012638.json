@@ -1,0 +1,43 @@
+{
+  "report_number": "2024-CFS-012638",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241016",
+  "reactions": [
+    "Alopecia",
+    "Onychoclasis"
+  ],
+  "date_started": "20241016",
+  "consumer": {
+    "age": "45.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOURNEY HAIR BALANCE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BARIATRIC PAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BARIATRIC PAL MULTIVITAMIN ONE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM CITRATE SOFT CHEWS 500 MG WITH 250 MILLION CFU PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

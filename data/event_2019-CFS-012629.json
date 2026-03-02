@@ -1,0 +1,34 @@
+{
+  "report_number": "2019-CFS-012629",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20191229",
+  "reactions": [
+    "Chills",
+    "Diarrhoea",
+    "Headache",
+    "Influenza like illness",
+    "Pain"
+  ],
+  "date_started": "20191226",
+  "consumer": {
+    "age": "53.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LE PRESIDENT BRIE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Boots multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

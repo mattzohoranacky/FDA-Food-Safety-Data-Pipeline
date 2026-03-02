@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-010298",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240730",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Food poisoning"
+  ],
+  "date_started": "20240726",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF CREAMY PEANUT BUTTER",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

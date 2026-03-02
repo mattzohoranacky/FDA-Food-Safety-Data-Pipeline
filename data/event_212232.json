@@ -1,0 +1,44 @@
+{
+  "report_number": "212232",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20170523",
+  "reactions": [
+    "Myocardial infarction",
+    "Weight decreased"
+  ],
+  "date_started": "20170502",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HCG DROPS PROGRAM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Omni HCG drops",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Omni IV liquid vitamin Nite Lite supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3 4000iu",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

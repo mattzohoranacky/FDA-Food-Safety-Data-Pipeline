@@ -1,0 +1,43 @@
+{
+  "report_number": "2019-CFS-009284",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190909",
+  "reactions": [
+    "Lymphadenopathy",
+    "Neck pain"
+  ],
+  "date_started": "20190830",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GABA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S WAY 5-HTP GRIFFONIA BEAN EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Garden of Life My Kind spray vitamins B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Garden of Life My Kind spray vitamins C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "111030",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090311",
+  "reactions": [
+    "DYSPNOEA",
+    "PLEURAL EFFUSION"
+  ],
+  "date_started": "20081112",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE NATTOKINASE 50MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

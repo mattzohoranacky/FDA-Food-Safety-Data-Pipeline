@@ -1,0 +1,37 @@
+{
+  "report_number": "160730",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130104",
+  "reactions": [
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "HEPATIC ENZYME INCREASED",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "VOMITING"
+  ],
+  "date_started": "20120917",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCHIFF MOVE FREE ADVANCED TRIPLE STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNKNOWN SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

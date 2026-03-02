@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-013249",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20181106",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain",
+    "Fatigue",
+    "Hepatic enzyme increased",
+    "Hepatic fibrosis",
+    "Hepatitis",
+    "Liver disorder",
+    "Non-alcoholic steatohepatitis",
+    "Weight increased"
+  ],
+  "date_started": "20180713",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODERE BURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODERE TRIM VANILLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-004806",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240505",
+  "reactions": [
+    "Chromaturia",
+    "Hepatic enzyme increased",
+    "Ocular icterus",
+    "Yellow skin"
+  ],
+  "date_started": "20240424",
+  "consumer": {
+    "age": "63.6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE HERBS GREEN VEIN INDO KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

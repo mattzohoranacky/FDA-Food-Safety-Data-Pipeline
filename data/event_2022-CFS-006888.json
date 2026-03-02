@@ -1,0 +1,51 @@
+{
+  "report_number": "2022-CFS-006888",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220510",
+  "reactions": [
+    "Abdominal distension",
+    "Diarrhoea",
+    "Dyspepsia"
+  ],
+  "date_started": "20220306",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX CLEANSE FOR LIFE PEACH MANGO POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX ISALEAN SHAKE BIRTHDAY CAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX ISALEAN SHAKE CHOCOLATE MINT",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISALEAN WHOLE BLEND PLANT BASED SHAKE BANANA BREAD",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

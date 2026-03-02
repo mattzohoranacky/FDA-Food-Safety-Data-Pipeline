@@ -1,0 +1,45 @@
+{
+  "report_number": "86645",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20030702",
+  "reactions": [
+    "BLISTER",
+    "BURNING SENSATION",
+    "ERYTHEMA",
+    "PRURITUS"
+  ],
+  "date_started": "20030624",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLEX-C BETAPLEX CREME HYDRANTANTE SMOOTH SKIN COMPLEX",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLEX-C BETAPLEX LINE SMOOTHER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ESTE LAUDER EYE MAKEUP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

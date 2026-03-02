@@ -1,0 +1,36 @@
+{
+  "report_number": "2017-CFS-000456",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170925",
+  "reactions": [
+    "Cough",
+    "Dyspnoea",
+    "Erythema",
+    "Rash generalised",
+    "Sneezing",
+    "Urticaria"
+  ],
+  "date_started": "20170922",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEOCATE SPLASH GRAPE-RAISIN",
+      "industry_code": "40N",
+      "industry_name": "Ready to Serve Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EmergenC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

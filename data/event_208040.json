@@ -1,0 +1,33 @@
+{
+  "report_number": "208040",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170223",
+  "reactions": [
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "LISTERIOSIS",
+    "NAUSEA",
+    "NECK PAIN",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20170131",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHREDDED COLBY JACK CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "211304",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170428",
+  "reactions": [
+    "ASTHENIA",
+    "BLOOD PRESSURE INCREASED",
+    "DIZZINESS",
+    "DYSARTHRIA",
+    "FATIGUE",
+    "NAUSEA",
+    "TREMOR"
+  ],
+  "date_started": "20170201",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OCUXANTHIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SYNERFLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-009573",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20250604",
+  "reactions": [
+    "Choking",
+    "Drooling",
+    "Emergency care",
+    "Foreign body in throat",
+    "Retching",
+    "Vomiting"
+  ],
+  "date_started": "20250531",
+  "consumer": {
+    "age": "21",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONCE UPON A FARM TRACTOR WHEELS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

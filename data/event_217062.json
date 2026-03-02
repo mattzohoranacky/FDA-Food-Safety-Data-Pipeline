@@ -1,0 +1,29 @@
+{
+  "report_number": "217062",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20170828",
+  "reactions": [
+    "Blood pressure increased",
+    "Heart rate increased",
+    "Pyrexia",
+    "Vitreous floaters"
+  ],
+  "date_started": "20170728",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIACIN FLUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

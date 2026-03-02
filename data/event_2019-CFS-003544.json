@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-003544",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190404",
+  "reactions": [
+    "Confusional state",
+    "Dementia Alzheimer's type",
+    "Facial bones fracture",
+    "Fall"
+  ],
+  "date_started": "20181001",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AXONA",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Unspecified vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vital Reds",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

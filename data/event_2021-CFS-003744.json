@@ -1,0 +1,34 @@
+{
+  "report_number": "2021-CFS-003744",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210423",
+  "reactions": [
+    "Hospitalisation"
+  ],
+  "date_started": "20210407",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX CLEANSE FOR LIFE-NATURAL RICH BERRY-POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX CLEANSE FOR LIFE-PEACH MANGO-POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX COLLAGEN BONE BROTH-ROASTED CHICKEN AND HERB FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

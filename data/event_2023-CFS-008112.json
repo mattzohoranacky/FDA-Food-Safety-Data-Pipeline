@@ -1,0 +1,43 @@
+{
+  "report_number": "2023-CFS-008112",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230802",
+  "reactions": [
+    "Abdominal pain upper",
+    "Hepatic enzyme increased"
+  ],
+  "date_started": "20230802",
+  "consumer": {
+    "age": "39.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE WORD AND HERB CLINIC NERVE PAIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE WORD AND HERB CLINIC TANSY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "probiótica",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-000557",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20200118",
+  "reactions": [
+    "Abdominal pain upper"
+  ],
+  "date_started": "20200116",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DYNAMIC HEALTH ORGANIC ALOE VERA WITH MICRO PULP UNFLAVORED",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Dynamic Health Organic Aloe Vera with Micro pulp unflavored",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    }
+  ]
+}

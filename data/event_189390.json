@@ -1,0 +1,29 @@
+{
+  "report_number": "189390",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150903",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "BLOOD PRESSURE INCREASED",
+    "DISCOMFORT",
+    "GASTRITIS",
+    "PAIN"
+  ],
+  "date_started": "20150824",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SNACK",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

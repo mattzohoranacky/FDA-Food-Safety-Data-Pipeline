@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-007573",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190726",
+  "reactions": [
+    "Laboratory test abnormal"
+  ],
+  "date_started": "20190705",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BARE MINERALS COSMETICS FOUNDATION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BARE MINERALS COSMETICS HIGHLIGHTER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BARE MINERALS COSMETICS POWDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

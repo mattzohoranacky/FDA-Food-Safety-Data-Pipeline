@@ -1,0 +1,43 @@
+{
+  "report_number": "65707",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20031121",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20031112",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OUR FAMILY REFRIED BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLOUR TORTILLAS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LETTUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOMATO",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

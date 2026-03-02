@@ -1,0 +1,36 @@
+{
+  "report_number": "169002",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130808",
+  "reactions": [
+    "CHOKING"
+  ],
+  "date_started": "20130731",
+  "consumer": {
+    "age": "93",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL CALCIUM D SLOW RELEASE 1200 CALCIUM CARBONATE CALCIUM CITRATE VITAMIN D MAGNESIUM HYDROXIDE FILM COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OSTEO BI FLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

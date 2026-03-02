@@ -1,0 +1,28 @@
+{
+  "report_number": "92941",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070314",
+  "reactions": [
+    "NAUSEA"
+  ],
+  "date_started": "20070308",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER INSTANT OATMEAL CINNAMON ROLL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HOT WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

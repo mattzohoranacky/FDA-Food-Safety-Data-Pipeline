@@ -1,0 +1,36 @@
+{
+  "report_number": "2024-CFS-005133",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240512",
+  "reactions": [
+    "Blood pressure increased",
+    "Chest pain",
+    "Dizziness",
+    "Dyspnoea",
+    "Heart rate increased",
+    "Heart rate irregular"
+  ],
+  "date_started": "20230715",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEXICAN TEJOCOTE ROOT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FIBER GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-012842",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241019",
+  "reactions": [
+    "Abdominal distension",
+    "Dyspepsia",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20241018",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTHBOUND FARM EAST COAST SPRING MIX",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

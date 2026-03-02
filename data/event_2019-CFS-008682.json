@@ -1,0 +1,56 @@
+{
+  "report_number": "2019-CFS-008682",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190821",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Dry skin",
+    "Eczema",
+    "Hypersensitivity",
+    "Pruritus",
+    "Skin exfoliation",
+    "Trichorrhexis",
+    "Urticaria"
+  ],
+  "date_started": "20190727",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL DEEP SEA REPAIR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL LOW POO DELIGHT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL MELT INTO MOISTURE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL ONE CONDITION DELIGHT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL SUPER CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

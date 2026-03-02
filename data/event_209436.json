@@ -1,0 +1,43 @@
+{
+  "report_number": "209436",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170323",
+  "reactions": [
+    "APHASIA",
+    "BURNING SENSATION",
+    "CONFUSIONAL STATE",
+    "DIZZINESS",
+    "DRY SKIN",
+    "DRY THROAT",
+    "EYE IRRITATION",
+    "GAIT DISTURBANCE",
+    "HEART RATE INCREASED",
+    "NASAL DRYNESS",
+    "NAUSEA",
+    "PALPITATIONS",
+    "SYNCOPE",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20170322",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRAZILIAN BLOWOUT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY GUMMY VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

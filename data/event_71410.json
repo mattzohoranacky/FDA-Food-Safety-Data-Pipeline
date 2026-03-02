@@ -1,0 +1,39 @@
+{
+  "report_number": "71410",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040818",
+  "reactions": [
+    "BURNING SENSATION",
+    "DERMATITIS EXFOLIATIVE",
+    "DERMATOLOGIC EXAMINATION",
+    "ERYTHEMA",
+    "PAIN",
+    "PHYSICAL EXAMINATION",
+    "PRURITUS",
+    "SKIN DESQUAMATION",
+    "SWELLING"
+  ],
+  "date_started": "20040415",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER INKS PIGMENTS (NATURAL SHADE) PERMANENT TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CREST NIGHT EFFECTS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

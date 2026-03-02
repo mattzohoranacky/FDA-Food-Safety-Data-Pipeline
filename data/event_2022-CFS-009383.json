@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-009383",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220607",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain",
+    "Diarrhoea",
+    "Nausea",
+    "Pyrexia",
+    "Transaminases increased",
+    "Vomiting"
+  ],
+  "date_started": "20220510",
+  "consumer": {
+    "age": "41.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STRAWBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

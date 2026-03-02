@@ -1,0 +1,54 @@
+{
+  "report_number": "2020-CFS-005228",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20200518",
+  "reactions": [
+    "Diarrhoea",
+    "Dyspnoea",
+    "Fatigue",
+    "Pyrexia",
+    "Weight decreased"
+  ],
+  "date_started": "20190831",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS DAILY FIBER BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS DIGESTION PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS ENERGY FIZZ STICKS CITRUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS HERBAL DETOX TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS PROTEIN SHAKE MIX VANILLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

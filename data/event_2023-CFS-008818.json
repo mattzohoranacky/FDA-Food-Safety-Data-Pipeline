@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-008818",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230821",
+  "reactions": [
+    "Arthralgia",
+    "Erythema",
+    "Tenderness"
+  ],
+  "date_started": "20220801",
+  "consumer": {
+    "age": "31.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JERGENS ULTRA HEALING EXTRA DRY SKIN MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Organic Coconut oil",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    }
+  ]
+}

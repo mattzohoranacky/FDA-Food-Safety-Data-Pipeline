@@ -1,0 +1,92 @@
+{
+  "report_number": "208200",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170222",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED",
+    "CHEST PAIN",
+    "COUGH",
+    "DYSPHAGIA",
+    "EYE SWELLING",
+    "FACE OEDEMA",
+    "HYPERSENSITIVITY",
+    "LIP SWELLING",
+    "OROPHARYNGEAL PAIN",
+    "PRURITUS",
+    "SWELLING FACE",
+    "THROAT IRRITATION",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20170129",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE MELATONIN+ 200 MG L-THEANINE(DIETARY SUPPLEMENT) SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GLUCOSAMINE COMPLEX (GLUCOSAMINE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN TX WITH IRON (HEMATINIC)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATUREMADE CHOLESTOFF",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATUREMADE FLAX SEED OIL (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATUREMADE HAIR SKIN AND NAILS (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA 3 (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS B COMPLEX (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

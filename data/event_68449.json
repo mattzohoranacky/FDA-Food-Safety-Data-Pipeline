@@ -1,0 +1,55 @@
+{
+  "report_number": "68449",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20040423",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CONSTIPATION",
+    "DIARRHOEA",
+    "DUODENITIS",
+    "ENDOSCOPY ABNORMAL",
+    "INFLAMMATION",
+    "IRRITABLE BOWEL SYNDROME",
+    "NAUSEA"
+  ],
+  "date_started": "20040401",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHYTOPHARMICA RHODIOLA ENERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TYLER ENCAPSULATIONS ENTEROGENIC CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TYLER ENCAPSULATIONS MULTIPLEX 2 WITH OUT IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TYLER ENCAPSULATIONS PERMEABILITY FACTORS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TYLER ENCAPSULATIONS SIMILASE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

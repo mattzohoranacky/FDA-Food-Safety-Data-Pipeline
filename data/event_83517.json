@@ -1,0 +1,41 @@
+{
+  "report_number": "83517",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060201",
+  "reactions": [
+    "AGITATION",
+    "ANXIETY",
+    "DELUSIONAL DISORDER",
+    "PERSECUTORY TYPE",
+    "DEPRESSION",
+    "FEAR",
+    "SLEEP DISORDER",
+    "STRESS SYMPTOMS",
+    "THINKING ABNORMAL",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20051101",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADR HERBAL SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IODORAL HERBAL SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

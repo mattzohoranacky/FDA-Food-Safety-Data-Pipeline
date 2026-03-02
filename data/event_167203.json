@@ -1,0 +1,29 @@
+{
+  "report_number": "167203",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130502",
+  "reactions": [
+    "DIARRHOEA",
+    "FLUSHING",
+    "FOOD ALLERGY",
+    "NAUSEA",
+    "RASH"
+  ],
+  "date_started": "20130417",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EAST BAY SEAFOOD FRESH TUNA LOINS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

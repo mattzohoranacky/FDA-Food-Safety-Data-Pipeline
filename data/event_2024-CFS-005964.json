@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-005964",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240612",
+  "reactions": [
+    "Heart rate increased",
+    "Insomnia",
+    "Malaise",
+    "Muscle spasms",
+    "Nausea"
+  ],
+  "date_started": "20231222",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND SHRUUMZ WATERMELON WONDERLAND GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OLLIE'S MELATONIN GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

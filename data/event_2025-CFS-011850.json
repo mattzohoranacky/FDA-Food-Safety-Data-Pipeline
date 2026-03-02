@@ -1,0 +1,38 @@
+{
+  "report_number": "2025-CFS-011850",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250722",
+  "reactions": [
+    "Hyperacusis",
+    "Hyperaesthesia",
+    "Insomnia",
+    "Muscle spasms",
+    "Muscle twitching",
+    "Nervous system disorder",
+    "Paraesthesia",
+    "Tinnitus"
+  ],
+  "date_started": "20250601",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUALITY OF LIFE PREMIUM KINKO AHCC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

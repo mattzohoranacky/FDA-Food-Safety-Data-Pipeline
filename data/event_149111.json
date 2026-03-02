@@ -1,0 +1,34 @@
+{
+  "report_number": "149111",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120221",
+  "reactions": [
+    "DEHYDRATION",
+    "GASTROENTERITIS SALMONELLA",
+    "HAEMATOCHEZIA",
+    "PYREXIA"
+  ],
+  "date_started": "20120204",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEECHNUT PUREE CHICKEN HAM GRAVY",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER PUREE CHICKEN HAM AND GRAVY",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

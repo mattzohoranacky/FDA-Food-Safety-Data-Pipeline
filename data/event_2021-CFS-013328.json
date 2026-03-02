@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-013328",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20211223",
+  "reactions": [
+    "Asthma"
+  ],
+  "date_started": "20211223",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL ESSENCE DRY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WATERLESS DRY CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

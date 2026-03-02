@@ -1,0 +1,42 @@
+{
+  "report_number": "2022-CFS-008487",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220524",
+  "reactions": [
+    "Abdominal pain upper",
+    "Asthenia",
+    "Dehydration",
+    "Diarrhoea",
+    "Lethargy",
+    "Tremor"
+  ],
+  "date_started": "20220521",
+  "consumer": {
+    "age": "64.9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "alpha lipoic acid",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

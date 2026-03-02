@@ -1,0 +1,36 @@
+{
+  "report_number": "2024-CFS-002857",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240313",
+  "reactions": [
+    "Chills",
+    "Cold sweat",
+    "Nausea",
+    "Serotonin syndrome",
+    "Vertigo",
+    "Vomiting"
+  ],
+  "date_started": "20240311",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HORBAACH 5-HYDROXYTRYPTOPHAN 400 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HORBAACH5-HYDROXYTRYPTOPHAN 400 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

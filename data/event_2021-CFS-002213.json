@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-002213",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210304",
+  "reactions": [
+    "Skin exfoliation",
+    "Skin fissures",
+    "Stomatitis"
+  ],
+  "date_started": "20210219",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAWN MIST HAND & BODY LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAWN MIST SHAMPOO & BODY BATH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

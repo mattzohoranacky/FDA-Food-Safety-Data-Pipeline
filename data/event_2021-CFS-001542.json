@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-001542",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210215",
+  "reactions": [
+    "Fatigue",
+    "Hot flush",
+    "Rash"
+  ],
+  "date_started": "20210214",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTHY CHOICE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIND",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

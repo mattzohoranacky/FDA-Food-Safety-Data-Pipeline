@@ -1,0 +1,49 @@
+{
+  "report_number": "2019-CFS-011082",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191105",
+  "reactions": [
+    "Blood pressure increased",
+    "Chest pain",
+    "Dyspnoea",
+    "Fatigue",
+    "Hypopnoea",
+    "Palpitations"
+  ],
+  "date_started": "20191010",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY SHAKEOLOGY CAFE LATTE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY SHAKEOLOGY CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY SHAKEOLOGY PUMPKIN SPICE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY SHAKEOLOGY VANILLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

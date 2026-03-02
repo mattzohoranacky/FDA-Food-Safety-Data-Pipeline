@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-008383",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230809",
+  "reactions": [
+    "Alopecia",
+    "Pruritus",
+    "Skin exfoliation",
+    "Skin irritation"
+  ],
+  "date_started": "20230730",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMIKA COLOR LOCK SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VItamin supplement (RITUAL) Magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

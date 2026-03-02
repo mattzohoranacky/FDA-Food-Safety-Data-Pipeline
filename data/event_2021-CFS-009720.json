@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-009720",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210922",
+  "reactions": [
+    "Scab",
+    "Skin ulcer"
+  ],
+  "date_started": "20201222",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX RENEWING ARGAN OIL OF MOROCCO CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX RENEWING ARGAN OIL OF MOROCCO SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

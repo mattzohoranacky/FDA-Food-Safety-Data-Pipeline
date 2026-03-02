@@ -1,0 +1,30 @@
+{
+  "report_number": "2017-CFS-001645",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170419",
+  "reactions": [
+    "Chills",
+    "Cough",
+    "Dyspnoea",
+    "Hypersensitivity",
+    "Pyrexia",
+    "Wheezing"
+  ],
+  "date_started": "20170305",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIMBREL",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    }
+  ]
+}

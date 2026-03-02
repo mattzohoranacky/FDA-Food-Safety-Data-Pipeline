@@ -1,0 +1,37 @@
+{
+  "report_number": "168719",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20130802",
+  "reactions": [
+    "BLOOD CREATININE INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "CEREBROVASCULAR ACCIDENT",
+    "CYTOTOXIC OEDEMA",
+    "DISTURBANCE IN ATTENTION",
+    "FACIAL PALSY"
+  ],
+  "date_started": "20120915",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUFOCUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUVIVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

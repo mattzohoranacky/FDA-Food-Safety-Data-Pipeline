@@ -1,0 +1,64 @@
+{
+  "report_number": "192890",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160119",
+  "reactions": [
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "CHOLESTATIC LIVER INJURY",
+    "CHROMATURIA",
+    "COMPUTERISED TOMOGRAM ABDOMEN ABNORMAL",
+    "DRUG-INDUCED LIVER INJURY",
+    "FAECES DISCOLOURED",
+    "FAECES PALE",
+    "FATIGUE",
+    "HEPATITIS B SURFACE ANTIBODY POSITIVE",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "JAUNDICE",
+    "LIPASE INCREASED",
+    "NAUSEA",
+    "PRURITUS",
+    "ULTRASOUND LIVER ABNORMAL"
+  ],
+  "date_started": "20141124",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MENS X-ACTION RELOADED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GI CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS, PLAIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROSTATE HEALTH X-A SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED HERBAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

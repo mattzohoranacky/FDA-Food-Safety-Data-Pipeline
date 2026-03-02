@@ -1,0 +1,52 @@
+{
+  "report_number": "125050",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100405",
+  "reactions": [
+    "BLOOD ELECTROLYTES DECREASED",
+    "CHILLS",
+    "HEART RATE INCREASED",
+    "HYPERHIDROSIS",
+    "HYPOTHERMIA",
+    "LOSS OF CONSCIOUSNESS",
+    "NAUSEA",
+    "OCULAR HYPERAEMIA",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20100308",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLE TECH NANO VAPOR HARDCORE PRO SERIES CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NA NO VAPOR POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

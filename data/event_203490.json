@@ -1,0 +1,36 @@
+{
+  "report_number": "203490",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20161027",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "FOREIGN BODY",
+    "SENSATION OF FOREIGN BODY"
+  ],
+  "date_started": "20161009",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLOW-MAG (MAGNESIUM, CALCIUM) GASTRO-RESISTANT TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

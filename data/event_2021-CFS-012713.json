@@ -1,0 +1,55 @@
+{
+  "report_number": "2021-CFS-012713",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20211209",
+  "reactions": [
+    "Hypersensitivity",
+    "Vomiting"
+  ],
+  "date_started": "20211208",
+  "consumer": {
+    "age": "10.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEEP SOUTH INDIA MYSORE MASALA DOSA",
+      "industry_code": "52",
+      "industry_name": "Miscellaneous Food Related Items"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEEP SOUTH INDIA MYSORE MASALA IDLI & MENDU VADA",
+      "industry_code": "52",
+      "industry_name": "Miscellaneous Food Related Items"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Omega Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

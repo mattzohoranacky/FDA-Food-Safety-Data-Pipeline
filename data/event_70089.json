@@ -1,0 +1,49 @@
+{
+  "report_number": "70089",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040520",
+  "reactions": [
+    "HYPERHIDROSIS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20040516",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEPSI COLA BEVERAGE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEEMATE",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUGAR",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHOLE WHEAT TOAST",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

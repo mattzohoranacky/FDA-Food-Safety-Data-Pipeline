@@ -1,0 +1,37 @@
+{
+  "report_number": "90344",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070102",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ANXIETY",
+    "BLOOD LACTATE DEHYDROGENASE INCREASED",
+    "BURNING SENSATION",
+    "CARDIAC FAILURE CONGESTIVE",
+    "Death",
+    "GAMMA-GLUTAMYLTRANSFERASE INCREASED",
+    "HEART RATE DECREASED",
+    "HEPATIC ENZYME INCREASED",
+    "LOSS OF CONSCIOUSNESS",
+    "PROTHROMBIN TIME PROLONGED",
+    "PULSE ABSENT"
+  ],
+  "date_started": "20060818",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BERKELEY PREMIUM NEUTRACEUTICALS ENZYTE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-003016",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230321",
+  "reactions": [
+    "Syncope"
+  ],
+  "date_started": "20230303",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE CALCIUM MAGNESIUM WITH BORON COATED TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE OMEGA-3 FISH OIL 1000MG PLUS BONE SUPPORT RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

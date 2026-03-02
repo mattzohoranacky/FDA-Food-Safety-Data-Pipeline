@@ -1,0 +1,45 @@
+{
+  "report_number": "2018-CFS-008128",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180613",
+  "reactions": [
+    "Agitation",
+    "Anxiety",
+    "Dyspnoea",
+    "Hallucination",
+    "visual",
+    "Insomnia",
+    "Nervousness",
+    "Poor quality sleep"
+  ],
+  "date_started": "20180101",
+  "consumer": {
+    "age": "93",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY MELATONIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLEEP COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED SLEEP SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

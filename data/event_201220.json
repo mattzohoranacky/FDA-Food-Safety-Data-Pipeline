@@ -1,0 +1,35 @@
+{
+  "report_number": "201220",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20160908",
+  "reactions": [
+    "ADVERSE EVENT"
+  ],
+  "date_started": "20160904",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOCTOR'S BEST HIGH POTENCY SERRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL REMEDY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI-VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

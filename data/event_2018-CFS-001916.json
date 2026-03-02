@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-001916",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180201",
+  "reactions": [
+    "Gastrointestinal disorder",
+    "Haematochezia",
+    "Vitamin D deficiency"
+  ],
+  "date_started": "20170915",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT INTENSE REPAIR SHAMPOO - SMOOTH, STRENGTHEN, RESTORE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT INTENSE TREATMENT SPRAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Moringa",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-009536",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20190917",
+  "reactions": [
+    "Intestinal perforation"
+  ],
+  "date_started": "20190822",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GUNDRY MD PREBIO THRIVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GUNDRY MD TOTAL RESTORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

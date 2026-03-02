@@ -1,0 +1,33 @@
+{
+  "report_number": "148909",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120214",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "BLOOD PRESSURE DECREASED",
+    "DISORIENTATION",
+    "DIZZINESS",
+    "DYSPHAGIA",
+    "LOSS OF CONSCIOUSNESS",
+    "SWELLING",
+    "THROAT IRRITATION",
+    "VOMITING"
+  ],
+  "date_started": "20111215",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XANGO FAVAO FIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

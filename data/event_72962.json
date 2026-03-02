@@ -1,0 +1,31 @@
+{
+  "report_number": "72962",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20041015",
+  "reactions": [
+    "ASCITES",
+    "DEATH",
+    "HEPATIC CIRRHOSIS",
+    "HOSPITALISATION"
+  ],
+  "date_started": "20000101",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

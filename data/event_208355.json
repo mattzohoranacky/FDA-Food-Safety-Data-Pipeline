@@ -1,0 +1,35 @@
+{
+  "report_number": "208355",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170301",
+  "reactions": [
+    "BLISTER",
+    "CHEMICAL BURN OF SKIN",
+    "ERYTHEMA",
+    "PAIN",
+    "RASH",
+    "SKIN IRRITATION"
+  ],
+  "date_started": "20170222",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUMMERS EVE ALOE LOVE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PNV PRENATAL VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

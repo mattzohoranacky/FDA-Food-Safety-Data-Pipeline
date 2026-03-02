@@ -1,0 +1,29 @@
+{
+  "report_number": "150860",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120327",
+  "reactions": [
+    "DIARRHOEA"
+  ],
+  "date_started": "20120321",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COSTCO FRESH COD",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

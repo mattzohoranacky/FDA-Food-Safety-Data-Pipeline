@@ -1,0 +1,38 @@
+{
+  "report_number": "149852",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120213",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "DECREASED APPETITE",
+    "DEFAECATION URGENCY",
+    "DYSPEPSIA",
+    "FAECES DISCOLOURED",
+    "MUCOUS STOOLS",
+    "STOMACH DISCOMFORT",
+    "VOMITING"
+  ],
+  "date_started": "20120208",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER CAPTAIN CRUNCHS OOPS ALL BERRIES CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "2 PERCENT MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

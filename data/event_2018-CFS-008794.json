@@ -1,0 +1,38 @@
+{
+  "report_number": "2018-CFS-008794",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180628",
+  "reactions": [
+    "Abnormal behaviour",
+    "Conversion disorder",
+    "Crying"
+  ],
+  "date_started": "20180628",
+  "consumer": {
+    "age": "6.24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUM-DUMS LOLLIPOPS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRITTERS CALCIUM BEARS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DINODOPHILUS (PROBIOTICS) LITTLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

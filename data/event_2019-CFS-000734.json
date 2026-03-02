@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-000734",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20190127",
+  "reactions": [
+    "Dizziness",
+    "Heart rate increased",
+    "Syncope",
+    "Tachycardia"
+  ],
+  "date_started": "20190127",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BANG ENERGY DRINK",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER ULTRA MEN'S",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

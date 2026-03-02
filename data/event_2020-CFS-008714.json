@@ -1,0 +1,49 @@
+{
+  "report_number": "2020-CFS-008714",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200908",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chills",
+    "Dyspnoea",
+    "Hyperhidrosis",
+    "Muscle spasms",
+    "Nausea",
+    "Rhinorrhoea",
+    "Thinking abnormal"
+  ],
+  "date_started": "20200820",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multi-vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "turmeric",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin B6",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

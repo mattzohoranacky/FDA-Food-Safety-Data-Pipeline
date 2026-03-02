@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-009976",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220621",
+  "reactions": [
+    "Chromaturia",
+    "Fatigue",
+    "Pruritus",
+    "Pyrexia"
+  ],
+  "date_started": "20220521",
+  "consumer": {
+    "age": "45.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "180400",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141028",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "SWELLING",
+    "WOUND SECRETION"
+  ],
+  "date_started": "20141027",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DARK N LOVLEY JET BLACK HAIR COLOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

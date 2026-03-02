@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-015197",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241130",
+  "reactions": [
+    "Chills",
+    "Diarrhoea",
+    "Fatigue",
+    "Headache",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20241130",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COSTCO KIRKLAND SIGNATURE SIGNATURE QUINOA SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

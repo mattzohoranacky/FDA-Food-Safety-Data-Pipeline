@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-003040",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190324",
+  "reactions": [
+    "Burning sensation",
+    "Erythema",
+    "Urticaria"
+  ],
+  "date_started": "20190315",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROCK CRYSTAL MICRO POLISH CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

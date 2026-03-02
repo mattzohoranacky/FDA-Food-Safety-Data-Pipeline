@@ -1,0 +1,35 @@
+{
+  "report_number": "87170",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060628",
+  "reactions": [
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FATIGUE",
+    "HYPOAESTHESIA",
+    "HYPOAESTHESIA ORAL",
+    "PARAESTHESIA"
+  ],
+  "date_started": "20060624",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GIANT SUPERMARKET SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GIANT SUPERMARKET SCALLOPS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

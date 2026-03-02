@@ -1,0 +1,37 @@
+{
+  "report_number": "165107",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130501",
+  "reactions": [
+    "DYSPNOEA",
+    "PARAESTHESIA",
+    "SWELLING"
+  ],
+  "date_started": "20130310",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA GINKGO BILOBA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA WITHOUT IRON AND IODINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA WOMEN'S ENERGY ENHANCER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

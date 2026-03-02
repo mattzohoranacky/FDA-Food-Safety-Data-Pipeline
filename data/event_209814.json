@@ -1,0 +1,45 @@
+{
+  "report_number": "209814",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170331",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BIOPSY LIVER ABNORMAL",
+    "CHOLESTASIS",
+    "DRUG-INDUCED LIVER INJURY",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "JAUNDICE",
+    "NECROSIS",
+    "TRANSAMINASES INCREASED"
+  ],
+  "date_started": "20170329",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REDCON1 SHIELD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REDCON1 SOMAL NOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RICH PIANA LIVER AND ORGAN DEFENDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

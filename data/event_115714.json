@@ -1,0 +1,30 @@
+{
+  "report_number": "115714",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20080331",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER"
+  ],
+  "date_started": "20080322",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CANTALOUPE",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STRAWBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

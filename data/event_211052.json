@@ -1,0 +1,40 @@
+{
+  "report_number": "211052",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170428",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "LARYNGEAL OEDEMA",
+    "PHARYNGEAL OEDEMA",
+    "VOCAL CORD DISORDER"
+  ],
+  "date_started": "20170413",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE MAGNESIUM 250 MG(DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

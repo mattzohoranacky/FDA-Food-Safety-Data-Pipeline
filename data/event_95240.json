@@ -1,0 +1,34 @@
+{
+  "report_number": "95240",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060920",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "ERUCTATION",
+    "FLATULENCE",
+    "HAEMATOCHEZIA",
+    "HEADACHE",
+    "NAUSEA"
+  ],
+  "date_started": "20060901",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE SPINACH",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH EXPRESS ROMAINE SPINACH 50 50 SALAD",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "report_number": "178433",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140808",
+  "reactions": [
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "ANOREXIA",
+    "ASTHENIA",
+    "CHEST PAIN",
+    "CONSTIPATION",
+    "DECREASED APPETITE",
+    "DIZZINESS",
+    "DRY MOUTH",
+    "DYSPHAGIA",
+    "GAIT DISTURBANCE",
+    "PAIN",
+    "PALPITATIONS",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20140510",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS WORLDWIDE PLEXUS SLIM DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PLEXUS ACCELERATOR PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PLEXUS BIOCLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PLEXUS PROBIO 5",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PLEXUS X FACTOR ALOE VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

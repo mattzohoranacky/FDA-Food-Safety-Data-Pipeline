@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-009529",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190917",
+  "reactions": [
+    "Abdominal discomfort",
+    "Diarrhoea",
+    "Headache",
+    "Hot flush",
+    "Nausea"
+  ],
+  "date_started": "20190917",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH CUT MANGO",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Women's multi",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

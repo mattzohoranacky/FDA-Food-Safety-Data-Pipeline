@@ -1,0 +1,48 @@
+{
+  "report_number": "2018-CFS-008006",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180611",
+  "reactions": [
+    "Dry skin",
+    "Erythema",
+    "Hair texture abnormal",
+    "Hypersensitivity",
+    "Pruritus",
+    "Skin ulcer",
+    "Swelling"
+  ],
+  "date_started": "20180502",
+  "consumer": {
+    "age": "37.53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT BLACK SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REJUVENIQUE OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REVITALIZE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

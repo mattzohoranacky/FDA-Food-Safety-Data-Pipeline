@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-002104",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210305",
+  "reactions": [
+    "Dyspnoea",
+    "Swelling face",
+    "Swollen tongue",
+    "Urticaria"
+  ],
+  "date_started": "20210118",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STANDARD PROCESS CLEANSE 2670",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STANDARD PROCESS COMPLETE CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STANDARD PROCESS WHOLE FOOD FIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2025-CFS-011312",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250719",
+  "reactions": [
+    "Burning sensation",
+    "Discomfort"
+  ],
+  "date_started": "20250714",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM BRAND HIGH-POTENCY VITAMIN D-3 1,000 IU 25 MCG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "2K IU D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI-VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

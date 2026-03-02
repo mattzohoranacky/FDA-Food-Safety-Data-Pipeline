@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-004037",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220321",
+  "reactions": [
+    "Adverse event"
+  ],
+  "date_started": "20220314",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FANTA GRAPE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FANTA PINNEAPPLE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

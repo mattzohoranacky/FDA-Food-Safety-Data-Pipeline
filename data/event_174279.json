@@ -1,0 +1,40 @@
+{
+  "report_number": "174279",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140224",
+  "reactions": [
+    "Adverse reaction",
+    "LOCAL SWELLING",
+    "PRURITUS",
+    "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20131220",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESSENCE BEAUTE COLLAGENE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CUCUMBER CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D+ CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

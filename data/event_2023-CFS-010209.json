@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-010209",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230925",
+  "reactions": [
+    "Blood urine present",
+    "Electrocardiogram abnormal",
+    "Lung infiltration"
+  ],
+  "date_started": "20230617",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POLAND SPRINGS BOTTLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

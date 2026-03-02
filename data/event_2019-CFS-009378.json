@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-009378",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20190911",
+  "reactions": [
+    "Abdominal pain upper",
+    "Dizziness",
+    "Flushing",
+    "Nausea",
+    "Palpitations",
+    "Pruritus",
+    "Vomiting"
+  ],
+  "date_started": "20190906",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TUNA YELLOWFIN FRESH WILD CAUGHT",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Prenatals",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

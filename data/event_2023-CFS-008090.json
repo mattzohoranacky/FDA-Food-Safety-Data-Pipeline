@@ -1,0 +1,45 @@
+{
+  "report_number": "2023-CFS-008090",
+  "outcomes": [
+    "Life Threatening",
+    "Disability"
+  ],
+  "date_created": "20230802",
+  "reactions": [
+    "Abdominal pain",
+    "Muscular weakness",
+    "Myalgia"
+  ],
+  "date_started": "20221227",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURE NATURALS L-TRYPTOPHAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

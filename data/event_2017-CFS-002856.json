@@ -1,0 +1,43 @@
+{
+  "report_number": "2017-CFS-002856",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171220",
+  "reactions": [
+    "Hepatitis A",
+    "Hepatitis A virus test positive"
+  ],
+  "date_started": "20171208",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEPRO",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PROTEIN",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "chamomile",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D 2000 IU's",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

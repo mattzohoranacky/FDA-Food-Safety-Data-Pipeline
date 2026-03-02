@@ -1,0 +1,33 @@
+{
+  "report_number": "70832",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040729",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "FLATULENCE"
+  ],
+  "date_started": "20040719",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BURGER KING FOOD PRODUCTS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WENDY'S FOOD PRODUCTS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

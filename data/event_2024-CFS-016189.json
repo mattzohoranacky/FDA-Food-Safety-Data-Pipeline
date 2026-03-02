@@ -1,0 +1,41 @@
+{
+  "report_number": "2024-CFS-016189",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241226",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Headache",
+    "Nausea",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20241224",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH ROMA TOMATO",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHALLOTS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHREDDED PARMESAN",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "139488",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110518",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "BLOOD CALCIUM INCREASED",
+    "DIARRHOEA",
+    "HAEMATOCHEZIA",
+    "MYOCARDIAL INFARCTION",
+    "NAUSEA",
+    "OESOPHAGEAL DISORDER",
+    "RECTAL HAEMORRHAGE",
+    "VOMITING",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20110406",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL PETITES COLECALCIFEROL  CALCIUM CITRATE FILM COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

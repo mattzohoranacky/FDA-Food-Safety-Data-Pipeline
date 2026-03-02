@@ -1,0 +1,42 @@
+{
+  "report_number": "73277",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040720",
+  "reactions": [
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "OEDEMA",
+    "PRURITUS",
+    "URTICARIA"
+  ],
+  "date_started": "20040708",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRACH'S HOT HITS SPIDER-MAN TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BABY OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BRACH'S HOT HITS SPIDER-MAN FRUIT SNACKS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

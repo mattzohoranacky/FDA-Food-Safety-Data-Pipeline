@@ -1,0 +1,37 @@
+{
+  "report_number": "120215",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20091105",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "FATIGUE",
+    "MYOCARDIAL INFARCTION",
+    "PAIN IN JAW",
+    "PARAESTHESIA",
+    "TROPONIN INCREASED"
+  ],
+  "date_started": "20090930",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE SAM-E 200MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE'S BOUNTY MELATONIN 3MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

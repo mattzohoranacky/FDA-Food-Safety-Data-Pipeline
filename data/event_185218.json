@@ -1,0 +1,37 @@
+{
+  "report_number": "185218",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20150421",
+  "reactions": [
+    "DYSPHAGIA",
+    "OROPHARYNGEAL PAIN"
+  ],
+  "date_started": "20150126",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYLIMELTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CITRICAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SILVER CENTRUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2019-CFS-011122",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20191106",
+  "reactions": [
+    "Dyspnoea",
+    "Hypoaesthesia",
+    "Rash",
+    "Tachycardia"
+  ],
+  "date_started": "20191017",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROSOLVENT ULTRA BLEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

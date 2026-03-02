@@ -1,0 +1,41 @@
+{
+  "report_number": "2025-CFS-007077",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250505",
+  "reactions": [
+    "Anxiety",
+    "Burning sensation",
+    "Chills",
+    "Fatigue",
+    "Insomnia",
+    "Motor dysfunction",
+    "Pain",
+    "Pruritus",
+    "Pyrexia"
+  ],
+  "date_started": "20240901",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENERGY DRINKS",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MELATONIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

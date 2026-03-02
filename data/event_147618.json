@@ -1,0 +1,41 @@
+{
+  "report_number": "147618",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120109",
+  "reactions": [
+    "CHEST PAIN",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "OESOPHAGEAL PAIN",
+    "PAIN",
+    "SWELLING FACE"
+  ],
+  "date_started": "20111204",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC TRIFLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC TRIPLE STRENGTH FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMENS ULTRA MEGA WTHOUT IRON AND IODINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

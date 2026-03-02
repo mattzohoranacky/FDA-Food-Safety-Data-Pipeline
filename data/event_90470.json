@@ -1,0 +1,52 @@
+{
+  "report_number": "90470",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20070109",
+  "reactions": [
+    "ABASIA",
+    "ASTHENIA",
+    "BLOOD PRESSURE INCREASED",
+    "DEHYDRATION",
+    "DIABETES MELLITUS NON-INSULIN-DEPENDENT",
+    "DIABETIC KETOACIDOSIS",
+    "DYSARTHRIA",
+    "DYSPNOEA",
+    "LETHARGY",
+    "MEMORY IMPAIRMENT",
+    "SKIN DISCOLOURATION",
+    "SOMNOLENCE",
+    "VISION BLURRED",
+    "WEIGHT DECREASED",
+    "WEIGHT INCREASED"
+  ],
+  "date_started": "20051213",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQUAL",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRASWEET",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

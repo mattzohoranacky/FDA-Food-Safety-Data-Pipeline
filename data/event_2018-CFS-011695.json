@@ -1,0 +1,66 @@
+{
+  "report_number": "2018-CFS-011695",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180921",
+  "reactions": [
+    "Abdominal pain",
+    "Blood pressure increased",
+    "Cardiac failure",
+    "Diarrhoea",
+    "Dizziness",
+    "Dyspnoea",
+    "Fatigue"
+  ],
+  "date_started": "20180823",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE CELL-U-LOSS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Formula 1 Healthy Meal - Banana caramel flavor",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Formula 1 Healthy Meal - Cafe latte flavor",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Formula 1 Healthy Meal - Dulce de leche flavor",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Formula 1 Healthy Meal - Pina colada flavor",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Herbal Aloe Concentrate - Cranberry flavor",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Herbal Tea Concentrate - Lemon flavor",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    }
+  ]
+}

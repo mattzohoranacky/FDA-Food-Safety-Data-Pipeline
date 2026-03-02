@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-001801",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190219",
+  "reactions": [
+    "Emotional disorder"
+  ],
+  "date_started": "20190214",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "M&MS",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED DYE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "2022-CFS-016806",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20221201",
+  "reactions": [
+    "Disorientation",
+    "Dysarthria",
+    "Hallucination",
+    "Headache",
+    "Insomnia",
+    "Muscle spasms",
+    "Muscle twitching"
+  ],
+  "date_started": "20221124",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DELTA 8 PINK LEMONADE SOUR BELTS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Ferrous Sulfate",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

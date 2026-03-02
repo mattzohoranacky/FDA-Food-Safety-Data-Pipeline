@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-001743",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200210",
+  "reactions": [
+    "Dyspepsia",
+    "Hypertension"
+  ],
+  "date_started": "20200122",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROYAL GREENS ULTRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

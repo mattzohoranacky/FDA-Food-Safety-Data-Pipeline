@@ -1,0 +1,30 @@
+{
+  "report_number": "170782",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130930",
+  "reactions": [
+    "ACNE"
+  ],
+  "date_started": "20130911",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPERIOR B12 LOZENGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SOLGAR 1000 MCG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

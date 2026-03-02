@@ -1,0 +1,40 @@
+{
+  "report_number": "159328",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121025",
+  "reactions": [
+    "BLOOD PRESSURE FLUCTUATION",
+    "FOOD ALLERGY",
+    "FOOD POISONING",
+    "HEART RATE ABNORMAL",
+    "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20121022",
+  "consumer": {
+    "age": "27.55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALIFORNIA ROLL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GYOZA",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPICY TUNA ROLL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

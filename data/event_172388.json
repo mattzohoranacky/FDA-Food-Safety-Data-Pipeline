@@ -1,0 +1,32 @@
+{
+  "report_number": "172388",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131127",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "FOOD POISONING",
+    "INFECTION",
+    "LEUKOCYTOSIS",
+    "MUCOUS STOOLS",
+    "VOMITING"
+  ],
+  "date_started": "20131107",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SMUCKERS STRAWBERRY JAM",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

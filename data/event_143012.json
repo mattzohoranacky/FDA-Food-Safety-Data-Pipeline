@@ -1,0 +1,35 @@
+{
+  "report_number": "143012",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110831",
+  "reactions": [
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FACE OEDEMA",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "PRURITUS",
+    "SWELLING"
+  ],
+  "date_started": "20110802",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NIACIN 500 MG CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN POTASSIUM GLUCONATE 595 MG CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "report_number": "2018-CFS-005033",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180321",
+  "reactions": [
+    "Abnormal behaviour",
+    "Decreased appetite",
+    "Depression",
+    "Fatigue",
+    "Headache",
+    "Hormone level abnormal",
+    "Malaise",
+    "Skin ulcer",
+    "Suicidal ideation",
+    "Tenderness"
+  ],
+  "date_started": "20171115",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT MOXIE MAGNIFYING MOUSSE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REPLENISH MASQUE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RESTORE LEAVE-IN CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

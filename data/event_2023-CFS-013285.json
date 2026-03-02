@@ -1,0 +1,42 @@
+{
+  "report_number": "2023-CFS-013285",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231130",
+  "reactions": [
+    "Diarrhoea",
+    "Headache",
+    "Myalgia",
+    "Nausea",
+    "Neck pain",
+    "Vomiting"
+  ],
+  "date_started": "20231125",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NECTARINES",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEACH",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLUMS",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

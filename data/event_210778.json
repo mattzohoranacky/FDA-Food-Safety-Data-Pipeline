@@ -1,0 +1,36 @@
+{
+  "report_number": "210778",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170424",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED"
+  ],
+  "date_started": "20170301",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ATTAIN GC CONTROL CREAMY CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIBERWISE, SUGAR-FREE BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRATHERM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

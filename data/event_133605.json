@@ -1,0 +1,40 @@
+{
+  "report_number": "133605",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101207",
+  "reactions": [
+    "ASTHENIA",
+    "CELLULITIS",
+    "DIARRHOEA",
+    "DYSPNOEA",
+    "Death",
+    "FATIGUE",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS VIBRIO",
+    "NAUSEA",
+    "RESPIRATORY DISORDER",
+    "SEPSIS",
+    "SHOCK",
+    "SKIN DISORDER",
+    "VOMITING"
+  ],
+  "date_started": "20100504",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

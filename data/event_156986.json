@@ -1,0 +1,30 @@
+{
+  "report_number": "156986",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120918",
+  "reactions": [
+    "DYSPNOEA",
+    "PHARYNGITIS",
+    "RESPIRATORY DISORDER"
+  ],
+  "date_started": "20120916",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIPPIN' DOTS RAINBOW ICE, SMALL FLAVORED ICE BALLS, FROZEN, DAIRY FREE",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

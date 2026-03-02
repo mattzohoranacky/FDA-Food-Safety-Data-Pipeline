@@ -1,0 +1,44 @@
+{
+  "report_number": "2020-CFS-011187",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201028",
+  "reactions": [
+    "Aneurysm",
+    "Blood pressure increased",
+    "Heart rate increased"
+  ],
+  "date_started": "20180301",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREVAGEN EXTRA STRENGTH 30 COUNT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREVAGEN REGULAR STRENGTH 30 COUNT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Metamucil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "coenyme Q10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

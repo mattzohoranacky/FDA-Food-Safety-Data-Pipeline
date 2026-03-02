@@ -1,0 +1,37 @@
+{
+  "report_number": "192295",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151224",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BILE DUCT STENOSIS",
+    "BIOPSY LIVER ABNORMAL",
+    "CHOLANGITIS",
+    "HEPATIC FAILURE",
+    "PNEUMATOSIS",
+    "VOMITING",
+    "X-RAY ABNORMAL"
+  ],
+  "date_started": "20150804",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLY THICK NECTAR THICK PACKET",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM GLUCONATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

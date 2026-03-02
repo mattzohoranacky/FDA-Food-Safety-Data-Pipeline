@@ -1,0 +1,43 @@
+{
+  "report_number": "172729",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20131107",
+  "reactions": [
+    "CHOKING",
+    "DYSPNOEA"
+  ],
+  "date_started": "20131106",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMEN'S 50 + HEALTHY ADVANTAGE (MULTIVITAMINS + MINERALS) FILM-COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12 (CYANOCOBALAMIN-TANNIN COMPLEX)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID (FOLIC ACID)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3 (CHOLECALCIFEROL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

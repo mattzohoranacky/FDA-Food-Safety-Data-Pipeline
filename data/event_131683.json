@@ -1,0 +1,31 @@
+{
+  "report_number": "131683",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101028",
+  "reactions": [
+    "CAUSTIC INJURY",
+    "EYE DISCHARGE",
+    "EYE IRRITATION",
+    "EYE SWELLING",
+    "LACRIMATION INCREASED",
+    "OCULAR HYPERAEMIA"
+  ],
+  "date_started": "20100820",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EYELASH TINT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

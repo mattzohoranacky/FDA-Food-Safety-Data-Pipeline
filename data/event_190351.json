@@ -1,0 +1,71 @@
+{
+  "report_number": "190351",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151006",
+  "reactions": [
+    "BRAIN INJURY",
+    "CEREBROVASCULAR ACCIDENT",
+    "LABORATORY TEST ABNORMAL"
+  ],
+  "date_started": "20150727",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FORMULA 2 MULTIVITAMIN COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OCULAR DEFENSE FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1 HEALTHY MEAL - CAFE' LATTE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1 HEALTHY MEAL - PINA COLADA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1 HEALTHY MEAL - WILD BERRY",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL ALOE CONCENTRATE - MANGO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL TEA CONCENTRATE - ORIGINAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN DRINK MIX - VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

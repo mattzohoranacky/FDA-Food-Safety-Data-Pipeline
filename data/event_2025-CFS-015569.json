@@ -1,0 +1,33 @@
+{
+  "report_number": "2025-CFS-015569",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250925",
+  "reactions": [
+    "Cough",
+    "Dyspnoea",
+    "Headache",
+    "Hypersensitivity",
+    "Hypopnoea",
+    "Nasal congestion",
+    "Nausea",
+    "Pulmonary congestion",
+    "Vomiting"
+  ],
+  "date_started": "20250924",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWEETENED CONDENSED MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

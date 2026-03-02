@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-001481",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220124",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Flatulence",
+    "Nausea"
+  ],
+  "date_started": "20220118",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CREST WHITENING EMULSIONS LEAVE ON TEETH WHITENING KIT WITH WHITENING",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Alive Women's multi vitamin gummies",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

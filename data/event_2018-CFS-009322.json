@@ -1,0 +1,49 @@
+{
+  "report_number": "2018-CFS-009322",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180716",
+  "reactions": [
+    "Dysphagia",
+    "Pharyngeal oedema",
+    "Throat irritation"
+  ],
+  "date_started": "20180327",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS DAILY FIBER BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS DIGESTION PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS ENERGY FIZZ STICKS - CITRUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS ENERGY FIZZ STICKS - POMEGRANATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS PROTEIN SHAKE MIX - VANILLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

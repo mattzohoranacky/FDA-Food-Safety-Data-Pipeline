@@ -1,0 +1,46 @@
+{
+  "report_number": "2020-CFS-007052",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200722",
+  "reactions": [
+    "Asthenia",
+    "Blood pressure increased",
+    "Chemical injury",
+    "Fatigue",
+    "Heart rate increased",
+    "Lymphadenopathy",
+    "Malaise",
+    "Nausea",
+    "Oral discomfort",
+    "Throat irritation",
+    "Weight decreased"
+  ],
+  "date_started": "20200716",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CREST PRO HEALTH MOUTHWASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

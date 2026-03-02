@@ -1,0 +1,48 @@
+{
+  "report_number": "183957",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150317",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20150205",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ASHWAGANDHA EXTRACT 300 MG RAPID RELEASE TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "L-GLUTAMINE  500 MG COATED TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BLACK CURRANT OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

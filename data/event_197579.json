@@ -1,0 +1,43 @@
+{
+  "report_number": "197579",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160621",
+  "reactions": [
+    "ANXIETY",
+    "BURNING SENSATION",
+    "DIZZINESS",
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "HYPERTENSION",
+    "PHARYNGEAL ERYTHEMA",
+    "RASH",
+    "SENSATION OF FOREIGN BODY",
+    "SYNCOPE",
+    "TACHYCARDIA",
+    "URTICARIA"
+  ],
+  "date_started": "20160521",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MATRIX HAIR COLOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

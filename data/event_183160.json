@@ -1,0 +1,46 @@
+{
+  "report_number": "183160",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20150219",
+  "reactions": [
+    "COLITIS ULCERATIVE",
+    "DIVERTICULITIS",
+    "HIGH DENSITY LIPOPROTEIN INCREASED",
+    "LOW DENSITY LIPOPROTEIN INCREASED",
+    "RECTAL HAEMORRHAGE"
+  ],
+  "date_started": "20150108",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OMEGA 3-6-9",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MEGA CAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURAL SOURCES B50 COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "report_number": "2018-CFS-007257",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20180519",
+  "reactions": [
+    "Anxiety",
+    "Hypoaesthesia",
+    "Insomnia",
+    "Laboratory test abnormal",
+    "Neurotransmitter level altered",
+    "Norepinephrine decreased",
+    "Palpitations",
+    "Panic attack",
+    "Peripheral coldness",
+    "Pollakiuria",
+    "Serum serotonin decreased"
+  ],
+  "date_started": "20180222",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOMOCYSTEINE SUPREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

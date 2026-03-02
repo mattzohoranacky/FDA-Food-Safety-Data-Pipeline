@@ -1,0 +1,42 @@
+{
+  "report_number": "79313",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050628",
+  "reactions": [
+    "HAEMATURIA",
+    "HYPERSENSITIVITY",
+    "MICTURITION URGENCY",
+    "POLLAKIURIA",
+    "URINARY TRACT PAIN"
+  ],
+  "date_started": "19990303",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARRAGEENAN",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOY MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

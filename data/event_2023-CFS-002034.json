@@ -1,0 +1,41 @@
+{
+  "report_number": "2023-CFS-002034",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230228",
+  "reactions": [
+    "Conjunctivitis",
+    "Erythema",
+    "Eye irritation",
+    "Lacrimation increased",
+    "Sinus congestion",
+    "Swelling"
+  ],
+  "date_started": "20230227",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THERATEARS DRY EYE THERAPY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Neomycin/Polymixin/Dexamethasone solution",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "herbs for blood pressure control",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

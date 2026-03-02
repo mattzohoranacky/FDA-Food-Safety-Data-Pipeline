@@ -1,0 +1,44 @@
+{
+  "report_number": "2023-CFS-002384",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230307",
+  "reactions": [
+    "Anaphylactic shock",
+    "Pain"
+  ],
+  "date_started": "20230306",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLAX SEED LINSEED",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GHIRADELLI",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEAN CUISINE MEALS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MORTONS MUFFINS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

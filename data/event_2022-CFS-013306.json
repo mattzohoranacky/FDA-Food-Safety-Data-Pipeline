@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-013306",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220829",
+  "reactions": [
+    "Chapped lips",
+    "Lip haemorrhage"
+  ],
+  "date_started": "20220826",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS SUPER SOFT SHEA 4-PACK LIP BALM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

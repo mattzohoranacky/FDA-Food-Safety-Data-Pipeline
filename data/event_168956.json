@@ -1,0 +1,34 @@
+{
+  "report_number": "168956",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130808",
+  "reactions": [
+    "ALOPECIA",
+    "DYSPHONIA",
+    "FATIGUE",
+    "THYROID CYST",
+    "THYROID FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20130320",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTHY LIFE CHEMISTRY DIETARY SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTHY LIFE CHEMISTRY MULTIMINERALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

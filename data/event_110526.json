@@ -1,0 +1,33 @@
+{
+  "report_number": "110526",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090210",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HIP FRACTURE",
+    "MALAISE",
+    "NAUSEA",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20090131",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRACH'S CHOCOLATE COVERED PEANUTS",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

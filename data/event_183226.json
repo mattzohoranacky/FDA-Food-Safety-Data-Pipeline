@@ -1,0 +1,46 @@
+{
+  "report_number": "183226",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150223",
+  "reactions": [
+    "ANAPHYLACTOID REACTION",
+    "DYSPHAGIA",
+    "DYSPHONIA",
+    "HYPERSENSITIVITY",
+    "LIP SWELLING",
+    "PALATAL OEDEMA",
+    "PHARYNGEAL OEDEMA",
+    "THROAT IRRITATION",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20150120",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND OPTIFIBER POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL (OMEGA-3 FATTY ACIDS-FISH OIL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RED WINE EXTRACT PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

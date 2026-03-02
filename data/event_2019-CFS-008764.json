@@ -1,0 +1,37 @@
+{
+  "report_number": "2019-CFS-008764",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190824",
+  "reactions": [
+    "Personality change",
+    "Psychomotor hyperactivity"
+  ],
+  "date_started": "20190822",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANNATTO",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MALT-O-MEAL CORN BURSTS CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MALT-O-MEAL MAC AND CHEESE",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    }
+  ]
+}

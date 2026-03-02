@@ -1,0 +1,33 @@
+{
+  "report_number": "111884",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090408",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "INFLAMMATION"
+  ],
+  "date_started": "20090311",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JARROW FORMULAS JARRO-DOPHILUS EPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SOLGAR INC. MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

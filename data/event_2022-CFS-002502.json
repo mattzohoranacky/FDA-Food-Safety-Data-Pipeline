@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-002502",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220221",
+  "reactions": [
+    "Crying",
+    "Decreased appetite",
+    "Dehydration",
+    "Diarrhoea",
+    "Dyspnoea",
+    "Lethargy",
+    "Malaise",
+    "Pyrexia",
+    "Rash",
+    "Vomiting",
+    "Weight decreased"
+  ],
+  "date_started": "20220116",
+  "consumer": {
+    "age": "1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC PRO ADVANCE INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

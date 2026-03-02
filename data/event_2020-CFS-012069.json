@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-012069",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20201120",
+  "reactions": [
+    "Heart rate increased",
+    "Palpitations",
+    "Supraventricular tachycardia"
+  ],
+  "date_started": "20201009",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

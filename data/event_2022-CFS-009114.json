@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-009114",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220531",
+  "reactions": [
+    "Bowel movement irregularity",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20220511",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GINGER",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROSEMARY",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

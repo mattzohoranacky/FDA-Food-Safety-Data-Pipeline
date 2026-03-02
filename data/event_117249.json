@@ -1,0 +1,53 @@
+{
+  "report_number": "117249",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20090825",
+  "reactions": [
+    "BLISTER",
+    "CELLULITIS",
+    "DERMATITIS BULLOUS",
+    "GASTROENTERITIS VIBRIO",
+    "HALLUCINATION",
+    "SHOCK"
+  ],
+  "date_started": "20090610",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRIED CRAB",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRIED OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STEAMED CRABS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STEAMED SNOW CRAB LEGS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

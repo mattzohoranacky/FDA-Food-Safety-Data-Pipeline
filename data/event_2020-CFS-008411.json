@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-008411",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20200828",
+  "reactions": [
+    "Abdominal pain upper",
+    "Lip swelling"
+  ],
+  "date_started": "20200812",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY OPTIMAL SOLUTIONS HAIR SKIN AND NAILS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAL FUSION PRENATAL VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

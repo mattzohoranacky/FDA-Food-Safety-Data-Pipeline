@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-006846",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190626",
+  "reactions": [
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20190624",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOLTHOUSE FARMS BABY CARROTS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "pistachios",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

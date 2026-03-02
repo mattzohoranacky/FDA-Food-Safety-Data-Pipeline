@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-003131",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200303",
+  "reactions": [
+    "Alopecia",
+    "Trichorrhexis"
+  ],
+  "date_started": "20200216",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

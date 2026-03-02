@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-001565",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230213",
+  "reactions": [
+    "Anxiety",
+    "Intrusive thoughts"
+  ],
+  "date_started": "20230104",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOW TRUE CALM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Goli Ashwagandha Gummies",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

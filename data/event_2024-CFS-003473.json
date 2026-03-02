@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-003473",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240402",
+  "reactions": [
+    "Food allergy",
+    "Pain",
+    "Rash",
+    "Skin irritation",
+    "Swelling"
+  ],
+  "date_started": "20240326",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOLTHOUSE FARMS AMAZING MANGO SMOOTHIE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

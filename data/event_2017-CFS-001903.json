@@ -1,0 +1,32 @@
+{
+  "report_number": "2017-CFS-001903",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171117",
+  "reactions": [
+    "Dyspnoea",
+    "Foreign body",
+    "Oesophageal irritation"
+  ],
+  "date_started": "20171030",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE L-LYSINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

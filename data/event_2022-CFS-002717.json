@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-002717",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220224",
+  "reactions": [
+    "Feeding disorder neonatal",
+    "Haematochezia",
+    "Irritability",
+    "Jaundice",
+    "Lethargy",
+    "Pyrexia",
+    "Rash",
+    "Sepsis"
+  ],
+  "date_started": "20210624",
+  "consumer": {
+    "age": "7",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC BABY FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

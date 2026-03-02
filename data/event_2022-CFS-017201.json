@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-017201",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20221213",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20221209",
+  "consumer": {
+    "age": "17.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RICE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VEGETARIAN CHILI",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    }
+  ]
+}

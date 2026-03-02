@@ -1,0 +1,35 @@
+{
+  "report_number": "208313",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170224",
+  "reactions": [
+    "ASTHENIA",
+    "HAEMORRHOIDAL HAEMORRHAGE",
+    "HEADACHE",
+    "PLATELET COUNT DECREASED",
+    "THROMBOCYTOPENIA"
+  ],
+  "date_started": "20170131",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIVER DETOX 30 DAY PROGRAM PART 1 MORNING FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIVER DETOX 30 DAY PROGRAM PART 2 EVENING PROGRAM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "111317",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090211",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "ANAPHYLACTIC REACTION",
+    "Hypersensitivity",
+    "PARAESTHESIA",
+    "THROAT TIGHTNESS",
+    "VOMITING"
+  ],
+  "date_started": "20090210",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHOP RITE STORE BAKED CHOCOLATE CHIP COOKIES - 24 PACK",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SHOP RITE SUGAR COOKIES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

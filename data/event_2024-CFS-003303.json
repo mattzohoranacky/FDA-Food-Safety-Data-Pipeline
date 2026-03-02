@@ -1,0 +1,40 @@
+{
+  "report_number": "2024-CFS-003303",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240328",
+  "reactions": [
+    "Chills",
+    "Diarrhoea",
+    "Feeding disorder",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20240322",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLASSIC BEEF CHILI WITH BEANS",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BLACK BEAN CHILI WITH QUINOA",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WOMEN'S DAILY VITAMIN 50+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

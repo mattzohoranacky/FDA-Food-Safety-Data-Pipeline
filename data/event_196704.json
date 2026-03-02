@@ -1,0 +1,40 @@
+{
+  "report_number": "196704",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160524",
+  "reactions": [
+    "ABDOMINAL ABSCESS",
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "Adverse event",
+    "CLOSTRIDIUM DIFFICILE INFECTION",
+    "COLONOSCOPY ABNORMAL",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "GASTRIC DISORDER",
+    "RECTAL HAEMORRHAGE",
+    "SEPSIS",
+    "SWELLING"
+  ],
+  "date_started": "20151201",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALL DAY ENERGY GREENS FRUITY POWDERED GREEN SUPPLEMENT DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GO RUBY GO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

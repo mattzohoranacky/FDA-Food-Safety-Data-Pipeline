@@ -1,0 +1,32 @@
+{
+  "report_number": "163134",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130301",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "DEAFNESS",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "Food allergy",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20130220",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JELLY BELLY BEANBOOZLED JELLY BEAN CANDIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

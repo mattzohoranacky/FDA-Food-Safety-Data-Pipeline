@@ -1,0 +1,33 @@
+{
+  "report_number": "189729",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150917",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CONSTIPATION",
+    "DIARRHOEA",
+    "GASTROINTESTINAL PAIN"
+  ],
+  "date_started": "20150915",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

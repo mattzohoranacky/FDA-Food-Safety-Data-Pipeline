@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-011415",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191118",
+  "reactions": [
+    "Headache",
+    "Liver function test abnormal",
+    "Nausea"
+  ],
+  "date_started": "20190926",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE GENIUS BRAND GENIUS MUSHROOMS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Genius Sleep Aid",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

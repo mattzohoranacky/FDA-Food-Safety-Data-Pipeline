@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-014813",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20221005",
+  "reactions": [
+    "Abdominal pain",
+    "Headache",
+    "Malaise",
+    "Nausea",
+    "Night sweats",
+    "Pyrexia"
+  ],
+  "date_started": "20220228",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "Revive Superfoods Mango and Pineapple Smoothie",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

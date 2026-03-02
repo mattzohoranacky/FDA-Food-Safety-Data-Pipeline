@@ -1,0 +1,33 @@
+{
+  "report_number": "170832",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20131010",
+  "reactions": [
+    "HEPATITIS",
+    "HEPATOMEGALY",
+    "LIVER DISORDER"
+  ],
+  "date_started": "20121018",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXYELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE A DAY SILVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

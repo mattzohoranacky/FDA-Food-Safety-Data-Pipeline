@@ -1,0 +1,37 @@
+{
+  "report_number": "2023-CFS-001378",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20230207",
+  "reactions": [
+    "Crying",
+    "Dermatitis diaper",
+    "Diarrhoea",
+    "Erythema",
+    "Nasal congestion",
+    "Oropharyngeal pain",
+    "Pyrexia",
+    "Skin swelling"
+  ],
+  "date_started": "20230127",
+  "consumer": {
+    "age": "10",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC SOY ISOMIL",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

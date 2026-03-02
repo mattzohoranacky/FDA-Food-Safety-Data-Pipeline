@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-002741",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240307",
+  "reactions": [
+    "Abdominal pain",
+    "Confusional state",
+    "Decreased appetite",
+    "Hypercalcaemia",
+    "Lethargy",
+    "Nausea"
+  ],
+  "date_started": "20231103",
+  "consumer": {
+    "age": "89",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE SUNVITE SUPER MEGA POTENCY 10,000IU VIT D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "report_number": "2024-CFS-004650",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240429",
+  "reactions": [
+    "Abdominal discomfort",
+    "Anxiety",
+    "Chromaturia",
+    "Condition aggravated",
+    "Decreased appetite",
+    "Dehydration",
+    "Diarrhoea",
+    "Fear",
+    "Flank pain",
+    "Headache",
+    "Hyperhidrosis",
+    "Kidney infection",
+    "Nausea",
+    "Palpitations",
+    "Panic attack",
+    "Pollakiuria",
+    "Pyrexia"
+  ],
+  "date_started": "20240401",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AG1 WHOLE FOOD POUCH 360G NON SPECIFIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN D3 PLUS K2 LIQUID DIETARY SUPPLEMENT 1FL OZ 30 ML",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

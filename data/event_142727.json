@@ -1,0 +1,44 @@
+{
+  "report_number": "142727",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110823",
+  "reactions": [
+    "BLOOD CHOLESTEROL INCREASED",
+    "ENERGY INCREASED",
+    "THYROID DISORDER"
+  ],
+  "date_started": "20110817",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER (MULTIMINERALS, MULTIVITAMINS) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER ULTRA WOMEN'S(MULTIMINERALS, MULTIVITAMINS ) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOCOPHEROL  (VITAMIN E)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UBIDECARENONE  (CO-Q-10)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

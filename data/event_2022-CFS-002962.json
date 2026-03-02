@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-002962",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220301",
+  "reactions": [
+    "Anaemia",
+    "Dehydration",
+    "Diarrhoea haemorrhagic",
+    "Lethargy",
+    "Pallor",
+    "Pyrexia",
+    "Salmonellosis"
+  ],
+  "date_started": "20211031",
+  "consumer": {
+    "age": "12",
+    "age_unit": "week(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC SPIT-UP",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

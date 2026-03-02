@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-004443",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20240419",
+  "reactions": [
+    "Dizziness",
+    "Headache"
+  ],
+  "date_started": "20240418",
+  "consumer": {
+    "age": "72.9",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KAPPA NUTRITION ELEMENTAL MAGNESIUM, L-THREONATE, BISGLYCINATE CHELATE, MALATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONCE A DAY MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

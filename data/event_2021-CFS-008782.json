@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-008782",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210823",
+  "reactions": [
+    "Blister",
+    "Erythema",
+    "Pruritus generalised"
+  ],
+  "date_started": "20210616",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OMEGA 3 SOFTGELS WITH 25 MG DPA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

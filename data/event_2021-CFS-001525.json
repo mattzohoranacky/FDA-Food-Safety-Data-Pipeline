@@ -1,0 +1,43 @@
+{
+  "report_number": "2021-CFS-001525",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210215",
+  "reactions": [
+    "Rash",
+    "Urticaria"
+  ],
+  "date_started": "20210211",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOW EXTRA STRENGTH ALPHA LIPOIC ACID (ALA)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "D3 SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PYSLLIUM FIBER PILLS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WOMENS 50+ MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-011115",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220715",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chest pain",
+    "Dyspnoea",
+    "Gallbladder disorder",
+    "Hepatic enzyme increased"
+  ],
+  "date_started": "20220624",
+  "consumer": {
+    "age": "29.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST SQUASH AND WILD RICE GRATIN",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

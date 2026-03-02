@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-004138",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220322",
+  "reactions": [
+    "Bacterial infection",
+    "Erythema",
+    "Swelling"
+  ],
+  "date_started": "20220317",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JERGENS ULTRA HEALING LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

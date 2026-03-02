@@ -1,0 +1,41 @@
+{
+  "report_number": "193825",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160219",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "RASH GENERALISED",
+    "SWELLING FACE",
+    "URTICARIA"
+  ],
+  "date_started": "20160130",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE MELATONIN + 200 MG L-THEANINE SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATUREMADE MULTIVITAMIN (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATUREMADE VITAMIN D3 (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "report_number": "2020-CFS-009688",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200929",
+  "reactions": [
+    "Abdominal hernia",
+    "Adenoma benign",
+    "Bone marrow disorder",
+    "Bronchiolitis",
+    "Cervical cyst",
+    "Cervix inflammation",
+    "Diverticulum intestinal",
+    "Hepatic steatosis",
+    "Injury",
+    "Large intestine polyp",
+    "Maternal exposure during pregnancy",
+    "Osteitis deformans",
+    "Ovarian cancer stage II",
+    "Pulmonary mass",
+    "Spinal disorder",
+    "Uterine polyp"
+  ],
+  "date_started": "20150731",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

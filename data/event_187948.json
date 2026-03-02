@@ -1,0 +1,45 @@
+{
+  "report_number": "187948",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20150708",
+  "reactions": [
+    "CHOKING",
+    "COUGH",
+    "FOREIGN BODY",
+    "OROPHARYNGEAL PAIN"
+  ],
+  "date_started": "20150617",
+  "consumer": {
+    "age": "92",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE MEGA VITA-MIN COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LUTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

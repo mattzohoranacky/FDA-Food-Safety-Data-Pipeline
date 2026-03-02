@@ -1,0 +1,42 @@
+{
+  "report_number": "90469",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070109",
+  "reactions": [
+    "ANXIETY",
+    "FATIGUE",
+    "HEADACHE",
+    "MOOD SWINGS",
+    "MUSCLE SPASMS",
+    "MYALGIA"
+  ],
+  "date_started": "20061215",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COCA-COLA DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-004468",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20190502",
+  "reactions": [
+    "Vomiting"
+  ],
+  "date_started": "20190423",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER ARTISAN VANILLA BEAN ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

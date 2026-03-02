@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-001937",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230223",
+  "reactions": [
+    "Abdominal distension",
+    "Cough",
+    "Flatulence",
+    "Hypersensitivity",
+    "Pruritus",
+    "Rhinorrhoea",
+    "Urticaria"
+  ],
+  "date_started": "20221227",
+  "consumer": {
+    "age": "50.9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KARMA PROBIOTIC WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

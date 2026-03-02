@@ -1,0 +1,31 @@
+{
+  "report_number": "174283",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140225",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED"
+  ],
+  "date_started": "20140207",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAC MARKETING AGELESS MALE SOFT GEL (LJ100)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAC MARKETING SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

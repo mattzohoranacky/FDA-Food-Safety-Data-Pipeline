@@ -1,0 +1,39 @@
+{
+  "report_number": "95987",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070831",
+  "reactions": [
+    "GASTROENTERITIS VIBRIO",
+    "MALAISE",
+    "Vibrio test positive"
+  ],
+  "date_started": "20070613",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALLARD FISH AND OYSTER CO RAW LITTLENECK CLAMS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COOKED SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TILAPIA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "198794",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160721",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "DIZZINESS",
+    "HEADACHE",
+    "LOCAL SWELLING"
+  ],
+  "date_started": "20160711",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIPLE ACTION VIRILITY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

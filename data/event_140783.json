@@ -1,0 +1,29 @@
+{
+  "report_number": "140783",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20110628",
+  "reactions": [
+    "DIARRHOEA",
+    "NAUSEA"
+  ],
+  "date_started": "20110624",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKET PANTRY PREPARED TUNA SALAD",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENSURE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-009304",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240621",
+  "reactions": [
+    "Hypercalcaemia"
+  ],
+  "date_started": "20240620",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BULKSUPPLEMENTS.COM VITAMIN D3 POWDER CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BULKSUPPLEMENTS.COM VITAMIN D3 POWDER CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

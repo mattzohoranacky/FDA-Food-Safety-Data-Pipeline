@@ -1,0 +1,37 @@
+{
+  "report_number": "206332",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170113",
+  "reactions": [
+    "POISONING",
+    "VOMITING"
+  ],
+  "date_started": "20170106",
+  "consumer": {
+    "age": "1",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HIPP",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOLLE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEBENSWERT",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

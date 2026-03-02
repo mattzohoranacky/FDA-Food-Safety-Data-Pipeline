@@ -1,0 +1,45 @@
+{
+  "report_number": "2020-CFS-010397",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201013",
+  "reactions": [
+    "Adenocarcinoma",
+    "Ascites",
+    "Asthma",
+    "Breast mass",
+    "Cardiac arrest neonatal",
+    "Cardiac failure congestive",
+    "Chronic obstructive pulmonary disease",
+    "Endometriosis",
+    "Fallopian tube cancer",
+    "Fallopian tube cyst",
+    "Gastrointestinal carcinoma",
+    "Hepatobiliary cancer",
+    "Hyperplasia",
+    "Ovarian cancer metastatic",
+    "Pancreatic carcinoma"
+  ],
+  "date_started": "20170817",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

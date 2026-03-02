@@ -1,0 +1,36 @@
+{
+  "report_number": "179183",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140506",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "COUGH",
+    "CYANOSIS",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FLUSHING",
+    "NAIL DISCOLOURATION",
+    "RESPIRATORY DISORDER",
+    "SNEEZING"
+  ],
+  "date_started": "20140504",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEWMAN'S O'S CHOCOLATE COOKIES; CREME FILLED, WHEAT-FREE, DAIRY-FREE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

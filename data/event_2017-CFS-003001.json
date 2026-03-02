@@ -1,0 +1,39 @@
+{
+  "report_number": "2017-CFS-003001",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20171219",
+  "reactions": [
+    "Constipation",
+    "Decreased appetite",
+    "Discomfort",
+    "Dyspepsia",
+    "Enzyme level increased",
+    "Erythema",
+    "Gastrointestinal pain",
+    "Hypersensitivity",
+    "Lipase increased",
+    "Nausea",
+    "Pancreatitis",
+    "Skin exfoliation",
+    "Swelling",
+    "Vomiting"
+  ],
+  "date_started": "20171108",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE PREMIUM PAPAYA ENZYME CHEWABLE TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

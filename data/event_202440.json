@@ -1,0 +1,43 @@
+{
+  "report_number": "202440",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20161002",
+  "reactions": [
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "INSOMNIA"
+  ],
+  "date_started": "20160920",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HELLO I'M A HANDFUL MINTY BITES",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COLLAGEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRANBERRY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

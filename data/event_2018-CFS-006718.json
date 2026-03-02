@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-006718",
+  "outcomes": [
+    "Death",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180503",
+  "reactions": [
+    "Chest pain",
+    "Death",
+    "Dyspnoea",
+    "Fatigue",
+    "Pulmonary oedema",
+    "Upper respiratory tract infection"
+  ],
+  "date_started": "20180416",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIMBREL",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

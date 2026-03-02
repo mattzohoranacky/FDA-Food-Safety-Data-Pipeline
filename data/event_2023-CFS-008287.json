@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-008287",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230808",
+  "reactions": [
+    "Depressed level of consciousness",
+    "Diarrhoea",
+    "Headache",
+    "Vomiting projectile"
+  ],
+  "date_started": "20230731",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENSO SUPERFOODS SUPERGREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

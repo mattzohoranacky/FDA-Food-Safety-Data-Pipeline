@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-002740",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220224",
+  "reactions": [
+    "Convulsion",
+    "Escherichia test positive",
+    "Salmonellosis"
+  ],
+  "date_started": "20210611",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT ELECARE SIMILAC",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Lactose",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

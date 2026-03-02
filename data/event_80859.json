@@ -1,0 +1,40 @@
+{
+  "report_number": "80859",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050912",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANOREXIA",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "JAUNDICE",
+    "NAUSEA",
+    "PRURITUS",
+    "RASH"
+  ],
+  "date_started": "20050106",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METHYL-1-TESTOSTERONE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TIGHT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

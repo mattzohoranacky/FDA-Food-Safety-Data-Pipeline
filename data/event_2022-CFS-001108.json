@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-001108",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220125",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal"
+  ],
+  "date_started": "20210831",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT DAMAGE REPAIR CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT DAMAGE REPAIR SHAMPOO AND CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

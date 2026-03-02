@@ -1,0 +1,46 @@
+{
+  "report_number": "2018-CFS-001590",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180124",
+  "reactions": [
+    "Alopecia",
+    "Burning sensation",
+    "Dry skin",
+    "Onychoclasis",
+    "Skin exfoliation"
+  ],
+  "date_started": "20170901",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT BLACK SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT INTENSIVE REPAIR TREATMENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT IRT SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REQUIVANIQUE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "183875",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150316",
+  "reactions": [
+    "ADVERSE REACTION",
+    "SHOCK",
+    "SWELLING"
+  ],
+  "date_started": "20150217",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AGELESS MALE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIPLE ACTION VIRILITY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

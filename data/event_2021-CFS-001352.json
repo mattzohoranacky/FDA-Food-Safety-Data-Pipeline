@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-001352",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20210210",
+  "reactions": [
+    "Chills",
+    "Malaise",
+    "Nasopharyngitis",
+    "Pain"
+  ],
+  "date_started": "20210206",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REBEL CHERRY CHIP ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "report_number": "2024-CFS-015220",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241202",
+  "reactions": [
+    "Blood pressure increased",
+    "Burning sensation",
+    "Diarrhoea",
+    "Dizziness",
+    "Fatigue",
+    "Headache",
+    "Heart rate increased",
+    "Hospitalisation",
+    "Hypervitaminosis",
+    "Nausea",
+    "Pollakiuria",
+    "Renal pain",
+    "Swelling",
+    "Vomiting"
+  ],
+  "date_started": "20241129",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRIP GYM ALPHA LIPOIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRIP GYM AND IV THERAPY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRIP GYM HIGH DOSAGE VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRIP GYM KETAMINE IV THERAPY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRIP GYM STAMINA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRIP GYM WORKAHOLIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

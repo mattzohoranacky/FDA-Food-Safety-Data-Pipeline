@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-010582",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240812",
+  "reactions": [
+    "Hospitalisation",
+    "Hypercalcaemia",
+    "Manganese increased"
+  ],
+  "date_started": "20240514",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INFANT MILK FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "INFANT THICKENER FOR BREAST MILK & FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

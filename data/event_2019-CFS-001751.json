@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-001751",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190219",
+  "reactions": [
+    "Psychomotor hyperactivity"
+  ],
+  "date_started": "20190209",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCOOBY DOO FRUIT SNACKS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Gutpro probiotics",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B-12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

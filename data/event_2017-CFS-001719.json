@@ -1,0 +1,47 @@
+{
+  "report_number": "2017-CFS-001719",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171108",
+  "reactions": [
+    "Dysphonia",
+    "Dyspnoea",
+    "Hypersensitivity",
+    "Lip swelling",
+    "Oropharyngeal pain",
+    "Urticaria"
+  ],
+  "date_started": "20171006",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

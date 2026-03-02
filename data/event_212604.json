@@ -1,0 +1,44 @@
+{
+  "report_number": "212604",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20170529",
+  "reactions": [
+    "Amnesia",
+    "Anxiety",
+    "Balance disorder",
+    "Confusional state",
+    "Depression",
+    "Dizziness",
+    "Dysarthria",
+    "Feeling abnormal",
+    "Hypoaesthesia",
+    "Insomnia",
+    "Nausea",
+    "Neurological symptom",
+    "Paraesthesia",
+    "Vision blurred",
+    "Vomiting"
+  ],
+  "date_started": "20170504",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JARROW FORMULAS PHARMACEUTICAL GRADE L-GLUTAMINE 4 OZ DIETARY SUPPLEMENT POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Jarrow Formulas Pharmaceutical Grade L-Glutamine Powder",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

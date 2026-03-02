@@ -1,0 +1,35 @@
+{
+  "report_number": "158934",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20121113",
+  "reactions": [
+    "BLOOD CALCIUM INCREASED",
+    "COMA",
+    "CONVULSION",
+    "MUSCULAR WEAKNESS",
+    "VITAMIN D INCREASED"
+  ],
+  "date_started": "20010101",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL REGULAR CALCIUM CITRATE FILM COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

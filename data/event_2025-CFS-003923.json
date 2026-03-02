@@ -1,0 +1,34 @@
+{
+  "report_number": "2025-CFS-003923",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20250326",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Headache",
+    "Hypersensitivity",
+    "Muscle spasms",
+    "Nausea",
+    "Pain",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20250318",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHILADELPHIA GARDEN VEGETABLE CREAM CHEESE SPREAD",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

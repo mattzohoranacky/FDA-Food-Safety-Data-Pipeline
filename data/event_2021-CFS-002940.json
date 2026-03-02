@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-002940",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210331",
+  "reactions": [
+    "Abdominal pain",
+    "Pruritus",
+    "Rash"
+  ],
+  "date_started": "20210331",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CETAPHIL GENTLE SKIN CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CETAPHIL MOISTURIZING LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

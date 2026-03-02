@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-006491",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200701",
+  "reactions": [
+    "Asthenia",
+    "Chills",
+    "Diarrhoea",
+    "Food poisoning",
+    "Headache",
+    "Nausea",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20200628",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WONDERFUL PISTACHIOS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

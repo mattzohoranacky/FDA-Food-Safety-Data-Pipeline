@@ -1,0 +1,37 @@
+{
+  "report_number": "182849",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150206",
+  "reactions": [
+    "ANXIETY",
+    "BURNING SENSATION",
+    "CHOKING",
+    "DYSPNOEA",
+    "FOREIGN BODY",
+    "MYALGIA",
+    "RETCHING",
+    "VOMITING"
+  ],
+  "date_started": "20150117",
+  "consumer": {
+    "age": "41.43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY PROBIOTIC 10 20 BILLION LIVE PROBIOTIC CULTURES CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OTHER SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

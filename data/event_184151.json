@@ -1,0 +1,32 @@
+{
+  "report_number": "184151",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150324",
+  "reactions": [
+    "DIARRHOEA",
+    "HEADACHE",
+    "SALMONELLOSIS"
+  ],
+  "date_started": "20150318",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S RAW CALIFORNIA WALNUT PIECES",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

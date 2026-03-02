@@ -1,0 +1,30 @@
+{
+  "report_number": "120361",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20091112",
+  "reactions": [
+    "PULMONARY EMBOLISM"
+  ],
+  "date_started": "20090408",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIACTIV CALCIUM CHEWS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIACTIV MULTI-VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

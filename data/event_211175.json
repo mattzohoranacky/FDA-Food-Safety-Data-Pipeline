@@ -1,0 +1,35 @@
+{
+  "report_number": "211175",
+  "outcomes": [
+    "Death",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170501",
+  "reactions": [
+    "Death",
+    "Endometrial cancer",
+    "Injury",
+    "Ovarian cancer"
+  ],
+  "date_started": "19990101",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

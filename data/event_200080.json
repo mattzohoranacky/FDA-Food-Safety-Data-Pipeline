@@ -1,0 +1,39 @@
+{
+  "report_number": "200080",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20160814",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "LETHARGY",
+    "NAUSEA"
+  ],
+  "date_started": "20160801",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLUSH FREE NIACIN INOSITOL HEXANICOTINATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE MADE ADULT GUMMIES CALCIUM 500 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE MADE ADULT GUMMIES VITAMIN D3 2000 IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

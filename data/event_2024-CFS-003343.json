@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-003343",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210603",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea",
+    "Feeling hot",
+    "Hyperhidrosis",
+    "Renal disorder",
+    "Vomiting"
+  ],
+  "date_started": "20210507",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE NON- DAIRY CARAMEL MACCHIATO ARTIFICIALLY FLAVORED (POWDERED) COFFEE CREAMER",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    }
+  ]
+}

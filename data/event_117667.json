@@ -1,0 +1,55 @@
+{
+  "report_number": "117667",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090904",
+  "reactions": [
+    "CYSTITIS",
+    "DECREASED APPETITE",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "Death",
+    "HALLUCINATION",
+    "SUDDEN DEATH",
+    "VOMITING"
+  ],
+  "date_started": "20090122",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "12-IN-ONE FOR WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUAL ACTION CLEANSE TOTAL BODY PURIFIER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUAL-ACTION CLEANSE COLON CLEAR FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN TEA NATURAL ENERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

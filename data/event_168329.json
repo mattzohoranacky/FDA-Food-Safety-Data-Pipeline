@@ -1,0 +1,36 @@
+{
+  "report_number": "168329",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130726",
+  "reactions": [
+    "ABDOMINAL PAIN LOWER",
+    "ABORTION SPONTANEOUS",
+    "AMNIORRHOEA",
+    "BREECH DELIVERY",
+    "GENITAL HAEMORRHAGE",
+    "UMBILICAL CORD PROLAPSE"
+  ],
+  "date_started": "20130313",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMEN'S PRENATAL (DHA EPA) LIQUID GELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMEN'S PRENATAL (MULTIVITAMINS + MINERALS) FILM-COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

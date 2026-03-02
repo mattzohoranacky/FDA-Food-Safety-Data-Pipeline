@@ -1,0 +1,37 @@
+{
+  "report_number": "177959",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140716",
+  "reactions": [
+    "ANGINA PECTORIS",
+    "INTERNATIONAL NORMALISED RATIO DECREASED"
+  ],
+  "date_started": "20140619",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOOD 'N NATURAL PROBIOTIC ACIDOPHILUS CAPSULES(DIETARY SUPPLEMENT) CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

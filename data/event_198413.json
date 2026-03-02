@@ -1,0 +1,48 @@
+{
+  "report_number": "198413",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160713",
+  "reactions": [
+    "ABASIA",
+    "ABDOMINAL DISCOMFORT",
+    "ARRHYTHMIA",
+    "ARTHRALGIA",
+    "ATRIAL FIBRILLATION",
+    "BLADDER DYSFUNCTION",
+    "DIPLOPIA",
+    "ERECTILE DYSFUNCTION",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "FOOD POISONING",
+    "HEADACHE",
+    "HEART RATE DECREASED",
+    "HEPATIC ENZYME INCREASED",
+    "MYELITIS",
+    "NUCLEAR MAGNETIC RESONANCE IMAGING ABNORMAL",
+    "PARAESTHESIA",
+    "PROSTATOMEGALY",
+    "SINUS TACHYCARDIA",
+    "URINARY RETENTION"
+  ],
+  "date_started": "20150117",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TUNA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

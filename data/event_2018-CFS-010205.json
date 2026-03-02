@@ -1,0 +1,27 @@
+{
+  "report_number": "2018-CFS-010205",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180809",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Food allergy"
+  ],
+  "date_started": "20180808",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OREO THINS COCONUT FLAVOR",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

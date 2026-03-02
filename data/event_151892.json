@@ -1,0 +1,45 @@
+{
+  "report_number": "151892",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120501",
+  "reactions": [
+    "BLOOD CREATININE INCREASED",
+    "BRAIN OEDEMA",
+    "Death",
+    "HEPATIC FAILURE",
+    "HYPERTHERMIA",
+    "METABOLIC ACIDOSIS",
+    "MULTI-ORGAN FAILURE",
+    "RENAL INJURY"
+  ],
+  "date_started": "20111104",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JACK3D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXYELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA ENERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "2018-CFS-012970",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20181029",
+  "reactions": [
+    "Abdominal pain upper",
+    "Asthenia",
+    "Circulatory collapse",
+    "Diarrhoea",
+    "Dizziness",
+    "Flatulence",
+    "Food poisoning",
+    "Gait disturbance",
+    "Gastrointestinal pain",
+    "Headache",
+    "Hyperhidrosis",
+    "Nausea",
+    "Pain"
+  ],
+  "date_started": "20181026",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MRS. PRINDABLE'S GOURMET CARAMEL APPLES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MRS. PRINDABLE'S MILK CHOCOLATE WALNUT PECAN GOURMET APPLE",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

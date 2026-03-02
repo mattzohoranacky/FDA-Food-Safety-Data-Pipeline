@@ -1,0 +1,30 @@
+{
+  "report_number": "85126",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060228",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea",
+    "Malaise",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20060218",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEPSI COLA SOFT DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

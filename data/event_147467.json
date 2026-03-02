@@ -1,0 +1,30 @@
+{
+  "report_number": "147467",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20111201",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CELLULITIS",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS VIBRIO",
+    "HEADACHE",
+    "LYMPHATIC DISORDER",
+    "TREMOR"
+  ],
+  "date_started": "20100507",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

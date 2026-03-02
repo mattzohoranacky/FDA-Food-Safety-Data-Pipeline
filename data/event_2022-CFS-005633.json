@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-005633",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220419",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain",
+    "Chest pain",
+    "Constipation",
+    "Haematochezia",
+    "Infrequent bowel movements",
+    "Nausea",
+    "Tachycardia"
+  ],
+  "date_started": "20220401",
+  "consumer": {
+    "age": "37.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS LUCKY CHARMS BREAKFAST CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "77533",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20050414",
+  "reactions": [
+    "CHROMATURIA",
+    "FATIGUE",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATITIS ACUTE",
+    "JAUNDICE",
+    "PRURITUS"
+  ],
+  "date_started": "20050301",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVERGREEN CORYDALIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

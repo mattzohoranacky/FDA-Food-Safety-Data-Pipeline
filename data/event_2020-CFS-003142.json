@@ -1,0 +1,26 @@
+{
+  "report_number": "2020-CFS-003142",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200302",
+  "reactions": [
+    "Blood iron increased",
+    "Thrombosis"
+  ],
+  "date_started": "20200201",
+  "consumer": {
+    "age": "83",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREVAGEN EXTRA STENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

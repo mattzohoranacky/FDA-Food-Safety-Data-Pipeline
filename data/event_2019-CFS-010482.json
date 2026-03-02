@@ -1,0 +1,44 @@
+{
+  "report_number": "2019-CFS-010482",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191015",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Pruritus"
+  ],
+  "date_started": "20190930",
+  "consumer": {
+    "age": "22.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO-POO ORIGINAL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION ORIGINAL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Generic Women's Probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Hair Skin and Nails with Argan Oil Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

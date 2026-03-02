@@ -1,0 +1,37 @@
+{
+  "report_number": "176625",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140520",
+  "reactions": [
+    "DYSPNOEA",
+    "URTICARIA"
+  ],
+  "date_started": "20110612",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOIA SODA WITH STEVIA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOBE WATER ERYTHRYTOL (STEVIA)",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOGURT WITH STEVIAI",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

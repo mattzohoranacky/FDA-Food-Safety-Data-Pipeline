@@ -1,0 +1,31 @@
+{
+  "report_number": "141556",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110720",
+  "reactions": [
+    "CHOLECYSTITIS",
+    "HEPATIC FAILURE",
+    "HEPATOCELLULAR INJURY",
+    "HEPATOMEGALY",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "NAUSEA",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20110613",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JADERA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

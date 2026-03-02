@@ -1,0 +1,45 @@
+{
+  "report_number": "110811",
+  "outcomes": [
+    "Death",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090304",
+  "reactions": [
+    "ANOXIC ENCEPHALOPATHY",
+    "ATRIAL FIBRILLATION",
+    "CARDIAC ARREST",
+    "Death",
+    "ECHOCARDIOGRAM ABNORMAL",
+    "ELECTROCARDIOGRAM ST SEGMENT ELEVATION",
+    "HEART RATE INCREASED",
+    "LOSS OF CONSCIOUSNESS",
+    "TROPONIN INCREASED"
+  ],
+  "date_started": "20090225",
+  "consumer": {
+    "age": "26.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STACKER 2 BLACK JAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STACKER XPLC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENERGY DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

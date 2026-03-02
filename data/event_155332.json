@@ -1,0 +1,32 @@
+{
+  "report_number": "155332",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120803",
+  "reactions": [
+    "BLISTER",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FATIGUE",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HEADACHE",
+    "NAUSEA",
+    "PHARYNGITIS",
+    "VOMITING"
+  ],
+  "date_started": "20120802",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE WHOLE LEAF SPINACH",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

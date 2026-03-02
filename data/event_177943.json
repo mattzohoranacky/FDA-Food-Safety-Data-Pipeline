@@ -1,0 +1,35 @@
+{
+  "report_number": "177943",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140715",
+  "reactions": [
+    "BLISTER",
+    "CHEMICAL BURN OF SKIN",
+    "FEELING ABNORMAL",
+    "PRURITUS",
+    "SKIN BURNING SENSATION",
+    "SKIN IRRITATION"
+  ],
+  "date_started": "20140708",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COMBE INCORPORATED JUST FOR MEN MUSTACHE & BEARD",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

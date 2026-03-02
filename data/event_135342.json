@@ -1,0 +1,27 @@
+{
+  "report_number": "135342",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110202",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD CORTISOL INCREASED",
+    "UROBILIN URINE"
+  ],
+  "date_started": "20090623",
+  "consumer": {
+    "age": "22.98",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

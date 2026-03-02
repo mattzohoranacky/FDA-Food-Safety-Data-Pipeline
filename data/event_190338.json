@@ -1,0 +1,30 @@
+{
+  "report_number": "190338",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20151005",
+  "reactions": [
+    "FAECES DISCOLOURED"
+  ],
+  "date_started": "20150927",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BAUSCH LOMB PRESER VISION EYE VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D 200MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

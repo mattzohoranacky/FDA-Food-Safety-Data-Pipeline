@@ -1,0 +1,45 @@
+{
+  "report_number": "174729",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140319",
+  "reactions": [
+    "ASTHENIA",
+    "CYANOSIS",
+    "LOSS OF CONSCIOUSNESS",
+    "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20140206",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE-NATURAL RICH BERRY ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IONIX SUPREME ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAFLUSH ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL ACCELERATOR ARIZONA NATURAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

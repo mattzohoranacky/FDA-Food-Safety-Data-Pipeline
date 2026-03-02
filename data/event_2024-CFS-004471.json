@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-004471",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240420",
+  "reactions": [
+    "Abdominal pain upper",
+    "Crying",
+    "Flatulence",
+    "Skin discolouration"
+  ],
+  "date_started": "20240419",
+  "consumer": {
+    "age": "6",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NEURO PRO",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

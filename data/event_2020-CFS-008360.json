@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-008360",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200826",
+  "reactions": [
+    "Chills",
+    "Diarrhoea",
+    "Headache",
+    "Hyperhidrosis",
+    "Nausea"
+  ],
+  "date_started": "20200807",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WAWONA PEACHES",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Lifetime Fitness Women's Daily Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

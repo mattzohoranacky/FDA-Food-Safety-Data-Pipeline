@@ -1,0 +1,47 @@
+{
+  "report_number": "186288",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150520",
+  "reactions": [
+    "CHEST PAIN",
+    "DIZZINESS",
+    "HEADACHE",
+    "HYPOAESTHESIA",
+    "INSOMNIA",
+    "PARANOIA"
+  ],
+  "date_started": "20150515",
+  "consumer": {
+    "age": "20.83",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEN (CLENBUTEROL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DECA 200 (NANDECONATE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TEST 60 (TESTOFEN)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TREN 75 (FINABOLAN)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

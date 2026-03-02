@@ -1,0 +1,42 @@
+{
+  "report_number": "183832",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150316",
+  "reactions": [
+    "DRUG EFFECT PROLONGED",
+    "DYSPNOEA",
+    "LOCAL SWELLING",
+    "NAUSEA",
+    "PRURITUS",
+    "SWELLING FACE"
+  ],
+  "date_started": "20150122",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEAN SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIACIN 250 DIETARY SUPPLEMENT TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN B-12 1000 MCG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

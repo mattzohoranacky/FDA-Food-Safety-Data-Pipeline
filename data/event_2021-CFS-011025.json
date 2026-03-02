@@ -1,0 +1,37 @@
+{
+  "report_number": "2021-CFS-011025",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20211103",
+  "reactions": [
+    "Choking"
+  ],
+  "date_started": "20211016",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OSTEO BI-FLEX JOINT HEALTH TRIPLE STRENGTH 2 PER DAY COATED TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Ariba Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "calcium chews",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

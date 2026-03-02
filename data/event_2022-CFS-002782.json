@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-002782",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220224",
+  "reactions": [
+    "Hypersensitivity",
+    "Neoplasm malignant"
+  ],
+  "date_started": "20220222",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADAPTOGENIN BRAIN BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Adaptogen superfoods",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

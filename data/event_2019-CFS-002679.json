@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-002679",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20190314",
+  "reactions": [
+    "Abdominal distension",
+    "Diarrhoea",
+    "Fatigue",
+    "Feeling abnormal"
+  ],
+  "date_started": "20190314",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Niacin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "124346",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100312",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CHEST PAIN"
+  ],
+  "date_started": "20091216",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITY PRODUCTS OMEGABERRY WITH VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONCE DAILY SENIOR VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

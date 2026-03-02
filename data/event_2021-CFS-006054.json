@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-006054",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20210627",
+  "reactions": [
+    "Fatigue",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20210315",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALANI NU MULTIVITAMIN FOR WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Alani Nu Balance Capsules",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "report_number": "189421",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150904",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE DECREASED",
+    "ASTHENIA",
+    "BIOPSY LIVER ABNORMAL",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "DRUG-INDUCED LIVER INJURY",
+    "DYSPHONIA",
+    "FATIGUE",
+    "FRONTAL SINUS OPERATION",
+    "GASTROINTESTINAL DISORDER",
+    "HEPATITIS ACUTE",
+    "LIVER INJURY",
+    "NASAL CONGESTION",
+    "NAUSEA",
+    "ORAL PAIN",
+    "OROPHARYNGEAL PAIN"
+  ],
+  "date_started": "20130614",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR. WHITAKER ADVANCED BREATHE CLEAR DAILY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR. WHITAKER TRIVERATROL PLUS WITH PTEROSTILBENE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON BOSWELLIA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON SUPERIOR HERBS HAWTHRON BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON ULTRA MSM (METHYLSULFONYLMETHANE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON ULTRA TIME RELEASED GLUCOSAMINE AND CHONDROITIN SULFATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DR. WHITAKER'S FORWARD PLUS DAILY REGIMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DR. WILLIAMS PROBIOTIC ADVANTAGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

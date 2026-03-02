@@ -1,0 +1,43 @@
+{
+  "report_number": "210880",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170213",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse reaction",
+    "BLOOD PRESSURE DECREASED",
+    "BLOOD PRESSURE FLUCTUATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "ERYTHEMA",
+    "FEELING ABNORMAL",
+    "HEADACHE",
+    "HYPERSENSITIVITY",
+    "LIP SWELLING",
+    "NAUSEA",
+    "PAIN",
+    "PRURITUS",
+    "URTICARIA",
+    "VOMITING"
+  ],
+  "date_started": "20170206",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "L'OREAL 5CG ICED GOLDEN BROWN PARIS COUTURE HAIR COLORING TREATMENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "AVEDA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "189087",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150821",
+  "reactions": [
+    "DIARRHOEA",
+    "NAUSEA",
+    "Product taste abnormal",
+    "RASH",
+    "VOMITING"
+  ],
+  "date_started": "20150819",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REDDY ICE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WALGREENS ULTIMATE MEN'S A TO Z MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

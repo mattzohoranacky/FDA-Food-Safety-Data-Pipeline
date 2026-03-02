@@ -1,0 +1,38 @@
+{
+  "report_number": "2021-CFS-009725",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210922",
+  "reactions": [
+    "Abdominal distension",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20210913",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAQUEST CHEAT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAQUEST SPRYNG LEMON-LIME STICK PACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAQUEST TRIMSTIX FRUIT PUNCH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

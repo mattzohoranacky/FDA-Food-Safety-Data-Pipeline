@@ -1,0 +1,45 @@
+{
+  "report_number": "2024-CFS-012592",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241014",
+  "reactions": [
+    "Asthenia",
+    "Dehydration",
+    "Dissociation",
+    "Dizziness",
+    "Dry mouth",
+    "Euphoric mood",
+    "Gait disturbance",
+    "Nausea",
+    "Tremor",
+    "Vomiting"
+  ],
+  "date_started": "20241013",
+  "consumer": {
+    "age": "40.2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RIPPERS CANNADIPS BANANA RUNTZ",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RIPPERS CANNADIPS ORANGE CREAMSICLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EDIBLES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

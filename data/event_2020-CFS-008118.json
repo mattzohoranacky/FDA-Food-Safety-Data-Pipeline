@@ -1,0 +1,29 @@
+{
+  "report_number": "2020-CFS-008118",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200820",
+  "reactions": [
+    "Abdominal pain",
+    "Abdominal pain upper",
+    "Gastroenteritis",
+    "Vomiting"
+  ],
+  "date_started": "20200805",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

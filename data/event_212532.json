@@ -1,0 +1,31 @@
+{
+  "report_number": "212532",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20170530",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA"
+  ],
+  "date_started": "20170527",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LETTUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

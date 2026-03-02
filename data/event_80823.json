@@ -1,0 +1,37 @@
+{
+  "report_number": "80823",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050912",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "URTICARIA"
+  ],
+  "date_started": "20030401",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DANNON STRAWBERRY YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESTEE LAUDER LIPSTICKS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLDWELL HAIR COLORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

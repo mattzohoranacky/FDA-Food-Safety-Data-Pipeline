@@ -1,0 +1,27 @@
+{
+  "report_number": "143942",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101020",
+  "reactions": [
+    "DIARRHOEA",
+    "PNEUMONIA",
+    "VOMITING"
+  ],
+  "date_started": "20101009",
+  "consumer": {
+    "age": "1",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THURST BURST BLUE RASPBERRY",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    }
+  ]
+}

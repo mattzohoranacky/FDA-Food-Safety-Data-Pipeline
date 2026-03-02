@@ -1,0 +1,40 @@
+{
+  "report_number": "2024-CFS-003567",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240406",
+  "reactions": [
+    "Acute psychosis",
+    "Hyperhidrosis",
+    "Neoplasm",
+    "Rectal haemorrhage"
+  ],
+  "date_started": "20240306",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARDA LEAN GW501516",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IBUTA SWOLE MK 677",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STENA LEAN SR9009",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

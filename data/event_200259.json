@@ -1,0 +1,44 @@
+{
+  "report_number": "200259",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160802",
+  "reactions": [
+    "ASTHENIA",
+    "DIZZINESS",
+    "ERYTHEMA",
+    "FALL",
+    "FEELING HOT",
+    "FLUSHING",
+    "HEAD INJURY",
+    "HEADACHE",
+    "PRURITUS"
+  ],
+  "date_started": "20160701",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLUSH FREE NIACIN INOSITOL NICOTINATE 500MG RAPID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LUTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

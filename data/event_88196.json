@@ -1,0 +1,45 @@
+{
+  "report_number": "88196",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060619",
+  "reactions": [
+    "Asthenia",
+    "Dizziness",
+    "Food poisoning",
+    "VOMITING"
+  ],
+  "date_started": "20060617",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE FAT FREE REFRIED BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BANANA",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COLD CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FRITOS CORN CHIPS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

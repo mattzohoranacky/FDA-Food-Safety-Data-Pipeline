@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-006397",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200627",
+  "reactions": [
+    "Abdominal pain",
+    "Decreased appetite",
+    "Diarrhoea",
+    "Muscle spasms",
+    "Nausea",
+    "Weight decreased"
+  ],
+  "date_started": "20200626",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOUTHWEST SALAD KIT",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

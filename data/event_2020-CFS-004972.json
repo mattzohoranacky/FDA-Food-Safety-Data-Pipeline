@@ -1,0 +1,40 @@
+{
+  "report_number": "2020-CFS-004972",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20200506",
+  "reactions": [
+    "Blood pressure increased",
+    "Cerebrovascular accident",
+    "Pain",
+    "Renal failure",
+    "Renal impairment"
+  ],
+  "date_started": "20200220",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS BIO CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS SLIM HUNGER CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS SLIM MICROBIOME ACTIVATING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

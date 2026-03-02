@@ -1,0 +1,41 @@
+{
+  "report_number": "77830",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20041129",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "VISION BLURRED",
+    "VOMITING"
+  ],
+  "date_started": "20041115",
+  "consumer": {
+    "age": "18",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GIORGIO FRESH WHOLE WHITE MUSHROOMS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BREAD CRUMBS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EGG",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "report_number": "2018-CFS-000999",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20171121",
+  "reactions": [
+    "Abdominal discomfort",
+    "Diarrhoea",
+    "Muscle spasms"
+  ],
+  "date_started": "20171110",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZEIGLER'S ALL NATURAL APPLE CIDER",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "probiotic (Hyperbiotics Pro-15)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin A",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "zinc gluconate",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

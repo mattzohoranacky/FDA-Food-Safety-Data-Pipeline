@@ -1,0 +1,59 @@
+{
+  "report_number": "142022",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110729",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "FAECALOMA",
+    "GASTROINTESTINAL PAIN",
+    "URINARY TRACT INFECTION",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20110718",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM INTESTINAL CLEANSER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM KLERITEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM PARANIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOXINOUT BROAD SPECTRUM DETOXIFICATION PROGRAM DETOXIGREEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOXINOUT BROAD SPECTRUM DETOXIFICATION PROGRAM FLORAPROTECT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOXINOUT BROAD SPECTRUM DETOXIFICATION PROGRAM TOXINOUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

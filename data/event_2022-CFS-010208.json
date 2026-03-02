@@ -1,0 +1,41 @@
+{
+  "report_number": "2022-CFS-010208",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220627",
+  "reactions": [
+    "Abdominal discomfort",
+    "Hepatic enzyme increased",
+    "Hepatic pain",
+    "Liver disorder",
+    "Nausea",
+    "Peritonitis"
+  ],
+  "date_started": "20220620",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST LENTIL AND CREMINI",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST LENTIL AND MESQUITE CHILI",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST LENTIL AND TOMATO BOLOGNESE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

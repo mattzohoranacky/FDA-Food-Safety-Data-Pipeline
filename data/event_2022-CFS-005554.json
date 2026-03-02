@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-005554",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220418",
+  "reactions": [
+    "Food poisoning",
+    "Gastrointestinal disorder",
+    "Malaise",
+    "Nausea",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20220411",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

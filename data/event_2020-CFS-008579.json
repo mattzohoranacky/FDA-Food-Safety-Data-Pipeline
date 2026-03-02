@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-008579",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200903",
+  "reactions": [
+    "Abdominal pain upper",
+    "Decreased appetite",
+    "Diarrhoea",
+    "Fatigue",
+    "Flatulence",
+    "Pyrexia"
+  ],
+  "date_started": "20200805",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRIMA WHITE PEACH",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Children's multivitamin & probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

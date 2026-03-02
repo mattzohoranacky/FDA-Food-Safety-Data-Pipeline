@@ -1,0 +1,33 @@
+{
+  "report_number": "191479",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151117",
+  "reactions": [
+    "COUGH",
+    "DYSPNOEA",
+    "PHARYNGEAL OEDEMA",
+    "RESPIRATORY ARREST"
+  ],
+  "date_started": "20151102",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COQ10 200 MG SOFTGELS WITH CINNAMON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GTF CHROMIUM 200 MCG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

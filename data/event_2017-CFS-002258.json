@@ -1,0 +1,42 @@
+{
+  "report_number": "2017-CFS-002258",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171127",
+  "reactions": [
+    "Chemical injury",
+    "Dermatitis",
+    "Rash",
+    "Rash macular",
+    "Skin hyperpigmentation",
+    "Swelling face"
+  ],
+  "date_started": "20170918",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACTIVE HYDRATION SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MICRO-DERMABRASION PASTE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D capsules",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

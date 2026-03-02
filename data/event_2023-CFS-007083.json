@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-007083",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20230315",
+  "reactions": [
+    "Cellulitis"
+  ],
+  "date_started": "20230224",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUTROGENA RAPID WRINKLE REPAIR RETINOL OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUTROGENA RAPID WRINKLE REPAIR RETINOL PRO+ 0.3% NIGHT CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

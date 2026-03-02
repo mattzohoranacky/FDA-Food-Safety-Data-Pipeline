@@ -1,0 +1,32 @@
+{
+  "report_number": "92800",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070501",
+  "reactions": [
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "MUSCULAR WEAKNESS"
+  ],
+  "date_started": "20070323",
+  "consumer": {
+    "age": "86.38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE CHOLEST OFF",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COQ-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

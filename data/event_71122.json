@@ -1,0 +1,29 @@
+{
+  "report_number": "71122",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040708",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "EMERGENCY CARE EXAMINATION",
+    "GASTROENTERITIS SALMONELLA",
+    "LETHARGY",
+    "LOOSE STOOLS"
+  ],
+  "date_started": "20040701",
+  "consumer": {
+    "age": "10",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KNUDSEN FAMILY UNSWEETENED ORGANIC PRUNE JUICE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

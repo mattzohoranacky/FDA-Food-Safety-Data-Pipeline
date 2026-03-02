@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-005523",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220418",
+  "reactions": [
+    "Asthenia",
+    "Vomiting"
+  ],
+  "date_started": "20220413",
+  "consumer": {
+    "age": "7.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS LUCKY CHARMS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS LUCKY CHARMS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

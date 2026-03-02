@@ -1,0 +1,50 @@
+{
+  "report_number": "2021-CFS-000904",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210126",
+  "reactions": [
+    "Alopecia",
+    "Pruritus",
+    "Trichorrhexis"
+  ],
+  "date_started": "20200107",
+  "consumer": {
+    "age": "41.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL HAIR MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LEAVE IN PLUMPER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

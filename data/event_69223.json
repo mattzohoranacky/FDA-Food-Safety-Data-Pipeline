@@ -1,0 +1,34 @@
+{
+  "report_number": "69223",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040123",
+  "reactions": [
+    "ANAPHYLACTOID REACTION",
+    "Anaphylactic reaction",
+    "CHOKING",
+    "COUGH",
+    "DYSPNOEA",
+    "EMERGENCY CARE EXAMINATION",
+    "GENERALISED OEDEMA",
+    "RETCHING"
+  ],
+  "date_started": "20040106",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOLLIPOP",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

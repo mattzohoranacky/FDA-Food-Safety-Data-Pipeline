@@ -1,0 +1,33 @@
+{
+  "report_number": "191908",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151203",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "COELIAC DISEASE",
+    "PAIN",
+    "SLEEP DISORDER"
+  ],
+  "date_started": "20151125",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS ORIGINAL CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "156804",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120920",
+  "reactions": [
+    "ELECTROCARDIOGRAM QT PROLONGED"
+  ],
+  "date_started": "20120405",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMENS MEGA ULTRA VITAMINS WITH IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXYELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

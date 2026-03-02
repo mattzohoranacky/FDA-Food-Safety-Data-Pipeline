@@ -1,0 +1,28 @@
+{
+  "report_number": "182065",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150120",
+  "reactions": [
+    "ADVERSE DRUG REACTION"
+  ],
+  "date_started": "20140925",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

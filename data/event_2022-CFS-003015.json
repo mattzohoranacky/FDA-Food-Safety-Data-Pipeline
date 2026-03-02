@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-003015",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220301",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea",
+    "Escherichia infection",
+    "Food allergy",
+    "Malaise",
+    "Pyrexia",
+    "Salmonellosis",
+    "Vomiting"
+  ],
+  "date_started": "20210701",
+  "consumer": {
+    "age": "19",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT ELECARE JR.",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

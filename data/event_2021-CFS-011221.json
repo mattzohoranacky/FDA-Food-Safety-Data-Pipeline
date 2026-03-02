@@ -1,0 +1,58 @@
+{
+  "report_number": "2021-CFS-011221",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20211109",
+  "reactions": [
+    "Angina pectoris",
+    "Gastrooesophageal reflux disease",
+    "Increased tendency to bruise",
+    "Skin striae",
+    "Thrombophlebitis"
+  ],
+  "date_started": "20211015",
+  "consumer": {
+    "age": "26.55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIM TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Isotonix Daily Essentials",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Isotonix OPC-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Isotonix OPC-3 Beauty Blend",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Trim Cafe",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Ultimate Aloe",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

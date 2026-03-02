@@ -1,0 +1,48 @@
+{
+  "report_number": "195842",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160428",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "CHEST DISCOMFORT",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "HEADACHE"
+  ],
+  "date_started": "20160311",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFORMIX SST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTRA PROBIOTIC COMPLEX 25 WITH WEIGHT MANAGEMENT SUPPORT(DIETARY SUPPLEMENT) CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

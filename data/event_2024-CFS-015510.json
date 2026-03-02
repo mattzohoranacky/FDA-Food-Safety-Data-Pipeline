@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-015510",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241207",
+  "reactions": [
+    "Diarrhoea",
+    "Dyspnoea",
+    "Fatigue",
+    "Hypersensitivity",
+    "Nausea",
+    "Pain",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20241115",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLE MILLS TAPIOCA STARCH",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

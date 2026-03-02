@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-009216",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220602",
+  "reactions": [
+    "Chills",
+    "Dehydration",
+    "Diarrhoea",
+    "Headache"
+  ],
+  "date_started": "20220508",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

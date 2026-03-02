@@ -1,0 +1,31 @@
+{
+  "report_number": "159972",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121126",
+  "reactions": [
+    "CELLULITIS",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS VIBRIO",
+    "MYALGIA",
+    "PYREXIA"
+  ],
+  "date_started": "20121003",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

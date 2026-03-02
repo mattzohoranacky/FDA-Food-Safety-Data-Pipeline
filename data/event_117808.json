@@ -1,0 +1,43 @@
+{
+  "report_number": "117808",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090911",
+  "reactions": [
+    "DYSGEUSIA",
+    "HYPOAESTHESIA",
+    "SWELLING FACE",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20090910",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POLAND SPRINGS NATURAL SPRING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COD LIVER OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

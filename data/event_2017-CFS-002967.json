@@ -1,0 +1,45 @@
+{
+  "report_number": "2017-CFS-002967",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20171222",
+  "reactions": [
+    "Abdominal pain",
+    "Asthenia",
+    "Diarrhoea",
+    "Faeces discoloured",
+    "Haemoglobin decreased",
+    "Intestinal haemorrhage",
+    "Palpitations",
+    "Tachycardia"
+  ],
+  "date_started": "20161229",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR - CLK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR - SUPER HD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "unspecified Hair, Skin & Nails gummy supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

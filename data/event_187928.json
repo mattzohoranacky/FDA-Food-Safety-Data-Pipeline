@@ -1,0 +1,37 @@
+{
+  "report_number": "187928",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150709",
+  "reactions": [
+    "GLUCOSE TOLERANCE IMPAIRED",
+    "MUSCLE SPASMS"
+  ],
+  "date_started": "20150701",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA SUCRALOSE",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-013943",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20181127",
+  "reactions": [
+    "Blood pressure increased",
+    "Depressed mood",
+    "Dyskinesia",
+    "Hallucination",
+    "Heart rate increased",
+    "Hot flush",
+    "Urinary incontinence",
+    "Vomiting"
+  ],
+  "date_started": "20181031",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESTROVEN HEALTHY METABOLISM & WEIGHT MANAGEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESTROVEN MAXIMUM STRENGTH + ENERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

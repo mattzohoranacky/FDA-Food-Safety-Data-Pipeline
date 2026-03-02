@@ -1,0 +1,44 @@
+{
+  "report_number": "68859",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Disability"
+  ],
+  "date_created": "20040511",
+  "reactions": [
+    "ARTHRALGIA",
+    "ARTHRITIS",
+    "BACK DISORDER",
+    "CHANGE OF BOWEL HABIT",
+    "CHEST PAIN",
+    "CONFUSIONAL STATE",
+    "DEPRESSION",
+    "DYSPNOEA",
+    "DYSURIA",
+    "HYPOACUSIS",
+    "INSOMNIA",
+    "VISION BLURRED",
+    "WEIGHT INCREASED"
+  ],
+  "date_started": "19850115",
+  "consumer": {
+    "age": "40.18",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BARGS DIET ROOT BEER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WRIGLEYS EXTRA GUM",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

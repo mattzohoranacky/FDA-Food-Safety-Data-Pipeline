@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-015170",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241130",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Hospitalisation",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20241027",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GRIMMWAY FARMS ORGANIC CARROTS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

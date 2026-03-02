@@ -1,0 +1,29 @@
+{
+  "report_number": "87184",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060628",
+  "reactions": [
+    "DIARRHOEA",
+    "PARAESTHESIA"
+  ],
+  "date_started": "20060624",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GIANT SUPERMARKET SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GIANT SUPERMARKET SCALLOPS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

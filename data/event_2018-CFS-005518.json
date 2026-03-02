@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-005518",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180404",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Hypersensitivity",
+    "Pain"
+  ],
+  "date_started": "20180403",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAIRY PRODUCTS",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

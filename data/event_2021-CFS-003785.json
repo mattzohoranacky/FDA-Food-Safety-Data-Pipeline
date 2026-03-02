@@ -1,0 +1,38 @@
+{
+  "report_number": "2021-CFS-003785",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210427",
+  "reactions": [
+    "Dermatitis contact",
+    "Erythema",
+    "Eye swelling",
+    "Feeling hot",
+    "Flushing",
+    "Pruritus",
+    "Rash",
+    "Swelling face"
+  ],
+  "date_started": "20210420",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVISION SKINCARE VITAMIN C LOTION 30% DAILY ANTIOXIDANT WITH THD",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Hair Skin Nails Dietary Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

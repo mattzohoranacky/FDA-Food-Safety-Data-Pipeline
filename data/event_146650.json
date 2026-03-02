@@ -1,0 +1,33 @@
+{
+  "report_number": "146650",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20111026",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIVERTICULITIS",
+    "HAEMORRHOIDS"
+  ],
+  "date_started": "20110917",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUE HEALTH ULTIMATE COLON CARE 60 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUE HEALTH ULTIMATE PROBIOTIC SOLUTION 30 TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

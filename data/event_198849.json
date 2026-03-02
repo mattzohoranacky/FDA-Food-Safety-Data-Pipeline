@@ -1,0 +1,42 @@
+{
+  "report_number": "198849",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160721",
+  "reactions": [
+    "ALOPECIA"
+  ],
+  "date_started": "20160601",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN BY CHAZ DEAN SWT ALMOND MINT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ESTROBLEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "L-LYSINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ORGANIC CIDER VINEGAR (BRAGG'S) HEALTH DRINK",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

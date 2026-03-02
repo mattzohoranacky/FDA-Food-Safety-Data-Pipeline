@@ -1,0 +1,31 @@
+{
+  "report_number": "2017-CFS-003020",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20171223",
+  "reactions": [
+    "Pulse pressure increased",
+    "Tachycardia"
+  ],
+  "date_started": "20171223",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRANBERRY JUICE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRANBERRY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

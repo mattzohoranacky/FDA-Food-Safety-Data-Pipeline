@@ -1,0 +1,38 @@
+{
+  "report_number": "190845",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151022",
+  "reactions": [
+    "ASTHENIA",
+    "BLOOD PRESSURE DECREASED",
+    "BLOOD TESTOSTERONE DECREASED",
+    "DIZZINESS",
+    "MALAISE",
+    "NAUSEA",
+    "POISONING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20150701",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AGELESS MALE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

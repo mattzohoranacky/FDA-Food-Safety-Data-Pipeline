@@ -1,0 +1,40 @@
+{
+  "report_number": "2020-CFS-000149",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200106",
+  "reactions": [
+    "Acne",
+    "Blister",
+    "Erythema",
+    "Hypersensitivity",
+    "Pyrexia"
+  ],
+  "date_started": "20191227",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PUREFEKT BODY CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PUREFEKT FACE WASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PUREFEKT RESTORE FACE NECK AND HAND",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

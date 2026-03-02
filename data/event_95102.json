@@ -1,0 +1,39 @@
+{
+  "report_number": "95102",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070228",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "COLON INJURY",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "Death",
+    "HEADACHE",
+    "INFLUENZA LIKE ILLNESS",
+    "INTESTINAL OBSTRUCTION",
+    "MALAISE",
+    "RENAL FAILURE",
+    "VOMITING"
+  ],
+  "date_started": "20061122",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "report_number": "152648",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120405",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "EATING DISORDER SYMPTOM",
+    "FOOD POISONING",
+    "GASTROENTERITIS",
+    "MALAISE",
+    "NAUSEA",
+    "VOMITING",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20120216",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COOKED EGG",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COOKED SHRIMP ROLL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COOKED SOFT SHELL CRAB ROLL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPICY TUNA ROLL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNCOOKED SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

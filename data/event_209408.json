@@ -1,0 +1,37 @@
+{
+  "report_number": "209408",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170317",
+  "reactions": [
+    "COLONOSCOPY ABNORMAL",
+    "ENDOSCOPY ABNORMAL",
+    "FAECES DISCOLOURED",
+    "FATIGUE",
+    "GASTRIC HAEMORRHAGE",
+    "HAEMOGLOBIN DECREASED",
+    "HAEMORRHAGE"
+  ],
+  "date_started": "20170213",
+  "consumer": {
+    "age": "86",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NATURALS FISH OIL 1000MG 300MG OMEGA-3 SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VARIOUS VITAMINS AND SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "report_number": "2018-CFS-003653",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180303",
+  "reactions": [
+    "Coeliac disease",
+    "Diarrhoea",
+    "Flushing",
+    "Joint swelling",
+    "Migraine",
+    "Pain",
+    "Pain of skin"
+  ],
+  "date_started": "20180301",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER SALT AND VINEGAR POTATO CHIPS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IBU",
+      "industry_code": "32",
+      "industry_name": "Alcoholic Beverage"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

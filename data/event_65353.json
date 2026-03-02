@@ -1,0 +1,32 @@
+{
+  "report_number": "65353",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040102",
+  "reactions": [
+    "DELUSION",
+    "PARANOIA",
+    "PHYSICAL EXAMINATION"
+  ],
+  "date_started": "20031201",
+  "consumer": {
+    "age": "39.45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE RELAX NOW",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE TOTAL CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "report_number": "171069",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20131001",
+  "reactions": [
+    "APATHY",
+    "ASTHENIA",
+    "BEDRIDDEN",
+    "FATIGUE",
+    "HEADACHE",
+    "NAUSEA"
+  ],
+  "date_started": "20130808",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE HIMALAYA DRUG COMPANY LIVERCARE 375MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ASTRAGALUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GYMNEMA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

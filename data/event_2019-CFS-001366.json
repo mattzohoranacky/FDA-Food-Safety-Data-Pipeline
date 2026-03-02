@@ -1,0 +1,40 @@
+{
+  "report_number": "2019-CFS-001366",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190211",
+  "reactions": [
+    "Burning sensation",
+    "Dry throat",
+    "Headache",
+    "Hormone level abnormal",
+    "Rhinorrhoea"
+  ],
+  "date_started": "20190129",
+  "consumer": {
+    "age": "35.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEFABULOUS KERAFUSION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Alaska Fish Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Shelcal",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

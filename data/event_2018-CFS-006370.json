@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-006370",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180415",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chills",
+    "Feeling cold",
+    "Pyrexia"
+  ],
+  "date_started": "20180408",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE GRADE A EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "report_number": "2023-CFS-003048",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230321",
+  "reactions": [
+    "Hyperreflexia",
+    "Hypervigilance",
+    "Paranoia"
+  ],
+  "date_started": "20230109",
+  "consumer": {
+    "age": "1",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "APTAMIL BABY FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTHS BEST ORGANIC SENSITIVITY INFANT FORMULA WITH IRON MILK BASED POWDER",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NEUROPRO GENTLEASE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NUTRAMIGEN HYPOALLERGENIC",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "Inositol",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Nature made vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Nature made vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

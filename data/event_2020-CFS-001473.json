@@ -1,0 +1,29 @@
+{
+  "report_number": "2020-CFS-001473",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200204",
+  "reactions": [
+    "Chest pain",
+    "Dysphagia",
+    "Dyspnoea",
+    "Oesophagitis"
+  ],
+  "date_started": "20171111",
+  "consumer": {
+    "age": "24.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABH NATURE VEGAN GREEN TEA EXTRACT + EGCG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

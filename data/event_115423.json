@@ -1,0 +1,41 @@
+{
+  "report_number": "115423",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090410",
+  "reactions": [
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20090408",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLIF KID ORGANIC Z BAR",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MEXICAN SWEET BREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ORGANIC CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

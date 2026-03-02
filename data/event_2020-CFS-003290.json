@@ -1,0 +1,42 @@
+{
+  "report_number": "2020-CFS-003290",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200306",
+  "reactions": [
+    "Alopecia"
+  ],
+  "date_started": "20200201",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW POO SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION DECADENCE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL STYLING CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL SUPERCREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

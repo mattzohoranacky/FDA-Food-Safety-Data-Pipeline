@@ -1,0 +1,44 @@
+{
+  "report_number": "2020-CFS-001376",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20200204",
+  "reactions": [
+    "Chest pain",
+    "Dyspnoea",
+    "Dysthymic disorder"
+  ],
+  "date_started": "20200124",
+  "consumer": {
+    "age": "56.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVOLUTION NUTRITION LEAN MODE STIMULANT FREE WEIGHT LOSS SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit d",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "glucosamine",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "turmeric",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "114627",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090206",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ARTHRALGIA",
+    "ASTHENIA",
+    "DIARRHOEA",
+    "FATIGUE",
+    "GASTROENTERITIS SALMONELLA",
+    "MALAISE",
+    "NAUSEA",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20090118",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLIF AND COMPANY CHOCOLATE CHIP PEANUT CRUNCH",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

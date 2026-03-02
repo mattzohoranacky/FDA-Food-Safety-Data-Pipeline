@@ -1,0 +1,33 @@
+{
+  "report_number": "133108",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101202",
+  "reactions": [
+    "DIZZINESS",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FEELING HOT",
+    "FLUSHING",
+    "HEART RATE INCREASED",
+    "HYPERVENTILATION",
+    "MUSCULAR WEAKNESS",
+    "VOMITING"
+  ],
+  "date_started": "20100426",
+  "consumer": {
+    "age": "36.07",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVERLAST FOCUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

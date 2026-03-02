@@ -1,0 +1,31 @@
+{
+  "report_number": "139568",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110116",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HEADACHE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20101208",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWISS PREMIUM SWEET TEA SOUTHERN STYLE ICE TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

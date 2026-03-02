@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-004470",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180312",
+  "reactions": [
+    "Abdominal discomfort",
+    "Body temperature increased",
+    "Chills",
+    "Decreased appetite",
+    "Fatigue",
+    "Headache",
+    "Nausea",
+    "Vomiting",
+    "Weight decreased"
+  ],
+  "date_started": "20180305",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIMBREL (FLAVOCOXID)",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    }
+  ]
+}

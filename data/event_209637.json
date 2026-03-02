@@ -1,0 +1,37 @@
+{
+  "report_number": "209637",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170328",
+  "reactions": [
+    "BURNING SENSATION",
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "LIP DRY",
+    "LIP EXFOLIATION",
+    "LIP SWELLING",
+    "PAIN",
+    "PARAESTHESIA ORAL"
+  ],
+  "date_started": "20170309",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS LIP BALM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WOMAN'S 50+ MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "report_number": "186306",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150522",
+  "reactions": [
+    "CHROMATURIA",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "FAECES DISCOLOURED",
+    "FATIGUE",
+    "HEPATIC ENZYME ABNORMAL",
+    "HEPATIC FAILURE",
+    "HEPATITIS",
+    "LIVER INJURY",
+    "NAUSEA",
+    "OCULAR ICTERUS",
+    "PRURITUS"
+  ],
+  "date_started": "20150409",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN TEA FAT BURNER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FIBER PLUS MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "194036",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160301",
+  "reactions": [
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20160229",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQUATE DAIRY RELIEF",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

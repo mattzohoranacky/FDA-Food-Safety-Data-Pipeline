@@ -1,0 +1,52 @@
+{
+  "report_number": "206373",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170117",
+  "reactions": [
+    "BALANCE DISORDER",
+    "BLADDER DISORDER",
+    "BURNING SENSATION",
+    "DYSARTHRIA",
+    "DYSGEUSIA",
+    "FATIGUE",
+    "GAIT DISTURBANCE",
+    "MUSCLE FATIGUE",
+    "MUSCULOSKELETAL STIFFNESS",
+    "NIGHT BLINDNESS",
+    "SENSATION OF HEAVINESS",
+    "TIC",
+    "WOUND"
+  ],
+  "date_started": "20160213",
+  "consumer": {
+    "age": "40.39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUCRALOSE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B-12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

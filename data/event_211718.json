@@ -1,0 +1,41 @@
+{
+  "report_number": "211718",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170510",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATITIS",
+    "NAUSEA",
+    "NUCLEAR MAGNETIC RESONANCE IMAGING ABNORMAL",
+    "PAIN",
+    "PANCREATIC ENZYMES INCREASED",
+    "PANCREATITIS",
+    "VOMITING"
+  ],
+  "date_started": "20170411",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

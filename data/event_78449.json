@@ -1,0 +1,30 @@
+{
+  "report_number": "78449",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050526",
+  "reactions": [
+    "SCAR"
+  ],
+  "date_started": "20040101",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PIGMENTS AUBURN TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PIGMENTS BROWN TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

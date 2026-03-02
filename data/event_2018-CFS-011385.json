@@ -1,0 +1,51 @@
+{
+  "report_number": "2018-CFS-011385",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180911",
+  "reactions": [
+    "Asthenia",
+    "Blood pressure decreased",
+    "Burning sensation",
+    "Cyanosis",
+    "Fall",
+    "Hypersensitivity",
+    "Loss of consciousness",
+    "Weight decreased"
+  ],
+  "date_started": "20160101",
+  "consumer": {
+    "age": "86",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE KLAMATH LAKE BLUE GREEN ALGAE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Clear Lungs",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Cod Liver Oil with Vitamin A & D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Herbalax",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

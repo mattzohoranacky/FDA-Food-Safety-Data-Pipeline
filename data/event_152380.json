@@ -1,0 +1,31 @@
+{
+  "report_number": "152380",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120514",
+  "reactions": [
+    "BLOOD SODIUM DECREASED",
+    "HYPONATRAEMIA"
+  ],
+  "date_started": "20120423",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE FOR LIFE-NATURAL RICH BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

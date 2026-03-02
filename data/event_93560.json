@@ -1,0 +1,37 @@
+{
+  "report_number": "93560",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070424",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20070416",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WELL-PICT RASPBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

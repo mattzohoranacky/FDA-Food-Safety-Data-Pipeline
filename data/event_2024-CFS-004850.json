@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-004850",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220223",
+  "reactions": [
+    "Constipation",
+    "Cough",
+    "Eating disorder",
+    "Flatulence",
+    "Insomnia",
+    "Irritability",
+    "Productive cough",
+    "Pyrexia"
+  ],
+  "date_started": "20220210",
+  "consumer": {
+    "age": "3",
+    "age_unit": "week(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOY ISOMIL POWDERED INFANT FORMULA WITH IRON",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

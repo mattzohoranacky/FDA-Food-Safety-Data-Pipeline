@@ -1,0 +1,38 @@
+{
+  "report_number": "98497",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20071129",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BILIRUBIN CONJUGATED INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD BILIRUBIN UNCONJUGATED INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "CHROMATURIA",
+    "HAEMOGLOBIN INCREASED",
+    "JAUNDICE",
+    "OCULAR ICTERUS",
+    "POLLAKIURIA",
+    "TREMOR"
+  ],
+  "date_started": "20070925",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHAPARRAL (LARREA TREDENTATA) 500MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

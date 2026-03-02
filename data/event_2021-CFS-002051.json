@@ -1,0 +1,47 @@
+{
+  "report_number": "2021-CFS-002051",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210304",
+  "reactions": [
+    "Gastritis"
+  ],
+  "date_started": "20210218",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARE OF  EXTRA BATTERIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARE OF  PROBIOTIC (BIFIDOBACTERIUM LACTIS BB-12, LACTOBACILLUS RHAMNOSUS GG, LACTOBACILLUS ACIDOPHILUS LA-5)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARE OF  VEGETARIAN COLLAGEN (EGGSHELL MEMBRANE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARE OF PRENATAL MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "POCKET PROTECTOR PROBIOTIC BLEND (LACTOBACILLUS RHAMNOSUS SP1, BIFIDOBACTERIUM LACTIS BL-04)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

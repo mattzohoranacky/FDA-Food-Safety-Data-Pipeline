@@ -1,0 +1,47 @@
+{
+  "report_number": "171952",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130614",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "BLOOD GLUCOSE DECREASED",
+    "BRONCHITIS",
+    "CHILLS",
+    "FLATULENCE",
+    "GASTRITIS",
+    "GASTROINTESTINAL DISORDER",
+    "IRRITABLE BOWEL SYNDROME",
+    "MALAISE",
+    "MUSCLE SPASMS",
+    "PAIN",
+    "PARAESTHESIA",
+    "PRURITUS",
+    "RHINORRHOEA",
+    "SINUS CONGESTION",
+    "SINUS HEADACHE",
+    "SINUSITIS",
+    "TREMOR"
+  ],
+  "date_started": "20121025",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GAS-X PREVENTION (NCH) (ALPHA-GALACTOSIDASE) CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BENEFIBER (NCH)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

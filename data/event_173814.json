@@ -1,0 +1,32 @@
+{
+  "report_number": "173814",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121017",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "DYSPNOEA",
+    "Death",
+    "HYPERSENSITIVITY",
+    "RESPIRATORY ARREST",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20121005",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNSHINE ACRES VEGGIE CHIPS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

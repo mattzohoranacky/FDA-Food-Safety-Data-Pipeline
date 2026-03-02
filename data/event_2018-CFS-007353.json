@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-007353",
+  "outcomes": [
+    "Death",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180522",
+  "reactions": [
+    "Death",
+    "Headache"
+  ],
+  "date_started": "20180519",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "alcohol",
+      "industry_code": "32",
+      "industry_name": "Alcoholic Beverage"
+    }
+  ]
+}

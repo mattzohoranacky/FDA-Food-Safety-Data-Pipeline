@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-011886",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20191201",
+  "reactions": [
+    "Abdominal pain upper",
+    "Erythema",
+    "Hypersensitivity",
+    "Pruritus",
+    "Vomiting"
+  ],
+  "date_started": "20191201",
+  "consumer": {
+    "age": "10.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEBBY CHICKPEA SNACK DARK CHOCOLATE VEGAN",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MVI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

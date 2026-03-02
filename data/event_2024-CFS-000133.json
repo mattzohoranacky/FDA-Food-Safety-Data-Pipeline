@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-000133",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20240105",
+  "reactions": [
+    "Death",
+    "Dizziness",
+    "Loss of consciousness",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20231018",
+  "consumer": {
+    "age": "31",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MR & MRS T PINEAPPLE MARGARITA NON-ALCOHOLIC MIX",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    }
+  ]
+}

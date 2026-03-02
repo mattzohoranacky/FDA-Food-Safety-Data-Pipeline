@@ -1,0 +1,42 @@
+{
+  "report_number": "167592",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130705",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "FLUSHING",
+    "HOT FLUSH",
+    "HYPERSENSITIVITY",
+    "RESPIRATORY TRACT CONGESTION",
+    "SWELLING FACE"
+  ],
+  "date_started": "20130619",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIACIN 500",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE A DAY MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TRIPLE STRENGTH FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

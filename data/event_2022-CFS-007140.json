@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-007140",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220513",
+  "reactions": [
+    "Bacterial test",
+    "Bile output",
+    "Crying",
+    "Irritability",
+    "Lethargy",
+    "Muscular weakness",
+    "Retching",
+    "Vomiting"
+  ],
+  "date_started": "20220506",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SOY FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

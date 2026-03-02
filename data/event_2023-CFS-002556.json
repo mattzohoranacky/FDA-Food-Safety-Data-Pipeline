@@ -1,0 +1,38 @@
+{
+  "report_number": "2023-CFS-002556",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230309",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal",
+    "Trichorrhexis"
+  ],
+  "date_started": "20230101",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX HAIR PERFECTOR NO 3",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Gummy vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin c",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

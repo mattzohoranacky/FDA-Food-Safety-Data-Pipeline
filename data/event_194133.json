@@ -1,0 +1,29 @@
+{
+  "report_number": "194133",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20160307",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20160301",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DORITOS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

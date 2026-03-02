@@ -1,0 +1,35 @@
+{
+  "report_number": "131550",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20100903",
+  "reactions": [
+    "Adverse event",
+    "BODY TEMPERATURE INCREASED",
+    "DYSPNOEA",
+    "FLUSHING",
+    "HEADACHE",
+    "NASAL CONGESTION"
+  ],
+  "date_started": "20100831",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "YELLOW FIN TUNA STEAKS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WILD RAW SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

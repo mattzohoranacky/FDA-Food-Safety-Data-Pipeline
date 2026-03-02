@@ -1,0 +1,30 @@
+{
+  "report_number": "178492",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140711",
+  "reactions": [
+    "HYPOTRICHOSIS"
+  ],
+  "date_started": "20140507",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN TEA TREE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WELLA SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

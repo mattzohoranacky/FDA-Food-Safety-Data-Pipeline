@@ -1,0 +1,34 @@
+{
+  "report_number": "155206",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120710",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse reaction",
+    "BACK PAIN",
+    "DIARRHOEA",
+    "FATIGUE",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20120704",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POST GREAT GRAINS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

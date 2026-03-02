@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-002036",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200213",
+  "reactions": [
+    "Alopecia",
+    "Skin burning sensation",
+    "Skin irritation"
+  ],
+  "date_started": "20191001",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ARK ANGLE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL MELT TO MOISTURE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO POO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

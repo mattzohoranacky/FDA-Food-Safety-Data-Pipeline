@@ -1,0 +1,33 @@
+{
+  "report_number": "128265",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091113",
+  "reactions": [
+    "Death",
+    "GASTROENTERITIS VIBRIO",
+    "GASTROINTESTINAL HAEMORRHAGE",
+    "Gastroenteritis vibrio",
+    "HEPATIC CIRRHOSIS",
+    "RENAL FAILURE",
+    "RESPIRATORY FAILURE",
+    "SEPTIC SHOCK"
+  ],
+  "date_started": "20090815",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS, RAW FRESH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

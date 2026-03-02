@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-007256",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180519",
+  "reactions": [
+    "Dermatitis contact",
+    "Erythema",
+    "Infection",
+    "Rash pustular",
+    "Skin burning sensation",
+    "Swelling"
+  ],
+  "date_started": "20180513",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIOR ABSOLUTELY BLOOMING PINK EDP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIOR EDP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "report_number": "176649",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140425",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "BLOOD INSULIN INCREASED",
+    "HEADACHE",
+    "HORMONE LEVEL ABNORMAL",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20131201",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NU SKIN AGELOC GREENSHAKES",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NU SKIN AGELOC JUMPSTART",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NU SKIN AGELOC TR90 FIT (US)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NU SKIN PHARMANEX AGELOC TR90 CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "144431",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20110831",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "NAUSEA"
+  ],
+  "date_started": "20110802",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PICKLED HERRING",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

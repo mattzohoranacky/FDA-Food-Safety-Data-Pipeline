@@ -1,0 +1,37 @@
+{
+  "report_number": "161708",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130131",
+  "reactions": [
+    "ERYTHEMA",
+    "EYE SWELLING",
+    "FACE OEDEMA",
+    "PAIN",
+    "PRURITUS",
+    "SWELLING",
+    "SWOLLEN TONGUE",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20130107",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DG HEALTH NIACIN 250MG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DG HEALTH PHYTOSTEROL COMPLEX SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

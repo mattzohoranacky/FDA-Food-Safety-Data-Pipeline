@@ -1,0 +1,36 @@
+{
+  "report_number": "77657",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20050301",
+  "reactions": [
+    "BLOOD PRESSURE FLUCTUATION",
+    "DIZZINESS",
+    "SPEECH DISORDER"
+  ],
+  "date_started": "20050301",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER MULTI GRAIN CRISP WITH RAISINS, DATES, PECANS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BANANA",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

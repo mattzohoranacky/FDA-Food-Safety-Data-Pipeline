@@ -1,0 +1,43 @@
+{
+  "report_number": "192373",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151228",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "EYE DISORDER",
+    "FLUSHING",
+    "PRURITUS",
+    "RETINAL HAEMORRHAGE",
+    "RETINAL OEDEMA",
+    "URINARY TRACT INFECTION",
+    "VISUAL ACUITY REDUCED"
+  ],
+  "date_started": "20151130",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOLGAR NO. 7 VEGETABLE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

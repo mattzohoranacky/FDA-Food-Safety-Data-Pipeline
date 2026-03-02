@@ -1,0 +1,46 @@
+{
+  "report_number": "144017",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110518",
+  "reactions": [
+    "APPETITE DISORDER",
+    "ARTHRALGIA",
+    "BLOOD BILIRUBIN INCREASED",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "DYSURIA",
+    "ERUCTATION",
+    "JAUNDICE",
+    "LIVER SCAN ABNORMAL",
+    "RENAL DISORDER",
+    "URINE COLOUR ABNORMAL",
+    "VISION BLURRED",
+    "VOMITING"
+  ],
+  "date_started": "20110508",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLA SHASTA SHASTA COLA TWELVE PACK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM FOR MEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

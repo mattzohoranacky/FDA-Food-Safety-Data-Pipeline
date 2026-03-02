@@ -1,0 +1,44 @@
+{
+  "report_number": "155836",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20120827",
+  "reactions": [
+    "COUGH",
+    "FOREIGN BODY TRAUMA",
+    "INCREASED UPPER AIRWAY SECRETION",
+    "PHARYNGITIS",
+    "REMOVAL OF FOREIGN BODY FROM THROAT"
+  ],
+  "date_started": "20120805",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE VITAMIN C 1000 MG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

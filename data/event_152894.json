@@ -1,0 +1,37 @@
+{
+  "report_number": "152894",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120531",
+  "reactions": [
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "HYPERHIDROSIS",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "PRURITUS",
+    "VOMITING"
+  ],
+  "date_started": "20120517",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE FOR LIFE NATURAL RICH BERRY POWDER ANS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL ACCELERATOR ARIZONA NUTRITIONAL SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

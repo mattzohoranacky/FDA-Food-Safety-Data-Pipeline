@@ -1,0 +1,26 @@
+{
+  "report_number": "2022-CFS-006021",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220426",
+  "reactions": [
+    "Blood pressure increased",
+    "Headache"
+  ],
+  "date_started": "20220101",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GUNDRY MD TOTAL RESTORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

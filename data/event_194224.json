@@ -1,0 +1,32 @@
+{
+  "report_number": "194224",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160204",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "FOOD POISONING",
+    "HAEMORRHAGE",
+    "NAUSEA",
+    "PRURITUS",
+    "PYREXIA",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20160125",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLESOME GARDEN SPINACH",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

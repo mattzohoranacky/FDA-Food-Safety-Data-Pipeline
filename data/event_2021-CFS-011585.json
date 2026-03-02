@@ -1,0 +1,43 @@
+{
+  "report_number": "2021-CFS-011585",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20211117",
+  "reactions": [
+    "Urinary tract infection bacterial"
+  ],
+  "date_started": "20211110",
+  "consumer": {
+    "age": "56.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLE TRUTH BABY SPINACH",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "centrum",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin B complex",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

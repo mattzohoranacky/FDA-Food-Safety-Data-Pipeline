@@ -1,0 +1,28 @@
+{
+  "report_number": "2019-CFS-011142",
+  "outcomes": [
+    "Hospitalization",
+    "Congenital Anomaly",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191105",
+  "reactions": [
+    "Atrial flutter",
+    "Heart rate abnormal"
+  ],
+  "date_started": "20191015",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITASPORT ERRATIC PRE-WORKOUT SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-011895",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180721",
+  "reactions": [
+    "Acne",
+    "Hyperaesthesia",
+    "Hypersensitivity",
+    "Pruritus"
+  ],
+  "date_started": "20180715",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIESE GREASE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIESE GREASE PREVENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIESE GREASE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

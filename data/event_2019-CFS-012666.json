@@ -1,0 +1,56 @@
+{
+  "report_number": "2019-CFS-012666",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20191230",
+  "reactions": [
+    "Abdominal distension",
+    "Back pain",
+    "Breast discharge",
+    "Breast mass",
+    "Chills",
+    "Dyspepsia",
+    "Dyspnoea",
+    "Eye disorder",
+    "Fatigue",
+    "Headache",
+    "Malaise",
+    "Nausea",
+    "Neuralgia",
+    "Paraesthesia",
+    "Pyrexia",
+    "Rash",
+    "Staphylococcal infection",
+    "Tinnitus",
+    "Urinary tract infection",
+    "Urine odour abnormal",
+    "Vision blurred"
+  ],
+  "date_started": "20190907",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUTADOSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

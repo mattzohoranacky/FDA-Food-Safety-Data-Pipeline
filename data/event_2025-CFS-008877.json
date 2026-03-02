@@ -1,0 +1,31 @@
+{
+  "report_number": "2025-CFS-008877",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220427",
+  "reactions": [
+    "Diarrhoea",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20220312",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS LUCKY CHARMS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS REESE PUFFS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

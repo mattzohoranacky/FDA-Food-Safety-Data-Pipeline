@@ -1,0 +1,36 @@
+{
+  "report_number": "149903",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120312",
+  "reactions": [
+    "CHOKING",
+    "DYSPHAGIA",
+    "FOREIGN BODY TRAUMA"
+  ],
+  "date_started": "20120304",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER ULTRA WOMENS MULTIMINERALS MULTIVITAMINS TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D ERGOCALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

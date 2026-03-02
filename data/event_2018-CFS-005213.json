@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-005213",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180118",
+  "reactions": [
+    "Eye pruritus",
+    "Eye swelling",
+    "Hypersensitivity",
+    "Local swelling",
+    "Pruritus",
+    "Pruritus generalised",
+    "Swelling face"
+  ],
+  "date_started": "20171207",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "Vitamin D3 (Cholecalciferol)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

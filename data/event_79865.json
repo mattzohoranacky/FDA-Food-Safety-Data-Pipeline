@@ -1,0 +1,38 @@
+{
+  "report_number": "79865",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Disability"
+  ],
+  "date_created": "20050801",
+  "reactions": [
+    "APHASIA",
+    "DRUG SCREEN POSITIVE",
+    "HAEMORRHAGE INTRACRANIAL",
+    "HEMIPARESIS",
+    "INTENSIVE CARE",
+    "INTUBATION",
+    "NEUROSURGERY"
+  ],
+  "date_started": "20050719",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC ARSENAL X-90 ENERGY ENHANCER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC RELEASE DIET SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "171039",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20131001",
+  "reactions": [
+    "BLOOD PRESSURE DECREASED",
+    "DISCOMFORT",
+    "HEAT RASH",
+    "PRURITUS",
+    "RASH",
+    "TREMOR"
+  ],
+  "date_started": "20130730",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARCINIA 600 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "L- CARNITINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

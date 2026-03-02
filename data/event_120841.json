@@ -1,0 +1,30 @@
+{
+  "report_number": "120841",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090803",
+  "reactions": [
+    "BURNING SENSATION",
+    "ERYTHEMA",
+    "GLOSSODYNIA",
+    "NAIL DISCOLOURATION",
+    "PAIN",
+    "TONGUE DISORDER"
+  ],
+  "date_started": "20090802",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEINZ TOMATO KETCHUP",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "2021-CFS-010854",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20211026",
+  "reactions": [
+    "Fatigue",
+    "Liver disorder"
+  ],
+  "date_started": "20210708",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE CHEWABLE ACEROLA C 500 MG CHEWABLE WAFERS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE SUBLINGUAL B-12 500 MCG MICROLOZENGES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ULTRAWOMAN 50 PLUS DAILY MULTI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

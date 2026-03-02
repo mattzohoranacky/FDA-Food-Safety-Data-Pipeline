@@ -1,0 +1,43 @@
+{
+  "report_number": "182857",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150206",
+  "reactions": [
+    "BLOOD DISORDER",
+    "CEREBROVASCULAR ACCIDENT"
+  ],
+  "date_started": "20141128",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE E-400 IU D-ALPHA TOCOPHERYL RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE GINKGO BILOBA 120MG RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE MAXIMUM STRENGTH TRIPLE OMEGA 3-6-9 FISH, FLAX & BORAGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

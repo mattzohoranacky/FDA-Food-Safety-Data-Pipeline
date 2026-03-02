@@ -1,0 +1,32 @@
+{
+  "report_number": "178725",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140821",
+  "reactions": [
+    "BLOOD LACTIC ACID",
+    "BLOOD POTASSIUM INCREASED",
+    "ELECTROLYTE IMBALANCE",
+    "HYPOKALAEMIA",
+    "LACTIC ACIDOSIS",
+    "PANIC ATTACK",
+    "PSYCHIATRIC SYMPTOM",
+    "RESPIRATORY ALKALOSIS"
+  ],
+  "date_started": "20140820",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HI-TECH PHARMACEUTICALS, INC. FASTIN (PHENYLETHYLAMINE HCL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

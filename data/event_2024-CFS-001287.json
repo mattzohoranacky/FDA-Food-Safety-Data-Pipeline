@@ -1,0 +1,36 @@
+{
+  "report_number": "2024-CFS-001287",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20240129",
+  "reactions": [
+    "Death"
+  ],
+  "date_started": "20220127",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOOTROPICS KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOOTROPICS PHENIBUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOOTROPICS TIANEPTINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

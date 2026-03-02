@@ -1,0 +1,37 @@
+{
+  "report_number": "169636",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20130904",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "CHILLS"
+  ],
+  "date_started": "20130903",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI YOGURT BLACK CHERRY",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI YOGURT RASPBERRY",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI YOGURT STRAWBERRY",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

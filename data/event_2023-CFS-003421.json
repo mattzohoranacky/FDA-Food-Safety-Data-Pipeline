@@ -1,0 +1,62 @@
+{
+  "report_number": "2023-CFS-003421",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Allergic Reaction",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230330",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Burning sensation",
+    "Dyspnoea",
+    "Pharyngeal swelling",
+    "Swelling face",
+    "Urticaria"
+  ],
+  "date_started": "20230313",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOUGLAS LABORATORIES METHYL FOLATE 1,000 MCG METAFOLIN TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SEEKING HEALTH B-MINUS B12 AND FOLATE FREE VEGETARIAN CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAL NUTRIENTS IRON PLUS C 20MG/200MG VEGETARIAN CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "orthobiotic (presumed to be Ortho Biotic)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

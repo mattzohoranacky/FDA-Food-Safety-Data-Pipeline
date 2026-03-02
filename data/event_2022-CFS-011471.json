@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-011471",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220725",
+  "reactions": [
+    "Abdominal pain",
+    "Cholelithiasis"
+  ],
+  "date_started": "20220621",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST MEAL CONTAINING TARA FLOUR",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Essential oils",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

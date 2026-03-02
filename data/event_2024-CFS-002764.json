@@ -1,0 +1,44 @@
+{
+  "report_number": "2024-CFS-002764",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240308",
+  "reactions": [
+    "Anaphylactic reaction"
+  ],
+  "date_started": "20240304",
+  "consumer": {
+    "age": "7.6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFETTI VAN MELLE MENTOS CANDY FRUIT FLAVORED",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JUICE PLUS FRUIT",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JUICE PLUS VEGGIE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MARY RUTHS ORGANIC MULTIVITAMINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

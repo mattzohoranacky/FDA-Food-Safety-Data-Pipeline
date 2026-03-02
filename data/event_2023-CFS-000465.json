@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-000465",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230118",
+  "reactions": [
+    "Abdominal pain",
+    "Dehydration",
+    "Diarrhoea",
+    "Vomiting"
+  ],
+  "date_started": "20230116",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALIFIA FARMS OAT BARISTA BLEND",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EGG BEATERS ORIGINAL",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    }
+  ]
+}

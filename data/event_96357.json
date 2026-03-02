@@ -1,0 +1,51 @@
+{
+  "report_number": "96357",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070511",
+  "reactions": [
+    "ASTHENIA",
+    "DIARRHOEA",
+    "LETHARGY",
+    "NAUSEA",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20070219",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BERRY BOSS (BBI PRODUCE) STRAWBERRIES (FRAES)",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BANANAS",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BLUEBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PEACHES",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

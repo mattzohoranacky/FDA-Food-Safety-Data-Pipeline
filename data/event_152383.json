@@ -1,0 +1,48 @@
+{
+  "report_number": "152383",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120514",
+  "reactions": [
+    "PETECHIAE",
+    "PLATELET COUNT DECREASED",
+    "THROMBOCYTOPENIA"
+  ],
+  "date_started": "20120427",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE CELL ACTIVATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE FORMULA 1 FRENCH VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE MULTIVITAMIN COMPLEX FORMULA 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE PROTEIN BARS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE PROTEIN DRINK MIX VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

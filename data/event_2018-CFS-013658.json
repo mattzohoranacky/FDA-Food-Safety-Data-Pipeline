@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-013658",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181117",
+  "reactions": [
+    "Acne",
+    "Skin ulcer"
+  ],
+  "date_started": "20180701",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

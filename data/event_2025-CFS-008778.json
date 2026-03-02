@@ -1,0 +1,27 @@
+{
+  "report_number": "2025-CFS-008778",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250603",
+  "reactions": [
+    "Chromaturia",
+    "Liver function test increased",
+    "Skin discolouration"
+  ],
+  "date_started": "20250509",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLINK NUTRITEARS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "157011",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120925",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN UPPER"
+  ],
+  "date_started": "20120520",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EDY'S ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NESTLE INSTANT BREAKFAST DARK CHOCOLATE",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

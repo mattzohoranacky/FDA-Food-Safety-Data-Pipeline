@@ -1,0 +1,45 @@
+{
+  "report_number": "169058",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130809",
+  "reactions": [
+    "CHILLS",
+    "CONVULSION"
+  ],
+  "date_started": "20130604",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BODY KEY CHOCOLATE APPETITE CONTROL CHEW",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BODY KEY SUPER GREEN ALOE SHOT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE MEMORY BUILDER WITH GINKGO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE SLIMMETRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

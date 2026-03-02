@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-003685",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220314",
+  "reactions": [
+    "Eye irritation",
+    "Lacrimation increased",
+    "Nasal discomfort"
+  ],
+  "date_started": "20220312",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "G HAIR KERATIN MARROQUI 2 G HAIR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Iron",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

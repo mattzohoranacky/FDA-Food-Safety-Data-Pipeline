@@ -1,0 +1,37 @@
+{
+  "report_number": "130693",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100928",
+  "reactions": [
+    "ACNE",
+    "BODY TEMPERATURE INCREASED",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "VOMITING"
+  ],
+  "date_started": "20100707",
+  "consumer": {
+    "age": "9",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SENSITIVE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

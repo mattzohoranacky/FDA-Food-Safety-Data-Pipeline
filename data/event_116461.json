@@ -1,0 +1,102 @@
+{
+  "report_number": "116461",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090326",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "SKIN DISCOLOURATION",
+    "VOMITING",
+    "WHEEZING"
+  ],
+  "date_started": "20090314",
+  "consumer": {
+    "age": "9",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAKED PROTEIN BANANA CHOCOLATE JUICE SMOOTHIE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BURGER KING APPLE FRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BURGER KING CHEESEBURGER WITH KETCHUP ONLY",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BURGER KING COKE ICEE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CINNAMON CRUNCH TOAST STICKS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CORN ON COB",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FROSTED MINI WHEATS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GARLIC BREAD STICKS WITH MARINARA SAUCE",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JELLO WITH COOL WHIP",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ORANGE JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PIZZA (SCHOOL LUNCH)",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POPCORN",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SKIM MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-010597",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220705",
+  "reactions": [
+    "Cholelithiasis",
+    "Gastrointestinal pain",
+    "Jaundice",
+    "Malaise"
+  ],
+  "date_started": "20201119",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST BOWLS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FLATBREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST SMOOTHIES",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

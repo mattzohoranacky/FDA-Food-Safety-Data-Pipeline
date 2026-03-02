@@ -1,0 +1,32 @@
+{
+  "report_number": "2017-CFS-003126",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171229",
+  "reactions": [
+    "Eye swelling",
+    "Pruritus",
+    "Swelling face",
+    "Urticaria"
+  ],
+  "date_started": "20171212",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AURA BOTANICA BAIN MICELLAIRE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AURA BOTANICA SOIN FONDAMENTAL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

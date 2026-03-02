@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-008788",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200914",
+  "reactions": [
+    "Mydriasis"
+  ],
+  "date_started": "20200912",
+  "consumer": {
+    "age": "25.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRAGANZIA HANDSOAP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "QBREXZA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

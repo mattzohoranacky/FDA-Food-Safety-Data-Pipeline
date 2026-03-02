@@ -1,0 +1,30 @@
+{
+  "report_number": "204502",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161128",
+  "reactions": [
+    "CARDIAC FIBRILLATION",
+    "HEART RATE INCREASED",
+    "HEART RATE IRREGULAR",
+    "MALAISE",
+    "PALPITATIONS",
+    "VISION BLURRED"
+  ],
+  "date_started": "20161125",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TREE HOUSE FOOD BAKERY FRESH HOLIDAY SUGAR COOKIES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

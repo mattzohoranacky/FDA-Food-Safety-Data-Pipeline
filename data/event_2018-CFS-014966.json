@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-014966",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181223",
+  "reactions": [
+    "Blister",
+    "Urticaria"
+  ],
+  "date_started": "20181216",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COCONUT SOAP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

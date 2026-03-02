@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-007201",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190716",
+  "reactions": [
+    "Diarrhoea",
+    "Pyrexia",
+    "Rash",
+    "Stool analysis abnormal",
+    "Vomiting"
+  ],
+  "date_started": "20190709",
+  "consumer": {
+    "age": "20",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHITE PEACHES",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Culturelle Regularity",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

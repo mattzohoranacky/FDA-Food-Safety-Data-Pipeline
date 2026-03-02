@@ -1,0 +1,45 @@
+{
+  "report_number": "2019-CFS-007485",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20190720",
+  "reactions": [
+    "Amnesia",
+    "Movement disorder"
+  ],
+  "date_started": "20170315",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALPHA BASE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORTHO-BIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CBD - HEMP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Probiotics",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

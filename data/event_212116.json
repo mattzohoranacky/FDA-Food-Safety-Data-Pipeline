@@ -1,0 +1,31 @@
+{
+  "report_number": "212116",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170519",
+  "reactions": [
+    "BODY SURFACE AREA DECREASED",
+    "MUSCLE STRAIN"
+  ],
+  "date_started": "20170511",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOREAL TONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUTROGENA CREAM CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

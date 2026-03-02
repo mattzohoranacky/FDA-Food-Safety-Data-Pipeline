@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-005331",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180330",
+  "reactions": [
+    "Drug interaction",
+    "Headache",
+    "Nausea",
+    "Stress"
+  ],
+  "date_started": "20180310",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELIZEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "173481",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131220",
+  "reactions": [
+    "ERYTHEMA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "FLUSHING"
+  ],
+  "date_started": "20131021",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NATURALS NIACIN 500 MG TIME RELEASE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

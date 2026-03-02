@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-008344",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20191203",
+  "reactions": [
+    "Abdominal pain",
+    "Chest discomfort",
+    "Dizziness",
+    "Dyspnoea",
+    "Headache",
+    "Hypoaesthesia",
+    "Palpitations",
+    "Vision blurred"
+  ],
+  "date_started": "20191129",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA ARTIFICIAL SWEETENER",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

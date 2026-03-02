@@ -1,0 +1,32 @@
+{
+  "report_number": "2025-CFS-005164",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250406",
+  "reactions": [
+    "Hypersensitivity",
+    "Sneezing"
+  ],
+  "date_started": "20250406",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GUM SUGARFREE STRAWBERRY FLOOD",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED 40",
+      "industry_code": "50",
+      "industry_name": "Color Additiv Food/Drug/Cosmetic"
+    }
+  ]
+}

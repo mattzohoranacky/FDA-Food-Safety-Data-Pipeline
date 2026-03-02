@@ -1,0 +1,29 @@
+{
+  "report_number": "68200",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040414",
+  "reactions": [
+    "CHEST PAIN",
+    "FEELING ABNORMAL",
+    "PALPITATIONS",
+    "RASH PAPULAR",
+    "SLEEP DISORDER"
+  ],
+  "date_started": "20011001",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CATHERINES CHOICE ALOE VERA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

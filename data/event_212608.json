@@ -1,0 +1,36 @@
+{
+  "report_number": "212608",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170530",
+  "reactions": [
+    "CHILLS",
+    "COLD SWEAT",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FATIGUE",
+    "FEELING ABNORMAL",
+    "GASTROENTERITIS VIRAL",
+    "HEADACHE",
+    "HEART RATE IRREGULAR",
+    "MALAISE",
+    "VOMITING PROJECTILE"
+  ],
+  "date_started": "20170528",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN VIBRANCE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "report_number": "2018-CFS-015066",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20181227",
+  "reactions": [
+    "Abdominal pain upper",
+    "Nausea"
+  ],
+  "date_started": "20181227",
+  "consumer": {
+    "age": "54.28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SILK ALL NATURAL ORIGINAL ALMOND MILK",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Beet Root Powder pills",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Cayenne pills",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Pomegranate pills",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

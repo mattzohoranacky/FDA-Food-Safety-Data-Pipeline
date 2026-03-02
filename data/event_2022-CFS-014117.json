@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-014117",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220913",
+  "reactions": [
+    "Hypoaesthesia",
+    "Swelling face"
+  ],
+  "date_started": "20220901",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VENOFYE BLOSSOM BEE DAY MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Blossom Bee Day Moisturizer",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Mud soap (different brand)",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

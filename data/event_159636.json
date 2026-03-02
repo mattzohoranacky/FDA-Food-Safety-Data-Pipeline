@@ -1,0 +1,35 @@
+{
+  "report_number": "159636",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121130",
+  "reactions": [
+    "BACK PAIN",
+    "BLOOD CREATININE INCREASED",
+    "CHILLS",
+    "DIZZINESS",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20121014",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR C4 EXTREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IMAGE SPORTS ALARM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

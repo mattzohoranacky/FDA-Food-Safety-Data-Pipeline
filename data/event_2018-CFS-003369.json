@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-003369",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180224",
+  "reactions": [
+    "Hypersensitivity",
+    "Poisoning"
+  ],
+  "date_started": "20180224",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COCA COLA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIBBY'S SLICED PINEAPPLE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

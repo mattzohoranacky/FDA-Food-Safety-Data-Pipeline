@@ -1,0 +1,42 @@
+{
+  "report_number": "112480",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090428",
+  "reactions": [
+    "ASTHMA",
+    "CHEST DISCOMFORT",
+    "CHOKING",
+    "COUGH",
+    "DYSPNOEA",
+    "FOREIGN BODY ASPIRATION",
+    "FOREIGN BODY TRAUMA",
+    "HYPERSENSITIVITY",
+    "OBSTRUCTIVE AIRWAYS DISORDER",
+    "RESPIRATORY TRACT CONGESTION"
+  ],
+  "date_started": "20090404",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMEN'S",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GLUCOSAMINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

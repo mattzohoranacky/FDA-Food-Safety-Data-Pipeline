@@ -1,0 +1,27 @@
+{
+  "report_number": "2022-CFS-008916",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220527",
+  "reactions": [
+    "Muscle spasms",
+    "Overdose"
+  ],
+  "date_started": "20220513",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THC CEREAL BAR",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "2019-CFS-002403",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190306",
+  "reactions": [
+    "Erythema",
+    "Pain",
+    "Paranasal sinus hypersecretion",
+    "Skin exfoliation",
+    "Skin irritation"
+  ],
+  "date_started": "20190203",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AYR SALINE NASAL GEL NO-DRIP SINUS SPRAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANTENE PRO-V CURLY HAIR SERIES SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multi-vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

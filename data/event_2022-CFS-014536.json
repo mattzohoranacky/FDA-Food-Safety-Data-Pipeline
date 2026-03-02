@@ -1,0 +1,27 @@
+{
+  "report_number": "2022-CFS-014536",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220928",
+  "reactions": [
+    "Death"
+  ],
+  "date_started": "20220325",
+  "consumer": {
+    "age": "85",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTRI AJO KING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

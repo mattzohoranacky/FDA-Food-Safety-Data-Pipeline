@@ -1,0 +1,40 @@
+{
+  "report_number": "183984",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150319",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "DYSPNOEA",
+    "FATIGUE",
+    "PARAESTHESIA",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20150223",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INFALLIBLE EYE LINER BLACK (L ' OREAL USA)",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAGIC LUMI PRIMER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVLON BLUSH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

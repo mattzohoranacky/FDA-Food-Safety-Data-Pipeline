@@ -1,0 +1,43 @@
+{
+  "report_number": "2019-CFS-011076",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191104",
+  "reactions": [
+    "Alopecia",
+    "Rash erythematous"
+  ],
+  "date_started": "20191030",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT BLACK 2-1",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT PERFECTLY PLATINUM CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT PERFECTLY PLATINUM SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REJUVENIQUE OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

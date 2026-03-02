@@ -1,0 +1,37 @@
+{
+  "report_number": "190445",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151007",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "FAECAL INCONTINENCE",
+    "FATIGUE",
+    "FLATULENCE",
+    "HEADACHE",
+    "MUSCLE SWELLING",
+    "MYALGIA"
+  ],
+  "date_started": "20150916",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REGULAR CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

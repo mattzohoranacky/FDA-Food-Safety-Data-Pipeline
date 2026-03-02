@@ -1,0 +1,44 @@
+{
+  "report_number": "2024-CFS-003249",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240326",
+  "reactions": [
+    "Abdominal distension",
+    "Blood pressure increased",
+    "Diarrhoea",
+    "Dizziness",
+    "Fungal infection",
+    "Hypertension",
+    "Peripheral swelling",
+    "Vomiting"
+  ],
+  "date_started": "20240225",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA THREE PROMOTE PART THREE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA TWO DEFEND PART 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA URIARY CARE ONE FLUSH PROACTIVE REGIMEN PART ONE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

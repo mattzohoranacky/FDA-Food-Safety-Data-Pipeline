@@ -1,0 +1,38 @@
+{
+  "report_number": "79439",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050704",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "SKIN DESQUAMATION",
+    "SWELLING",
+    "TENDERNESS"
+  ],
+  "date_started": "20050427",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOFTAP PERMANENT MAKE-UP TATTOO, CAFE OLE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOFTAP PERMANENT MAKE-UP TATTOO, CHARCOAL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOFTAP PERMANENT MAKE-UP TATTOO, ESPRESSO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

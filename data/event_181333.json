@@ -1,0 +1,75 @@
+{
+  "report_number": "181333",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141210",
+  "reactions": [
+    "BLOOD URIC ACID INCREASED",
+    "GLYCOSYLATED HAEMOGLOBIN INCREASED",
+    "GOUT",
+    "HYPERHIDROSIS",
+    "JOINT SWELLING",
+    "LOCAL SWELLING",
+    "RENAL IMPAIRMENT",
+    "URAEMIA ODOUR"
+  ],
+  "date_started": "20141001",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MET RX AMINO 3000 CAPLETS (DIETARY SUPPLEMENT) PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MET RX ARSENAL TRAINING PACKET (DIETARY SUPPLEMENT) PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MET RX BCAA 2200 SOFTGELS (DIETARY SUPPLEMENT) SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MET RX FISH OIL WITH VITAMIN D RAPID RELEASE SOFTGELS(DIETARY SUPPLEMENT) SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MET RX PROTEIN AND OATS COCOA POWDER (DIETARY SUPPLEMENT) POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MET RX SUPER TEST COATED CAPLETS (DIETARY SUPPLEMENT) CAPLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MET RX TRIBULUS 750 CAPSULES (DIETARY SUPPLEMENT) CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

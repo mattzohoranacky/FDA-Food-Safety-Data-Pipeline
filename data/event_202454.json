@@ -1,0 +1,33 @@
+{
+  "report_number": "202454",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20161001",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "GASTROENTERITIS VIRAL",
+    "PYREXIA"
+  ],
+  "date_started": "20160930",
+  "consumer": {
+    "age": "25",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEAN JACOBS BBQ GRILL GRINDER SEASONING",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

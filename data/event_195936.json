@@ -1,0 +1,38 @@
+{
+  "report_number": "195936",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160503",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "CONSTIPATION",
+    "FEELING ABNORMAL",
+    "HAEMORRHOIDS",
+    "PSYCHOMOTOR HYPERACTIVITY",
+    "VOMITING",
+    "WEIGHT DECREASED",
+    "X-RAY GASTROINTESTINAL TRACT ABNORMAL"
+  ],
+  "date_started": "20160416",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEURO SUPPORT PLUS CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CUREL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "120133",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070613",
+  "reactions": [
+    "DRUG INTERACTION",
+    "Hepatic enzyme increased",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "METABOLIC DISORDER"
+  ],
+  "date_started": "20070510",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXYLIFE PHENOCANE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

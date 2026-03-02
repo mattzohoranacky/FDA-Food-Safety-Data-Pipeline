@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-004521",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190213",
+  "reactions": [
+    "Burning sensation",
+    "Dry skin"
+  ],
+  "date_started": "20190102",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EUCERINE HEALING CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Original Healing Cream",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

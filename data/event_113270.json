@@ -1,0 +1,30 @@
+{
+  "report_number": "113270",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090514",
+  "reactions": [
+    "ASTHENIA",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "HYPERSENSITIVITY",
+    "MYALGIA",
+    "RENAL FAILURE"
+  ],
+  "date_started": "20031003",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

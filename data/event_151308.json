@@ -1,0 +1,32 @@
+{
+  "report_number": "151308",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120417",
+  "reactions": [
+    "CHOKING",
+    "DYSPHAGIA",
+    "FOREIGN BODY TRAUMA"
+  ],
+  "date_started": "20120412",
+  "consumer": {
+    "age": "99",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER ADULTS 50",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALTRATE 600 D CALCIUM CARBONATE CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

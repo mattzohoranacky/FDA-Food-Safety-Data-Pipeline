@@ -1,0 +1,37 @@
+{
+  "report_number": "214618",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20170630",
+  "reactions": [
+    "Eye discharge",
+    "Ocular hyperaemia"
+  ],
+  "date_started": "20170615",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INTENSE I-COLOR EYELINER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Calcium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Women's One a Day Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

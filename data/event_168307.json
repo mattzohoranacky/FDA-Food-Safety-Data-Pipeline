@@ -1,0 +1,43 @@
+{
+  "report_number": "168307",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130724",
+  "reactions": [
+    "ANGIOEDEMA",
+    "ANTINUCLEAR ANTIBODY POSITIVE",
+    "AUTOIMMUNE DISORDER",
+    "BLOOD IMMUNOGLOBULIN E INCREASED",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "URTICARIA"
+  ],
+  "date_started": "20130508",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AGELOC VITALITY (US)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "G3 JUICE PACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEPAK NANO (US)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

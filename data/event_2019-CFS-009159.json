@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-009159",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20190905",
+  "reactions": [
+    "Mouth injury"
+  ],
+  "date_started": "20190902",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHIA BERRY BLENDED SMOOTHIE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

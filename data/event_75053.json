@@ -1,0 +1,32 @@
+{
+  "report_number": "75053",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Disability"
+  ],
+  "date_created": "20050104",
+  "reactions": [
+    "HEPATIC ENZYME INCREASED"
+  ],
+  "date_started": "20041201",
+  "consumer": {
+    "age": "44.43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KEEBLER COMPANY SCOOBY-DOO CRACKERS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMINS FORTIFIED WITH IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

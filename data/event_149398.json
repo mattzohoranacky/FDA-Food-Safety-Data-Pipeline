@@ -1,0 +1,34 @@
+{
+  "report_number": "149398",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120222",
+  "reactions": [
+    "ARTHRALGIA",
+    "BODY TEMPERATURE INCREASED",
+    "BONE PAIN",
+    "CHILLS",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "VOMITING"
+  ],
+  "date_started": "20120215",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAWS ALBACORE SOLID WHITE TUNA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HELLMANNS MAYONNAISE",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

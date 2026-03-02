@@ -1,0 +1,31 @@
+{
+  "report_number": "207567",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170214",
+  "reactions": [
+    "ALLERGY TO CHEMICALS",
+    "DERMATITIS",
+    "EYE SWELLING",
+    "FATIGUE",
+    "LIP DISCOLOURATION",
+    "RASH",
+    "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20051205",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOCOLOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

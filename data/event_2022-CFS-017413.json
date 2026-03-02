@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-017413",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20221222",
+  "reactions": [
+    "Pyelonephritis acute",
+    "Pyrexia",
+    "Urinary tract infection",
+    "Vaginal infection"
+  ],
+  "date_started": "20221124",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVAREE VAGINAL MOISTURIZER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

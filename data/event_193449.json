@@ -1,0 +1,42 @@
+{
+  "report_number": "193449",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160203",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HEADACHE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20160112",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE DOUBLE X TABLET- BRONZE PHYTONUTRIENT TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE DOUBLE X TABLET- GOLD MULTIVITAMIN TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE DOUBLE X TABLET- SI LVER MULTIVITAMIN TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "report_number": "183363",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150227",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABSCESS INTESTINAL",
+    "CONSTIPATION",
+    "DIARRHOEA",
+    "FLATULENCE",
+    "GASTRIC DISORDER",
+    "RECTAL ABSCESS"
+  ],
+  "date_started": "20150117",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE FOR LIFE - NATURAL RICH BERRY (LIQUID)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE FOR LIFE - NATURAL RICH BERRY (POWDER)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IONIX SUPREME LIQUID - ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAFLUSH - ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL ACCELERATOR - ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WANT MORE ENERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

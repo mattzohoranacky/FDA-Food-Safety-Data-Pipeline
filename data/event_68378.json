@@ -1,0 +1,30 @@
+{
+  "report_number": "68378",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040416",
+  "reactions": [
+    "Adverse event",
+    "CONVULSION",
+    "HEART RATE INCREASED",
+    "HOSPITALISATION",
+    "PHYSICAL EXAMINATION"
+  ],
+  "date_started": "20040415",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZOLLER LABORATORIES ZANTREX 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

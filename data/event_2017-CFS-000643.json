@@ -1,0 +1,30 @@
+{
+  "report_number": "2017-CFS-000643",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20171009",
+  "reactions": [
+    "Anaemia"
+  ],
+  "date_started": "20100831",
+  "consumer": {
+    "age": "99",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE FOR LIFE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IONIX SUPREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

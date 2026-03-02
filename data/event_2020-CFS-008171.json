@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-008171",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200824",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Faeces discoloured"
+  ],
+  "date_started": "20200729",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNSWEET AMAZING PRUNE JUICE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

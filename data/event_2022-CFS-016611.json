@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-016611",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20221129",
+  "reactions": [
+    "Death"
+  ],
+  "date_started": "20221126",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "melatonin - kratom",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

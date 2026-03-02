@@ -1,0 +1,31 @@
+{
+  "report_number": "176708",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140519",
+  "reactions": [
+    "BLOOD PRESSURE FLUCTUATION",
+    "CHEST PAIN",
+    "DIARRHOEA",
+    "DYSPNOEA",
+    "NAUSEA",
+    "Product contamination microbial",
+    "VOMITING"
+  ],
+  "date_started": "20140515",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KELLOGG'S FROSTED FLAKES",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "2019-CFS-011236",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191108",
+  "reactions": [
+    "Erythema",
+    "Flushing",
+    "Pruritus",
+    "Skin exfoliation",
+    "Urticaria"
+  ],
+  "date_started": "20190920",
+  "consumer": {
+    "age": "36.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRIOGEO BANANA + COCONUT SUPERFOODS CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRIOGEO BANANA + COCONUT SUPERFOODS CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRIOGEO BANANA + COCONUT SUPERFOODS SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

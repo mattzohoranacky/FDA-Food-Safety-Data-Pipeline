@@ -1,0 +1,36 @@
+{
+  "report_number": "146232",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20111130",
+  "reactions": [
+    "URINARY TRACT INFECTION"
+  ],
+  "date_started": "20111121",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SPECIALIST HEART",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRONUTRIENTS OMEGA 3 OMEGA FISH OIL GEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

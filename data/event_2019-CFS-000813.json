@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-000813",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190129",
+  "reactions": [
+    "Lethargy",
+    "Migraine",
+    "Rectal haemorrhage"
+  ],
+  "date_started": "20190121",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUMI ORGANIC TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

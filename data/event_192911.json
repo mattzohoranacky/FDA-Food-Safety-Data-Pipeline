@@ -1,0 +1,35 @@
+{
+  "report_number": "192911",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160119",
+  "reactions": [
+    "BLISTER",
+    "BURNING SENSATION",
+    "DRY SKIN",
+    "LIP DRY",
+    "LIP EXFOLIATION",
+    "LIP SWELLING"
+  ],
+  "date_started": "20151222",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS CHAPSTICK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

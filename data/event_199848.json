@@ -1,0 +1,44 @@
+{
+  "report_number": "199848",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160808",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIVERTICULITIS",
+    "NAUSEA",
+    "PYREXIA"
+  ],
+  "date_started": "20160714",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE FOR LIFE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IONIX SUPREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAFLUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

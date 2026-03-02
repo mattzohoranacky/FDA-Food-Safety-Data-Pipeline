@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-008194",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200824",
+  "reactions": [
+    "Dizziness",
+    "Foreign body",
+    "Pharyngeal disorder"
+  ],
+  "date_started": "20200101",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OCUVITE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

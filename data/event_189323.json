@@ -1,0 +1,41 @@
+{
+  "report_number": "189323",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150827",
+  "reactions": [
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FEELING HOT",
+    "FLUSHING",
+    "PARAESTHESIA",
+    "URTICARIA"
+  ],
+  "date_started": "20150804",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALCIUM CITRATE 1000 (DIETARY SUPPLEMENT) CAPLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B COMPLEX + ENERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

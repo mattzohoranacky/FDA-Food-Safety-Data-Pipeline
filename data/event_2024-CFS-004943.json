@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-004943",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240507",
+  "reactions": [
+    "Food poisoning",
+    "Vomiting"
+  ],
+  "date_started": "20240503",
+  "consumer": {
+    "age": "8",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CEREBELLY WHITE BEAN, PUMPKIN, APPLE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

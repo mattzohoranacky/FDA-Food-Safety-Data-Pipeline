@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-005483",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200526",
+  "reactions": [
+    "Abdominal pain upper",
+    "Balance disorder",
+    "Dizziness",
+    "Glaucoma",
+    "Macular degeneration",
+    "Salivary hypersecretion",
+    "Temporomandibular joint syndrome",
+    "Vomiting"
+  ],
+  "date_started": "20100101",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM WOMEN UNDER 50",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

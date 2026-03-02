@@ -1,0 +1,32 @@
+{
+  "report_number": "149421",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120228",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "DIZZINESS",
+    "TREMOR"
+  ],
+  "date_started": "20120126",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM BRAND 5-HTP 50 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM BRAND DHEA 50 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

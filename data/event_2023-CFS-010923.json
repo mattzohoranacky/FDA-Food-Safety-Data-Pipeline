@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-010923",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20231005",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain"
+  ],
+  "date_started": "20230415",
+  "consumer": {
+    "age": "51.56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY TRU+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY VY (+DAC)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

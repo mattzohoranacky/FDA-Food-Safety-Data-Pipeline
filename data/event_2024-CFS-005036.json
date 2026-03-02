@@ -1,0 +1,39 @@
+{
+  "report_number": "2024-CFS-005036",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20240509",
+  "reactions": [
+    "Abdominal pain upper",
+    "Headache",
+    "Malaise",
+    "Pruritus"
+  ],
+  "date_started": "20240508",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CREAMY BACON SHRIMP AND SUN DRIED TOMATO PESTO",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROASTED SALMON DIJONNAISE",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROMANO AND BLACK PEPPER SHRIMP PASTA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

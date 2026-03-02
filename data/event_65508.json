@@ -1,0 +1,28 @@
+{
+  "report_number": "65508",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20030620",
+  "reactions": [
+    "DIARRHOEA",
+    "DYSPEPSIA",
+    "Food poisoning",
+    "VOMITING"
+  ],
+  "date_started": "20020809",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POST WAFFLE CRISP",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

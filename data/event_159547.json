@@ -1,0 +1,35 @@
+{
+  "report_number": "159547",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121119",
+  "reactions": [
+    "BLOOD BILIRUBIN INCREASED",
+    "CHOLELITHIASIS",
+    "CHOLESTASIS",
+    "HEPATIC STEATOSIS",
+    "INFLAMMATION",
+    "LIVER FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20110602",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AIRBORNE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ASCORBIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

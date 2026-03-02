@@ -1,0 +1,78 @@
+{
+  "report_number": "167263",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130628",
+  "reactions": [
+    "BURNING SENSATION",
+    "CHEST PAIN",
+    "CONVULSION",
+    "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "DEPRESSION",
+    "DISORIENTATION",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FEELING JITTERY",
+    "HYPERHIDROSIS",
+    "HYPOAESTHESIA",
+    "LOSS OF CONSCIOUSNESS",
+    "MYOCARDIAL INFARCTION",
+    "NEUROLOGICAL SYMPTOM",
+    "POST-TRAUMATIC STRESS DISORDER",
+    "TROPONIN INCREASED",
+    "VISION BLURRED",
+    "VOMITING"
+  ],
+  "date_started": "20130608",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE CATALYST BOTTLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE HERBAL CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE MEAL REPLACEMENT SHAKES",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE MNS MAX 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE OMEGAPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE SLAM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE SPARK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

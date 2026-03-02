@@ -1,0 +1,35 @@
+{
+  "report_number": "2021-CFS-000989",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210127",
+  "reactions": [
+    "Asthenia",
+    "Chills",
+    "Cytokine storm",
+    "Ear pain",
+    "Fatigue",
+    "Headache",
+    "Malaise",
+    "Meningitis",
+    "Nausea",
+    "Pyrexia"
+  ],
+  "date_started": "20190901",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SAMBUCUS ELDERBERRY GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

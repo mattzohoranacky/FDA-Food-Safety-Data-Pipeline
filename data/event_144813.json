@@ -1,0 +1,47 @@
+{
+  "report_number": "144813",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20111020",
+  "reactions": [
+    "ABASIA",
+    "ASTHENIA",
+    "DECREASED APPETITE",
+    "FOAMING AT MOUTH",
+    "NAUSEA"
+  ],
+  "date_started": "20110601",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "4LIFE RITESTART -MEN-",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "4LIFE SUPER DETOX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "4LIFE TRANSFER FACTOR CARDIO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "4LIFE TRANSFER FACTOR RECALL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

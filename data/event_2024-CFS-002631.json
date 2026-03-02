@@ -1,0 +1,40 @@
+{
+  "report_number": "2024-CFS-002631",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20231229",
+  "reactions": [
+    "Cronobacter infection",
+    "Malaise",
+    "Meningitis",
+    "Pyrexia"
+  ],
+  "date_started": "20231207",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE TRITON PURELIFE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER RICE CEREAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCED",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "report_number": "2023-CFS-000151",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230109",
+  "reactions": [
+    "Cerebrovascular accident"
+  ],
+  "date_started": "20200222",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ECHINACEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE NEURO-PS PHOSPHATIDYLSERINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE NEURO-PS PHOSPHATIDYLSERINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ONE DAILY WOMEN'S MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE TURMERIC CURCUMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

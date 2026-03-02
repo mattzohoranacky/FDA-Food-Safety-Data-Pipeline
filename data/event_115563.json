@@ -1,0 +1,29 @@
+{
+  "report_number": "115563",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20081201",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "DYSPNOEA",
+    "Gastrointestinal infection",
+    "MALAISE",
+    "Respiratory distress"
+  ],
+  "date_started": "20080312",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TARGET NUTRITIONAL DRINK, VANILLA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

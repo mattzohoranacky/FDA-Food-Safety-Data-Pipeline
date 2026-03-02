@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-005714",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230601",
+  "reactions": [
+    "Skin infection"
+  ],
+  "date_started": "20230524",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BESTLAND 60 COLORS EYESHADOW PALETTE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KALOLARY GLOW IN THE DARK MAKEUP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

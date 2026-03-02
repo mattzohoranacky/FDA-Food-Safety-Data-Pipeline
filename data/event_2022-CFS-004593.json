@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-004593",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220404",
+  "reactions": [
+    "Bacterial infection",
+    "Dehydration",
+    "Pain",
+    "Pyrexia",
+    "Screaming",
+    "Vomiting"
+  ],
+  "date_started": "20220327",
+  "consumer": {
+    "age": "9",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC ALIMENTUM",
+      "industry_code": "40O",
+      "industry_name": "Liquid Concentrate Formula"
+    }
+  ]
+}

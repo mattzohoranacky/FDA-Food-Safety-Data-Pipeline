@@ -1,0 +1,38 @@
+{
+  "report_number": "2024-CFS-003131",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240321",
+  "reactions": [
+    "Cold sweat",
+    "Diarrhoea",
+    "Gastric ulcer haemorrhage",
+    "Vomiting"
+  ],
+  "date_started": "20240301",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE FRUITS 90 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE VEGGIES 90 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "METAMUCIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

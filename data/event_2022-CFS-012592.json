@@ -1,0 +1,43 @@
+{
+  "report_number": "2022-CFS-012592",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220813",
+  "reactions": [
+    "Abdominal distension",
+    "Decreased appetite",
+    "Joint stiffness",
+    "Lethargy",
+    "Muscular weakness",
+    "Pyelonephritis",
+    "Pyrexia",
+    "Tachycardia",
+    "Urinary tract infection",
+    "Urosepsis",
+    "Vomiting"
+  ],
+  "date_started": "20220718",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

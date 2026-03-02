@@ -1,0 +1,30 @@
+{
+  "report_number": "149624",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120305",
+  "reactions": [
+    "CHEST PAIN",
+    "ENDOSCOPY ABNORMAL",
+    "GASTRITIS",
+    "INSOMNIA",
+    "NAUSEA"
+  ],
+  "date_started": "20111119",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WORLDWIDE SPORT NUTRITION ENERGY EXTREME THERMO RUSH STACK WITH BETA ALANINE PLUS SYNEPHRINE POWER PUNCH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "98300",
+  "outcomes": [
+    "Required Intervention",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20071126",
+  "reactions": [
+    "BLOOD CHOLESTEROL INCREASED",
+    "BLOOD HOMOCYSTEINE INCREASED",
+    "BURNING SENSATION",
+    "GAIT DISTURBANCE",
+    "HYPERVITAMINOSIS",
+    "HYPOAESTHESIA ORAL",
+    "INFLAMMATION",
+    "PAIN IN EXTREMITY",
+    "VITAMIN B12 INCREASED"
+  ],
+  "date_started": "20071012",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METANX",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

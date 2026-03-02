@@ -1,0 +1,38 @@
+{
+  "report_number": "136821",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110317",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "DYSPNOEA",
+    "HYPOTENSION",
+    "PRURITUS"
+  ],
+  "date_started": "20110306",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SP COMPLETE CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SP COMPLETE GASTROFIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SP COMPLETE WHEY PROTEIN BASE POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

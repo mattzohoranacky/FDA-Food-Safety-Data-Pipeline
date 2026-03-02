@@ -1,0 +1,33 @@
+{
+  "report_number": "141233",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110705",
+  "reactions": [
+    "ASTHENIA",
+    "CARDIAC FAILURE CONGESTIVE",
+    "DYSPNOEA",
+    "FATIGUE",
+    "FEELING HOT",
+    "OEDEMA PERIPHERAL",
+    "SLUGGISHNESS",
+    "TREMOR"
+  ],
+  "date_started": "20110605",
+  "consumer": {
+    "age": "69.49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN WORLD THYROID COMPLEX CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

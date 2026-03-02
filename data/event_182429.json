@@ -1,0 +1,52 @@
+{
+  "report_number": "182429",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150123",
+  "reactions": [
+    "CHEMICAL BURN OF SKIN",
+    "DRY SKIN",
+    "INSOMNIA",
+    "PAIN",
+    "RASH MACULAR"
+  ],
+  "date_started": "20150104",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LUMALIFT ANTI-AGING EYE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITALIE SKIN CARE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ECHINACEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE'S BOUNTY HAIR, SKIN, AND NAILS GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAFUSION WOMEN'S GUMMY VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

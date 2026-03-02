@@ -1,0 +1,38 @@
+{
+  "report_number": "212111",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170424",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ANAPHYLACTIC REACTION",
+    "Adverse reaction",
+    "COUGH",
+    "DYSPNOEA",
+    "EMOTIONAL DISTRESS",
+    "HYPERSENSITIVITY",
+    "MALAISE",
+    "NAUSEA",
+    "THROAT TIGHTNESS",
+    "URTICARIA",
+    "WHEEZING"
+  ],
+  "date_started": "20170317",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NABISCO HONEY MAID",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "200941",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160826",
+  "reactions": [
+    "ANAEMIA MEGALOBLASTIC",
+    "ASTHENIA",
+    "BURNING SENSATION",
+    "COPPER DEFICIENCY",
+    "FALL",
+    "GAIT DISTURBANCE",
+    "HAEMOGLOBIN DECREASED",
+    "NEUTROPENIA",
+    "NEUTROPHIL COUNT DECREASED",
+    "PAIN IN EXTREMITY",
+    "PARAESTHESIA",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20160809",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2 FORMULA SOFT GELS (CAPSULE, SOFT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12 (CYANOCOBALAMIN) (CYANOCOBALAMIN)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

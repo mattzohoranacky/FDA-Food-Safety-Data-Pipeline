@@ -1,0 +1,48 @@
+{
+  "report_number": "2022-CFS-000830",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220119",
+  "reactions": [
+    "Diarrhoea",
+    "Eye swelling",
+    "Lip swelling",
+    "Nausea",
+    "Urticaria"
+  ],
+  "date_started": "20211230",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY HAIR, SKIN AND NAILS EXTRA STRENGTH 5,000MCG PER SERVING ARGAN OIL INFUSED RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Nature's Bounty Optimal Solutions Hair, Skin and Nails with 6,000 mcg of Biotin per Serving, Strawbe",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "unspecified multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "unspecified oral birth control",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

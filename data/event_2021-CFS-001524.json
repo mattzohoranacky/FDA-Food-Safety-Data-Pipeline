@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-001524",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210215",
+  "reactions": [
+    "Ophthalmic migraine"
+  ],
+  "date_started": "20210205",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STOUFFERS FIT KITCHEN PROTEIN BOWL TERIYAKI CHICKEN CHICKEN MASHED POTATOES",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

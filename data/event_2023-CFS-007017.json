@@ -1,0 +1,34 @@
+{
+  "report_number": "2023-CFS-007017",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230706",
+  "reactions": [
+    "Dysstasia",
+    "Food poisoning",
+    "Gait disturbance",
+    "Sensorimotor disorder",
+    "Vomiting"
+  ],
+  "date_started": "20230619",
+  "consumer": {
+    "age": "71.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MIXED VEGETABLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

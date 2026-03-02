@@ -1,0 +1,31 @@
+{
+  "report_number": "80442",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050829",
+  "reactions": [
+    "HEART RATE INCREASED",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20050714",
+  "consumer": {
+    "age": "9",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACCESS FAT CONVERSION ACTIVITY BAR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLINTSTONE VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

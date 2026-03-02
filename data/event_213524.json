@@ -1,0 +1,29 @@
+{
+  "report_number": "213524",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170608",
+  "reactions": [
+    "Abdominal pain",
+    "Back pain",
+    "Chest pain",
+    "Nausea",
+    "Transaminases increased"
+  ],
+  "date_started": "20170502",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

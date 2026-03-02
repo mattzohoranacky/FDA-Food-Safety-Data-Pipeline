@@ -1,0 +1,40 @@
+{
+  "report_number": "149781",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120308",
+  "reactions": [
+    "CONSTIPATION",
+    "FAECAL VOLUME INCREASED",
+    "GASTROINTESTINAL PAIN",
+    "PAIN",
+    "URINARY HESITATION"
+  ],
+  "date_started": "20120129",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADAPTISOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESSENTIAL NUTRIENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TRUVIA",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

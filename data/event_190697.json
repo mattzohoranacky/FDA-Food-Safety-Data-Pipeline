@@ -1,0 +1,49 @@
+{
+  "report_number": "190697",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151019",
+  "reactions": [
+    "ARTHRALGIA",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "PYREXIA",
+    "RASH ERYTHEMATOUS",
+    "RASH PAPULAR",
+    "RASH PRURITIC"
+  ],
+  "date_started": "20150904",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOTANIC CHOICE #739 COLON CLEAR FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOTANIC CHOICE HERBAL 9 ESSENTIALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOTANIC CHOICE HERBAL LUNG FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOTANIC CHOICE MSM (METHLYSULFONYLMETHANE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

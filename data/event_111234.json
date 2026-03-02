@@ -1,0 +1,28 @@
+{
+  "report_number": "111234",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20080527",
+  "reactions": [
+    "CONSTIPATION"
+  ],
+  "date_started": "20080515",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEINZ HOMESTYLE ROAST TURKEY GRAVY",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA 3 FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

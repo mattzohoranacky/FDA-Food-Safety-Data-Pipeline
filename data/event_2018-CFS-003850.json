@@ -1,0 +1,58 @@
+{
+  "report_number": "2018-CFS-003850",
+  "outcomes": [
+    "Death",
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20180306",
+  "reactions": [
+    "Chills",
+    "Cough",
+    "Death",
+    "Dyspnoea",
+    "Fatigue",
+    "Headache",
+    "Pulmonary fibrosis",
+    "Pyrexia",
+    "Weight decreased"
+  ],
+  "date_started": "20170601",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIMBREL 500",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LIMBREL 500",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA-3 FATTY ACIDS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

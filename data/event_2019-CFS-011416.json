@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-011416",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191115",
+  "reactions": [
+    "Pharyngeal haemorrhage"
+  ],
+  "date_started": "20190606",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTIMATE TURMERIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "cod liver oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "willow bark and wild lettuce",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

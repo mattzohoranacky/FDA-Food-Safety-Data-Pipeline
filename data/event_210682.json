@@ -1,0 +1,35 @@
+{
+  "report_number": "210682",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170420",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHROMATURIA",
+    "HEPATIC ENZYME INCREASED",
+    "JAUNDICE"
+  ],
+  "date_started": "20170407",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXTREME DMZ",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXTREME MASS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

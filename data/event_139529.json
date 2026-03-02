@@ -1,0 +1,31 @@
+{
+  "report_number": "139529",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110527",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "PNEUMATOSIS"
+  ],
+  "date_started": "20110108",
+  "consumer": {
+    "age": "59",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLY THICK",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENFACARE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

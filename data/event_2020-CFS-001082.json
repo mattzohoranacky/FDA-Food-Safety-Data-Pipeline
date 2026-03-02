@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-001082",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200131",
+  "reactions": [
+    "Chest discomfort",
+    "Dyspnoea"
+  ],
+  "date_started": "20191022",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HAVASU NUTRITION L-ARGININE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "protein powder",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

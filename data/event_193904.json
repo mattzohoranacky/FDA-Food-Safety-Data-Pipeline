@@ -1,0 +1,33 @@
+{
+  "report_number": "193904",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160223",
+  "reactions": [
+    "COMA",
+    "DEHYDRATION",
+    "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "NAUSEA"
+  ],
+  "date_started": "20160203",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IONIX SUPREME POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

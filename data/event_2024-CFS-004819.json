@@ -1,0 +1,40 @@
+{
+  "report_number": "2024-CFS-004819",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240507",
+  "reactions": [
+    "Blood pressure increased",
+    "Dyspnoea",
+    "Heart rate increased",
+    "Hypersensitivity",
+    "Pharyngeal swelling",
+    "Swelling face"
+  ],
+  "date_started": "20240415",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN ROADS -9 THC + CBD RELAX GUMMIES 25:1 BLEND CHERRY LIME PIE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DELTA -9 THC + CBD RELAX GUMMIES 25:1 BLEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

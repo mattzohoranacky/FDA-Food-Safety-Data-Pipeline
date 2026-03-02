@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-009441",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240626",
+  "reactions": [
+    "Dyspnoea",
+    "Pruritus"
+  ],
+  "date_started": "20240626",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLIPOP CLASSIC ROOT BEER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

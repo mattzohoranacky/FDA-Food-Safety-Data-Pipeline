@@ -1,0 +1,57 @@
+{
+  "report_number": "2024-CFS-012560",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20241011",
+  "reactions": [
+    "Abdominal discomfort",
+    "Hypersensitivity",
+    "Throat tightness",
+    "Tongue pruritus"
+  ],
+  "date_started": "20240802",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEATI CARNE ASADA",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEATI CHICKEN",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEATI CRISPY CHICKEN",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEATI STEAK",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

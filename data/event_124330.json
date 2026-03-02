@@ -1,0 +1,58 @@
+{
+  "report_number": "124330",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100308",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "BLOOD CALCIUM INCREASED",
+    "BLOOD POTASSIUM DECREASED",
+    "BRADYCARDIA",
+    "DIARRHOEA",
+    "DISORIENTATION",
+    "DIZZINESS",
+    "FATIGUE",
+    "GASTRIC ULCER",
+    "GASTROENTERITIS",
+    "HYPOTENSION",
+    "MEMORY IMPAIRMENT",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20100203",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC AMPLIFIED WHEYBOLIC EXTREME 60",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC AMPLIFY CREATININE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM ONE-A-DAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "L-ARGININE 500MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

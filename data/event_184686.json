@@ -1,0 +1,35 @@
+{
+  "report_number": "184686",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150409",
+  "reactions": [
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "FATIGUE",
+    "PAIN",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20150406",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SABRA CLASSIC HUMMUS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PITA CHIPS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

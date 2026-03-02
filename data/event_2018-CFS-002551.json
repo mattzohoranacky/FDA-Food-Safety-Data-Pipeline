@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-002551",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180214",
+  "reactions": [
+    "Abdominal pain",
+    "Aspiration",
+    "Blood pressure decreased",
+    "Dizziness",
+    "Lethargy",
+    "Nausea",
+    "Oxygen saturation decreased",
+    "Sepsis",
+    "Vomiting"
+  ],
+  "date_started": "20171110",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY CHOCOLATE VEGEAN BAG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

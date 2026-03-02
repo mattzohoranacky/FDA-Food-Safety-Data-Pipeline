@@ -1,0 +1,91 @@
+{
+  "report_number": "2019-CFS-000531",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190118",
+  "reactions": [
+    "Acrochordon",
+    "Asthenopia",
+    "Astigmatism",
+    "Cataract",
+    "Cataract nuclear",
+    "Chemical burn of skin",
+    "Chemical burns of eye",
+    "Condition aggravated",
+    "Corneal oedema",
+    "Discomfort",
+    "Dry eye",
+    "Erythema",
+    "Excoriation",
+    "Eye colour change",
+    "Eye discharge",
+    "Eye disorder",
+    "Eye infection",
+    "Eye injury",
+    "Eye irritation",
+    "Eye swelling",
+    "Eyelid margin crusting",
+    "Pain",
+    "Pruritus",
+    "Rash",
+    "Retinal injury",
+    "Skin burning sensation",
+    "Skin exfoliation",
+    "Superficial injury of eye",
+    "Vision blurred",
+    "Visual acuity reduced",
+    "Visual impairment"
+  ],
+  "date_started": "20180211",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

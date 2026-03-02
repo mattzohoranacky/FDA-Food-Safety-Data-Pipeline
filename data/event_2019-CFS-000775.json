@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-000775",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190127",
+  "reactions": [
+    "Eyelid irritation",
+    "Eyelid oedema"
+  ],
+  "date_started": "20190121",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MOXIELASH MAGNETIC EYELINER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-006221",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180424",
+  "reactions": [
+    "Abdominal pain upper",
+    "Adverse reaction",
+    "Blood zinc increased",
+    "Dysentery",
+    "Feeling abnormal"
+  ],
+  "date_started": "20170101",
+  "consumer": {
+    "age": "85",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

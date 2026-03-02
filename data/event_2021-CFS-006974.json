@@ -1,0 +1,28 @@
+{
+  "report_number": "2021-CFS-006974",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210720",
+  "reactions": [
+    "Abdominal pain upper"
+  ],
+  "date_started": "20210712",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S B-COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Trader Joe's B-Complex",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

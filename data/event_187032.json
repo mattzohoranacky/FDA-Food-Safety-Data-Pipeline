@@ -1,0 +1,48 @@
+{
+  "report_number": "187032",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150612",
+  "reactions": [
+    "BLOOD PRESSURE DECREASED",
+    "ENZYME ABNORMALITY",
+    "HYPOTENSION",
+    "PANCREATITIS",
+    "PANCREATITIS ACUTE",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20150525",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOTRUST NUTRITION ABSORBMAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOTRUST NUTRITION PRO-X10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LOW CARB",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA KRILL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

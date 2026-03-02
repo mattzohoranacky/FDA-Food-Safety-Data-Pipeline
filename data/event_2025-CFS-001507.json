@@ -1,0 +1,33 @@
+{
+  "report_number": "2025-CFS-001507",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250204",
+  "reactions": [
+    "Hospitalisation",
+    "Oxygen saturation decreased",
+    "Pneumonia aspiration",
+    "Pulmonary oedema",
+    "Vomiting"
+  ],
+  "date_started": "20250116",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEMME BURN METABOLISM & FAT BURNING CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEMME CURB CRAVINGS SUPPORT SOFT CHEWS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

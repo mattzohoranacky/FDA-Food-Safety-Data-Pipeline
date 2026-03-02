@@ -1,0 +1,29 @@
+{
+  "report_number": "77282",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20050330",
+  "reactions": [
+    "DEATH",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS VIBRIO",
+    "HOSPITALISATION",
+    "SHOCK"
+  ],
+  "date_started": "20041104",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MOLLUSCA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

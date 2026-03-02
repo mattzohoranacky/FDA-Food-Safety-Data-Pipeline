@@ -1,0 +1,31 @@
+{
+  "report_number": "200121",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160815",
+  "reactions": [
+    "ALOPECIA"
+  ],
+  "date_started": "20160704",
+  "consumer": {
+    "age": "52.75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN TEA TREE CLEANSING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WOMAN'S ONE-A-DAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

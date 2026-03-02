@@ -1,0 +1,43 @@
+{
+  "report_number": "66166",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040129",
+  "reactions": [
+    "HEADACHE",
+    "MIGRAINE"
+  ],
+  "date_started": "19890724",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTIFICIAL FLAVORS COLORS",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ASPARTAME",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MSG",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

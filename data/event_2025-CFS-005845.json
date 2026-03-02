@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-005845",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240711",
+  "reactions": [
+    "Abdominal pain",
+    "Illness",
+    "Pruritus",
+    "Urticaria",
+    "Vomiting"
+  ],
+  "date_started": "20240708",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HAWAIIAN SELECT SPICY AHI TUNA POKE NACHOS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

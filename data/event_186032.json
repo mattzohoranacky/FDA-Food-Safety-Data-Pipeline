@@ -1,0 +1,55 @@
+{
+  "report_number": "186032",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150512",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHROMATURIA",
+    "DRUG-INDUCED LIVER INJURY",
+    "DYSPHAGIA",
+    "EARLY SATIETY",
+    "EPIGASTRIC DISCOMFORT",
+    "FAECES DISCOLOURED",
+    "GALLBLADDER DISORDER",
+    "HEPATOCELLULAR INJURY",
+    "HYPERBILIRUBINAEMIA",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "OCULAR ICTERUS",
+    "PROTEIN TOTAL INCREASED",
+    "PRURITUS",
+    "ULTRASOUND BILIARY TRACT",
+    "VOMITING"
+  ],
+  "date_started": "20150325",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER TREN- V",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LIVER CLEANER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRE-WORKOUT POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

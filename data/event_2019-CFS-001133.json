@@ -1,0 +1,28 @@
+{
+  "report_number": "2019-CFS-001133",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190205",
+  "reactions": [
+    "Erythema",
+    "Malaise",
+    "Tremor",
+    "Vomiting"
+  ],
+  "date_started": "20181231",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S MINI STROOPWAFEL ICE CREAM SANDWICHES",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

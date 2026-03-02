@@ -1,0 +1,40 @@
+{
+  "report_number": "152707",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20120524",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BACK INJURY",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "BLOOD URINE PRESENT",
+    "HAEMATOMA",
+    "MUSCLE NECROSIS",
+    "MUSCLE SPASMS",
+    "MYOSITIS",
+    "RHABDOMYOLYSIS"
+  ],
+  "date_started": "20120321",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "C4 EXTREME POWDER (ASSORTED FLAVORS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NO EXPLODE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "report_number": "2022-CFS-017104",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20221209",
+  "reactions": [
+    "Eye pruritus",
+    "Nausea",
+    "Pharyngeal swelling",
+    "Rhinorrhoea",
+    "Sneezing",
+    "Swelling"
+  ],
+  "date_started": "20221207",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTIVA ORGANIC HEMP PROTEIN POWDER FIBER PLUS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

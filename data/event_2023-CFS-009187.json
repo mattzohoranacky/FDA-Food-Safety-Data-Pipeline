@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-009187",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230830",
+  "reactions": [
+    "Chemical burn",
+    "Haemorrhage",
+    "Skin fissures"
+  ],
+  "date_started": "20230715",
+  "consumer": {
+    "age": "1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE BABY WIPES FRAGRANCE FREE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Pediasure",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

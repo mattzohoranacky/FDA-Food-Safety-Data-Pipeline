@@ -1,0 +1,46 @@
+{
+  "report_number": "190480",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151008",
+  "reactions": [
+    "ANXIETY",
+    "GUTTATE PSORIASIS",
+    "PANIC ATTACK",
+    "PUSTULAR PSORIASIS",
+    "RASH PRURITIC"
+  ],
+  "date_started": "20150709",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIZER HERBAL SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUROSLIM DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELEASE CONTROL OF WATER BALANCE HERBAL SUPPLEMENT WITH BETA-CAROTENE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIM700 SUGAR AND STARCH BLOCKER HERBAL SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-001240",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200202",
+  "reactions": [
+    "Application site pustules",
+    "Pruritus",
+    "Rash",
+    "Urticaria"
+  ],
+  "date_started": "20200116",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CERAVE MOISTURIZING CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAJOR AMMONIUM LACTATE 12%,",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-004142",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220322",
+  "reactions": [
+    "Death",
+    "Dyspnoea",
+    "Erythema",
+    "Sepsis",
+    "Skin infection"
+  ],
+  "date_started": "20220225",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JERGENS LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

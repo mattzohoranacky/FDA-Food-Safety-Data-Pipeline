@@ -1,0 +1,38 @@
+{
+  "report_number": "114472",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090225",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BACTERIAL INFECTION",
+    "BURNING SENSATION",
+    "MALAISE"
+  ],
+  "date_started": "20090223",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRISCOLL'S RASPBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BLUEBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

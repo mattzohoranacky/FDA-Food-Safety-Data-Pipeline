@@ -1,0 +1,57 @@
+{
+  "report_number": "176793",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140529",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANOREXIA",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CREATININE INCREASED",
+    "CHROMATURIA",
+    "FAECES PALE",
+    "INSOMNIA",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "NAUSEA",
+    "PRURITUS",
+    "RENAL INJURY",
+    "STRESS"
+  ],
+  "date_started": "20130526",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METHASTADROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ANABOLIC AGENTS FOR SYSTEMIC USE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SILYBUM MARIANUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

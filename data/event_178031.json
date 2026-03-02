@@ -1,0 +1,56 @@
+{
+  "report_number": "178031",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140721",
+  "reactions": [
+    "BURNING SENSATION",
+    "CONVULSION",
+    "DIZZINESS",
+    "FEELING ABNORMAL",
+    "FLUSHING",
+    "GOUT",
+    "HYPERVENTILATION",
+    "JOINT SWELLING",
+    "LOSS OF CONSCIOUSNESS",
+    "MEMORY IMPAIRMENT",
+    "MUSCLE FATIGUE",
+    "MUSCLE TWITCHING",
+    "NAUSEA",
+    "STOMACH DISCOMFORT",
+    "VOMITING"
+  ],
+  "date_started": "20140624",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLO-NIACIN (NIACIN) CONTROLLED-RELEASE TABLET, 500MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALTRATE (CALCIUM CARBONATE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B 6 (PYRIDOXINE HYDROCHLORIDE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12 (CYANOCOBALAMIN)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

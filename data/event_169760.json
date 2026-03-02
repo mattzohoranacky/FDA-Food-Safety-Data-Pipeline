@@ -1,0 +1,34 @@
+{
+  "report_number": "169760",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130905",
+  "reactions": [
+    "Anaphylactic reaction",
+    "DIZZINESS",
+    "HEADACHE",
+    "NAUSEA",
+    "PHARYNGITIS",
+    "PRURITUS",
+    "RASH",
+    "SYNCOPE",
+    "TENDERNESS"
+  ],
+  "date_started": "20130905",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI GREEK YOGURT BLUEBERRY",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "98314",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20071017",
+  "reactions": [
+    "HEADACHE",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20071016",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SILK SOY MILK, CHOCOLATE FLAVOR",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SILK SOY MILK,VANILLA",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

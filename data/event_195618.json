@@ -1,0 +1,46 @@
+{
+  "report_number": "195618",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160420",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "HEADACHE",
+    "NAUSEA",
+    "TREMOR",
+    "VISION BLURRED"
+  ],
+  "date_started": "20160419",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THRIVE W CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THRIVE W PREMIUM LIFESTYLE MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DIGESTIVE ENZYMES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHOLE FOOD MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

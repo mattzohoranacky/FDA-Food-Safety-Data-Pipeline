@@ -1,0 +1,46 @@
+{
+  "report_number": "202741",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20161007",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "AMYLASE INCREASED",
+    "COMPUTERISED TOMOGRAM ABDOMEN ABNORMAL",
+    "DYSPEPSIA",
+    "FLATULENCE",
+    "HYPOAESTHESIA",
+    "IMMOBILE",
+    "LIPASE INCREASED",
+    "PANCREATITIS"
+  ],
+  "date_started": "20160827",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING VALLEY, FISH, FLAX & BORAGE OIL WITH OMEGA 3-6-9 SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BETA CAROTENE SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B-12 SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

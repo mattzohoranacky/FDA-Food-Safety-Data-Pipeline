@@ -1,0 +1,28 @@
+{
+  "report_number": "2020-CFS-007455",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200803",
+  "reactions": [
+    "Deep vein thrombosis",
+    "Dyspnoea",
+    "Emphysema"
+  ],
+  "date_started": "20200729",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "170090",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130910",
+  "reactions": [
+    "ANXIETY",
+    "Abdominal discomfort",
+    "DIARRHOEA",
+    "HEADACHE",
+    "NAUSEA"
+  ],
+  "date_started": "20130826",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOPLAIT GREEK 100 CALORIE TROPICAL FRUIT YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "72930",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040929",
+  "reactions": [
+    "DYSPEPSIA",
+    "NAUSEA",
+    "POLLAKIURIA",
+    "TREMOR"
+  ],
+  "date_started": "20040628",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEST YET INSTANT COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SWEET N LOW",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

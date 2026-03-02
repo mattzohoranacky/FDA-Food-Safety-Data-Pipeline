@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-000524",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220111",
+  "reactions": [
+    "Blood iron decreased",
+    "Fatigue",
+    "Gastrointestinal haemorrhage"
+  ],
+  "date_started": "20210201",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ONE DAILY MENS MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TURMERIC CURCUMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

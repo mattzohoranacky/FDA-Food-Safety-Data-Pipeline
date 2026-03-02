@@ -1,0 +1,50 @@
+{
+  "report_number": "2022-CFS-012751",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220817",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Malaise"
+  ],
+  "date_started": "20211111",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRAVO KIT FOR MILK - BOVINE COLOSTRUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRAVO KIT FOR MILK - CULTURE STARTER",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRAVO KIT FOR MILK - PROBIOTIC COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRAVO KIT FOR MILK - STARTER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRAVO KIT FOR MILK -WHOLE DRIED BOVINE COLOSTRUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

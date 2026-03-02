@@ -1,0 +1,30 @@
+{
+  "report_number": "199940",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160809",
+  "reactions": [
+    "ALOPECIA"
+  ],
+  "date_started": "20160804",
+  "consumer": {
+    "age": "38.2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN BY CHAZ DEAN CLEANSING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

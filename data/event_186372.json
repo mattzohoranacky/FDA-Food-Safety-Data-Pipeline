@@ -1,0 +1,31 @@
+{
+  "report_number": "186372",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150526",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "PURPURA"
+  ],
+  "date_started": "20150520",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVIVAL BEAUTY ANTI-AGING SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVIVAL BEAUTY ANTI-WRINKLE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

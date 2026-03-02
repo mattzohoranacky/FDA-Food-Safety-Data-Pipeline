@@ -1,0 +1,36 @@
+{
+  "report_number": "98362",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20071128",
+  "reactions": [
+    "ARTHRALGIA",
+    "CARPAL TUNNEL SYNDROME",
+    "CHEST PAIN",
+    "FATIGUE",
+    "HEADACHE",
+    "SYSTEMIC LUPUS ERYTHEMATOSUS"
+  ],
+  "date_started": "20030101",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOPLAIT SUGAR FREE YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

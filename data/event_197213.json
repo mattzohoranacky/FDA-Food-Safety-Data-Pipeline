@@ -1,0 +1,58 @@
+{
+  "report_number": "197213",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160610",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "BACTERIAL TEST POSITIVE",
+    "CLOSTRIDIUM DIFFICILE INFECTION",
+    "COMPUTERISED TOMOGRAM ABDOMEN ABNORMAL",
+    "DIARRHOEA",
+    "ENTERITIS",
+    "GASTROINTESTINAL INFECTION",
+    "LYMPHADENOPATHY",
+    "PYREXIA"
+  ],
+  "date_started": "20160521",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE SUPER B COMPLEX WITH VIT C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CINNAMON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GREEN TEA EXT RACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "181498",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141001",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "DIARRHOEA HAEMORRHAGIC",
+    "GASTRITIS BACTERIAL",
+    "HEADACHE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "PYREXIA",
+    "SALMONELLOSIS"
+  ],
+  "date_started": "20140824",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARANATHA NO STIR CRUNCHY ALMOND BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

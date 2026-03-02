@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-004466",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240420",
+  "reactions": [
+    "Abdominal distension",
+    "Diarrhoea",
+    "Fatigue",
+    "Muscle spasms"
+  ],
+  "date_started": "20240409",
+  "consumer": {
+    "age": "68.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MELISSA ORGANIC HERBS BASIL",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

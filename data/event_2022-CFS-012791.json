@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-012791",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220817",
+  "reactions": [
+    "Hyperthyroidism"
+  ],
+  "date_started": "20220802",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VINCO THYROID GLANDFREEZE DRIED NEW ZEALAND THYROID TISSUETHRYOID GLAND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "equi life adrenal energy support",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

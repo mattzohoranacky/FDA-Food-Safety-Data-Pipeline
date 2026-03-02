@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-012183",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181004",
+  "reactions": [
+    "Acne",
+    "Pain",
+    "Rash"
+  ],
+  "date_started": "20180930",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT SMOOTHING DEEP CONDITIONING",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT SMOOTHING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

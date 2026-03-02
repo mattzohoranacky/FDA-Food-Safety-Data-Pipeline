@@ -1,0 +1,35 @@
+{
+  "report_number": "215934",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170714",
+  "reactions": [
+    "Acute hepatic failure",
+    "Chronic hepatic failure",
+    "Coagulopathy",
+    "Decreased appetite",
+    "Fatigue",
+    "Hyperbilirubinaemia",
+    "Jaundice",
+    "Palpitations",
+    "Thrombocytopenia",
+    "Transaminases increased"
+  ],
+  "date_started": "20170110",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL BODY DETOX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

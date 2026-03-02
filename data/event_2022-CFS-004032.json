@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-004032",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220321",
+  "reactions": [
+    "Blister",
+    "Chills",
+    "Erythema",
+    "Hypersensitivity",
+    "Pain",
+    "Pyrexia",
+    "Rash"
+  ],
+  "date_started": "20220308",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JERGENS ULTRA HEALING LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

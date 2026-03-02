@@ -1,0 +1,46 @@
+{
+  "report_number": "2021-CFS-006679",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210713",
+  "reactions": [
+    "Dizziness",
+    "Headache",
+    "Malaise",
+    "Sinus headache",
+    "Syncope"
+  ],
+  "date_started": "20210627",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IONIX SUPREME-POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISALEAN SHAKE-CREAMY DUTCH CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE BLEND BAR-CHOCOLATE INDULGENCE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

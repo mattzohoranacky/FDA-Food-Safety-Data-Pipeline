@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-007153",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200724",
+  "reactions": [
+    "Alopecia",
+    "Hair colour changes",
+    "Hair texture abnormal"
+  ],
+  "date_started": "20190611",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LIGHT DEFINING GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO POO SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION DECADENCE ULTRA MOISTURIZING MILK CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

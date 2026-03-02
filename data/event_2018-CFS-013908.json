@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-013908",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181126",
+  "reactions": [
+    "Alopecia",
+    "Skin exfoliation",
+    "Skin ulcer",
+    "Trichorrhexis"
+  ],
+  "date_started": "20180515",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT INTENSE REPAIR LEAVE IN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RESTORE LEAVE IN CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

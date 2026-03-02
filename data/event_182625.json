@@ -1,0 +1,47 @@
+{
+  "report_number": "182625",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150202",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ALOPECIA",
+    "BOWEL MOVEMENT IRREGULARITY",
+    "COLD SWEAT",
+    "DIARRHOEA",
+    "MALAISE",
+    "NAUSEA",
+    "PAIN",
+    "POLYURIA",
+    "PSYCHOSOMATIC DISEASE",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20141220",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT APPETITE CONTROL SMOOTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT PRO CLINICAL INSTANT DRINK MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE A DAY ENERGY MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

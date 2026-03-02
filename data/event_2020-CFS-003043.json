@@ -1,0 +1,44 @@
+{
+  "report_number": "2020-CFS-003043",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200229",
+  "reactions": [
+    "Alopecia",
+    "Eye irritation",
+    "Nail growth abnormal",
+    "Rash"
+  ],
+  "date_started": "20190101",
+  "consumer": {
+    "age": "20.4",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW-POO DELIGHT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVALCURL ONE CONDITION ORIGINAL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Daily multivitamin with iron",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "fish oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

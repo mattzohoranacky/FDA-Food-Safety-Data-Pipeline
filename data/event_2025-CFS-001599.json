@@ -1,0 +1,33 @@
+{
+  "report_number": "2025-CFS-001599",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250206",
+  "reactions": [
+    "Chest pain",
+    "Dizziness",
+    "Fatigue",
+    "Seizure"
+  ],
+  "date_started": "20250203",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARA CARA ORANGE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3 2000 IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

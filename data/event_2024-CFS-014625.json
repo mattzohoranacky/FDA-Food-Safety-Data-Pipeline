@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-014625",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241121",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Hypersensitivity",
+    "Pruritus",
+    "Swelling"
+  ],
+  "date_started": "20241115",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TAYLOR FARMS SWEET KALE CHOPPED SALAD KIT",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-014668",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181219",
+  "reactions": [
+    "Alopecia",
+    "Trichorrhexis"
+  ],
+  "date_started": "20180801",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HASK COCONUT MILK & ORGANIC HONEY CURL CARE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Coconut Milk & Organic Honey Curl Care Shampoo",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

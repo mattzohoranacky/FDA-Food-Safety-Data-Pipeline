@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-015971",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20221107",
+  "reactions": [
+    "Dyspnoea"
+  ],
+  "date_started": "20221103",
+  "consumer": {
+    "age": "11",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NEUROPRO INFANT FORMULA REFILL PACK",
+      "industry_code": "40N",
+      "industry_name": "Ready to Serve Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin d drops",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

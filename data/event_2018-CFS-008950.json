@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-008950",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180626",
+  "reactions": [
+    "Blood pressure increased",
+    "Chest pain",
+    "Fatigue",
+    "Hyponatraemia",
+    "Metal poisoning",
+    "Nausea",
+    "Pain in extremity",
+    "Paraesthesia",
+    "Peripheral coldness",
+    "Urine arsenic increased"
+  ],
+  "date_started": "20180523",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE SEA KELP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

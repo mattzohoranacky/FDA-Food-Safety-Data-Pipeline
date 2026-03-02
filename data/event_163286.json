@@ -1,0 +1,32 @@
+{
+  "report_number": "163286",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130313",
+  "reactions": [
+    "CHOKING",
+    "COUGH",
+    "DYSPNOEA",
+    "FOREIGN BODY TRAUMA",
+    "PHARYNGITIS"
+  ],
+  "date_started": "20130312",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESTER-C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

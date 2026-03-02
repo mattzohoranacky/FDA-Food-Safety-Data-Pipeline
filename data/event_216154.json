@@ -1,0 +1,43 @@
+{
+  "report_number": "216154",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170731",
+  "reactions": [
+    "Back pain",
+    "Bacterial pyelonephritis",
+    "Chills",
+    "Decreased appetite",
+    "Pyrexia",
+    "Renal pain",
+    "Vomiting"
+  ],
+  "date_started": "20170710",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM - COLONIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM - KLERITEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM - PARANIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

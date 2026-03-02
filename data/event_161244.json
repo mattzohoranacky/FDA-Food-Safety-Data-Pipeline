@@ -1,0 +1,44 @@
+{
+  "report_number": "161244",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130118",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BIOPSY LIVER ABNORMAL",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHOLELITHIASIS",
+    "CHROMATURIA",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "FAECES DISCOLOURED",
+    "FATIGUE",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATITIS",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "MALAISE",
+    "PERIORBITAL CELLULITIS",
+    "PRURITUS",
+    "RASH",
+    "ULTRASOUND LIVER ABNORMAL"
+  ],
+  "date_started": "20110318",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEPTOPRIN (CAM)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

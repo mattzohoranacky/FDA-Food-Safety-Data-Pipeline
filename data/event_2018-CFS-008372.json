@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-008372",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180619",
+  "reactions": [
+    "Infection",
+    "Nephrolithiasis",
+    "Pain"
+  ],
+  "date_started": "20180619",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AIRBORNE ORIGINAL EFFERVESCENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Airborne effervescent tablets",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

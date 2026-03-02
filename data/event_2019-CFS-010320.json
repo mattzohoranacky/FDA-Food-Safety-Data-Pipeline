@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-010320",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20191008",
+  "reactions": [
+    "Anaphylactic shock",
+    "Dizziness",
+    "Dyspnoea",
+    "Lip swelling",
+    "Pruritus generalised",
+    "Tachycardia",
+    "Throat tightness"
+  ],
+  "date_started": "20190915",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SERENOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

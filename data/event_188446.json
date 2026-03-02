@@ -1,0 +1,31 @@
+{
+  "report_number": "188446",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150616",
+  "reactions": [
+    "BLOOD LEAD INCREASED",
+    "METAL POISONING"
+  ],
+  "date_started": "20150421",
+  "consumer": {
+    "age": "18",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAGGIE 2-MINUTE NOODLES, AUTHENTIC INDIAN NOODLES",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TASTEMAKER SPICE PACKET",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

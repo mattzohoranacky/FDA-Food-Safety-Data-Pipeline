@@ -1,0 +1,29 @@
+{
+  "report_number": "98455",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20071102",
+  "reactions": [
+    "DIZZINESS",
+    "HEADACHE",
+    "PAIN",
+    "VISUAL DISTURBANCE"
+  ],
+  "date_started": "20070801",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CASTLEBERRY'S CATTLE DRIVE CHILI WITH BEANS AND MEAT",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

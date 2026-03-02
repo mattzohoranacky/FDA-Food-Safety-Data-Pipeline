@@ -1,0 +1,31 @@
+{
+  "report_number": "196940",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160601",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "Food poisoning",
+    "MUSCLE SPASMS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20160527",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS GOLD MEDAL ALL PURPOSE FLOUR",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-005191",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240515",
+  "reactions": [
+    "Diarrhoea",
+    "Headache",
+    "Hypersensitivity",
+    "Loss of consciousness",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20240512",
+  "consumer": {
+    "age": "29.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZERO SUGAR SUMMER SPLASH PUNCH",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

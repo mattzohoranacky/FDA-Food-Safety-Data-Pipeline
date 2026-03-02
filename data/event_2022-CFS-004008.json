@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-004008",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220315",
+  "reactions": [
+    "Erythema",
+    "Inflammation",
+    "Pain",
+    "Pruritus",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20220315",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MOLLUSCUM AWAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

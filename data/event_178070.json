@@ -1,0 +1,36 @@
+{
+  "report_number": "178070",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140724",
+  "reactions": [
+    "APHONIA",
+    "DYSENTERY",
+    "HYPERHIDROSIS",
+    "MUSCLE SPASMS",
+    "SYNCOPE",
+    "TINNITUS",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20140703",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OMNIVISTA HEALTH, LLC SMART SCIENCE NUTRITIONALS CORE JOINT & BONE FX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIO TRUST LOW CARB CHOCOLATE SMOOTHIES",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "121533",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20091216",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20091211",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROGRESSO VEGETABLE CLASSIC VEGETARIAN VEGETABLE SOUP WITH BARLEY",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DIET COOKIES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

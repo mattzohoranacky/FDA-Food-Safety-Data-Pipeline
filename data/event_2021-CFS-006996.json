@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-006996",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210720",
+  "reactions": [
+    "Choking"
+  ],
+  "date_started": "20210701",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY L-ARGININE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Nature's Bounty Magnesium 500mg Tablets",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

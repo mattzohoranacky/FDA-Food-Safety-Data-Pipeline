@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-000095",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240104",
+  "reactions": [
+    "Haematochezia",
+    "Malaise",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20231223",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NUTRAMIGEN PURAMINO",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

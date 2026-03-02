@@ -1,0 +1,60 @@
+{
+  "report_number": "207314",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170208",
+  "reactions": [
+    "ANAL HAEMORRHAGE",
+    "ASTHENIA",
+    "CONSTIPATION",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FATIGUE",
+    "HEADACHE",
+    "LOSS OF CONSCIOUSNESS",
+    "PAIN",
+    "SENSATION OF HEAVINESS",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20170203",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIPOZENE 1500 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

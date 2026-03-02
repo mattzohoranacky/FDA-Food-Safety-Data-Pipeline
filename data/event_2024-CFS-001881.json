@@ -1,0 +1,46 @@
+{
+  "report_number": "2024-CFS-001881",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20240208",
+  "reactions": [
+    "Diarrhoea",
+    "Muscle spasms",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20240202",
+  "consumer": {
+    "age": "36.9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S AVOCADO RANCH SALAD KIT COMPLETE SALAD KIT",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S CILANTRO SALAD DRESSING",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S ORGANIC SPRING MIX",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S SESAME CRUNCH CHOPPED SALAD KIT",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

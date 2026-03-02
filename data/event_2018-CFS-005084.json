@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-005084",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180324",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Dry skin",
+    "Hair texture abnormal",
+    "Skin irritation",
+    "Trichorrhexis"
+  ],
+  "date_started": "20171009",
+  "consumer": {
+    "age": "35.45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT BLACK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REVIVE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

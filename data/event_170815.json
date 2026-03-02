@@ -1,0 +1,57 @@
+{
+  "report_number": "170815",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131011",
+  "reactions": [
+    "BLOOD PRESSURE DECREASED",
+    "HYPOAESTHESIA",
+    "HYPOKALAEMIA"
+  ],
+  "date_started": "20130508",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE HERBAL CLEANSE METABOLIC CLEANSING SYSTEM CITRUS FIBER DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE HERBAL CLEANSE METABOLIC CLEANSING SYSTEM PROBIOTIC RESTORE ULTRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE HERBAL CLEANSE METABOLIC CLEANSING SYSTEM TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE SPARK ENERGY DRINK MIX VITAMIN & AMINO ACID SUPPLEMENT FRUIT PUNCH (PACKETS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEAL REPLACEMENT SHAKE - CHOCOLATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OMEGAPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

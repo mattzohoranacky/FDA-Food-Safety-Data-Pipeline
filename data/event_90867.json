@@ -1,0 +1,29 @@
+{
+  "report_number": "90867",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20070119",
+  "reactions": [
+    "ORAL DISCOMFORT",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20070111",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE CELERY",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COLD WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

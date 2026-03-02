@@ -1,0 +1,42 @@
+{
+  "report_number": "192114",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151215",
+  "reactions": [
+    "BLOOD POTASSIUM INCREASED",
+    "BLOOD SODIUM DECREASED",
+    "HYPERKALAEMIA",
+    "HYPONATRAEMIA",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20151209",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "B-BOOST NUTRITIONAL SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOMEOPATHIC DETOX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOMEOPATHIC WEIGHT MANAGEMENT SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

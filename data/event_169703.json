@@ -1,0 +1,30 @@
+{
+  "report_number": "169703",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130904",
+  "reactions": [
+    "DYSPNOEA",
+    "HEADACHE",
+    "HYPERTENSION",
+    "PAIN",
+    "VISUAL IMPAIRMENT",
+    "VOMITING"
+  ],
+  "date_started": "20130810",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JADERA DIET PILLS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

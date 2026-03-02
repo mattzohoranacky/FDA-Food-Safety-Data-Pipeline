@@ -1,0 +1,31 @@
+{
+  "report_number": "212400",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151122",
+  "reactions": [
+    "CRYING",
+    "DIARRHOEA",
+    "HAEMATOCHEZIA",
+    "SALMONELLOSIS",
+    "SCREAMING",
+    "Salmonella test positive"
+  ],
+  "date_started": "20151118",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL GENTLEASE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

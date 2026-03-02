@@ -1,0 +1,38 @@
+{
+  "report_number": "186839",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150429",
+  "reactions": [
+    "ANXIETY",
+    "Anaphylactic shock",
+    "DYSPNOEA",
+    "MOOD ALTERED",
+    "NAUSEA",
+    "PARAESTHESIA",
+    "RETCHING",
+    "TACHYPNOEA",
+    "TREMOR",
+    "URTICARIA",
+    "VOMITING"
+  ],
+  "date_started": "20150425",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOLL HOUSE SEMI-SWEET CHUNKS",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

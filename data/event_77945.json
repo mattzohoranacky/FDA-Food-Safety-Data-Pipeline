@@ -1,0 +1,29 @@
+{
+  "report_number": "77945",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20050503",
+  "reactions": [
+    "ASTHMA",
+    "COUGH",
+    "DYSPNOEA",
+    "HOSPITALISATION"
+  ],
+  "date_started": "20050429",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "D.A.G. MOUTHWASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

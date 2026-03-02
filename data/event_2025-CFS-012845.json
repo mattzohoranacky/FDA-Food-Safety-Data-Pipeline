@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-012845",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20250808",
+  "reactions": [
+    "Cellulitis",
+    "Erythema",
+    "Hospitalisation",
+    "Lymphangitis",
+    "Peripheral swelling"
+  ],
+  "date_started": "20250802",
+  "consumer": {
+    "age": "15",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEMBERS MARK FREEZE DRIED FRUIT VARIETY PACK",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

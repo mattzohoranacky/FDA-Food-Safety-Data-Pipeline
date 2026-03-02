@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-013104",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20231127",
+  "reactions": [
+    "Acute hepatic failure",
+    "Acute kidney injury",
+    "Hypokalaemia",
+    "Hyponatraemia",
+    "Jaundice"
+  ],
+  "date_started": "20201123",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOW ASHWAGANDHA 450 MG 180 VEG CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

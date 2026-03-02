@@ -1,0 +1,31 @@
+{
+  "report_number": "72223",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040915",
+  "reactions": [
+    "CHEST PAIN",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20040828",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLAMS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2021-CFS-006526",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210709",
+  "reactions": [
+    "Foreign body",
+    "Pain",
+    "Pneumonia aspiration"
+  ],
+  "date_started": "20210616",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ULTRA WOMAN 50 PLUS DAILY MULTI COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

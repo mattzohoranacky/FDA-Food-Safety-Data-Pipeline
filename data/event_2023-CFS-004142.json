@@ -1,0 +1,27 @@
+{
+  "report_number": "2023-CFS-004142",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230419",
+  "reactions": [
+    "Thrombosis",
+    "Urinary retention",
+    "Urinary tract obstruction",
+    "Urine output decreased"
+  ],
+  "date_started": "20230419",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "URINOZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "82072",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20051117",
+  "reactions": [
+    "FLATULENCE",
+    "IRRITABILITY",
+    "PAIN",
+    "PHYSICAL EXAMINATION"
+  ],
+  "date_started": "20051010",
+  "consumer": {
+    "age": "12",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NESTLE GOOD START SOY SUPREME",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ALLMENTUM ADVANCE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

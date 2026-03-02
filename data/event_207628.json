@@ -1,0 +1,40 @@
+{
+  "report_number": "207628",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170210",
+  "reactions": [
+    "BACK PAIN",
+    "COUGH",
+    "FATIGUE",
+    "INCREASED UPPER AIRWAY SECRETION",
+    "MUSCULOSKELETAL PAIN",
+    "PULMONARY CONGESTION"
+  ],
+  "date_started": "20170105",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHEAT GRASS JUICE POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PURE SYNERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINHERB FOR WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "report_number": "2019-CFS-004571",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190507",
+  "reactions": [
+    "Blood pressure increased",
+    "Heart rate increased",
+    "Hypertension",
+    "Palpitations",
+    "Presyncope"
+  ],
+  "date_started": "20190408",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC BODY DYNAMIX CLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN ENERGY & METABOLISM VITAPAK PROGRAM PACKET -  STAMINOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN ENERGY & METABOLISM VITAPAK PROGRAM PACKET - CARNITINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN ENERGY & METABOLISM VITAPAK PROGRAM PACKET - ENERGY & METABOLISM GENERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN ENERGY & METABOLISM VITAPAK PROGRAM PACKET - HIGH POTENCY OMEGA-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN ENERGY & METABOLISM VITAPAK PROGRAM PACKET - MEGA MEN ENERGY & METABOLISM MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUGENIX TOTAL-T",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

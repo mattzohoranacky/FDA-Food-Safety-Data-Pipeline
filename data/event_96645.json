@@ -1,0 +1,30 @@
+{
+  "report_number": "96645",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070903",
+  "reactions": [
+    "CHOKING"
+  ],
+  "date_started": "20070830",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STARKIST VERY LOW SODIUM CHUNK WHITE ALBACORE TUNA IN WATER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAYO",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

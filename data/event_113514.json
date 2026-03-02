@@ -1,0 +1,30 @@
+{
+  "report_number": "113514",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090129",
+  "reactions": [
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS SALMONELLA",
+    "MALAISE",
+    "Typhoid fever"
+  ],
+  "date_started": "20090108",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POCAHONTAS PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

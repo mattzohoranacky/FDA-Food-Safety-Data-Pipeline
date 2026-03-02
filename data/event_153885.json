@@ -1,0 +1,32 @@
+{
+  "report_number": "153885",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120628",
+  "reactions": [
+    "ANGINA PECTORIS",
+    "FEELING DRUNK",
+    "SPEECH DISORDER"
+  ],
+  "date_started": "20120621",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL CALCIUM + D SLOW RELEASE 1200 (CALCIUM CARBONATE, CALCIUM CITRATE, VITAMIN D, MAGNESIUM HYDROXIDE) FILM-COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL PETITES (CHOLECALCIFEROL + CALCIUM CITRATE) FILM COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "129551",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20100519",
+  "reactions": [
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20100517",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEAN'S GUACAMOLE FLAVORED DIP",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE ALL NATURAL SOUR CREAM",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TACOS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

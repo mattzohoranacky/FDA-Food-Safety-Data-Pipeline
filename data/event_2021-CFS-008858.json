@@ -1,0 +1,36 @@
+{
+  "report_number": "2021-CFS-008858",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210825",
+  "reactions": [
+    "Constipation"
+  ],
+  "date_started": "20210817",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RS FORMULATIONS SDM 3.0",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "zinc but haven't taken in over a month",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

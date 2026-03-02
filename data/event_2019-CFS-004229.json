@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-004229",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190424",
+  "reactions": [
+    "Dyspnoea",
+    "Headache",
+    "Sinus disorder",
+    "Visual impairment"
+  ],
+  "date_started": "20190401",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIGHT BROWN SUGAR",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUGAR IN THE RAW",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHITE GRANULATED SUGAR",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

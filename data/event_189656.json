@@ -1,0 +1,35 @@
+{
+  "report_number": "189656",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150915",
+  "reactions": [
+    "CHROMATURIA",
+    "FAECES DISCOLOURED",
+    "FATIGUE",
+    "MIGRAINE",
+    "VITAMIN B2 DEFICIENCY"
+  ],
+  "date_started": "20150831",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY B2 100 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOW FOODS VITATAMIN B-2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

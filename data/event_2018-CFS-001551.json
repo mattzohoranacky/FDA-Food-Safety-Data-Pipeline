@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-001551",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180120",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chills",
+    "Enteritis",
+    "Feeling abnormal",
+    "Malaise",
+    "Nasopharyngitis",
+    "Pneumonia klebsiella",
+    "Pyrexia",
+    "Rhinorrhoea",
+    "Sepsis",
+    "Tremor"
+  ],
+  "date_started": "20171222",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALIGN PROBIOTIC SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

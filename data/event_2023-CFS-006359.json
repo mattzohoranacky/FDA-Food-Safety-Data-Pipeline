@@ -1,0 +1,46 @@
+{
+  "report_number": "2023-CFS-006359",
+  "outcomes": [
+    "Allergic Reaction"
+  ],
+  "date_created": "20230614",
+  "reactions": [
+    "Accidental exposure to product by elderly person",
+    "Dry skin",
+    "Exposure via eye contact",
+    "Eye irritation",
+    "Foot fracture",
+    "Gait disturbance",
+    "Hyperhidrosis",
+    "Hypersensitivity",
+    "Pain of skin",
+    "Rash",
+    "Skin burning sensation"
+  ],
+  "date_started": "20230508",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AUSSIE HAIR TREATMENTS MIRACLE CURLS PROTECT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Aussie Shampoo",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Aussla Conditioner",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

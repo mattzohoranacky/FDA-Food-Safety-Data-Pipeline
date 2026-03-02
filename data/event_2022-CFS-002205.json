@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-002205",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220215",
+  "reactions": [
+    "Blood pressure decreased",
+    "Body temperature decreased",
+    "Convulsion",
+    "Loss of consciousness",
+    "Malaise",
+    "Vomiting"
+  ],
+  "date_started": "20220211",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEMPSOL TINCTURE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

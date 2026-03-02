@@ -1,0 +1,46 @@
+{
+  "report_number": "2022-CFS-011434",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220722",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain",
+    "Diarrhoea",
+    "Diverticulitis",
+    "Fatigue",
+    "Flatulence",
+    "Headache",
+    "Myalgia",
+    "Nausea",
+    "White blood cell count increased"
+  ],
+  "date_started": "20220606",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS  BIO CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS  SLIM MICROBIOME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS PROBIO5",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

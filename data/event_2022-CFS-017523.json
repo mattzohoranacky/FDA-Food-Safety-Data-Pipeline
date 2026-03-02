@@ -1,0 +1,48 @@
+{
+  "report_number": "2022-CFS-017523",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20221227",
+  "reactions": [
+    "Blood pressure increased",
+    "Diarrhoea",
+    "Diplopia",
+    "Dizziness",
+    "Dry mouth",
+    "Dyspepsia",
+    "Feeling hot",
+    "Heart rate increased",
+    "Tremor",
+    "Vitreous floaters"
+  ],
+  "date_started": "20220712",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "7UP ZERO SUGAR LEMON LIME",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COKE ZERO",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNKIST ZERO SUGAR ORANGE SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

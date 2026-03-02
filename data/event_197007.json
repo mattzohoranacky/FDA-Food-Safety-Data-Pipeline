@@ -1,0 +1,45 @@
+{
+  "report_number": "197007",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160606",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "BACK PAIN",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20160526",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOREVERGREEN 10 DAY RESET ORANGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOREVERGREEN 10 DAY RESET RASPBERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOREVERGREEN DOUGH BITES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOREVERGREEN FIXX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

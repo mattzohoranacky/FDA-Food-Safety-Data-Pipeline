@@ -1,0 +1,35 @@
+{
+  "report_number": "197041",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160606",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HEADACHE",
+    "MUSCLE SPASMS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20160605",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEADOW GOLD DAIRY PURE HALF & HALF",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

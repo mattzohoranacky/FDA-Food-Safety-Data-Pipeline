@@ -1,0 +1,37 @@
+{
+  "report_number": "174727",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140319",
+  "reactions": [
+    "BIOPSY LIVER",
+    "BLOOD ALBUMIN ABNORMAL",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATIC FUNCTION ABNORMAL",
+    "HEPATITIS",
+    "JAUNDICE"
+  ],
+  "date_started": "20120330",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRISTINE BAY, LLC D-B-A VIANDA EXTENDZ (OR PHERHAPS ENZYTE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MILK THISTLE DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

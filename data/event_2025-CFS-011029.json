@@ -1,0 +1,37 @@
+{
+  "report_number": "2025-CFS-011029",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20250714",
+  "reactions": [
+    "Abdominal discomfort",
+    "Acute kidney injury",
+    "Dehydration",
+    "Diarrhoea",
+    "Laboratory test abnormal",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20250510",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METAGENICS SPECTRAZYME GLUTEN DIGEST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MARY RUTH LIQUID MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

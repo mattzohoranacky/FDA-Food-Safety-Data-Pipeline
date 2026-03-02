@@ -1,0 +1,38 @@
+{
+  "report_number": "2017-CFS-000350",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20170602",
+  "reactions": [
+    "Excoriation",
+    "Eye swelling",
+    "Ocular hyperaemia",
+    "Scab",
+    "Skin exfoliation"
+  ],
+  "date_started": "20170325",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHADOWS LIMELIGHT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B-12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin-D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

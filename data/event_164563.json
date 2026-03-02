@@ -1,0 +1,29 @@
+{
+  "report_number": "164563",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130415",
+  "reactions": [
+    "CONVULSION",
+    "HYPERSENSITIVITY",
+    "RASH",
+    "RESPIRATORY DISTRESS",
+    "SWELLING FACE"
+  ],
+  "date_started": "20130325",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALENDULA SUPPOSITORIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

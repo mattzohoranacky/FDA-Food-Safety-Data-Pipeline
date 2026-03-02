@@ -1,0 +1,38 @@
+{
+  "report_number": "172785",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20131203",
+  "reactions": [
+    "ENERGY INCREASED",
+    "NERVOUSNESS",
+    "PARAESTHESIA"
+  ],
+  "date_started": "20131125",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOUGLAS LABORATORIES THYROLIFE OPTIMA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S PLUS SOURCE OF LIFE ADULT GOLD GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "report_number": "2018-CFS-005743",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180411",
+  "reactions": [
+    "Abasia",
+    "Abdominal pain",
+    "Dizziness",
+    "Dyspnoea",
+    "Fall",
+    "Feeling abnormal",
+    "Feeling drunk",
+    "Feeling hot",
+    "Hangover",
+    "Hyperhidrosis",
+    "Loss of consciousness",
+    "Muscle spasms",
+    "Nausea",
+    "Pain",
+    "Somnolence",
+    "Vomiting"
+  ],
+  "date_started": "20180208",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FINEST NUTRITION 5-HTP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

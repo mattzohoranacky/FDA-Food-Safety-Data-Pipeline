@@ -1,0 +1,32 @@
+{
+  "report_number": "172343",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131126",
+  "reactions": [
+    "INFECTION",
+    "LACRIMATION INCREASED",
+    "WOUND SECRETION"
+  ],
+  "date_started": "20131123",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARNIER ANTI WRINKLE FIRMING EYE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAY TOTAL AFFECTS ANTI-AGING EYE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

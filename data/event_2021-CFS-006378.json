@@ -1,0 +1,29 @@
+{
+  "report_number": "2021-CFS-006378",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Disability"
+  ],
+  "date_created": "20210706",
+  "reactions": [
+    "Cardiovascular insufficiency",
+    "Hypoaesthesia",
+    "Movement disorder",
+    "Pain"
+  ],
+  "date_started": "20210701",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED MAMBA EXTREME 18000",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "report_number": "190108",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150928",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "COELIAC DISEASE",
+    "DIARRHOEA",
+    "IRRITABILITY",
+    "MOOD ALTERED",
+    "RASH"
+  ],
+  "date_started": "20150917",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FROSTED CHEERIOS - GLUTEN FREE",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLINSTONE TODDLER VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JUICE PLUS SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

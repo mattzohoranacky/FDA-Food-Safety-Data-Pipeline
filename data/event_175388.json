@@ -1,0 +1,35 @@
+{
+  "report_number": "175388",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140326",
+  "reactions": [
+    "COUGH",
+    "DYSPNOEA",
+    "NAUSEA",
+    "RHINORRHOEA",
+    "SWELLING",
+    "URTICARIA"
+  ],
+  "date_started": "20140308",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE CALCIUM 600 MG LIQUID SOFT GEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE VITAMIN D3 2000 IU LIQUID SOFT GEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "152014",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120127",
+  "reactions": [
+    "DIARRHOEA",
+    "ERYTHEMA",
+    "MENTAL RETARDATION",
+    "RASH",
+    "RASH PAPULAR"
+  ],
+  "date_started": "20120121",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CASCADIAN FARMS OATS & HONEY GRANOLA",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "169739",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20130905",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "DYSPEPSIA",
+    "FLATULENCE",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "Product taste abnormal"
+  ],
+  "date_started": "20130830",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI BLACK CHERRY NON-FAT GREEK YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI NON-FAT PEACH GREEK YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

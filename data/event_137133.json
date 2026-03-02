@@ -1,0 +1,32 @@
+{
+  "report_number": "137133",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101004",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "CONVULSION",
+    "Hospitalisation",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20100909",
+  "consumer": {
+    "age": "6",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTTS ABBOTS ORGANIC SIMILAC INFANT POWDER",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

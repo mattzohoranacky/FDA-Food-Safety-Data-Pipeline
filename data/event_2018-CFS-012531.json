@@ -1,0 +1,52 @@
+{
+  "report_number": "2018-CFS-012531",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20181016",
+  "reactions": [
+    "Amnesia",
+    "Circadian rhythm sleep disorder",
+    "Eye pain",
+    "Feeling abnormal",
+    "Hyperacusis",
+    "Insomnia",
+    "Mood swings",
+    "Nervous system disorder",
+    "Tinnitus",
+    "Withdrawal syndrome"
+  ],
+  "date_started": "20181001",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ASPARTAME",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "Aspertame in DIET PEPSI",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUCRALOSE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Cinnamon",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

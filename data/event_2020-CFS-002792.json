@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-002792",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20200225",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Constipation"
+  ],
+  "date_started": "20191207",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE TOTAL CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Formula 1 cookies n' cream",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

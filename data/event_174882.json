@@ -1,0 +1,29 @@
+{
+  "report_number": "174882",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131231",
+  "reactions": [
+    "COUGH",
+    "DIARRHOEA",
+    "MALAISE",
+    "RHINORRHOEA",
+    "VOMITING",
+    "WHEEZING"
+  ],
+  "date_started": "20131231",
+  "consumer": {
+    "age": "1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC GO & GROW INFANT FORMULA WITH IRON 9-24 MONTHS",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

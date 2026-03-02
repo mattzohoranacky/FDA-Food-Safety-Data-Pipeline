@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-005019",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180321",
+  "reactions": [
+    "Rash",
+    "Urticaria"
+  ],
+  "date_started": "20180312",
+  "consumer": {
+    "age": "39.64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "APOTHECARE ESSENTIALS LAVENDER MOROCCAN MINT CACTUS MILK SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEAUTY & PLANET ARGON OIL & LAVENDER SMOOTH & SERENE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Women's Daily Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

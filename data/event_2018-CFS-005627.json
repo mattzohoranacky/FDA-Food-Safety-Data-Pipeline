@@ -1,0 +1,41 @@
+{
+  "report_number": "2018-CFS-005627",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180406",
+  "reactions": [
+    "Amnesia",
+    "Aphagia",
+    "Blindness",
+    "Dizziness",
+    "Epistaxis",
+    "Fall",
+    "Gastric disorder",
+    "Gastrointestinal disorder",
+    "Headache",
+    "Pallor",
+    "Pyrexia",
+    "Renal failure",
+    "Urinary retention",
+    "Vomiting",
+    "Weight decreased",
+    "Wrist fracture"
+  ],
+  "date_started": "20170701",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIMBREL",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-007614",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230130",
+  "reactions": [
+    "Abdominal pain",
+    "Anxiety",
+    "Back pain",
+    "Diarrhoea",
+    "Gastrooesophageal reflux disease",
+    "Musculoskeletal stiffness",
+    "Nausea"
+  ],
+  "date_started": "20221223",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKET BASKET TORTILLA CHIPS BITE SIZE DIPPERS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "report_number": "169022",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130808",
+  "reactions": [
+    "ANXIETY",
+    "DIZZINESS",
+    "EMOTIONAL DISTRESS",
+    "HYPERSENSITIVITY",
+    "HYPOAESTHESIA FACIAL",
+    "OBSTRUCTIVE AIRWAYS DISORDER",
+    "ORTHOSTATIC HYPOTENSION",
+    "PRURITUS",
+    "RASH",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20130509",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BODY FORTRESS SUPER ADVANCED WHEY ISOLATE POWDER VANILLA CREME FLAVOR 32 OUNCES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ACIDOPHILUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRANBERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

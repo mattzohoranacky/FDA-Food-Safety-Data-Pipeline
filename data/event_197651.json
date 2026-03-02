@@ -1,0 +1,49 @@
+{
+  "report_number": "197651",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160616",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "CARDIAC DISORDER",
+    "CHEST PAIN",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "GASTROINTESTINAL DISORDER",
+    "GASTROINTESTINAL PAIN",
+    "IRRITABLE BOWEL SYNDROME",
+    "MUSCLE SPASMS",
+    "NERVOUS SYSTEM DISORDER",
+    "PRESYNCOPE",
+    "SYNCOPE"
+  ],
+  "date_started": "20160428",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTHY TRINITY DAIRY FREE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BE HAPPY STOMACH EASE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "168589",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130523",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CLOSTRIDIAL INFECTION",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "INFLUENZA LIKE ILLNESS",
+    "MALAISE",
+    "PAIN",
+    "PHARYNGITIS",
+    "PULMONARY CONGESTION",
+    "VOMITING"
+  ],
+  "date_started": "20130506",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KELLOGG'S FROSTED FLAKES",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

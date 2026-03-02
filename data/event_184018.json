@@ -1,0 +1,39 @@
+{
+  "report_number": "184018",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20150323",
+  "reactions": [
+    "CHAPPED LIPS",
+    "LIP SWELLING",
+    "ORAL DISCOMFORT",
+    "PAIN"
+  ],
+  "date_started": "20150310",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS LIP BALM FLAVOR IN LAVENDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GENERIC FIBER PILL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GENERIC MULTI VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

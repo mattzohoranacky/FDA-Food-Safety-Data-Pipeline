@@ -1,0 +1,46 @@
+{
+  "report_number": "195353",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160106",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FALL",
+    "HEAD INJURY",
+    "NAUSEA"
+  ],
+  "date_started": "20160103",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAKED BRAND GREEN MACHINE SMOOTHIE",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BANANA",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PUMPKIN BREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

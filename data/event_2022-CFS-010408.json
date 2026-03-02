@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-010408",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220629",
+  "reactions": [
+    "Blood magnesium decreased",
+    "Dizziness",
+    "Gait disturbance",
+    "Heart rate increased",
+    "Medical diet"
+  ],
+  "date_started": "20220607",
+  "consumer": {
+    "age": "86",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NATURALS MULTI SOURCE POTASSIUM TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

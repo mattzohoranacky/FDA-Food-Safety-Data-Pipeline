@@ -1,0 +1,41 @@
+{
+  "report_number": "2018-CFS-009629",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180724",
+  "reactions": [
+    "Chills",
+    "Cold sweat",
+    "Diarrhoea",
+    "Malaise",
+    "Muscle spasms",
+    "Nausea"
+  ],
+  "date_started": "20180716",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POP SECRET PREMIUM POPCORN MOVIE THEATER BUTTER",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Biotin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "turmeric",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

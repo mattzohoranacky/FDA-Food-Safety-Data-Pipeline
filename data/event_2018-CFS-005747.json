@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-005747",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180411",
+  "reactions": [
+    "Back disorder",
+    "Hypervitaminosis",
+    "Neuropathy peripheral"
+  ],
+  "date_started": "20180301",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE PROSTA-METTO SAW PALMETTO COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ULTRA MAN 50 PLUS DAILY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

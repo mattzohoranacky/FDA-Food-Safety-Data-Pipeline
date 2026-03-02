@@ -1,0 +1,44 @@
+{
+  "report_number": "2020-CFS-000058",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20200102",
+  "reactions": [
+    "Abdominal pain",
+    "Jaundice",
+    "Myalgia"
+  ],
+  "date_started": "20191127",
+  "consumer": {
+    "age": "76.37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTHROSOOTHE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Lipotropix",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OptiCleanse GHI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "XenoProtX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

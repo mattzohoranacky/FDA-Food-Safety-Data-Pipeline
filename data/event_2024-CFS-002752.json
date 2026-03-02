@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-002752",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240307",
+  "reactions": [
+    "Fatigue",
+    "Major depression"
+  ],
+  "date_started": "20240227",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUVIFY GLYLOANTI-AGING WEIGHT MANAGEMENT REDUCES GLYCATION STRESS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

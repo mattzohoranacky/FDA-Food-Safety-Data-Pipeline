@@ -1,0 +1,38 @@
+{
+  "report_number": "181639",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20141224",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "ERYTHEMA",
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20141210",
+  "consumer": {
+    "age": "88",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

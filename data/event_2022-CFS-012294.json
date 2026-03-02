@@ -1,0 +1,49 @@
+{
+  "report_number": "2022-CFS-012294",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220801",
+  "reactions": [
+    "Gastric disorder",
+    "Hypermetabolism",
+    "Hypersensitivity",
+    "Tachycardia"
+  ],
+  "date_started": "20220701",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE CAL MAG D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE GLUCOSE HEALTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE HEART HEALTH OMEGA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE LIVER SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE NO FILTER COLLAGEN CREAMER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

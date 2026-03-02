@@ -1,0 +1,29 @@
+{
+  "report_number": "171787",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131104",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "DYSPNOEA EXERTIONAL"
+  ],
+  "date_started": "20130914",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

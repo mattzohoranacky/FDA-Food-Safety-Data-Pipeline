@@ -1,0 +1,61 @@
+{
+  "report_number": "180044",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141008",
+  "reactions": [
+    "ANXIETY",
+    "DIZZINESS",
+    "DYSGEUSIA",
+    "DYSPEPSIA",
+    "HEADACHE",
+    "HEART RATE INCREASED",
+    "MALAISE",
+    "NAUSEA",
+    "NERVOUSNESS",
+    "NEURALGIA",
+    "PALPITATIONS",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20140813",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY HAIR SKIN & NAILS 5000 MCG BIOTIN RAPID RELEASE LIQUID SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY ODORLESS MAX STRENGTH FISH OIL 1400MG 980MG OMEGA3 SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

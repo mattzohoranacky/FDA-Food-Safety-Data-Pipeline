@@ -1,0 +1,49 @@
+{
+  "report_number": "159628",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121123",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BACK PAIN",
+    "BLOOD GLUCOSE",
+    "CHROMATURIA",
+    "DECREASED APPETITE",
+    "FAECES DISCOLOURED",
+    "FATIGUE",
+    "GALLBLADDER DISORDER",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "HAEMANGIOMA",
+    "JAUNDICE",
+    "NAUSEA"
+  ],
+  "date_started": "20101112",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROLATIS 2.0",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE'S WONDERLAND LIQUID HERBAL EXTRACT DETOXIFY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "180266",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20140811",
+  "reactions": [
+    "Adverse reaction",
+    "DIARRHOEA",
+    "Death",
+    "GASTROENTERITIS VIBRIO",
+    "HAEMATOCHEZIA",
+    "NAUSEA",
+    "SHOCK",
+    "VOMITING"
+  ],
+  "date_started": "20140803",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

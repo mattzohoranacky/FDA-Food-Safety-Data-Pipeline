@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-010329",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240803",
+  "reactions": [
+    "Jaundice",
+    "Liver function test abnormal",
+    "Nausea"
+  ],
+  "date_started": "20240803",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENEVE POWER OF 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

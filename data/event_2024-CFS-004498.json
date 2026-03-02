@@ -1,0 +1,43 @@
+{
+  "report_number": "2024-CFS-004498",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240422",
+  "reactions": [
+    "Asthenia",
+    "Diarrhoea",
+    "Food poisoning",
+    "Myalgia",
+    "Vomiting",
+    "Weight decreased"
+  ],
+  "date_started": "20240415",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "READY-PAC BISTRO QUESO CRUNCH SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D+K2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

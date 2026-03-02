@@ -1,0 +1,43 @@
+{
+  "report_number": "179487",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140918",
+  "reactions": [
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "BLOOD PRESSURE DECREASED",
+    "DYSPNOEA",
+    "FATIGUE",
+    "HYPERSENSITIVITY",
+    "HYPOAESTHESIA ORAL",
+    "LIP SWELLING"
+  ],
+  "date_started": "20140821",
+  "consumer": {
+    "age": "46.12",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE BORAGE OIL 1000MG RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

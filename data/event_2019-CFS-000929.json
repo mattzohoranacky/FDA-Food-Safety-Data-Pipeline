@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-000929",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190130",
+  "reactions": [
+    "Diarrhoea",
+    "Dizziness",
+    "Malaise",
+    "Sinusitis",
+    "Urinary tract infection",
+    "Vomiting"
+  ],
+  "date_started": "20190105",
+  "consumer": {
+    "age": "83",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREVAGEN EXTRA SNRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

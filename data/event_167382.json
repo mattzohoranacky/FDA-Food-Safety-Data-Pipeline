@@ -1,0 +1,35 @@
+{
+  "report_number": "167382",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130628",
+  "reactions": [
+    "DIZZINESS",
+    "HEADACHE",
+    "NAUSEA",
+    "PALPITATIONS",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20130605",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGANIX CLEANSE FOR LIFE NATURAL RICH BERRY ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX NATURAL ACCELERATOR ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "171825",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20131107",
+  "reactions": [
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20131030",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI GREEK YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

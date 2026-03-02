@@ -1,0 +1,36 @@
+{
+  "report_number": "119917",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091014",
+  "reactions": [
+    "LIP DISCOLOURATION"
+  ],
+  "date_started": "20091013",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLINIQUE EVEN BETTER SKIN TONE CORRECTOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CLINIQUE GEL BASED MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CLINIQUE GENTLE CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

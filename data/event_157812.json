@@ -1,0 +1,39 @@
+{
+  "report_number": "157812",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20121017",
+  "reactions": [
+    "DIZZINESS",
+    "FEELING ABNORMAL",
+    "HEADACHE",
+    "PALLOR"
+  ],
+  "date_started": "20120912",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE CAL MAG D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE PROTEIN POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE VITAMIN D3 2000 IU PLUS K2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "212057",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20170518",
+  "reactions": [
+    "ADVERSE REACTION",
+    "MILK ALLERGY"
+  ],
+  "date_started": "20170517",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ICON MEALS DARK CHOCOLATE SEA SALT PROTEIN POWER POPCORN",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ICON MEALS FREEDOM PROTEIN POWER POPCORN",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN DAILY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "report_number": "2018-CFS-010614",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180823",
+  "reactions": [
+    "Burning sensation",
+    "Eye swelling",
+    "Pruritus",
+    "Rash",
+    "Skin exfoliation",
+    "Swelling",
+    "Urticaria"
+  ],
+  "date_started": "20180721",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SENEGENCE 3-IN-1 CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SENEGENCE CLIMATE CONTROL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SENEGENCE SHADOWSENSE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SENEGENCE TINTED MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "145623",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20111103",
+  "reactions": [
+    "DRY MOUTH",
+    "HYPOAESTHESIA ORAL",
+    "PARAESTHESIA"
+  ],
+  "date_started": "20111103",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KELLOGGS HOMESTYLE EGGO WAFFLE FROZEN",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BUTTER",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SYRUP",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

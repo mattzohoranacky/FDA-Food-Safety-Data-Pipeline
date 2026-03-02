@@ -1,0 +1,45 @@
+{
+  "report_number": "2018-CFS-008250",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180617",
+  "reactions": [
+    "Respiratory distress"
+  ],
+  "date_started": "20180615",
+  "consumer": {
+    "age": "9",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRITO LAY CHEETOS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRAFT CHEDDAR CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRAFT COLBY CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRAFT MAC AND CHEESE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

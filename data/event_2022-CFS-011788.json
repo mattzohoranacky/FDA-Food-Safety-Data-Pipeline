@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-011788",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220729",
+  "reactions": [
+    "Gallbladder disorder",
+    "Hepatic enzyme increased",
+    "Pain",
+    "Vomiting",
+    "White blood cell count increased"
+  ],
+  "date_started": "20220625",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVIVE SUPERFOODS MANGO AND PINEAPPLE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

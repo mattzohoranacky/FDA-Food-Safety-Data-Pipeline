@@ -1,0 +1,53 @@
+{
+  "report_number": "2019-CFS-012443",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191220",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Dry skin",
+    "Fungal infection",
+    "Pruritus",
+    "Trichorrhexis"
+  ],
+  "date_started": "20191001",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT ADVANCED HYDRATING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT ADVANCED HYDRATING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REVIVE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REVIVE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One-a-day men's multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

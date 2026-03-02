@@ -1,0 +1,37 @@
+{
+  "report_number": "2021-CFS-009274",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210909",
+  "reactions": [
+    "Chromaturia",
+    "Faeces discoloured"
+  ],
+  "date_started": "20210706",
+  "consumer": {
+    "age": "67.9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ON THE BORDER MEXICAN GRILL & CANTINA PARTY MIX",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fiber",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi-vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

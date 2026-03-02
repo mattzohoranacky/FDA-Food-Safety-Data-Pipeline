@@ -1,0 +1,37 @@
+{
+  "report_number": "149507",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120228",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "DYSPEPSIA",
+    "GASTRIC ULCER",
+    "GASTRIC ULCER HAEMORRHAGE",
+    "GASTROINTESTINAL DISORDER",
+    "HELICOBACTER INFECTION"
+  ],
+  "date_started": "20120112",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCOPE OUTLAST BREATHMINT PEPPERMINT SPRAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLINSTONE VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-015256",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241203",
+  "reactions": [
+    "Chills",
+    "Diarrhoea",
+    "Gastroenteritis viral",
+    "Haematochezia",
+    "Pain"
+  ],
+  "date_started": "20241020",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEGMANS CARROTS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "93649",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20070608",
+  "reactions": [
+    "ATRIAL FIBRILLATION",
+    "BLOOD CREATININE INCREASED",
+    "BLOOD CREATININE NORMAL",
+    "BLOOD UREA INCREASED",
+    "CHEST DISCOMFORT",
+    "DYSPNOEA",
+    "FATIGUE",
+    "HEART RATE INCREASED",
+    "ISCHAEMIA",
+    "PALPITATIONS",
+    "TACHYCARDIA",
+    "TROPONIN"
+  ],
+  "date_started": "20070604",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPRASVELTE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POTASSIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

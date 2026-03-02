@@ -1,0 +1,36 @@
+{
+  "report_number": "2020-CFS-002106",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200214",
+  "reactions": [
+    "Abdominal pain",
+    "Fatigue",
+    "Hot flush",
+    "Nausea",
+    "Paraesthesia",
+    "Pyrexia"
+  ],
+  "date_started": "20191110",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENZYCORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL HEALTH - DAILY FUNDAMENTALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

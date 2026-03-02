@@ -1,0 +1,39 @@
+{
+  "report_number": "2024-CFS-016068",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241223",
+  "reactions": [
+    "Diarrhoea",
+    "Hyperglycaemia",
+    "Liver injury",
+    "Type 2 diabetes mellitus"
+  ],
+  "date_started": "20220701",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE FRUITS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE VEGGIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LIPOSOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

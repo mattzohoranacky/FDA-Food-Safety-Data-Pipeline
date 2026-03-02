@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-004058",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220321",
+  "reactions": [
+    "Blood pressure increased",
+    "Dizziness",
+    "Dyspepsia",
+    "Erythema",
+    "Headache"
+  ],
+  "date_started": "20220223",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY BLACK COHOSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

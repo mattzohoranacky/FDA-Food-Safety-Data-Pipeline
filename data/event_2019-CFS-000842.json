@@ -1,0 +1,62 @@
+{
+  "report_number": "2019-CFS-000842",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190129",
+  "reactions": [
+    "Asthenia",
+    "Burning sensation",
+    "Erythema",
+    "Feeling cold",
+    "Orthostatic hypotension",
+    "Presyncope",
+    "Rash",
+    "Skin irritation"
+  ],
+  "date_started": "20181101",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURIAN'S PRIDE C-500 MG SOFTGELS WITH WILD ROSE HIPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ABC PLUS SENIOR MULTI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE CO Q-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE JOINT SOOTHER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "unspecified cranberry",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "unspecified honey product",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

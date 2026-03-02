@@ -1,0 +1,37 @@
+{
+  "report_number": "130376",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100922",
+  "reactions": [
+    "BLOOD CHOLESTEROL INCREASED",
+    "DIABETES MELLITUS",
+    "DIZZINESS",
+    "DRY MOUTH",
+    "DYSGEUSIA",
+    "FLUID RETENTION",
+    "HEADACHE",
+    "HYPERTENSION",
+    "NAUSEA",
+    "PALLOR",
+    "POLLAKIURIA",
+    "VOMITING"
+  ],
+  "date_started": "20100807",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN 50 PLUS MULTIVITAMIN 120 CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

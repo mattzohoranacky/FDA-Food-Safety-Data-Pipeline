@@ -1,0 +1,41 @@
+{
+  "report_number": "2024-CFS-011850",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240927",
+  "reactions": [
+    "Dizziness",
+    "Drug screen positive",
+    "Hallucination",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20240920",
+  "consumer": {
+    "age": "41.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODUS VOODOO MUSHROOM AMANITA MUSCARIA PROPRIETARY AMANITA BLEND GUMMY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HOST DEFENSE MUSHROOMS MYCOMMUNITY 17 SPECIES BLEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WOMEN'S MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

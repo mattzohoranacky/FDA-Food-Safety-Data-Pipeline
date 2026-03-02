@@ -1,0 +1,55 @@
+{
+  "report_number": "2023-CFS-007507",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230504",
+  "reactions": [
+    "Exposure to chemical pollution",
+    "Mesothelioma"
+  ],
+  "date_started": "20191220",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALMAY TALC POWDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLINIQUE TALC POWDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JEAN NATE TALC POWDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHNSONS POWDER NO UPC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LAURA MERCIER TALC POWDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVLON TALC POWDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

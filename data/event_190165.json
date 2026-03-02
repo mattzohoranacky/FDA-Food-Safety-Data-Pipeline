@@ -1,0 +1,28 @@
+{
+  "report_number": "190165",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150930",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "PNEUMONIA",
+    "SOMNOLENCE",
+    "VOMITING"
+  ],
+  "date_started": "20150903",
+  "consumer": {
+    "age": "88",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2 FORMULA SOFT GELS (CAPSULE, SOFT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

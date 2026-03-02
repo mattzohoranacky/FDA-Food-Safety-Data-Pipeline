@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-005250",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230913",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Salmonellosis",
+    "Vomiting"
+  ],
+  "date_started": "20230911",
+  "consumer": {
+    "age": "87",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COMPLETE COMFORT PREMIUM INFANT FORMULA MILK-BASED POWDER WITH IRON",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

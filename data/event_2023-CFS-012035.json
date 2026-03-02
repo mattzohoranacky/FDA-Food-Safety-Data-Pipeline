@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-012035",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231101",
+  "reactions": [
+    "Diarrhoea",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20231023",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEATI CLASSIC CUTLET",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEATI CLASSIC STEAK",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    }
+  ]
+}

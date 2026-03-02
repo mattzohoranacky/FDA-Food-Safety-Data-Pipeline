@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-008437",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200830",
+  "reactions": [
+    "Arthralgia",
+    "Diarrhoea",
+    "Eczema",
+    "Sleep disorder"
+  ],
+  "date_started": "20200620",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENEFIBER HEALTHY BALANCE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

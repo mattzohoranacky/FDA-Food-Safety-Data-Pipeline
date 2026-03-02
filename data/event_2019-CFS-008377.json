@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-008377",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190815",
+  "reactions": [
+    "Blood sodium increased"
+  ],
+  "date_started": "20190728",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIGSAW HEALTH ADRENAL COCKTAIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIGSAW HEALTH ELECTROLYTE SUPREME LEMON LIME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

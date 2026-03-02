@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-006957",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200718",
+  "reactions": [
+    "Blister",
+    "Rash erythematous"
+  ],
+  "date_started": "20191030",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS EVOLUTION OF SMOOTH LIP BALM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURES OWN COD LIVER OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WOMANS ONE A DAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

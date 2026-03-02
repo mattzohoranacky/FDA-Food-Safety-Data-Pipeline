@@ -1,0 +1,30 @@
+{
+  "report_number": "189532",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150910",
+  "reactions": [
+    "AGITATION",
+    "HYPONATRAEMIA",
+    "LACTIC ACIDOSIS",
+    "MENTAL DISORDER",
+    "MUSCLE SPASMS",
+    "RHABDOMYOLYSIS"
+  ],
+  "date_started": "20150820",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURICLEAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2025-CFS-007526",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250405",
+  "reactions": [
+    "Diarrhoea",
+    "Food poisoning",
+    "Hypersensitivity",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20250221",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKETPLACE BROCCOLI FLORETS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "201170",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160907",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "CONSTIPATION",
+    "MUSCLE SPASMS",
+    "PAIN IN EXTREMITY",
+    "SLEEP DISORDER",
+    "WEIGHT INCREASED"
+  ],
+  "date_started": "20160530",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EMERGEN-C ELECTROMIX (ELECTROLYTES, MULTIMINERALS) POWDER FOR ORAL SOLUTION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MALTODEXTRIN",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

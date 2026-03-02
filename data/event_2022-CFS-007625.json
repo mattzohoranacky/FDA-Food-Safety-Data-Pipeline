@@ -1,0 +1,26 @@
+{
+  "report_number": "2022-CFS-007625",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220520",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20220507",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PARTAKE SOFT CHOCOLATE CHIP COOKIES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

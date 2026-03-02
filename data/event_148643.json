@@ -1,0 +1,31 @@
+{
+  "report_number": "148643",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120207",
+  "reactions": [
+    "NEPHROLITHIASIS",
+    "PAIN"
+  ],
+  "date_started": "20110414",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EMERGEN C VITAMIN D AND CALCIUM MIXED BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

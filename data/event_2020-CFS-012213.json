@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-012213",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201124",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain upper",
+    "Diarrhoea"
+  ],
+  "date_started": "20201119",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOXY ROMAINE HEARTS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multi-vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

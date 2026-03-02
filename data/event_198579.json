@@ -1,0 +1,32 @@
+{
+  "report_number": "198579",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160718",
+  "reactions": [
+    "ASTHENIA",
+    "MIGRAINE WITHOUT AURA"
+  ],
+  "date_started": "20160601",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNT Y PRENATAL SPECIALTY FORMULA VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RAINBOW LIGHT PRENATAL ONE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

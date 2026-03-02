@@ -1,0 +1,39 @@
+{
+  "report_number": "168629",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130731",
+  "reactions": [
+    "BACK PAIN",
+    "BLOOD URINE PRESENT",
+    "DEHYDRATION",
+    "MALAISE",
+    "MUSCLE SPASMS",
+    "NEPHROLITHIASIS",
+    "VOMITING"
+  ],
+  "date_started": "20130522",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRILL OMEGA-3 SUPER FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COQ10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-002402",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20231127",
+  "reactions": [
+    "Food poisoning",
+    "Urticaria"
+  ],
+  "date_started": "20231119",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALDIS ATLANTIC SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

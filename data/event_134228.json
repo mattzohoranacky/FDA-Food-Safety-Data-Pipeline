@@ -1,0 +1,31 @@
+{
+  "report_number": "134228",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100610",
+  "reactions": [
+    "ASTHENIA",
+    "Adverse event",
+    "DIARRHOEA",
+    "MYALGIA",
+    "NAUSEA",
+    "RHABDOMYOLYSIS",
+    "VOMITING"
+  ],
+  "date_started": "20100509",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BUFFALO FISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

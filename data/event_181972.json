@@ -1,0 +1,33 @@
+{
+  "report_number": "181972",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150114",
+  "reactions": [
+    "BURNING SENSATION",
+    "DYSPNOEA",
+    "HAEMOPTYSIS",
+    "MUCOSAL EROSION",
+    "PHARYNGEAL OEDEMA",
+    "SKIN TIGHTNESS",
+    "SWOLLEN TONGUE",
+    "TONGUE HAEMORRHAGE"
+  ],
+  "date_started": "20150104",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLASSIC LAYS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

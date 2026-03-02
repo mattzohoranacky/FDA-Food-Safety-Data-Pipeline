@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-003373",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180225",
+  "reactions": [
+    "Chills",
+    "Cough",
+    "Malaise",
+    "Pain"
+  ],
+  "date_started": "20180201",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE HOMOGINIZED MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

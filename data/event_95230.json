@@ -1,0 +1,29 @@
+{
+  "report_number": "95230",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20030721",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "ENTEROBACTER INFECTION",
+    "LYMPHATIC DISORDER",
+    "SEPSIS"
+  ],
+  "date_started": "20030712",
+  "consumer": {
+    "age": "8",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL POWDERED INFANT FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

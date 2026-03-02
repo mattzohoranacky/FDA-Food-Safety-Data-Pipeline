@@ -1,0 +1,51 @@
+{
+  "report_number": "2024-CFS-002018",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240213",
+  "reactions": [
+    "Abdominal pain",
+    "Asthenia",
+    "Chills",
+    "Diarrhoea",
+    "Erythema",
+    "Malaise",
+    "Pain",
+    "Pyrexia",
+    "Rash",
+    "Vomiting"
+  ],
+  "date_started": "20231202",
+  "consumer": {
+    "age": "39.9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COSTCO SOUTHWEST CHICKEN WRAPS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

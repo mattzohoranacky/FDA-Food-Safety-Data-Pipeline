@@ -1,0 +1,36 @@
+{
+  "report_number": "2024-CFS-003964",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240419",
+  "reactions": [
+    "Balance disorder",
+    "Blood glucose increased",
+    "Dizziness",
+    "Fall",
+    "Glycosylated haemoglobin increased",
+    "Hypoaesthesia",
+    "Tremor"
+  ],
+  "date_started": "20240408",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE FRUITS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE VEGGIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

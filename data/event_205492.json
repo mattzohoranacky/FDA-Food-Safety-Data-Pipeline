@@ -1,0 +1,43 @@
+{
+  "report_number": "205492",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20161215",
+  "reactions": [
+    "AGITATION",
+    "ANAPHYLACTIC REACTION",
+    "BLOOD PRESSURE DECREASED",
+    "DIARRHOEA",
+    "DYSPNOEA",
+    "HYPERHIDROSIS",
+    "LIP SWELLING",
+    "LOSS OF CONSCIOUSNESS",
+    "NAUSEA",
+    "PRURITUS",
+    "SWELLING",
+    "VISION BLURRED"
+  ],
+  "date_started": "20161130",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "5-HOUR ENERGY BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NIACIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

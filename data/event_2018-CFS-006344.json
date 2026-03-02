@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-006344",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180409",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Food allergy"
+  ],
+  "date_started": "20180404",
+  "consumer": {
+    "age": "9.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VAN'S GRAMWICH",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

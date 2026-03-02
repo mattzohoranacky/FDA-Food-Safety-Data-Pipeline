@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-010121",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220623",
+  "reactions": [
+    "Fatigue",
+    "Hepatic enzyme increased",
+    "Liver injury",
+    "Ocular icterus",
+    "Pruritus"
+  ],
+  "date_started": "20220605",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AG1 ATHLETIC GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VEGA PROTEIN POWDER",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

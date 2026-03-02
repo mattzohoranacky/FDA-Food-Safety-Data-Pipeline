@@ -1,0 +1,35 @@
+{
+  "report_number": "183826",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150313",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "LETHARGY",
+    "PALPITATIONS",
+    "PRESYNCOPE",
+    "TREMOR"
+  ],
+  "date_started": "20150216",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REMIFEMIN 60T",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

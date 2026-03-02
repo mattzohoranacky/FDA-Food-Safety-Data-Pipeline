@@ -1,0 +1,44 @@
+{
+  "report_number": "2024-CFS-002334",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240213",
+  "reactions": [
+    "Abdominal pain",
+    "Chest pain",
+    "Decreased appetite",
+    "Diarrhoea",
+    "Fatigue",
+    "Haematuria",
+    "Nausea",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20230127",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DON PANCHO EVERYTHING SAUCE 3-PACK",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Tylenol",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "acetaminophen",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

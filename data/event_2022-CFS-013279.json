@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-013279",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220826",
+  "reactions": [
+    "Bacterial infection",
+    "Food poisoning",
+    "Malaise"
+  ],
+  "date_started": "20220728",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KATE FARMS ADULT STANDARD 1.0 FORMULA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KATE FARMS ORGANIC NUTRITION SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

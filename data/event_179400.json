@@ -1,0 +1,29 @@
+{
+  "report_number": "179400",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140820",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "APHTHOUS STOMATITIS",
+    "HYPERSENSITIVITY",
+    "VOMITING"
+  ],
+  "date_started": "20140814",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAMPBELL'S SPAGHETTI O'S PLUS CALCIUM",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    }
+  ]
+}

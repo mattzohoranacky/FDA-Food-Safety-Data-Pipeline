@@ -1,0 +1,51 @@
+{
+  "report_number": "86399",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20060620",
+  "reactions": [
+    "HEART RATE INCREASED",
+    "HYPERHIDROSIS",
+    "NAUSEA",
+    "OVERDOSE"
+  ],
+  "date_started": "20060614",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FULL THROTTLE ENERGY DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED BULL ENERGY DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RIP IT ENERGY FUEL",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROCKSTAR ENERGY FUEL",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOBE ADRENALINE RUSH",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

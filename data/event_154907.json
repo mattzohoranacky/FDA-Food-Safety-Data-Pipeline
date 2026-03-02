@@ -1,0 +1,54 @@
+{
+  "report_number": "154907",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120727",
+  "reactions": [
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "RASH GENERALISED",
+    "SWELLING",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20120620",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GUTHY-RENKER NUTRITION VITA CLEAR GENERAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GUTHY-RENKER NUTRITION VITACLEAR ANTIOXIDANT TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GUTHY-RENKER NUTRITION VITACLEAR ENERGIZER TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GUTHY-RENKER NUTRITION VITACLEAR MINERAL TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GUTHY-RENKER NUTRITION VITACLEAR SUPERJUICE TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "2021-CFS-003121",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210407",
+  "reactions": [
+    "Abdominal discomfort",
+    "Chills",
+    "Constipation",
+    "Headache",
+    "Influenza like illness",
+    "Nausea",
+    "Pain",
+    "Pyrexia"
+  ],
+  "date_started": "20201123",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANIMAL IMMUNE PAK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

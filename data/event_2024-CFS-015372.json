@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-015372",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241204",
+  "reactions": [
+    "Diarrhoea",
+    "Illness",
+    "Vomiting"
+  ],
+  "date_started": "20241203",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SAM'S CLUB FRESH AVOCADOS LOVE ONE TODAY",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KIRKLAND FRESH AVOCADOS",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

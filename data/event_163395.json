@@ -1,0 +1,53 @@
+{
+  "report_number": "163395",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130314",
+  "reactions": [
+    "ARTERIOSCLEROSIS",
+    "BLINDNESS",
+    "BLOOD PRESSURE DECREASED",
+    "CEREBRAL HAEMORRHAGE",
+    "EYE INFECTION",
+    "HYPOACUSIS",
+    "PAPILLOEDEMA",
+    "RETINAL ARTERY OCCLUSION",
+    "RETINAL HAEMORRHAGE",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20130216",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY MELATONIN 5 MG SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL WITH VITAMIN D 1000MG 1000IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LUTEIN & ZEAXANTHIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OCUVITE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

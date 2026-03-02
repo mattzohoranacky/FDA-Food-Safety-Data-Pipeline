@@ -1,0 +1,38 @@
+{
+  "report_number": "71576",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040819",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "Gastroenteritis vibrio",
+    "HEADACHE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20040714",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SEAFOOD GUMBO",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

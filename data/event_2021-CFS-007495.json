@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-007495",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210801",
+  "reactions": [
+    "Chromaturia",
+    "Dizziness",
+    "Hepatic enzyme increased",
+    "Kidney infection",
+    "Nausea",
+    "Splenomegaly"
+  ],
+  "date_started": "20210725",
+  "consumer": {
+    "age": "36.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE NUTRITION FORMAL 1 SHAKE MIX PROTEIN POWDER GREEN TEA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Herbalife meal replacement shakes and teas",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-001902",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250213",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Headache",
+    "Nausea",
+    "Swelling",
+    "Throat tightness"
+  ],
+  "date_started": "20250212",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE GARLIC POWDER",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

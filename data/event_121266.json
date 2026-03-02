@@ -1,0 +1,34 @@
+{
+  "report_number": "121266",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20091210",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "INFLAMMATION",
+    "NAUSEA",
+    "PRURITUS"
+  ],
+  "date_started": "20091122",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTRA MEGA GOLD (NON SPECIFIC)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL VITAMINS WITH EXTRA IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

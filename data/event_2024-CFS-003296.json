@@ -1,0 +1,38 @@
+{
+  "report_number": "2024-CFS-003296",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240327",
+  "reactions": [
+    "Decreased appetite",
+    "Mood swings",
+    "Vomiting"
+  ],
+  "date_started": "20240326",
+  "consumer": {
+    "age": "6",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER CEREAL FOR BABY GRAIN AND GROW OATMEAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER CEREAL FOR BABY RICE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ELECARE INFANT BABY FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

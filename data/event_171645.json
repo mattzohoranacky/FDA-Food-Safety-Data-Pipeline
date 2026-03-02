@@ -1,0 +1,33 @@
+{
+  "report_number": "171645",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070730",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse event",
+    "BACTERIAL INFECTION",
+    "DIARRHOEA",
+    "FATIGUE",
+    "MALAISE",
+    "VISION BLURRED",
+    "VOMITING"
+  ],
+  "date_started": "20070604",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    }
+  ]
+}

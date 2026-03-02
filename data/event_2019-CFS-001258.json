@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-001258",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190207",
+  "reactions": [
+    "Blindness",
+    "Dyspepsia"
+  ],
+  "date_started": "20181225",
+  "consumer": {
+    "age": "89",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUICE PLUS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

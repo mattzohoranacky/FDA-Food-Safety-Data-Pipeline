@@ -1,0 +1,31 @@
+{
+  "report_number": "199983",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160729",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLOOD PRESSURE INCREASED",
+    "INTERNAL HERNIA",
+    "SMALL INTESTINAL OBSTRUCTION",
+    "URINARY INCONTINENCE",
+    "VOMITING"
+  ],
+  "date_started": "20151112",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALL DAY ENERGY GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

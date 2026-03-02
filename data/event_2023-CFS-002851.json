@@ -1,0 +1,34 @@
+{
+  "report_number": "2023-CFS-002851",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230308",
+  "reactions": [
+    "Apnoea",
+    "Constipation",
+    "Cronobacter test positive",
+    "Feeding disorder",
+    "Hypertonia",
+    "Irritability",
+    "Pyrexia",
+    "Seizure",
+    "Unresponsive to stimuli"
+  ],
+  "date_started": "20230306",
+  "consumer": {
+    "age": "6",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC NEOSURE INFANT FORMULA POWDER",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

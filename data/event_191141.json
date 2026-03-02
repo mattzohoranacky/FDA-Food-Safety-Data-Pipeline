@@ -1,0 +1,51 @@
+{
+  "report_number": "191141",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151102",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "LIVER FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20151013",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISALEAN SHAKE - CREAMY DUTCH CHOCOLATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISALEAN SHAKE - STRAWBERRY CREAM",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CLEANSE FOR LIFE DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "REPLENISH (JUCY ORANGE FLAVOR ELECTROLYTE AND VITAMIN SPORT DRINK MIX)",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN SPORT DRINK MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

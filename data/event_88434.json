@@ -1,0 +1,32 @@
+{
+  "report_number": "88434",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060928",
+  "reactions": [
+    "DEHYDRATION",
+    "FOOD POISONING"
+  ],
+  "date_started": "20060926",
+  "consumer": {
+    "age": "33.36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE BRAND EUROPEAN BAGGED SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DRESSING",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

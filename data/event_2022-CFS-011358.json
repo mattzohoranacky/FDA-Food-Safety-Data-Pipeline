@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-011358",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220721",
+  "reactions": [
+    "Diarrhoea",
+    "Nausea"
+  ],
+  "date_started": "20220721",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLACKSTONE LABS TROJAN HORSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Carnitrim",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Glycolog",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "report_number": "207489",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170213",
+  "reactions": [
+    "ASTHENIA",
+    "CHOKING SENSATION",
+    "FATIGUE",
+    "INSOMNIA",
+    "PAPILLARY THYROID CANCER",
+    "THYROID CANCER"
+  ],
+  "date_started": "20080101",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELL ACTIVATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1 HEALTHY MEAL - COOKIES 'N CREAM FLAVOR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL TEA CONCENTRATE - ORIGINAL FLAVOR",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL TEA CONCENTRATE - RASPBERRY FLAVOR",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "N-R-G TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN BAR DELUXE - VANILLA ALMOND FLAVOR",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

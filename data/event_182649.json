@@ -1,0 +1,32 @@
+{
+  "report_number": "182649",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150202",
+  "reactions": [
+    "FOOD ALLERGY",
+    "SWELLING"
+  ],
+  "date_started": "20050105",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEB CUPCAKES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

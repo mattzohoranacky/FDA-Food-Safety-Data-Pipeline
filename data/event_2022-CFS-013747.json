@@ -1,0 +1,50 @@
+{
+  "report_number": "2022-CFS-013747",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220908",
+  "reactions": [
+    "Arthropod bite",
+    "Contusion",
+    "Pain"
+  ],
+  "date_started": "20220807",
+  "consumer": {
+    "age": "36.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACME PASTA",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND ALMOND",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWAD ALMONDS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWAD SOYA WADI SOYA CHUNKS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

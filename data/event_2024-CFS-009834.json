@@ -1,0 +1,39 @@
+{
+  "report_number": "2024-CFS-009834",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240717",
+  "reactions": [
+    "Abdominal pain upper",
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Chromaturia",
+    "Decreased appetite",
+    "Faeces discoloured",
+    "Haemorrhage",
+    "Hepatitis A",
+    "Liver disorder",
+    "Pruritus"
+  ],
+  "date_started": "20240628",
+  "consumer": {
+    "age": "72.01",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH GI MICROB X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH OIL OF OREGANO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "report_number": "205909",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20161229",
+  "reactions": [
+    "BALANCE DISORDER",
+    "HYPERVITAMINOSIS",
+    "MUSCLE FATIGUE",
+    "MYALGIA",
+    "NEUROPATHY PERIPHERAL",
+    "PAIN",
+    "PARAESTHESIA",
+    "VITAMIN B6 INCREASED"
+  ],
+  "date_started": "20161208",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "B RIGHT B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALGAE-OMEGA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SOIL-BASED PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VPK BLISSFUL JOY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VPK DIGEST TONE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

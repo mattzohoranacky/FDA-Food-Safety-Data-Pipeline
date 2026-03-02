@@ -1,0 +1,33 @@
+{
+  "report_number": "132832",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101126",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "HEART RATE INCREASED",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "SYNCOPE"
+  ],
+  "date_started": "20101014",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLE TECH CELL TECH HARD CORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPERPUMP MAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

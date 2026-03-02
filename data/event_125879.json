@@ -1,0 +1,37 @@
+{
+  "report_number": "125879",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100414",
+  "reactions": [
+    "Adverse reaction",
+    "BURNING SENSATION",
+    "CAUSTIC INJURY",
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "PAIN",
+    "PARAESTHESIA",
+    "RASH PAPULAR"
+  ],
+  "date_started": "20100409",
+  "consumer": {
+    "age": "18",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLD SPICE HIGH ENDURANCE DEODORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "AXE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

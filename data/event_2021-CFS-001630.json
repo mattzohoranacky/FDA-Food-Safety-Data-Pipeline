@@ -1,0 +1,27 @@
+{
+  "report_number": "2021-CFS-001630",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210218",
+  "reactions": [
+    "Abdominal pain upper",
+    "Oesophageal pain",
+    "Oropharyngeal pain",
+    "Throat irritation"
+  ],
+  "date_started": "20210128",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SILK CHOCOLATE ALMOND MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "2019-CFS-008832",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190826",
+  "reactions": [
+    "Alopecia",
+    "Haemorrhage",
+    "Psoriasis",
+    "Skin reaction",
+    "Skin ulcer"
+  ],
+  "date_started": "20190617",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ARC ANGEL GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOPOO DELIGHT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

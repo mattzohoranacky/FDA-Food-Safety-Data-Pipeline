@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-011281",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180911",
+  "reactions": [
+    "Lip blister",
+    "Lip swelling"
+  ],
+  "date_started": "20180910",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS SWEET MINT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Super Complex B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

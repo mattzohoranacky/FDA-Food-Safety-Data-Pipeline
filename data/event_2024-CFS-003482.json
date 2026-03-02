@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-003482",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240403",
+  "reactions": [
+    "Flatulence",
+    "Fungal infection",
+    "Rash"
+  ],
+  "date_started": "20240304",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGAIN GRASS FED CREAMY CHOCOLATE FUDGE",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TURMERIC FLAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

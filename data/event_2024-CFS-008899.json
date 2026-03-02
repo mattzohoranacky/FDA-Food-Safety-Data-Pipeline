@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-008899",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230622",
+  "reactions": [
+    "Abdominal pain",
+    "Back pain",
+    "Vomiting"
+  ],
+  "date_started": "20230615",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SO DELICIOUS VEGAN ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

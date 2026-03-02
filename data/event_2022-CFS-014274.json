@@ -1,0 +1,39 @@
+{
+  "report_number": "2022-CFS-014274",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220921",
+  "reactions": [
+    "Diarrhoea",
+    "Diverticulitis",
+    "Hypoaesthesia",
+    "Impaired gastric emptying",
+    "Nausea",
+    "Pain",
+    "Paraesthesia",
+    "Vomiting",
+    "Weight decreased"
+  ],
+  "date_started": "20220901",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY MAGNESIUM 500MG COATED TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

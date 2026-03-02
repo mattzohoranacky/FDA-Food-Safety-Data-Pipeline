@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-007154",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230711",
+  "reactions": [
+    "Abdominal pain upper",
+    "Cold sweat",
+    "Diarrhoea",
+    "Vomiting"
+  ],
+  "date_started": "20230706",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BABY BUNDTS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CASHEWS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

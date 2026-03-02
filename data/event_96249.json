@@ -1,0 +1,44 @@
+{
+  "report_number": "96249",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070227",
+  "reactions": [
+    "BURNING SENSATION",
+    "CAUSTIC INJURY",
+    "Chemical burn"
+  ],
+  "date_started": "20061216",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE DEEP PORE CLEANSING MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE MIST BALANCING TONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE NUTRIMIN C",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE REVEAL SCRUB",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

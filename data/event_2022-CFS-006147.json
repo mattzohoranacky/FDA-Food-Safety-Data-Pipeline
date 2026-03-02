@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-006147",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220428",
+  "reactions": [
+    "Dyspnoea",
+    "Hypersensitivity",
+    "Pharyngeal oedema",
+    "Swollen tongue",
+    "Tremor"
+  ],
+  "date_started": "20220425",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "URB DELTA 8 THC CHOCOLATE BAR",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FIT AND LEAN MEAL SHAKES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

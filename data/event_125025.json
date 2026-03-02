@@ -1,0 +1,34 @@
+{
+  "report_number": "125025",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100331",
+  "reactions": [
+    "ERYTHEMA",
+    "HEART RATE INCREASED",
+    "RESPIRATORY RATE INCREASED",
+    "SWELLING"
+  ],
+  "date_started": "20100315",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALLERTONIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUERCETIN ALLERRELEAF",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

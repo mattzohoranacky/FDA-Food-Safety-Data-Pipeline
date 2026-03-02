@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-008605",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190820",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal distension",
+    "Nausea",
+    "Pancreatitis acute"
+  ],
+  "date_started": "20190802",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH BERBERINE SYNERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH GI MICROB-X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH OIL OF OREGANO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

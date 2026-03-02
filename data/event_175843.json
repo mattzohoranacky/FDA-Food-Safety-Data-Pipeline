@@ -1,0 +1,39 @@
+{
+  "report_number": "175843",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140417",
+  "reactions": [
+    "CYSTITIS",
+    "DYSGRAPHIA",
+    "FEELING ABNORMAL",
+    "SYNCOPE"
+  ],
+  "date_started": "20140314",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

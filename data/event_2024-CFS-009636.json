@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-009636",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240708",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain",
+    "Dehydration",
+    "Muscle spasms",
+    "Vomiting"
+  ],
+  "date_started": "20240625",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIC GREAT VALUE CHIA SEEDS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "168787",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130805",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "MYALGIA",
+    "NAUSEA",
+    "TENDERNESS",
+    "VOMITING"
+  ],
+  "date_started": "20130714",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

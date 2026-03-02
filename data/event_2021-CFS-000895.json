@@ -1,0 +1,35 @@
+{
+  "report_number": "2021-CFS-000895",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210126",
+  "reactions": [
+    "Chapped lips",
+    "Glossitis",
+    "Lip dry",
+    "Lip exfoliation",
+    "Skin exfoliation",
+    "Swollen tongue"
+  ],
+  "date_started": "20210122",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS LIP BALM VANILLA MINT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Women's daily gummy vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

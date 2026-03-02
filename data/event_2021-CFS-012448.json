@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-012448",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20211207",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Hepatic cyst",
+    "Pain",
+    "Pyrexia"
+  ],
+  "date_started": "20211111",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH HISTAEZE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

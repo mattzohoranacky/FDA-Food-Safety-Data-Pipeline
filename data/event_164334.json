@@ -1,0 +1,32 @@
+{
+  "report_number": "164334",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130314",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "Renal failure",
+    "SYNCOPE",
+    "UROGENITAL DISORDER",
+    "VOMITING"
+  ],
+  "date_started": "20121204",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POLAND SPRINGS BOTTLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

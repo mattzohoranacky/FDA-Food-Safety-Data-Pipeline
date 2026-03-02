@@ -1,0 +1,53 @@
+{
+  "report_number": "157806",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121017",
+  "reactions": [
+    "APHASIA",
+    "ASTHENIA",
+    "BALANCE DISORDER",
+    "BLOOD CREATININE INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "CAROTID ARTERY STENOSIS",
+    "CEREBRAL ATROPHY",
+    "CEREBROVASCULAR ACCIDENT",
+    "CHRONIC SINUSITIS",
+    "CONFUSIONAL STATE",
+    "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "DIASTOLIC DYSFUNCTION",
+    "DYSARTHRIA",
+    "FACIAL PALSY",
+    "FACIAL PARESIS",
+    "GAIT DISTURBANCE",
+    "HEMIPLEGIA",
+    "HYPERGLYCAEMIA",
+    "INFARCTION",
+    "MEMORY IMPAIRMENT",
+    "NEUROLOGICAL SYMPTOM",
+    "RENAL DISORDER",
+    "TROPONIN"
+  ],
+  "date_started": "20120901",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OPTIKRILL 500 (NO PREF NAME)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMELON CAPSULES (NO PREF. NAME)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

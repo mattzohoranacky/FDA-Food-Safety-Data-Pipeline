@@ -1,0 +1,39 @@
+{
+  "report_number": "191939",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20151207",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "DYSPNOEA",
+    "Hypersensitivity",
+    "LIP SWELLING",
+    "PRURITUS",
+    "RESPIRATORY TRACT OEDEMA",
+    "SWELLING",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20151128",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KOZY SHACK PREPARED TAPIOCA PUDDING",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUGAR PIE PUMPKIN",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

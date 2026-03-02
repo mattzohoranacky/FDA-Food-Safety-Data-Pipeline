@@ -1,0 +1,44 @@
+{
+  "report_number": "2020-CFS-004905",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200504",
+  "reactions": [
+    "Choking",
+    "Cough",
+    "Dyspnoea",
+    "Muscle spasms",
+    "Nausea",
+    "Retching",
+    "Rhinorrhoea",
+    "Tremor",
+    "Wheezing"
+  ],
+  "date_started": "20200406",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN OPTICLEANSE GHI CREAMY CHOCOLATE (SSP)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OptiFiber SCFA(Dietary Supplement)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

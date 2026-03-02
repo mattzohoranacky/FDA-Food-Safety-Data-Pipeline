@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-001630",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220202",
+  "reactions": [
+    "Medication residue present"
+  ],
+  "date_started": "20210101",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2 FORMULA SOFT GELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN-E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

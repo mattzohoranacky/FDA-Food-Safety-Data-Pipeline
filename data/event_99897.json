@@ -1,0 +1,35 @@
+{
+  "report_number": "99897",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20080124",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "Adverse reaction",
+    "BLOOD PRESSURE DECREASED",
+    "BODY TEMPERATURE DECREASED",
+    "HYPERSENSITIVITY",
+    "INTUBATION",
+    "LOSS OF CONSCIOUSNESS",
+    "RESPIRATORY ARREST"
+  ],
+  "date_started": "20071230",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PIONEER LOW-FAT BISCUIT AND BAKING MIX",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

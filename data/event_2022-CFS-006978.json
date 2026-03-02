@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-006978",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220511",
+  "reactions": [
+    "Gastrointestinal disorder",
+    "Incorrect dose administered"
+  ],
+  "date_started": "20220429",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL MAXIMUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX (VITAMIN B COMPLEX)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

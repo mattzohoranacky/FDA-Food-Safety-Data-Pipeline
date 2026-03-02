@@ -1,0 +1,32 @@
+{
+  "report_number": "130448",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100928",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN UNCONJUGATED INCREASED",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATITIS",
+    "HYPERBILIRUBINAEMIA",
+    "JAUNDICE",
+    "LABORATORY TEST ABNORMAL"
+  ],
+  "date_started": "20100920",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

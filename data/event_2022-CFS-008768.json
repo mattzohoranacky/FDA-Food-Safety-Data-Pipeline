@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-008768",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220525",
+  "reactions": [
+    "Abdominal pain",
+    "Dehydration",
+    "Diarrhoea",
+    "Haemorrhage",
+    "Infectious colitis",
+    "Salmonellosis"
+  ],
+  "date_started": "20220521",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

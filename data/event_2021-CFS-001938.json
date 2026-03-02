@@ -1,0 +1,29 @@
+{
+  "report_number": "2021-CFS-001938",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210302",
+  "reactions": [
+    "Gastritis"
+  ],
+  "date_started": "20210216",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRICLEAN 7-DAY CLEANSING AND DETOXIFICATION SYSTEM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Isotonix Daily Essentials",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "report_number": "2020-CFS-002249",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200218",
+  "reactions": [
+    "Alopecia",
+    "Haemorrhage",
+    "Hair texture abnormal",
+    "Skin exfoliation",
+    "Skin irritation",
+    "Skin ulcer"
+  ],
+  "date_started": "20190215",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LIGHT DEFINING GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO-POO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-012756",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20231117",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Palpitations",
+    "Swelling"
+  ],
+  "date_started": "20230901",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOREAL TOLERIANE MOISTURIZER US (LA ROCHE-POSAY)",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

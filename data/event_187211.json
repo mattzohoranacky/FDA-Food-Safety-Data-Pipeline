@@ -1,0 +1,30 @@
+{
+  "report_number": "187211",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150611",
+  "reactions": [
+    "BLISTER",
+    "DERMATITIS CONTACT",
+    "DRY SKIN",
+    "HAEMORRHAGE",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "THERMAL BURN"
+  ],
+  "date_started": "20150526",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COTTONELLE FLUSHABLE CLEANSING CLOTHS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

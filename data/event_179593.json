@@ -1,0 +1,37 @@
+{
+  "report_number": "179593",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140924",
+  "reactions": [
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FLUSHING",
+    "HEART RATE INCREASED",
+    "NAUSEA",
+    "PALPITATIONS",
+    "SUNBURN"
+  ],
+  "date_started": "20140904",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN WORLD NIACIN 500MG COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PHYTOSTEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "189222",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150826",
+  "reactions": [
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "FATIGUE",
+    "GASTRITIS",
+    "HYPERSENSITIVITY",
+    "MUSCLE SPASMS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20150620",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCOSAMINE CHONDROITIN TRIPLE STRENGTH WITH UNIVESTIN (DIETARY SUPPLEMENT ) CAPLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

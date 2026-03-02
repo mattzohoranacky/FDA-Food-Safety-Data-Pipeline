@@ -1,0 +1,29 @@
+{
+  "report_number": "69381",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20031216",
+  "reactions": [
+    "CHOKING",
+    "COUGH",
+    "LACRIMATION INCREASED",
+    "PALLOR",
+    "PHARYNGITIS",
+    "PHYSICAL EXAMINATION",
+    "RETCHING"
+  ],
+  "date_started": "20031117",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONADNOCK BOTTLED SPRING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

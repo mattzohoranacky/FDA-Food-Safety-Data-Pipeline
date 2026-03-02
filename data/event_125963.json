@@ -1,0 +1,36 @@
+{
+  "report_number": "125963",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100430",
+  "reactions": [
+    "ANGIOEDEMA",
+    "BLISTER",
+    "BLOOD PRESSURE INCREASED",
+    "DYSPNOEA",
+    "FEELING ABNORMAL",
+    "LIP OEDEMA",
+    "ORAL DISCOMFORT",
+    "PALLOR",
+    "PRURITUS",
+    "THROAT IRRITATION",
+    "URTICARIA"
+  ],
+  "date_started": "20100407",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL MAXIMUM CALCIUM CITRATE + D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-002601",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200221",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Pruritus",
+    "Psoriasis"
+  ],
+  "date_started": "20200201",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW POO ORIGINAL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

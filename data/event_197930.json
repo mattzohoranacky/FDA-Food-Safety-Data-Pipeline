@@ -1,0 +1,56 @@
+{
+  "report_number": "197930",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160627",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "BLOOD PRESSURE DECREASED",
+    "CLOSTRIDIUM DIFFICILE COLITIS",
+    "COLITIS",
+    "COLONOSCOPY ABNORMAL",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIARRHOEA HAEMORRHAGIC",
+    "DIZZINESS",
+    "FLATULENCE",
+    "HYPOTENSION",
+    "MALAISE",
+    "PAIN"
+  ],
+  "date_started": "20160602",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE SUPER B COMPLEX (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE VITAMELTS HAIR SKIN NAILS (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE VITAMIN B12 1000 MCG (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE VITAMIN D3 1000 IU (DIETARY SUPPLEMENT) SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

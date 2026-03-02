@@ -1,0 +1,45 @@
+{
+  "report_number": "158415",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121031",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "CHANGE OF BOWEL HABIT",
+    "CYST",
+    "DIARRHOEA",
+    "DIVERTICULUM",
+    "HERNIA",
+    "ISCHAEMIA",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "NAUSEA",
+    "PAIN",
+    "POLYP"
+  ],
+  "date_started": "20120820",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE CHOLEST-OFF",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

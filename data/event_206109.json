@@ -1,0 +1,44 @@
+{
+  "report_number": "206109",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170109",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "HAEMATOCRIT INCREASED",
+    "HAEMOGLOBIN INCREASED",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20161230",
+  "consumer": {
+    "age": "70.45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOLIDAY TRIPLE CHOCOLATE 4 PK, G",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CO-Q10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

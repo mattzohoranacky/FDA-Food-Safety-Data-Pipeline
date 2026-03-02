@@ -1,0 +1,45 @@
+{
+  "report_number": "2022-CFS-016526",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20221128",
+  "reactions": [
+    "Diarrhoea",
+    "Food poisoning",
+    "Loss of consciousness",
+    "Malaise"
+  ],
+  "date_started": "20221125",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEAVENLY HUNKS ORGANIC OATMEAN DARK CHOCOLATE GLUTEN FREE[INVALID]S",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "General vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

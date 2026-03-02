@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-010186",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240728",
+  "reactions": [
+    "Abdominal pain upper",
+    "Anaphylactic reaction",
+    "Asthenia",
+    "Dizziness",
+    "Urticaria"
+  ],
+  "date_started": "20231219",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UMARY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

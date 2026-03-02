@@ -1,0 +1,40 @@
+{
+  "report_number": "77203",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20050331",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CELLULITIS",
+    "DEATH",
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "HOSPITALISATION",
+    "MYALGIA",
+    "SEPTIC SHOCK",
+    "VOMITING",
+    "Vibrio test positive"
+  ],
+  "date_started": "20041109",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OCTOPUS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "201663",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160919",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "RASH"
+  ],
+  "date_started": "20160919",
+  "consumer": {
+    "age": "65.94",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AQUA REEF DEODORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPEED STICK DEODORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

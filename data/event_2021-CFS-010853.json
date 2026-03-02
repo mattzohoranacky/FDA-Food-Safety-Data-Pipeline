@@ -1,0 +1,36 @@
+{
+  "report_number": "2021-CFS-010853",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20211026",
+  "reactions": [
+    "Body height decreased",
+    "Bone disorder",
+    "Fatigue",
+    "Joint swelling",
+    "Malignant melanoma",
+    "Squamous cell carcinoma of skin"
+  ],
+  "date_started": "20190101",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OSTEO BIOFLEX TRIPLE STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12 (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

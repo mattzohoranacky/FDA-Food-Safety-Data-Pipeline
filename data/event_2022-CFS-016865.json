@@ -1,0 +1,26 @@
+{
+  "report_number": "2022-CFS-016865",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20221205",
+  "reactions": [
+    "Haematemesis",
+    "Nausea"
+  ],
+  "date_started": "20221201",
+  "consumer": {
+    "age": "22.3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLACK PANTHER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-010859",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180829",
+  "reactions": [
+    "Allergy to chemicals",
+    "Anaphylactic shock",
+    "Cough",
+    "Dyspnoea",
+    "Eye swelling",
+    "Hypersensitivity",
+    "Swelling face",
+    "Wheezing"
+  ],
+  "date_started": "20180808",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EMERGEN-C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

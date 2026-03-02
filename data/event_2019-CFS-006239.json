@@ -1,0 +1,28 @@
+{
+  "report_number": "2019-CFS-006239",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190617",
+  "reactions": [
+    "Blood glucose increased"
+  ],
+  "date_started": "20190616",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAXWELL HOUSE 100% COLOMBIAN MEDIUM ROAST",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAXWELL HOUSE ORIGINAL MEDIUM ROAST",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

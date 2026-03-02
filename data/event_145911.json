@@ -1,0 +1,48 @@
+{
+  "report_number": "145911",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20111118",
+  "reactions": [
+    "BURNING SENSATION",
+    "ERYTHEMA",
+    "HYPOTENSION",
+    "LOSS OF CONSCIOUSNESS",
+    "PAIN",
+    "PARAESTHESIA",
+    "RESPIRATORY ARREST"
+  ],
+  "date_started": "20111102",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLO NIACIN TABLETS 500MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C ASCORBIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -172,7 +172,7 @@ async function retrieveEvents(CONCURRENCY_LIMIT, success) {
 async function requestEvents() {
   try {
     // Ensure data directory exists
-    const dataDir = path.join(__dirname, 'data');
+    const dataDir = path.join(__dirname, '../data');
     if (!fs.existsSync(dataDir)) {
       fs.mkdirSync(dataDir, { recursive: true });
     }

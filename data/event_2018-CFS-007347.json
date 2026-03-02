@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-007347",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180522",
+  "reactions": [
+    "Application site swelling",
+    "Lip swelling",
+    "Pyrexia",
+    "Swelling face"
+  ],
+  "date_started": "20180315",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROC RETINOL CORREXION MAX DAILY HYDRATION CREME (ROC RETINOL CORREXION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D (ergocalciferol)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

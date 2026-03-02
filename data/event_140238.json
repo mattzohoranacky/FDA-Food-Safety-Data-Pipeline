@@ -1,0 +1,30 @@
+{
+  "report_number": "140238",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110308",
+  "reactions": [
+    "ASTHENIA",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "FATIGUE",
+    "VISION BLURRED",
+    "VOMITING"
+  ],
+  "date_started": "20110303",
+  "consumer": {
+    "age": "84",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COCA-COLA COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

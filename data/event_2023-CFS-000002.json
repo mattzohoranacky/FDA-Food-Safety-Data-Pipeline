@@ -1,0 +1,36 @@
+{
+  "report_number": "2023-CFS-000002",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230103",
+  "reactions": [
+    "Dizziness",
+    "Malaise",
+    "Motion sickness",
+    "Nausea",
+    "Parosmia",
+    "Retching",
+    "Vomiting projectile"
+  ],
+  "date_started": "20220830",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOTANIC TONICS FEEL FREE PLANT BASED KRATOM HERBAL SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One-a-day vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

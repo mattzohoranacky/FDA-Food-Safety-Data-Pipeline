@@ -1,0 +1,41 @@
+{
+  "report_number": "2023-CFS-002374",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230307",
+  "reactions": [
+    "Blood pressure increased",
+    "Dizziness",
+    "Gait disturbance",
+    "Heart rate increased",
+    "Speech disorder"
+  ],
+  "date_started": "20230204",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AGELOC META",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEAUTY FOCUS COLLAGEN PLUS RTD STRAWBERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHARMANEX G3 GAC SUPERFRUIT BLEND WITH LIPOCAROTENES",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

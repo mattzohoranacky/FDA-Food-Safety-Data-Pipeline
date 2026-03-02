@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-003656",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220314",
+  "reactions": [
+    "Abdominal pain upper",
+    "Irritable bowel syndrome",
+    "Salmonellosis"
+  ],
+  "date_started": "20200813",
+  "consumer": {
+    "age": "54.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEACHES",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "host of multi vit",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

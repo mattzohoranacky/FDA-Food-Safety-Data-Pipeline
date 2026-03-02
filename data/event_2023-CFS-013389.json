@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-013389",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20231201",
+  "reactions": [
+    "Eye swelling",
+    "Hypersensitivity",
+    "Pallor"
+  ],
+  "date_started": "20231115",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOM'S TOOTHPASTE NATURAL TODDLER TRAINING",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

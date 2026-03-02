@@ -1,0 +1,45 @@
+{
+  "report_number": "2022-CFS-014635",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20220930",
+  "reactions": [
+    "Fatigue",
+    "Pain",
+    "Sluggishness",
+    "Vision blurred"
+  ],
+  "date_started": "20220414",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S GLUTEN FREE OATS",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Mag",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin c &d",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "zinc",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

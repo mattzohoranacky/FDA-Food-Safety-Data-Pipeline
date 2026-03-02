@@ -1,0 +1,28 @@
+{
+  "report_number": "2025-CFS-011104",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250628",
+  "reactions": [
+    "Hypersensitivity",
+    "Rash",
+    "Vomiting"
+  ],
+  "date_started": "20250627",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ST. VRAIN MARKET BAKE @ HOME CHOCOLATE CHIP COOKIES",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

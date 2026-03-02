@@ -1,0 +1,49 @@
+{
+  "report_number": "214505",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20170627",
+  "reactions": [
+    "Dermatitis contact",
+    "Eye irritation",
+    "Eye pruritus",
+    "Hypersensitivity",
+    "Lacrimation increased",
+    "Rash",
+    "Swelling",
+    "Urticaria"
+  ],
+  "date_started": "20170614",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HAIR PRODUCTS AND PAINT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "aloe vera butter",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "aquaphor",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "emu oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

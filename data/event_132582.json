@@ -1,0 +1,59 @@
+{
+  "report_number": "132582",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101119",
+  "reactions": [
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "BLOOD CREATININE INCREASED",
+    "BLOOD UREA INCREASED",
+    "FATIGUE",
+    "GLOMERULAR FILTRATION RATE DECREASED",
+    "HEADACHE",
+    "NAUSEA",
+    "RENAL FAILURE ACUTE",
+    "RHABDOMYOLYSIS",
+    "URINE ABNORMALITY",
+    "VOMITING"
+  ],
+  "date_started": "20101111",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY PURE CREATINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "P90X RESULTS AND RECOVERY FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GINSENG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

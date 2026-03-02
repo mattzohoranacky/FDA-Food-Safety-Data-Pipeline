@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-017137",
+  "outcomes": [
+    "Death",
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20221212",
+  "reactions": [
+    "Cardiac failure",
+    "Chemical burn",
+    "Death",
+    "Erythema",
+    "Renal failure",
+    "Sepsis",
+    "Septic shock",
+    "Swelling",
+    "Wound secretion"
+  ],
+  "date_started": "20221101",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMLACTIN DAILY 12% LACTIC ACID MOISTURIZING LOTION FOR ROUGH DRY SKIN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "report_number": "92781",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20070430",
+  "reactions": [
+    "AGGRESSION",
+    "AGITATION",
+    "BLOOD POTASSIUM DECREASED",
+    "BRAIN STEM INFARCTION",
+    "CENTRAL NERVOUS SYSTEM FUNCTION TEST ABNORMAL",
+    "CONVULSION",
+    "DRUG INTERACTION",
+    "GLASGOW COMA SCALE ABNORMAL",
+    "LOSS OF CONSCIOUSNESS",
+    "PNEUMONIA ASPIRATION",
+    "RASH",
+    "RETCHING",
+    "STATUS EPILEPTICUS",
+    "URTICARIA",
+    "VOMITING"
+  ],
+  "date_started": "20060510",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAX TRIBUSTAK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THERMX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENERX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JOINT FUEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAX ANABOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAX LEAN PM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAXKRE-ALKALYN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-014617",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181112",
+  "reactions": [
+    "Burning sensation",
+    "Dermatitis contact",
+    "Eye swelling",
+    "Local swelling",
+    "Rash"
+  ],
+  "date_started": "20180712",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAY REGENERIST MICRO SCULPTING CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Micro Sculpting Cream",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

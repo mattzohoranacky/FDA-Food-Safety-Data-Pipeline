@@ -1,0 +1,42 @@
+{
+  "report_number": "2018-CFS-008596",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180622",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain",
+    "Anxiety",
+    "Decreased appetite",
+    "Diarrhoea",
+    "Dizziness",
+    "Headache",
+    "Heart rate increased",
+    "Malaise",
+    "Muscle spasms",
+    "Nausea",
+    "Pain",
+    "Weight decreased"
+  ],
+  "date_started": "20170728",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "Splenda in PROPEL FITNESS WATER",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Olly Women's Multivitamin Gummies",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

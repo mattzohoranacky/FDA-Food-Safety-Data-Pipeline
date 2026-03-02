@@ -1,0 +1,28 @@
+{
+  "report_number": "201157",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160902",
+  "reactions": [
+    "DYSPNOEA",
+    "MALAISE",
+    "PYREXIA",
+    "VERTIGO"
+  ],
+  "date_started": "20160818",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IGNATIUS BEAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

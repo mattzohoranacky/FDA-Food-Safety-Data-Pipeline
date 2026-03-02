@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-010420",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240807",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Blood bilirubin increased",
+    "Chromaturia",
+    "Faeces discoloured",
+    "Jaundice",
+    "Lethargy"
+  ],
+  "date_started": "20240315",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOUTHEORY MENS COLLAGEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

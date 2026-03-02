@@ -1,0 +1,38 @@
+{
+  "report_number": "122693",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100106",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "URTICARIA"
+  ],
+  "date_started": "20091206",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFECT CLEANSE CAPTURE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFECT CLEANSE PURIFY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFECT CLEANSE REMOVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "report_number": "198570",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160714",
+  "reactions": [
+    "AMNESIA",
+    "ARTHRITIS",
+    "BACK PAIN",
+    "BURSITIS",
+    "CERVICAL SPINAL STENOSIS",
+    "DEPRESSION",
+    "MEMORY IMPAIRMENT",
+    "MUSCULOSKELETAL PAIN",
+    "NECK PAIN",
+    "SPINAL X-RAY ABNORMAL",
+    "TEMPOROMANDIBULAR JOINT SYNDROME",
+    "TINNITUS"
+  ],
+  "date_started": "20160510",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE GRAPESEED EXTRACT 200 MG RAPID RELEASE CAPSULES (DIETARY SUPPLEMENT) RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE RED PANA GINSENG EXTRACT 525MG RAPID RELEASE CAPSULES(DIETARY SUPPLEMENT) RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ASTRAGALUS (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TUMERIC (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

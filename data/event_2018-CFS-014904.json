@@ -1,0 +1,44 @@
+{
+  "report_number": "2018-CFS-014904",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20181221",
+  "reactions": [
+    "Asthenia",
+    "Cardiac disorder",
+    "Dehydration",
+    "Dizziness",
+    "Drug hypersensitivity",
+    "Nausea",
+    "Syncope",
+    "Vomiting"
+  ],
+  "date_started": "20161001",
+  "consumer": {
+    "age": "87",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE L-CARNITINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE NIACINAMIDE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE TIMED RELEASE C-TIME 1000 WITH BIOFLAVONOIDS WILD ROSE HIPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

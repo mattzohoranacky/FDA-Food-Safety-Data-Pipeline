@@ -1,0 +1,62 @@
+{
+  "report_number": "111534",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090225",
+  "reactions": [
+    "DIARRHOEA",
+    "MALAISE",
+    "NAUSEA"
+  ],
+  "date_started": "20090120",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EDY'S PEANUT BUTTER CUP ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MINIATURE SNICKERS",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEANUT BUTTER CRACKERS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEANUT BUTTER IN INDIVIDUAL PACKS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEANUT BUTTER M AND M'S",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER PEANUT GRANOLA BARS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZACHARIA CHOCOLATE COVERED PEANUTS",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

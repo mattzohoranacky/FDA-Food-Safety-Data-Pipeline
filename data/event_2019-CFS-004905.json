@@ -1,0 +1,29 @@
+{
+  "report_number": "2019-CFS-004905",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190516",
+  "reactions": [
+    "Infection",
+    "Nausea",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20190510",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TATTOO INKS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

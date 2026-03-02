@@ -1,0 +1,42 @@
+{
+  "report_number": "2023-CFS-011063",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231010",
+  "reactions": [
+    "Chest pain"
+  ],
+  "date_started": "20220101",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE DAILY MULTI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE EXTRA STRENGTH VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

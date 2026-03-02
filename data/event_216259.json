@@ -1,0 +1,29 @@
+{
+  "report_number": "216259",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170801",
+  "reactions": [
+    "Chest discomfort",
+    "Dyspnoea",
+    "Pneumonia",
+    "Supraventricular extrasystoles",
+    "Ventricular extrasystoles"
+  ],
+  "date_started": "20170402",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

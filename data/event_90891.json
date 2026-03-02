@@ -1,0 +1,42 @@
+{
+  "report_number": "90891",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20060919",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "MALAISE"
+  ],
+  "date_started": "20060915",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE READY-TO-EAT BABY SPINACH",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DRIED FRUIT",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ICEBERG LETTUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NUTS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

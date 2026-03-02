@@ -1,0 +1,30 @@
+{
+  "report_number": "137849",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20110413",
+  "reactions": [
+    "DYSGEUSIA",
+    "PARAESTHESIA",
+    "PRURITUS"
+  ],
+  "date_started": "20110411",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PINE NUTS (IN A PASTA DELI SALAD)",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PASTA DELI SALAD (ORZO, SPINACH)",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

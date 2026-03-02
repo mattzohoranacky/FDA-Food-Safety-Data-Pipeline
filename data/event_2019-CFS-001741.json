@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-001741",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190219",
+  "reactions": [
+    "Blood urine",
+    "Dysuria",
+    "Kidney infection"
+  ],
+  "date_started": "20190206",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE P3 ADVANCED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

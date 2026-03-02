@@ -1,0 +1,71 @@
+{
+  "report_number": "151021",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120410",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLOOD ELECTROLYTES DECREASED",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "DYSSTASIA",
+    "EUPHORIC MOOD",
+    "FATIGUE",
+    "LOSS OF CONSCIOUSNESS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20120313",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMPLIFIED RIPPED VITAPACK CLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMPLIFIED RIPPED VITAPACK MEGA MEN SPORT (FULL STRENGTH)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMPLIFIED RIPPED VITAPACK THERMO IGNITER 12X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMPLIFIED RIPPED VITAPACK WATEREX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI-PURPOSE VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RASPBERRY KETONES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

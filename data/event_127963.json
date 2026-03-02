@@ -1,0 +1,33 @@
+{
+  "report_number": "127963",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20100707",
+  "reactions": [
+    "DYSPNOEA",
+    "RENAL FAILURE",
+    "RHABDOMYOLYSIS"
+  ],
+  "date_started": "20081202",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT CAFFEINE-FREE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT REGULAR RAPID RELEASE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

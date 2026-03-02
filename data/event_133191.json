@@ -1,0 +1,40 @@
+{
+  "report_number": "133191",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101207",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "DIARRHOEA",
+    "FLATULENCE",
+    "NAUSEA"
+  ],
+  "date_started": "20090101",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM COLONIX INTESTINAL CLEANSER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM KLERITEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM PARANIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

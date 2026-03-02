@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-005971",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240613",
+  "reactions": [
+    "Headache",
+    "Malaise",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20240612",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S ORGANIC DRIED CRANBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE MADE MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

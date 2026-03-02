@@ -1,0 +1,33 @@
+{
+  "report_number": "141507",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110406",
+  "reactions": [
+    "CULTURE POSITIVE",
+    "ENTEROBACTER INFECTION",
+    "MENINGITIS"
+  ],
+  "date_started": "20110325",
+  "consumer": {
+    "age": "52",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL LIQUID AND POWDERED INFANT FORMULAS",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC LIQUID AND POWDERED INFANT FORMULAS",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

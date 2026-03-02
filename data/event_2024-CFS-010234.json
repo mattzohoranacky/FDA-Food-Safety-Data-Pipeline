@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-010234",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240730",
+  "reactions": [
+    "Asthenia",
+    "Chest pain",
+    "Dizziness",
+    "Dyspnoea",
+    "Heart rate irregular",
+    "Palpitations",
+    "Speech disorder",
+    "Tremor",
+    "Visual impairment"
+  ],
+  "date_started": "20210428",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RUDOLPHS ONYUMS ONION RINGS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

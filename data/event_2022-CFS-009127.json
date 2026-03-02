@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-009127",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220531",
+  "reactions": [
+    "Chapped lips",
+    "Pain"
+  ],
+  "date_started": "20220101",
+  "consumer": {
+    "age": "39.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS NATURAL & ORGANIC LIP BALM STICK SWEET MINT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

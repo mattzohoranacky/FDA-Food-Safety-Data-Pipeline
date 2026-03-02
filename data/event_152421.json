@@ -1,0 +1,33 @@
+{
+  "report_number": "152421",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120321",
+  "reactions": [
+    "BLOOD DISORDER",
+    "ENTEROBACTER INFECTION",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "SEPSIS"
+  ],
+  "date_started": "20120312",
+  "consumer": {
+    "age": "32",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRYSTAL GEYSER WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SIMILAC ADVANCE POWDER",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

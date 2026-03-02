@@ -1,0 +1,32 @@
+{
+  "report_number": "143425",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110913",
+  "reactions": [
+    "DRUG LEVEL FLUCTUATING",
+    "HEART RATE INCREASED",
+    "HYPOTENSION"
+  ],
+  "date_started": "20100504",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITALITY CALCIUM COMPLETE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITALITY MULTIVITAMIN & MINERAL WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

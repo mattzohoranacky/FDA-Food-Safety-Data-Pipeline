@@ -1,0 +1,28 @@
+{
+  "report_number": "85488",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060303",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "MALAISE",
+    "NAUSEA",
+    "PANCREATITIS"
+  ],
+  "date_started": "20060101",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PINE VALLEY WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "151119",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120412",
+  "reactions": [
+    "BLOOD MAGNESIUM DECREASED",
+    "HEADACHE",
+    "HYPERHIDROSIS",
+    "RECTAL ABSCESS",
+    "STAPHYLOCOCCAL INFECTION",
+    "SURGERY",
+    "VOMITING",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20111101",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLOW-MAG (MAGNESIUM, CALCIUM) GASTRO-RESISTANT TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

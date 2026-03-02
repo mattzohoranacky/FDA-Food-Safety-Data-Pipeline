@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-010521",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220701",
+  "reactions": [
+    "Blood pressure increased",
+    "Dizziness",
+    "Syncope"
+  ],
+  "date_started": "20220614",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY TRU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY VY BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

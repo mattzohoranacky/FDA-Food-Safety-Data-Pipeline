@@ -1,0 +1,31 @@
+{
+  "report_number": "142100",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110801",
+  "reactions": [
+    "DIARRHOEA",
+    "LETHARGY",
+    "LOCAL SWELLING",
+    "SWOLLEN TONGUE",
+    "VOMITING"
+  ],
+  "date_started": "20110724",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WINN DIXIE BAR LEMON CAKE",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

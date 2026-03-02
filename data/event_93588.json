@@ -1,0 +1,45 @@
+{
+  "report_number": "93588",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20060918",
+  "reactions": [
+    "DIARRHOEA",
+    "DYSPHAGIA",
+    "FLATULENCE",
+    "Food allergy",
+    "OROPHARYNGEAL SWELLING",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20060912",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JAY ROBB'S EGG WHITE PROTEIN VANILLA POWDER",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COCONUT MILK",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FRUIT",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-012209",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220808",
+  "reactions": [
+    "Colitis",
+    "Gastroenteritis paracolon bacillus",
+    "Gastrointestinal pain"
+  ],
+  "date_started": "20220711",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST BROCCOLI CHEDDAR BOWL",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST SMOOTHIES",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

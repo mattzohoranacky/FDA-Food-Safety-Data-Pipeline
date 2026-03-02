@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-007587",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20190726",
+  "reactions": [
+    "Dyspnoea",
+    "Throat tightness",
+    "Urticaria"
+  ],
+  "date_started": "20181225",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THERA BOTANICS BETTER BLADDER ULTRA BLEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Perfect Omega",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2019-CFS-012190",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191211",
+  "reactions": [
+    "Abdominal adhesions",
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Appendicitis",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20140101",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND CALCIUM CITRATE MAGNESIUM AND ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

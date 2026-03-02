@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-007506",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200804",
+  "reactions": [
+    "Acne",
+    "Rash"
+  ],
+  "date_started": "20200730",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LANZA COLOR PRESERVING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LANZA COLOR PRESERVING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

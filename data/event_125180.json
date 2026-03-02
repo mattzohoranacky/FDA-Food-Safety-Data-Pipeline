@@ -1,0 +1,37 @@
+{
+  "report_number": "125180",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090826",
+  "reactions": [
+    "BLISTER",
+    "BODY TEMPERATURE INCREASED",
+    "CELLULITIS",
+    "DERMATITIS BULLOUS",
+    "GASTROENTERITIS VIBRIO",
+    "LACERATION",
+    "NAUSEA",
+    "RASH",
+    "SEPSIS",
+    "SKIN GRAFT",
+    "ULCER",
+    "WOUND INFECTION"
+  ],
+  "date_started": "20081019",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

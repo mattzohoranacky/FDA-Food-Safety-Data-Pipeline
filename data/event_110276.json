@@ -1,0 +1,30 @@
+{
+  "report_number": "110276",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20090213",
+  "reactions": [
+    "VOMITING"
+  ],
+  "date_started": "20090212",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S ALMOND BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S RICE CAKES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

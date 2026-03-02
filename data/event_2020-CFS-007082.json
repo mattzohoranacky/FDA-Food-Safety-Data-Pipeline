@@ -1,0 +1,30 @@
+{
+  "report_number": "2020-CFS-007082",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200723",
+  "reactions": [
+    "Rash pruritic"
+  ],
+  "date_started": "20200524",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVALON ORGANICS BIOTIN B COMPLEX THICKENING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVALON ORGANICS BIOTIN B COMPLEX THICKING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

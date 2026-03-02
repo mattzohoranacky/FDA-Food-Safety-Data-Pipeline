@@ -1,0 +1,33 @@
+{
+  "report_number": "116698",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090715",
+  "reactions": [
+    "Adverse reaction",
+    "URTICARIA",
+    "VISION BLURRED"
+  ],
+  "date_started": "20090211",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAYBELLINE GARNIER DOUBLE FACE PERFECTOR INSTANT AGE REWIND HIGHLIGHTER CONCEALER (LIGHT)",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAYBELLINE GARNIER INSTANT AGE REWIND FOUNDATION SPF 18",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

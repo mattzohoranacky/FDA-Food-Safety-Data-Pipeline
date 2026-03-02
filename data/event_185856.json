@@ -1,0 +1,48 @@
+{
+  "report_number": "185856",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20150504",
+  "reactions": [
+    "BACK PAIN",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "JAUNDICE",
+    "POOR PERIPHERAL CIRCULATION"
+  ],
+  "date_started": "20150502",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALBERTSONS BRAND EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CASA FIESTA REFRIED BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ESSENTIAL EVERYDAY BACON",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ESSENTIAL EVERYDAY SHREDDED CHEDDAR CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MISSION HOMESTYLE TORTILLAS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

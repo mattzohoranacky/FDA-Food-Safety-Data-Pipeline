@@ -1,0 +1,45 @@
+{
+  "report_number": "2018-CFS-003372",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180225",
+  "reactions": [
+    "Confusional state",
+    "Depression",
+    "Skin ulcer",
+    "Suicidal ideation"
+  ],
+  "date_started": "20171016",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT LEAVE IN CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT MOUSSE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REPLENISH MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT SHAMPOO & CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

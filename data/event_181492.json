@@ -1,0 +1,32 @@
+{
+  "report_number": "181492",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141210",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20141005",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RENEW LIFE FLORABABY ADVANCED PROBIOTIC FORMULA FOR INFANTS & TODDLERS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CULTURELLE KIDS PROBIOTIC POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

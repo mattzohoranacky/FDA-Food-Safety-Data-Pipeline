@@ -1,0 +1,38 @@
+{
+  "report_number": "2018-CFS-006299",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180408",
+  "reactions": [
+    "Burning sensation",
+    "Chemical injury",
+    "Rash"
+  ],
+  "date_started": "20180408",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALBA BOTANICA HAWAIIAN DETOX SHEET MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Nordic naturals fish oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

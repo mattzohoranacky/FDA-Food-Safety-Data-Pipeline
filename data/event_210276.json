@@ -1,0 +1,40 @@
+{
+  "report_number": "210276",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20170414",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "COUGH",
+    "DIZZINESS",
+    "FEELING ABNORMAL",
+    "MALAISE",
+    "MIGRAINE WITHOUT AURA",
+    "NAUSEA",
+    "PAIN",
+    "POISONING",
+    "PYREXIA"
+  ],
+  "date_started": "20170101",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAXWELLHOUSE INTERNATIONAL CAFE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE A DAY VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

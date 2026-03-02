@@ -1,0 +1,45 @@
+{
+  "report_number": "82963",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20060105",
+  "reactions": [
+    "ASTHENIA",
+    "BONE LESION",
+    "BONE PAIN",
+    "DIARRHOEA",
+    "FATIGUE",
+    "HAEMORRHAGE",
+    "HAEMORRHAGIC DIATHESIS",
+    "NAUSEA",
+    "VAGINAL INFECTION",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20060103",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MIRACLE II NEUTRALIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MIRACLE II NEUTRALIZER GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MIRACLE II SOAP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "report_number": "156218",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120905",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "ARTHRALGIA",
+    "GAIT DISTURBANCE",
+    "HYPERSENSITIVITY",
+    "JOINT SWELLING",
+    "OROPHARYNGEAL SWELLING",
+    "PHARYNGEAL OEDEMA"
+  ],
+  "date_started": "20120812",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC CALCIUM MBP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC CRANBERRY SUPREME",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC GREEN TEA COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC OMEGA COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC ULTRA MEGA GREEN WOMENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC ULTRA MEGA GREEN WOMENS VITAPAK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

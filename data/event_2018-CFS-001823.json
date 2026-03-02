@@ -1,0 +1,77 @@
+{
+  "report_number": "2018-CFS-001823",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180125",
+  "reactions": [
+    "Abdominal distension",
+    "Alanine aminotransferase abnormal",
+    "Aspartate aminotransferase abnormal",
+    "Constipation",
+    "Diarrhoea",
+    "Fatigue",
+    "Gallbladder disorder",
+    "Headache",
+    "Hepatic steatosis",
+    "Hyperhidrosis",
+    "Inflammation",
+    "Lacrimation increased",
+    "Muscle spasms",
+    "Nausea",
+    "Pain",
+    "Pollakiuria",
+    "Renal pain",
+    "Rheumatoid factor increased",
+    "Seborrhoea",
+    "Skin odour abnormal",
+    "Splenomegaly",
+    "Swelling",
+    "Urine odour abnormal",
+    "Vision blurred",
+    "Weight increased"
+  ],
+  "date_started": "20171114",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALIPOTEC TEJOCOTE ROOT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALIOTEC MORINGA + NEEM & EAU KALIN ALCLINIZANTE ALIPOTEC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALIPOTEC TEJOCOTE ROOT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VIVISCAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

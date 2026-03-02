@@ -1,0 +1,49 @@
+{
+  "report_number": "2018-CFS-003770",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180304",
+  "reactions": [
+    "Blister",
+    "Burning sensation",
+    "Chapped lips",
+    "Erythema",
+    "Lip exfoliation",
+    "Lip swelling",
+    "Pain",
+    "Pruritus"
+  ],
+  "date_started": "20180301",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLISTEX FRUIT SMOOTHIES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CoQ10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Niacin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Omega 3 Fish Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

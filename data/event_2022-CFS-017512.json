@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-017512",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20221227",
+  "reactions": [
+    "Blood calcium increased",
+    "Bronchitis",
+    "Intraocular pressure increased",
+    "Urticaria",
+    "Visual impairment"
+  ],
+  "date_started": "20220301",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BAUSCH AND LOMB PRESERVISION AREDS 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RETINOL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

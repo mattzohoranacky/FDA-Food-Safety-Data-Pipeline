@@ -1,0 +1,29 @@
+{
+  "report_number": "183101",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150203",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "DIARRHOEA",
+    "FOOD ALLERGY",
+    "NAUSEA",
+    "OROPHARYNGEAL PAIN",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20150129",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORTEGA TACO SEASONING MIX",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

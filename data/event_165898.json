@@ -1,0 +1,30 @@
+{
+  "report_number": "165898",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130523",
+  "reactions": [
+    "DYSPEPSIA",
+    "VOMITING"
+  ],
+  "date_started": "20130419",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MICHAEL'S ULTIMATE DETOX AND CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MICHAELS SUPER DEFENSE FOOD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

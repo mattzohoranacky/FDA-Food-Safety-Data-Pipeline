@@ -1,0 +1,41 @@
+{
+  "report_number": "186250",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150518",
+  "reactions": [
+    "BURNING SENSATION",
+    "INFLAMMATION",
+    "PAIN",
+    "RASH ERYTHEMATOUS",
+    "SKIN EXFOLIATION",
+    "SKIN IRRITATION"
+  ],
+  "date_started": "20150515",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOM'S LONG LASTING LAVENDER DEODORANT STICK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS - PRENATAL ONE BRAND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

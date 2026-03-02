@@ -1,0 +1,29 @@
+{
+  "report_number": "2021-CFS-007522",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210730",
+  "reactions": [
+    "Cronobacter infection",
+    "Meningitis",
+    "Seizure"
+  ],
+  "date_started": "20210727",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC NEOSURE INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

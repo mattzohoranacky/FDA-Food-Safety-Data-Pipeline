@@ -1,0 +1,46 @@
+{
+  "report_number": "2024-CFS-009397",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240625",
+  "reactions": [
+    "Aphonia",
+    "Chest discomfort",
+    "Dysarthria",
+    "Dysphonia",
+    "Dyspnoea",
+    "Fatigue",
+    "Hypersensitivity",
+    "Muscular weakness",
+    "Peripheral swelling"
+  ],
+  "date_started": "20240529",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESTROVEN MENOPAUSE RELIEF WEIGHT MANAGEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-012821",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241019",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Burning sensation",
+    "Emergency care",
+    "Hospitalisation",
+    "Pharyngeal swelling",
+    "Urticaria"
+  ],
+  "date_started": "20241017",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFE EXTENSION BIOACTIVE COMPLETE B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

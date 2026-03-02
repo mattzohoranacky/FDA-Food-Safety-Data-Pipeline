@@ -1,0 +1,39 @@
+{
+  "report_number": "191841",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20151202",
+  "reactions": [
+    "DIZZINESS",
+    "DYSPNOEA",
+    "HEART RATE INCREASED",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20151008",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CATALYST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MNS MAX 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THERMOPLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

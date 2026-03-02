@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-011041",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220714",
+  "reactions": [
+    "Abdominal pain upper",
+    "Aphagia",
+    "Back pain",
+    "Chest pain",
+    "Chromaturia",
+    "Dyspnoea",
+    "Gallbladder pain",
+    "Gastrointestinal pain",
+    "Hepatic enzyme increased",
+    "Night sweats"
+  ],
+  "date_started": "20220614",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST SMOTHIES",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

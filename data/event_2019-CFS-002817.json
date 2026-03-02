@@ -1,0 +1,28 @@
+{
+  "report_number": "2019-CFS-002817",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190319",
+  "reactions": [
+    "Blood pressure increased",
+    "Malaise",
+    "Nasopharyngitis",
+    "Viral upper respiratory tract infection"
+  ],
+  "date_started": "20190301",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EMERGEN-C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

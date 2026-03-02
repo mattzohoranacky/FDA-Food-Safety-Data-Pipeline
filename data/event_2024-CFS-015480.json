@@ -1,0 +1,45 @@
+{
+  "report_number": "2024-CFS-015480",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Injury"
+  ],
+  "date_created": "20241206",
+  "reactions": [
+    "Abdominal pain",
+    "Appendicitis",
+    "Bacterial infection",
+    "Frequent bowel movements",
+    "Haematochezia",
+    "Nausea",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20241201",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "2 GALA APPLES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "365 COLA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE VEGAN CHEESE PIZZA",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

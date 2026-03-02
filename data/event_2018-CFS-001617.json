@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-001617",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180125",
+  "reactions": [
+    "Allergy test positive",
+    "Allergy to chemicals",
+    "Rash"
+  ],
+  "date_started": "20171001",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEIJER PRO VITAMIN VOLUMIZING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANTENE PRO V DAILY MOISTURE RENEWAL SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

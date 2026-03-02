@@ -1,0 +1,28 @@
+{
+  "report_number": "207009",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170123",
+  "reactions": [
+    "ARTHRALGIA",
+    "FATIGUE",
+    "HEADACHE",
+    "PHOTOPHOBIA"
+  ],
+  "date_started": "20170118",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MASTER ZONE 1500",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

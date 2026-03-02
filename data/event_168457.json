@@ -1,0 +1,30 @@
+{
+  "report_number": "168457",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110318",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "MALAISE",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20110308",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRIGO MOZZARELLA CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

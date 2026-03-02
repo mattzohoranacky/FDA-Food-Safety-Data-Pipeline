@@ -1,0 +1,49 @@
+{
+  "report_number": "2021-CFS-000906",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20210126",
+  "reactions": [
+    "Hypersensitivity",
+    "Pruritus"
+  ],
+  "date_started": "20201013",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KKW FACE WASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KYLIE COSMETICS EYESHADOW PALETTE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish Oil Pills",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-002909",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190320",
+  "reactions": [
+    "Alopecia",
+    "Burning sensation",
+    "Self esteem decreased"
+  ],
+  "date_started": "20190115",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL ESSENCES BIO-RENEW DETOX BLACK CHARCOAL SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

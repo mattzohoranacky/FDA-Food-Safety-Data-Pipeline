@@ -1,0 +1,45 @@
+{
+  "report_number": "217469",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170905",
+  "reactions": [
+    "Anion gap increased",
+    "Blood alkaline phosphatase increased",
+    "Blood creatinine decreased",
+    "Blood glucose increased",
+    "Blood potassium decreased",
+    "Blood pressure decreased",
+    "Headache",
+    "Heart rate increased",
+    "Lid sulcus deepened",
+    "Nausea",
+    "Neutrophil count increased",
+    "Oropharyngeal pain",
+    "Pallor",
+    "Postural orthostatic tachycardia syndrome",
+    "Vomiting"
+  ],
+  "date_started": "20170804",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROOMEGA XTRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

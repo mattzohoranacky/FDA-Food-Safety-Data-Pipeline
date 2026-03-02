@@ -1,0 +1,30 @@
+{
+  "report_number": "184835",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150409",
+  "reactions": [
+    "BLOOD MAGNESIUM ABNORMAL",
+    "BLOOD MAGNESIUM DECREASED",
+    "BLOOD POTASSIUM DECREASED",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "HEART INJURY"
+  ],
+  "date_started": "20150309",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY CO Q-10 100 MG RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

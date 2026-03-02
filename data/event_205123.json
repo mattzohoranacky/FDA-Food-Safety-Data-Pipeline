@@ -1,0 +1,54 @@
+{
+  "report_number": "205123",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20161209",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ACUTE SINUSITIS",
+    "BALANCE DISORDER",
+    "CONFUSIONAL STATE",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "GALLBLADDER POLYP",
+    "HEADACHE",
+    "HYPERTENSION",
+    "HYPOAESTHESIA ORAL",
+    "INFLUENZA LIKE ILLNESS",
+    "MEMORY IMPAIRMENT",
+    "MUSCLE SPASMS",
+    "NAUSEA",
+    "PROTEINURIA",
+    "RHINORRHOEA",
+    "SINUS CONGESTION",
+    "STAPHYLOCOCCAL INFECTION",
+    "ULTRASOUND ABDOMEN ABNORMAL",
+    "VERTIGO",
+    "VERTIGO POSITIONAL",
+    "VISION BLURRED",
+    "VITAMIN D DEFICIENCY",
+    "VOMITING"
+  ],
+  "date_started": "20160111",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE SUPERB COMPLEX (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

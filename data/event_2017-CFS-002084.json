@@ -1,0 +1,38 @@
+{
+  "report_number": "2017-CFS-002084",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171123",
+  "reactions": [
+    "Alveolitis allergic",
+    "Bronchiectasis",
+    "Dyspnoea",
+    "Interstitial lung disease",
+    "Pulmonary mass",
+    "Vitreous injury"
+  ],
+  "date_started": "20170218",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIMBREL",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium Citrate powder",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

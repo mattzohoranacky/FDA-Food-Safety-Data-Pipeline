@@ -1,0 +1,52 @@
+{
+  "report_number": "2017-CFS-001788",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171113",
+  "reactions": [
+    "Erythema",
+    "Eye swelling",
+    "Hypersensitivity",
+    "Pruritus",
+    "Rash"
+  ],
+  "date_started": "20171101",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "100% PURE LOUANA COCONUT OIL",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin A",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multi-vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

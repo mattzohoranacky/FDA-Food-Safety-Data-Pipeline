@@ -1,0 +1,58 @@
+{
+  "report_number": "2022-CFS-012533",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220811",
+  "reactions": [
+    "Abdominal distension",
+    "Arthralgia",
+    "Asthenia",
+    "Blood pressure decreased",
+    "Chromaturia",
+    "Constipation",
+    "Dehydration",
+    "Dizziness",
+    "Dyspnoea",
+    "Fatigue",
+    "Feeling of body temperature change",
+    "Gastrooesophageal reflux disease",
+    "Headache",
+    "Heart rate irregular",
+    "Histamine abnormal",
+    "Hypoaesthesia",
+    "Hypotonia",
+    "Mental impairment",
+    "Mood swings",
+    "Nightmare",
+    "Pain",
+    "Panic attack",
+    "Paraesthesia",
+    "Polyneuropathy",
+    "Rash",
+    "Sensation of heaviness",
+    "Somnolence",
+    "Thirst",
+    "Thyroid disorder",
+    "Tremor",
+    "Vitamin B6 increased",
+    "Volume blood decreased"
+  ],
+  "date_started": "20220604",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUBNEURO B6",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

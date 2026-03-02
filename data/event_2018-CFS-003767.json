@@ -1,0 +1,42 @@
+{
+  "report_number": "2018-CFS-003767",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180304",
+  "reactions": [
+    "Abnormal behaviour",
+    "Aggression",
+    "Condition aggravated",
+    "Distractibility",
+    "Obsessive thoughts"
+  ],
+  "date_started": "20171115",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VAYARIN",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GNC KIDS CHEWABLE PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "YUMMY BEARS BABY D 400 IUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

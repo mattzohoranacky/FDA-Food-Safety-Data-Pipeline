@@ -1,0 +1,45 @@
+{
+  "report_number": "138331",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110425",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "BLOOD PRESSURE DECREASED",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "HYPERHIDROSIS",
+    "HYPOAESTHESIA",
+    "PULSE PRESSURE DECREASED",
+    "SYNCOPE"
+  ],
+  "date_started": "20110406",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM (COLONIX)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM (KLERITEA)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLONIX ADVANCED INTERNAL CLEANSING PROGRAM (PARANIL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

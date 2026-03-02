@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-002884",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180221",
+  "reactions": [
+    "Atrial fibrillation",
+    "Blood cholesterol abnormal",
+    "Blood potassium decreased",
+    "Diarrhoea",
+    "Heart rate increased",
+    "Pneumonia"
+  ],
+  "date_started": "20180101",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE RED KRILL OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

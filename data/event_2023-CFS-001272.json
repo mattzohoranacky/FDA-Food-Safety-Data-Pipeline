@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-001272",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230206",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Headache",
+    "Nausea"
+  ],
+  "date_started": "20230204",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRYSTAL GEYSER SPARKLING MINERAL WATER ORIGINAL",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

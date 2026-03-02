@@ -1,0 +1,38 @@
+{
+  "report_number": "98049",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20071114",
+  "reactions": [
+    "DIARRHOEA",
+    "GASTROINTESTINAL DISORDER",
+    "MALAISE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20071010",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LINDSEY ITALIAN ICE, WATERMELON FLAVOR",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POWDER MALTED MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOPPS HAMBURGER",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "report_number": "2023-CFS-000203",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20230110",
+  "reactions": [
+    "Coronary artery occlusion",
+    "Fatigue",
+    "Feeling abnormal",
+    "Myocardial infarction",
+    "Pallor"
+  ],
+  "date_started": "20221201",
+  "consumer": {
+    "age": "84",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE ADVANCED GLUCOSAMINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE TRIPLE MAGNESIUM COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM (CALCIUM)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CINNAMON (CINNAMOMUM VERUM)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN [VITAMINS NOS] (MULTIVITAMIN [VITAMINS NOS])",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTIC 1 O WITH VITAMIN D (PROBIOTICS NOS;VITAMINS NOS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

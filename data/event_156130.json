@@ -1,0 +1,31 @@
+{
+  "report_number": "156130",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120906",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "CAUSTIC INJURY",
+    "PAIN",
+    "PRURITUS",
+    "RASH",
+    "SWELLING",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20120828",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLAIROL NICE N EASY NO AMMONIA COLOR # 82",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

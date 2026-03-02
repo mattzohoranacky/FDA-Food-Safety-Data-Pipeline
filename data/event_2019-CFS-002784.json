@@ -1,0 +1,41 @@
+{
+  "report_number": "2019-CFS-002784",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190319",
+  "reactions": [
+    "Burning feet syndrome",
+    "Pain",
+    "Skin discolouration",
+    "Skin wrinkling",
+    "Swelling"
+  ],
+  "date_started": "20190319",
+  "consumer": {
+    "age": "87.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARNATION BREAKFAST ESSENTIALS LIGHT START CLASSIC FRENCH VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "calcium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

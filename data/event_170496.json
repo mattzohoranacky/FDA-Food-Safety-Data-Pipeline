@@ -1,0 +1,41 @@
+{
+  "report_number": "170496",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130919",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "NAUSEA",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20130909",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI 3.5 OZ GREEK YOGURT, 8-PACK, BLACKBERRY AND BLACK CHERRY",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALIVE WOMENS MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D 2000 IUD DAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-008629",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190821",
+  "reactions": [
+    "Asthenia",
+    "Blood glucose decreased",
+    "Decreased appetite",
+    "Dehydration",
+    "Heart rate decreased",
+    "Hypotension",
+    "Insomnia",
+    "Nausea"
+  ],
+  "date_started": "20190701",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE BCAA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

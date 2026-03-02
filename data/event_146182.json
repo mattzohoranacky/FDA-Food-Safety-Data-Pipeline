@@ -1,0 +1,35 @@
+{
+  "report_number": "146182",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20111129",
+  "reactions": [
+    "CONVULSION",
+    "DELIRIUM",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "ERYTHEMA"
+  ],
+  "date_started": "20111105",
+  "consumer": {
+    "age": "48.52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE CO Q10 100 MG RAPID RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE NIACIN 250 MG COATED TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "172910",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20131231",
+  "reactions": [
+    "CHEST PAIN",
+    "FEELING HOT",
+    "HYPERSENSITIVITY",
+    "HYPERTENSION"
+  ],
+  "date_started": "20131112",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUN CHLORELLA TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI-VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

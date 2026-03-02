@@ -1,0 +1,45 @@
+{
+  "report_number": "155078",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120803",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "MALAISE"
+  ],
+  "date_started": "20120709",
+  "consumer": {
+    "age": "63.1",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CATAPLEX ACP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CATAPLEX AC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GUT FLORA COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROSYNBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

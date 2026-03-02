@@ -1,0 +1,36 @@
+{
+  "report_number": "2020-CFS-002372",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200220",
+  "reactions": [
+    "Rash"
+  ],
+  "date_started": "20190501",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRACHAMPS KOREAN RED PANAX GINSENG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

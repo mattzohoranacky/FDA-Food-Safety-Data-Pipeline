@@ -1,0 +1,29 @@
+{
+  "report_number": "70982",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20040802",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "DEHYDRATION",
+    "HOSPITALISATION",
+    "JAUNDICE",
+    "LETHARGY"
+  ],
+  "date_started": "20040501",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

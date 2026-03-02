@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-006152",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230614",
+  "reactions": [
+    "Alopecia",
+    "Hair growth abnormal",
+    "Headache"
+  ],
+  "date_started": "20221113",
+  "consumer": {
+    "age": "51.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOVE DRY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

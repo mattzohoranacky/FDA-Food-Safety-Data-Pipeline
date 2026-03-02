@@ -1,0 +1,31 @@
+{
+  "report_number": "184880",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150413",
+  "reactions": [
+    "FOOD POISONING",
+    "GASTROINTESTINAL DISORDER",
+    "VOMITING"
+  ],
+  "date_started": "20150130",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALOHA PROTEIN FREE TRIAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALOHA PROTEIN VANILLA TIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-009468",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180719",
+  "reactions": [
+    "Abnormal behaviour",
+    "Asthenia",
+    "Blood creatinine increased",
+    "Blood pressure increased",
+    "Disorientation",
+    "Metabolic acidosis"
+  ],
+  "date_started": "20170625",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARGININE HCL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

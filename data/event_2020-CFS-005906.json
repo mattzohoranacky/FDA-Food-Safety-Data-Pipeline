@@ -1,0 +1,27 @@
+{
+  "report_number": "2020-CFS-005906",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200611",
+  "reactions": [
+    "Palpitations",
+    "Poisoning"
+  ],
+  "date_started": "20200610",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MIGHTY APRICOT ORGANIC BITTER APRICOT KERNELS ALMONDS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

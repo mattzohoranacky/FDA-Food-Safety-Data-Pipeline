@@ -1,0 +1,43 @@
+{
+  "report_number": "179670",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140929",
+  "reactions": [
+    "ANXIETY",
+    "BLOOD PRESSURE INCREASED",
+    "HEART RATE INCREASED",
+    "MALAISE",
+    "NAUSEA",
+    "PALPITATIONS",
+    "SUICIDAL IDEATION"
+  ],
+  "date_started": "20140904",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL CLEANSE - PEACHES & CREAM FIBER DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MNS MAX C MAXIMUM APPETITE CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

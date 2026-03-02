@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-015356",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20241204",
+  "reactions": [
+    "Burning sensation",
+    "Hospitalisation",
+    "Nausea",
+    "Pain",
+    "Pancreatitis acute",
+    "Vomiting"
+  ],
+  "date_started": "20241128",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONSTER ENERGY DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "report_number": "120243",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090603",
+  "reactions": [
+    "ALCOHOL INTOLERANCE",
+    "CONFUSIONAL STATE",
+    "DEPRESSION",
+    "DIZZINESS",
+    "GAIT DISTURBANCE",
+    "HEADACHE",
+    "HEART RATE ABNORMAL",
+    "HEART RATE INCREASED",
+    "SLEEP DISORDER",
+    "VISUAL ACUITY REDUCED",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20090601",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEST BAY ORGANIC GARBANZO BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FRESH LEMON JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GARLIC",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SESAME OIL",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    }
+  ]
+}

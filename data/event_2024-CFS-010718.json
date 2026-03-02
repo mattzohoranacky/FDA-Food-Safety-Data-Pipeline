@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-010718",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240818",
+  "reactions": [
+    "Blood pressure increased",
+    "Dyspepsia",
+    "Dyspnoea",
+    "Pruritus",
+    "Rash"
+  ],
+  "date_started": "20240808",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC MEGA MEN 50 PLUS ONE DAILY MULTI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CAFFEINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "129224",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090126",
+  "reactions": [
+    "Diarrhoea",
+    "Food poisoning",
+    "Vomiting"
+  ],
+  "date_started": "20090126",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLY ORANGE ORANGE JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SIMPLY ORANGE ORANGE JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "174854",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140324",
+  "reactions": [
+    "CHEST PAIN",
+    "CONVULSION",
+    "DISORIENTATION",
+    "HYPERVENTILATION",
+    "LOSS OF CONSCIOUSNESS",
+    "NAUSEA",
+    "PAIN",
+    "PALPITATIONS",
+    "PANIC ATTACK",
+    "PARAESTHESIA",
+    "VOMITING"
+  ],
+  "date_started": "20140320",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED BULL",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

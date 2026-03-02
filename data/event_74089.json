@@ -1,0 +1,40 @@
+{
+  "report_number": "74089",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20041130",
+  "reactions": [
+    "DISORIENTATION",
+    "DIZZINESS",
+    "MALAISE",
+    "MEMORY IMPAIRMENT",
+    "NAUSEA"
+  ],
+  "date_started": "20041015",
+  "consumer": {
+    "age": "38.27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFE SAVERS MINIS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRODUCTS CONTAINING SPLENDA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL PROTEIN CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

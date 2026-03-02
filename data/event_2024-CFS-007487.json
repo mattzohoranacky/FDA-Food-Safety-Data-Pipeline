@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-007487",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230117",
+  "reactions": [
+    "Abdominal pain",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20230115",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEEP PANI PURI GOLPAPPA CRISPY HOLLOW SEMOLINA PUFFS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

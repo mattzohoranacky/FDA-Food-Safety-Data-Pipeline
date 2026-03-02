@@ -1,0 +1,40 @@
+{
+  "report_number": "175436",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140411",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CONSTIPATION",
+    "GASTROENTERITIS VIRAL",
+    "NAUSEA",
+    "SUPERIOR MESENTERIC ARTERY SYNDROME"
+  ],
+  "date_started": "20140305",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELL-U-LOSS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FORMULA 2 MULTIVITAMIN COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

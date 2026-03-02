@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-002651",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20220222",
+  "reactions": [
+    "Malaise"
+  ],
+  "date_started": "20211108",
+  "consumer": {
+    "age": "26.4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DETOXING JUICE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

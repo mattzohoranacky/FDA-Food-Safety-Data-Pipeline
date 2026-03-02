@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-003403",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210415",
+  "reactions": [
+    "Biopsy liver abnormal",
+    "Cholestatic liver injury",
+    "Rash"
+  ],
+  "date_started": "20210113",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUICED AMINOS ENHANCED BCAA ORANGE JUICED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLETECH PROSERIES MASS GAINER PREMIUM WEIGHT GAINER CHOCOLATE FUDGE BROWNIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

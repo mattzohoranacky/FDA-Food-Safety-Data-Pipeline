@@ -1,0 +1,38 @@
+{
+  "report_number": "2018-CFS-006351",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180410",
+  "reactions": [
+    "Dandruff",
+    "Dry skin",
+    "Erythema",
+    "Flushing",
+    "Pain of skin",
+    "Pruritus",
+    "Rash",
+    "Skin burning sensation",
+    "Skin exfoliation"
+  ],
+  "date_started": "20180201",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REVIVE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

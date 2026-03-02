@@ -1,0 +1,58 @@
+{
+  "report_number": "183956",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150317",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CHEST DISCOMFORT",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FEELING HOT",
+    "HEART RATE INCREASED",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "SWOLLEN TONGUE",
+    "URTICARIA"
+  ],
+  "date_started": "20150109",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM (WOMENS ULTRA MEGA ACTIVE WITHOUT IRON) TWO ORANGE CAPLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM BIOTIN 5000 ONE WHITE CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM CLA 1000 YELLOW SOFTGEL CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM WATEREX ONE GRAY FILLED CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM X-12 RED CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

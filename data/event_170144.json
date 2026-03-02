@@ -1,0 +1,31 @@
+{
+  "report_number": "170144",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20130916",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA"
+  ],
+  "date_started": "20130902",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI GREEK YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLINTSTONE MULTIVITAMIN DAILY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

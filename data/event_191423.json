@@ -1,0 +1,50 @@
+{
+  "report_number": "191423",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20151113",
+  "reactions": [
+    "CRYING",
+    "DISCOMFORT",
+    "FLATULENCE",
+    "GASTROINTESTINAL DISORDER",
+    "GASTROINTESTINAL PAIN",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "INFANTILE COLIC",
+    "MILK ALLERGY",
+    "VOMITING"
+  ],
+  "date_started": "20151110",
+  "consumer": {
+    "age": "1",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ALIMENTUM",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SENSITIVE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

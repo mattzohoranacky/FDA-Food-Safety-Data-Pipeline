@@ -1,0 +1,45 @@
+{
+  "report_number": "201443",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160914",
+  "reactions": [
+    "DISCOMFORT",
+    "INSOMNIA",
+    "MUSCLE SPASMS",
+    "SLEEP DISORDER"
+  ],
+  "date_started": "20160817",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER WOMEN'S 50+ (MULTIMINERALS, MULTIVITAMINS) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GLUCOSAMINE HCL/MSN (GLUCOSAMINE HYDROCHLORIDE, METHYLSULFONYLMETHANE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA-3 (SALMO SALAR OIL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C (ASCORBIC ACID)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "report_number": "2022-CFS-009978",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220621",
+  "reactions": [
+    "Abdominal discomfort",
+    "Chromaturia",
+    "Confusional state",
+    "Decreased appetite",
+    "Faeces discoloured",
+    "Fatigue",
+    "Hepatic enzyme increased",
+    "Hepatic steatosis",
+    "Hyperhidrosis",
+    "Jaundice",
+    "Muscle spasms",
+    "Nausea",
+    "Pain",
+    "Pruritus",
+    "Pyrexia"
+  ],
+  "date_started": "20220615",
+  "consumer": {
+    "age": "37.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH LENTIL  LEEK CRUMBLES",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "daily probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "daily vitamin - The Ritual",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

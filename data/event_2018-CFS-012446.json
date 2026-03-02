@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-012446",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180924",
+  "reactions": [
+    "Asthenia",
+    "Blood lactic acid increased",
+    "Blood pressure decreased",
+    "Blood pressure fluctuation",
+    "Diarrhoea",
+    "Fatigue",
+    "Feeling of body temperature change",
+    "Nausea",
+    "Poisoning",
+    "Pyrexia",
+    "Sepsis",
+    "Vomiting"
+  ],
+  "date_started": "20180806",
+  "consumer": {
+    "age": "84",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLUTCH ENERGY CRANBERRY APPLE REVIVE ENERGY DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

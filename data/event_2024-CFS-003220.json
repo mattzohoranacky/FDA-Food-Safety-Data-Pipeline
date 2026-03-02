@@ -1,0 +1,38 @@
+{
+  "report_number": "2024-CFS-003220",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240325",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Panic reaction",
+    "Rash",
+    "Vomiting"
+  ],
+  "date_started": "20240322",
+  "consumer": {
+    "age": "32",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPECIALLY SELECTED DOUBLE CHOCOLATE PREMIUM BROWNIE MIX",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GUMMY VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

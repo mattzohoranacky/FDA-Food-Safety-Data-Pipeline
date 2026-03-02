@@ -1,0 +1,42 @@
+{
+  "report_number": "203263",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20161019",
+  "reactions": [
+    "CHOKING",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "FOREIGN BODY",
+    "NECK INJURY",
+    "ROAD TRAFFIC ACCIDENT",
+    "SPINAL FRACTURE"
+  ],
+  "date_started": "20160802",
+  "consumer": {
+    "age": "87",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION LUTEIN SOFT GELS (CAPSULE, SOFT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM WITH VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POTASSIUM (POTASSIUM)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

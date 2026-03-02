@@ -1,0 +1,37 @@
+{
+  "report_number": "196965",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160601",
+  "reactions": [
+    "BLOOD URINE PRESENT",
+    "CYST",
+    "PAIN",
+    "PROSTATE EXAMINATION ABNORMAL",
+    "PROSTATOMEGALY",
+    "THROMBOSIS",
+    "ULTRASOUND SCAN ABNORMAL"
+  ],
+  "date_started": "20160415",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ANDROZENE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

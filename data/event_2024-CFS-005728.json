@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-005728",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20240605",
+  "reactions": [
+    "Food poisoning",
+    "Malaise"
+  ],
+  "date_started": "20240603",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREENHOUSE GROWN COCKTAIL CUCUMBERS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

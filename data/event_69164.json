@@ -1,0 +1,33 @@
+{
+  "report_number": "69164",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040520",
+  "reactions": [
+    "BURNING SENSATION",
+    "EMERGENCY CARE EXAMINATION",
+    "NAUSEA",
+    "SKIN DISCOLOURATION",
+    "VOMITING"
+  ],
+  "date_started": "20040501",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HENRI'S CLASSIC ORIGINAL FRENCH DRESSING",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RTE CARROTS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

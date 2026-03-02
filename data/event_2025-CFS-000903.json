@@ -1,0 +1,31 @@
+{
+  "report_number": "2025-CFS-000903",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250120",
+  "reactions": [
+    "Abdominal discomfort",
+    "Fatigue",
+    "Headache",
+    "Malaise",
+    "Nausea",
+    "Taste disorder",
+    "Vomiting"
+  ],
+  "date_started": "19920101",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ASPARTAME",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

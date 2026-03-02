@@ -1,0 +1,42 @@
+{
+  "report_number": "2020-CFS-012015",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201120",
+  "reactions": [
+    "Rash"
+  ],
+  "date_started": "20201118",
+  "consumer": {
+    "age": "15",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LORANN OIL CLEARLY CINNAMON",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LORANN OIL PINA COLADA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LORANN OIL TUTTI FRUITY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LORANN OIL WONDERFUL WATERMELON",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

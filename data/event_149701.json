@@ -1,0 +1,36 @@
+{
+  "report_number": "149701",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120223",
+  "reactions": [
+    "FEELING HOT",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "Hypersensitivity",
+    "PARAESTHESIA",
+    "PARAESTHESIA ORAL",
+    "RASH",
+    "RASH ERYTHEMATOUS"
+  ],
+  "date_started": "20120219",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAPLE GROVE FARMS OF VERMONT BUTTERMILK PANCAKE AND WAFFLE MIX",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAPLE SYRUP",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

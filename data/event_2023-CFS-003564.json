@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-003564",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230404",
+  "reactions": [
+    "Blood pressure decreased",
+    "Dizziness",
+    "Loss of consciousness",
+    "Syncope"
+  ],
+  "date_started": "20230225",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIGESTIVE 4LIFE DIGESTIVE ENZYMES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIGESTIVE 4LIFE FIBRE SYSTEM PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

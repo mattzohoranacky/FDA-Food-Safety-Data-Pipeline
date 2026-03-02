@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-012491",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Injury",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241013",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Lip swelling",
+    "Ocular hyperaemia",
+    "Pain",
+    "Pharyngeal swelling",
+    "Pruritus",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20240528",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPROUTS FARMERS MARKET HANDCRAFTED BLACK CHERRY BISCOTTI DRIZZLED WITH BELGIAN CHOCOLATE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

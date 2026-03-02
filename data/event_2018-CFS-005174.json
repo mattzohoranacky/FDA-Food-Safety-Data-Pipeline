@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-005174",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180326",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Pharyngeal oedema",
+    "Urticaria"
+  ],
+  "date_started": "20180325",
+  "consumer": {
+    "age": "7.92",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CASHEWS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

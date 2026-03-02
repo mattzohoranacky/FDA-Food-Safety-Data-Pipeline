@@ -1,0 +1,42 @@
+{
+  "report_number": "200919",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160830",
+  "reactions": [
+    "ANXIETY",
+    "DISCOMFORT",
+    "DYSPNOEA",
+    "HEART RATE INCREASED",
+    "HYPERHIDROSIS",
+    "MYDRIASIS",
+    "NAUSEA",
+    "NERVOUSNESS",
+    "OCULAR HYPERAEMIA",
+    "SLEEP DISORDER",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20160823",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HAWAIIAN KAVA KAVA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

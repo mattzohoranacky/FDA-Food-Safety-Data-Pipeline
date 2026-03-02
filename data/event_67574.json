@@ -1,0 +1,36 @@
+{
+  "report_number": "67574",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040323",
+  "reactions": [
+    "HOSPITALISATION",
+    "MYOCARDIAL INFARCTION",
+    "PALPITATIONS",
+    "PHYSICAL EXAMINATION",
+    "SUPRAVENTRICULAR EXTRASYSTOLES"
+  ],
+  "date_started": "20040221",
+  "consumer": {
+    "age": "48.21",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRYSTAL LIGHT",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

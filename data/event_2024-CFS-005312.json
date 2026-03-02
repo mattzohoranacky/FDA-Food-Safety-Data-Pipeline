@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-005312",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240517",
+  "reactions": [
+    "Diarrhoea",
+    "Hypersensitivity",
+    "Peripheral swelling",
+    "Pharyngeal swelling",
+    "Syncope",
+    "Vomiting"
+  ],
+  "date_started": "20240517",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MOTT'S NO SUGAR ADDED APPLESAUCE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

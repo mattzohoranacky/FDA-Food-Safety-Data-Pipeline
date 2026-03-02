@@ -1,0 +1,30 @@
+{
+  "report_number": "89326",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20061107",
+  "reactions": [
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20061106",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DANNON STRAWBERRY YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RALPH'S PINK FROSTING COOKIES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

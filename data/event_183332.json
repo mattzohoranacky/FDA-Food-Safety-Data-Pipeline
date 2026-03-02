@@ -1,0 +1,38 @@
+{
+  "report_number": "183332",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20141028",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "HEADACHE",
+    "HYPERHIDROSIS",
+    "NAUSEA"
+  ],
+  "date_started": "20141026",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JENNIFER'S GARDEN FROZEN STRAWBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CREAM",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUGAR",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

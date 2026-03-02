@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-003605",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210421",
+  "reactions": [
+    "Abortion spontaneous",
+    "Dizziness",
+    "Epistaxis",
+    "Gait disturbance",
+    "Haematemesis",
+    "Haemorrhage",
+    "Headache",
+    "Mouth haemorrhage",
+    "Nervous system disorder",
+    "Vaginal haemorrhage"
+  ],
+  "date_started": "20210316",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM MULTIGUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM MULTIGUMMIES WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

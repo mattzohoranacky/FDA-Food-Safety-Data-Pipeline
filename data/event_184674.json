@@ -1,0 +1,45 @@
+{
+  "report_number": "184674",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150408",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "DIZZINESS",
+    "HEADACHE",
+    "HEART RATE INCREASED",
+    "HYPERHIDROSIS",
+    "HYPERTENSION",
+    "SINUS TACHYCARDIA",
+    "TREMOR",
+    "VERTIGO"
+  ],
+  "date_started": "20150324",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUFIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVISION TRUWEIGHT & ENERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B-12 INJECTIONS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

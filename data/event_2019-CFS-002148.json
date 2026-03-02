@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-002148",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190227",
+  "reactions": [
+    "Allergy test positive",
+    "Allergy to chemicals",
+    "Dermatitis atopic",
+    "Eczema",
+    "Erythema",
+    "Skin fissures",
+    "Wound secretion"
+  ],
+  "date_started": "20190222",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANTENE DAILY CARE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANTENE DAILY CARE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

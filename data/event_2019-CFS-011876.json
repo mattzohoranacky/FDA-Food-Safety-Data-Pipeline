@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-011876",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20191130",
+  "reactions": [
+    "Abdominal pain upper"
+  ],
+  "date_started": "20190920",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNICITY LIFFIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNICITY NATURE TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNICITY PARRAWY PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

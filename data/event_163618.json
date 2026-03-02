@@ -1,0 +1,36 @@
+{
+  "report_number": "163618",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130321",
+  "reactions": [
+    "CHOKING"
+  ],
+  "date_started": "20130314",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EMERGEN-C (ASCORBIC ACID, B-COMPLEX, ELECTROLYTE, MULTIMINERAL, MULTIVIT, ZINC) POWDER FOR ORAL SOLUTION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM (MINERALS NOS, VITAMINS NOS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EMERGEN-C (MINERALS NOS, QUERCETIN, THIOCTIC ACID, VITAMINS NOS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

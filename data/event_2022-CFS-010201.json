@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-010201",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220627",
+  "reactions": [
+    "Bacterial infection",
+    "Blood bilirubin increased",
+    "Hepatic enzyme increased",
+    "Loss of consciousness",
+    "Nephrolithiasis",
+    "Pain",
+    "Pruritus"
+  ],
+  "date_started": "20220518",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST LENTIL AND LEEK CRUMBLES",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

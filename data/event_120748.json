@@ -1,0 +1,32 @@
+{
+  "report_number": "120748",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090331",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS SALMONELLA",
+    "VOMITING"
+  ],
+  "date_started": "20090312",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARCHER FARMS MIXED NUTS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

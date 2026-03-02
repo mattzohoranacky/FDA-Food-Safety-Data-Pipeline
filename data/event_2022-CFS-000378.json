@@ -1,0 +1,39 @@
+{
+  "report_number": "2022-CFS-000378",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220107",
+  "reactions": [
+    "Abdominal pain upper",
+    "Alopecia",
+    "Anxiety",
+    "Back pain",
+    "Decreased appetite",
+    "Disturbance in attention",
+    "Fatigue",
+    "Malaise",
+    "Nausea",
+    "Swelling"
+  ],
+  "date_started": "20211215",
+  "consumer": {
+    "age": "36.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRUNCHI CHARCOAL BODY BAR EXFOLIATING CITRUS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GARDEN OF LIFE PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

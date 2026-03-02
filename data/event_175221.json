@@ -1,0 +1,50 @@
+{
+  "report_number": "175221",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131114",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "APPETITE DISORDER",
+    "CRYING",
+    "DIARRHOEA",
+    "GASTROENTERITIS SALMONELLA",
+    "GASTROENTERITIS VIRAL",
+    "HAEMATOCHEZIA",
+    "IRRITABILITY",
+    "MALAISE"
+  ],
+  "date_started": "20130917",
+  "consumer": {
+    "age": "72",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INFANT NEOCATE HYPOALLERGENIC, DHA & ARA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRAMIGEN WITH ENFLORA, LGG 8OZ.,",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SENSITIVE WITH LUTEIN, DHA AND IRON",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC TOTAL COMFORT WITH LUTEIN, DHA AND IRON",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

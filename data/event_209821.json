@@ -1,0 +1,30 @@
+{
+  "report_number": "209821",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161125",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "INFLUENZA",
+    "MALAISE",
+    "PYREXIA",
+    "VIRAL TEST POSITIVE"
+  ],
+  "date_started": "20161107",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S HONEY ROASTED PEANUTS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

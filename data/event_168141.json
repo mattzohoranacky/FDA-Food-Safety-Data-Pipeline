@@ -1,0 +1,28 @@
+{
+  "report_number": "168141",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130722",
+  "reactions": [
+    "HEART RATE INCREASED",
+    "MALAISE",
+    "POSTURAL ORTHOSTATIC TACHYCARDIA SYNDROME"
+  ],
+  "date_started": "20130201",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEXYFEN (IMAGE SPORTS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

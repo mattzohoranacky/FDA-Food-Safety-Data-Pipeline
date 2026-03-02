@@ -1,0 +1,31 @@
+{
+  "report_number": "127950",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20100616",
+  "reactions": [
+    "CHILLS",
+    "DIARRHOEA",
+    "FATIGUE",
+    "FEELING OF BODY TEMPERATURE CHANGE"
+  ],
+  "date_started": "20100611",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BREADED FISH STICKS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BUYERS BEST SEASONED FRIES",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

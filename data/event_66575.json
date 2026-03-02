@@ -1,0 +1,33 @@
+{
+  "report_number": "66575",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040209",
+  "reactions": [
+    "BACK PAIN",
+    "CULTURE URINE POSITIVE",
+    "DIARRHOEA",
+    "DYSPNOEA",
+    "HAEMATURIA",
+    "HEADACHE",
+    "IMPAIRED WORK ABILITY",
+    "PHYSICAL EXAMINATION",
+    "PROSTATIC PAIN",
+    "TESTICULAR PAIN"
+  ],
+  "date_started": "20040131",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TESTEROLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

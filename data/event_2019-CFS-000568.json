@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-000568",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190117",
+  "reactions": [
+    "Dizziness",
+    "Kidney infection",
+    "Sepsis",
+    "Syncope",
+    "Urinary tract infection"
+  ],
+  "date_started": "20180703",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

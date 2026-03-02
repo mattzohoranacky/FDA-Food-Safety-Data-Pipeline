@@ -1,0 +1,40 @@
+{
+  "report_number": "208303",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20161207",
+  "reactions": [
+    "Adverse event",
+    "BLOOD PRESSURE FLUCTUATION",
+    "BLOOD PRESSURE INCREASED",
+    "DELIRIUM",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HEADACHE",
+    "LETHARGY",
+    "LISTERIOSIS",
+    "MALAISE",
+    "MENINGITIS",
+    "PHOTOPHOBIA",
+    "PYREXIA",
+    "RASH",
+    "VOMITING"
+  ],
+  "date_started": "20161127",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SABRA HUMMUS  - MULTIPLE FLAVOR VARIETIES",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

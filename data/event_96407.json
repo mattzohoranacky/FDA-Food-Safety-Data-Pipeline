@@ -1,0 +1,40 @@
+{
+  "report_number": "96407",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070913",
+  "reactions": [
+    "DEMYELINATION",
+    "DIABETES MELLITUS NON-INSULIN-DEPENDENT",
+    "GENERAL PHYSICAL HEALTH DETERIORATION",
+    "HYPOAESTHESIA",
+    "LUMBAR PUNCTURE",
+    "OSTEOARTHRITIS",
+    "STUPOR",
+    "THOUGHT BLOCKING",
+    "VISUAL DISTURBANCE"
+  ],
+  "date_started": "20050701",
+  "consumer": {
+    "age": "30.92",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET DR. PEPPER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET MOUNTAIN DEW",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

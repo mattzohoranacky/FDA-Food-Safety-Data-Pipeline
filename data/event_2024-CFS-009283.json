@@ -1,0 +1,43 @@
+{
+  "report_number": "2024-CFS-009283",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240618",
+  "reactions": [
+    "Dysarthria",
+    "Gait disturbance",
+    "Palpitations",
+    "Seizure",
+    "Syncope"
+  ],
+  "date_started": "20231120",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MYCROCHIP PSYCHEDELIC CHOCOLATE BAR",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ASHWAGHANDA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

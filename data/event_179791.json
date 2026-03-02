@@ -1,0 +1,47 @@
+{
+  "report_number": "179791",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20141003",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "HEADACHE",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "RESPIRATORY ARREST",
+    "RESPIRATORY DISTRESS",
+    "URTICARIA",
+    "VOMITING"
+  ],
+  "date_started": "20140909",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NATURALS PROBIOTIC ACIDOPHILUS XTRA CAPLETS (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

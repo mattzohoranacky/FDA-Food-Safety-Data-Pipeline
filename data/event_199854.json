@@ -1,0 +1,60 @@
+{
+  "report_number": "199854",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160728",
+  "reactions": [
+    "ALTERED VISUAL DEPTH PERCEPTION",
+    "AMNESIA",
+    "BALANCE DISORDER",
+    "CEREBROVASCULAR ACCIDENT",
+    "COMA",
+    "CONFUSIONAL STATE",
+    "CONVULSION",
+    "DIZZINESS",
+    "GAIT DISTURBANCE",
+    "HYPERHIDROSIS",
+    "SENSORY LOSS"
+  ],
+  "date_started": "20160225",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL LEAN LIVE LEAN & FIT PAK (DIETARY SUPPLEMENT) PACKET - MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL LEAN LIVE LEAN & FIT PAK (DIETARY SUPPLEMENT) PACKET- APPETREX CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL LEAN LIVE LEAN & FIT PAK (DIETARY SUPPLEMENT) PACKET- BALANCED MOOD SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL LEAN LIVE LEAN & FIT PAK (DIETARY SUPPLEMENT) PACKET- WATEREX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCITRIOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

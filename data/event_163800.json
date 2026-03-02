@@ -1,0 +1,33 @@
+{
+  "report_number": "163800",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130326",
+  "reactions": [
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "RASH"
+  ],
+  "date_started": "20130315",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOTIN 5MG HIGH POTENCY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTH FOOD STORE BRAND B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

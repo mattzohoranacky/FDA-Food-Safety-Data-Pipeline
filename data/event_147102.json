@@ -1,0 +1,33 @@
+{
+  "report_number": "147102",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20111223",
+  "reactions": [
+    "BLOOD CHOLESTEROL INCREASED",
+    "CHOKING",
+    "DYSPHAGIA",
+    "PHARYNGEAL INJURY"
+  ],
+  "date_started": "20111220",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM MULTIMINERALS MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER ULTRA WOMENS MULTIMINERALS MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

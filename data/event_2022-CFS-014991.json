@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-014991",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20221012",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea haemorrhagic",
+    "Lethargy",
+    "Pallor",
+    "Vomiting"
+  ],
+  "date_started": "20221011",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL GENTLEASE NEUROPRO (SUPER SAVER REFILL PACK)",
+      "industry_code": "40N",
+      "industry_name": "Ready to Serve Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

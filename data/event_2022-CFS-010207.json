@@ -1,0 +1,27 @@
+{
+  "report_number": "2022-CFS-010207",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220627",
+  "reactions": [
+    "Abdominal pain",
+    "Bacterial test positive",
+    "Gastroenteritis bacterial",
+    "Hepatic enzyme increased"
+  ],
+  "date_started": "20220512",
+  "consumer": {
+    "age": "32.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

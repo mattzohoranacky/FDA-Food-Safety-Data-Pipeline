@@ -1,0 +1,33 @@
+{
+  "report_number": "204786",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20161129",
+  "reactions": [
+    "BACK PAIN",
+    "LUMBAR VERTEBRAL FRACTURE",
+    "OSTEOPOROTIC FRACTURE",
+    "SPINAL X-RAY ABNORMAL"
+  ],
+  "date_started": "20150101",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL - CALCIUM CARBONATE +VITAMIN D (CALCIUM CARBONATE+ VITAMIN D) COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IBANDRONATE SODIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

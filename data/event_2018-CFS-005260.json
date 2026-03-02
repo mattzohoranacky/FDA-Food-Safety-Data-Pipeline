@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-005260",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180328",
+  "reactions": [
+    "Abdominal pain upper",
+    "Circulatory collapse",
+    "Loss of consciousness",
+    "Palpitations"
+  ],
+  "date_started": "20180317",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TEAMI COLON TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "133512",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101005",
+  "reactions": [
+    "DIARRHOEA",
+    "HEADACHE",
+    "Hospitalisation",
+    "Product contamination physical"
+  ],
+  "date_started": "20100906",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CUB FOODS NATURAL SPRING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2020-CFS-005263",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200518",
+  "reactions": [
+    "Lip swelling"
+  ],
+  "date_started": "20200428",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMERICAN HEALTH ESTER-C 500MG WITH CITRUS BIOFLAVONOIDS VEGETARIAN CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Cranberry capsule",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

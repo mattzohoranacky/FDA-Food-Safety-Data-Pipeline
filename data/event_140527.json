@@ -1,0 +1,28 @@
+{
+  "report_number": "140527",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110624",
+  "reactions": [
+    "BACK PAIN",
+    "BLOOD POTASSIUM INCREASED",
+    "FATIGUE",
+    "RENAL DISORDER"
+  ],
+  "date_started": "20110613",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

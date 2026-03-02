@@ -1,0 +1,40 @@
+{
+  "report_number": "129999",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20100915",
+  "reactions": [
+    "COUGH",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "INSOMNIA",
+    "RESPIRATORY TRACT CONGESTION"
+  ],
+  "date_started": "20100907",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMEN'S ACTIVE MIND AND BODY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "REXALL OMEGA FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

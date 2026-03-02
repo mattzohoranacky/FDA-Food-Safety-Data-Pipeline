@@ -1,0 +1,41 @@
+{
+  "report_number": "216294",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170803",
+  "reactions": [
+    "Chapped lips",
+    "Lip blister",
+    "Lip dry",
+    "Lip haemorrhage",
+    "Lip swelling"
+  ],
+  "date_started": "20170719",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS BLACKBERRY NECTAR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS PASSION FRUIT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Walgreens Multivitamin for women over 50",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

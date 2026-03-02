@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-007457",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210729",
+  "reactions": [
+    "Pruritus",
+    "Skin irritation"
+  ],
+  "date_started": "20210626",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY VITA CRAVES WOMENS GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D 1000 IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-011558",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240912",
+  "reactions": [
+    "Diarrhoea",
+    "Eructation",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20240910",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHELL CHICKEN EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    }
+  ]
+}

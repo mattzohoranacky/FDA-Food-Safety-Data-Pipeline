@@ -1,0 +1,39 @@
+{
+  "report_number": "69695",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040525",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "COUGH",
+    "DYSPNOEA",
+    "FLUSHING",
+    "HOSPITALISATION",
+    "HYPERSENSITIVITY",
+    "Hypersensitivity",
+    "THROAT IRRITATION",
+    "URTICARIA"
+  ],
+  "date_started": "20040519",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WASA FIBER RYE CRACKERS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WASA SOURDOUGH RYE CRACKERS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

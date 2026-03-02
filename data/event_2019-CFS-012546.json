@@ -1,0 +1,35 @@
+{
+  "report_number": "2019-CFS-012546",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20191224",
+  "reactions": [
+    "Cough",
+    "Hypersensitivity",
+    "Lacrimation increased",
+    "Ocular hyperaemia",
+    "Rhinorrhoea",
+    "Throat irritation"
+  ],
+  "date_started": "20191224",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PECAN DIVINITY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

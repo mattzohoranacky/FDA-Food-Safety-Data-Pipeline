@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-005735",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240606",
+  "reactions": [
+    "Loss of consciousness",
+    "Malaise",
+    "Muscle spasms",
+    "Nausea",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20240510",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCOSAMINE CHONDROITIN WITH MSM CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

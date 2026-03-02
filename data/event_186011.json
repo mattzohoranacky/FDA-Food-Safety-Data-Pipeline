@@ -1,0 +1,28 @@
+{
+  "report_number": "186011",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150506",
+  "reactions": [
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "HYPERTENSION"
+  ],
+  "date_started": "20150409",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFE PAK NANO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

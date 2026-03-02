@@ -1,0 +1,30 @@
+{
+  "report_number": "68009",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040406",
+  "reactions": [
+    "COLITIS",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "EMERGENCY CARE EXAMINATION",
+    "HOSPITALISATION",
+    "VOMITING"
+  ],
+  "date_started": "20040212",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VINCE'S FAMOUS SOUTHERN STYLE POTATO SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

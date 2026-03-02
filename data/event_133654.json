@@ -1,0 +1,49 @@
+{
+  "report_number": "133654",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101214",
+  "reactions": [
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FATIGUE",
+    "NAUSEA",
+    "PALPITATIONS",
+    "SINUS TACHYCARDIA"
+  ],
+  "date_started": "20090402",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WELLBEING BE-CLEANSED (CALORIE-CUTTING DIGESTIVE ENZYME)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WELLBEING BE-CLEANSED (CLEANSING FORMULA)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WELLBEING BE-CLEANSED (DAILY DETOX PAK)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WELLBEING BE-CLEANSED LIQUID BODY PURIFIER (CITRUS FLAVOR)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

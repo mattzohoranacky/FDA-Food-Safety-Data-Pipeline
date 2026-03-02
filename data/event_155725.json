@@ -1,0 +1,30 @@
+{
+  "report_number": "155725",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120821",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "NAUSEA",
+    "VOMITING",
+    "Vibrio test positive"
+  ],
+  "date_started": "20120709",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

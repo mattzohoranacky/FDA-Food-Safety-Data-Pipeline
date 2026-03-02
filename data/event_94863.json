@@ -1,0 +1,38 @@
+{
+  "report_number": "94863",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070718",
+  "reactions": [
+    "Adverse reaction",
+    "BLISTER",
+    "CRYING",
+    "ERYTHEMA",
+    "PAIN",
+    "RASH PAPULAR",
+    "SKIN DISCOLOURATION",
+    "SKIN DISORDER",
+    "SKIN EXFOLIATION"
+  ],
+  "date_started": "20070605",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLD SPICE RED ZONE DEODORANT GUARANTEED PERFORMANCE SHOW TIME",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OLD SPICE RED ZONE GUARANTEED PERFORMANCE AFTER HOURS DEODORANT SOLID STICK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

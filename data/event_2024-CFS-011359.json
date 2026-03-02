@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-011359",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240307",
+  "reactions": [
+    "Diarrhoea",
+    "Oropharyngeal pain",
+    "Pruritus",
+    "Vomiting"
+  ],
+  "date_started": "20240819",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOSTESS DING DONG",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "188431",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150803",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DECREASED APPETITE",
+    "ERUCTATION",
+    "FLATULENCE",
+    "NAUSEA",
+    "PAIN"
+  ],
+  "date_started": "20150731",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA - SUCRALOSE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULITVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-004477",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240421",
+  "reactions": [
+    "Petechiae",
+    "Vomiting projectile"
+  ],
+  "date_started": "20240416",
+  "consumer": {
+    "age": "62.5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S GLUTEN FREE CHOCOLATE CHUNK COOKIES WITH SEA SALT",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "METAMUCIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

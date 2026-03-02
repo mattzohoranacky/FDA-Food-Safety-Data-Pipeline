@@ -1,0 +1,46 @@
+{
+  "report_number": "2020-CFS-005907",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200611",
+  "reactions": [
+    "Blood electrolytes decreased",
+    "Blood glucose increased",
+    "Blood potassium decreased",
+    "Headache",
+    "Urinary tract infection",
+    "Urine ketone body present"
+  ],
+  "date_started": "20200508",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYNGULAR ACCELERATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYNGULAR LEAN VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYNGULAR TRIMSTIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYNGULAR XYNG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "report_number": "2017-CFS-001296",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171022",
+  "reactions": [
+    "Abdominal pain upper",
+    "Food poisoning"
+  ],
+  "date_started": "20171019",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MOZARELLA STICKS",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

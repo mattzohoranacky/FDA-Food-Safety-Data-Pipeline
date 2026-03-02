@@ -1,0 +1,36 @@
+{
+  "report_number": "112371",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20080708",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "NAUSEA"
+  ],
+  "date_started": "20080610",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOPLAIT ORANGE CREAM YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOPLAIT STRAWBERRY CHEESECAKE YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "YOPLAIT FRENCH VANILLA YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

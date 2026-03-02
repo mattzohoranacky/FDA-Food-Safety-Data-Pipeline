@@ -1,0 +1,44 @@
+{
+  "report_number": "86616",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20060614",
+  "reactions": [
+    "DIZZINESS",
+    "FREQUENT BOWEL MOVEMENTS",
+    "MALAISE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20060607",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BUMBLE BEE PRIME FILLET SOLID WHITE ALBACORE TUNA IN WATER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OLIVE OIL",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ROMAINE LETTUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STEAMED SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

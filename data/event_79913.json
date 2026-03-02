@@ -1,0 +1,44 @@
+{
+  "report_number": "79913",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050114",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "FLUSHING",
+    "HYPERHIDROSIS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20041012",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S AHI",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BLACK BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GINGER",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SOY SAUCE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

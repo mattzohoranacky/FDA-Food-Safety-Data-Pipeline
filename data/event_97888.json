@@ -1,0 +1,37 @@
+{
+  "report_number": "97888",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070417",
+  "reactions": [
+    "ASTHENIA",
+    "FATIGUE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20070416",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PICTSWEET SUMMER VEGETABLES (FROZEN)",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHICKEN BREAST",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MASHED POTATOES",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "81680",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20041203",
+  "reactions": [
+    "BURNING SENSATION",
+    "CAUSTIC INJURY",
+    "Chemical injury",
+    "ERYTHEMA",
+    "EYE IRRITATION",
+    "PHYSICAL EXAMINATION",
+    "SWELLING"
+  ],
+  "date_started": "20041201",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOVE INTENSE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOVE INTENSE MOISTURE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-002499",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210317",
+  "reactions": [
+    "Dyspnoea",
+    "Foreign body",
+    "Throat irritation"
+  ],
+  "date_started": "20210309",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL MAXIMUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CITRACAL, MAXIMUM, BAYER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

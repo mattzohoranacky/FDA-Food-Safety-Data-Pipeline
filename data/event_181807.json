@@ -1,0 +1,54 @@
+{
+  "report_number": "181807",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150107",
+  "reactions": [
+    "BLOOD PRESSURE DECREASED",
+    "BLOOD PRESSURE FLUCTUATION",
+    "BLOOD PRESSURE INCREASED",
+    "EYE HAEMORRHAGE",
+    "GAIT DISTURBANCE",
+    "HEART RATE INCREASED",
+    "VERTIGO"
+  ],
+  "date_started": "20141211",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION HEALTY BLOOD PRESSURE FORMULA CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COQ10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LINOLEIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE A DAY VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

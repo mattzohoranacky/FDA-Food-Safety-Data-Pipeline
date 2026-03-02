@@ -1,0 +1,39 @@
+{
+  "report_number": "143735",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110920",
+  "reactions": [
+    "DYSPNOEA",
+    "FATIGUE",
+    "FEELING JITTERY",
+    "HEADACHE",
+    "HEART RATE INCREASED",
+    "NAUSEA",
+    "NERVOUSNESS",
+    "POOR QUALITY SLEEP",
+    "VISION BLURRED"
+  ],
+  "date_started": "20110905",
+  "consumer": {
+    "age": "63.83",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STACKER 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STACKER 3 WITH CHITOSAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

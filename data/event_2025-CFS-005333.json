@@ -1,0 +1,43 @@
+{
+  "report_number": "2025-CFS-005333",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20250409",
+  "reactions": [
+    "Biopsy liver abnormal",
+    "Blood bilirubin increased",
+    "Fatigue",
+    "Jaundice hepatocellular",
+    "Liver function test abnormal",
+    "Nausea",
+    "Urine abnormality"
+  ],
+  "date_started": "20230131",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METOBOLIC RESEARCH CENTER CORTI-TRIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MRC-6",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHENTRATRIM PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

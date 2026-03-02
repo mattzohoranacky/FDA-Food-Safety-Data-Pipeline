@@ -1,0 +1,30 @@
+{
+  "report_number": "91464",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070216",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ARTHRALGIA",
+    "NAUSEA"
+  ],
+  "date_started": "20070201",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF PEANUT BUTTER, EXTRA CRUNCHY",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BANANA",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

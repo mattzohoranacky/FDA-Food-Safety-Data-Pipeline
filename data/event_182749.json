@@ -1,0 +1,32 @@
+{
+  "report_number": "182749",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150204",
+  "reactions": [
+    "CHOKING",
+    "DYSPHAGIA",
+    "TOOTH FRACTURE"
+  ],
+  "date_started": "20140903",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLINTSTONES COMPLETE MULTIVITAMINS + MINERALS CHEWABLE TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WOMEN'S MULTI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

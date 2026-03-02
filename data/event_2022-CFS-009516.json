@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-009516",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220610",
+  "reactions": [
+    "Blood pressure increased"
+  ],
+  "date_started": "20220518",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING VALLEY RAPID RELEASE MAGNESIUM CITRATE 100MG CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Unspecified Omega-3 Fish Oil Product",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

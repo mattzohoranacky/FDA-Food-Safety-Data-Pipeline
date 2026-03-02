@@ -1,0 +1,50 @@
+{
+  "report_number": "2022-CFS-008765",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20220525",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal distension",
+    "Body temperature increased",
+    "Eye pain",
+    "Fatigue",
+    "Headache",
+    "Myalgia",
+    "Pain",
+    "Pyrexia"
+  ],
+  "date_started": "20220517",
+  "consumer": {
+    "age": "25.2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF CRUNCHY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-005004",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240503",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Vomiting"
+  ],
+  "date_started": "20240501",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOOD WHOLE MILK VITAMIN D PASTEURIZED",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

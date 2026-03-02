@@ -1,0 +1,65 @@
+{
+  "report_number": "193573",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160212",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "BLOOD CALCIUM DECREASED",
+    "BLOOD POTASSIUM DECREASED",
+    "BLOOD TEST ABNORMAL",
+    "BOWEL MOVEMENT IRREGULARITY",
+    "DEFAECATION URGENCY",
+    "DIZZINESS",
+    "FEELING HOT",
+    "HYPERHIDROSIS",
+    "HYPOTENSION",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20160120",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN 50 PLUS VITAPAK PACKET - 50 PLUS MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN 50 PLUS VITAPAK PACKET - HEALTHY AGING ANTIOXIDANT SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN 50 PLUS VITAPAK PACKET - HIGH POTENCY EPA & DHA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN 50 PLUS VITAPAK PACKET - MEN'S PROSTATE FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN 50 PLUS VITAPAK PACKET - MENTAL SHARPNESS SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EQUATE BRAND MULTI-VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

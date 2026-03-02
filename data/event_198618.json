@@ -1,0 +1,36 @@
+{
+  "report_number": "198618",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160714",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "BACTERIAL INFECTION",
+    "COLITIS",
+    "GASTRITIS",
+    "HAEMORRHAGE"
+  ],
+  "date_started": "20151113",
+  "consumer": {
+    "age": "70.83",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALL DAY ENERGY GREENS FRUITY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

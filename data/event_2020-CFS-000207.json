@@ -1,0 +1,39 @@
+{
+  "report_number": "2020-CFS-000207",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200107",
+  "reactions": [
+    "Dandruff",
+    "Inflammation",
+    "Pruritus",
+    "Scab"
+  ],
+  "date_started": "20190501",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ARC ANGEL GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOWPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL MELT INTO MOISTURE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

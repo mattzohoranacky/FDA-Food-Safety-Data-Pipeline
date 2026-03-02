@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-002310",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190225",
+  "reactions": [
+    "Aspiration",
+    "Choking"
+  ],
+  "date_started": "20190204",
+  "consumer": {
+    "age": "7",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DG BABY GRIPE WATER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Similiac alimentium formula",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

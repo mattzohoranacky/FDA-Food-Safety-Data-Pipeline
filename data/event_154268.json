@@ -1,0 +1,35 @@
+{
+  "report_number": "154268",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120702",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse reaction",
+    "FLATULENCE",
+    "MALAISE",
+    "RETCHING",
+    "VOMITING"
+  ],
+  "date_started": "20120702",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POM LIGHT POM JUICE BLACKBERRY FLAVOR",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CA MG ZN SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

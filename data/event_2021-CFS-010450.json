@@ -1,0 +1,48 @@
+{
+  "report_number": "2021-CFS-010450",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20211013",
+  "reactions": [
+    "Death"
+  ],
+  "date_started": "20211002",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MITROGYNA SPECIOSA KRATOM FS MAENG DA EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MITROGYNA SPECIOSA KRATOM RED VEIN KALI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Full Spectrum Kratom Extract",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Mitragyna Speciosa Kratom Enhanced Maeng Da Thai Kratom",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Mitragyna Speciosa Kratom Ultra Enhanced Indo",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "2018-CFS-009076",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180708",
+  "reactions": [
+    "Anxiety",
+    "Dyspepsia",
+    "Hyperhidrosis"
+  ],
+  "date_started": "20180708",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRIME-T TESTOSTERONE OPTIMIZATION FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

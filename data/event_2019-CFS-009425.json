@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-009425",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190911",
+  "reactions": [
+    "Diarrhoea",
+    "Lethargy",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20190802",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NESTLE THE ORIGINAL SUNDAE CONE DRUMSTICK SUPER NUGGET STRAWBERRY",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NESTLE THE ORIGINAL SUNDAE CONE DRUMSTICK SUPER NUGGET VANILLA",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NESTLE THE ORIGINAL SUNDAE CONE DRUMSTICK SUPER NUGGET VANILLA FUDGE",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

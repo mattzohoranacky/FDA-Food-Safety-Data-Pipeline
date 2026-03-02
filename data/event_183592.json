@@ -1,0 +1,52 @@
+{
+  "report_number": "183592",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150227",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "DYSPHAGIA",
+    "HYPERSENSITIVITY",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20150211",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORTEGA TACO SEASONING MIX WITH 40% LESS SODIUM",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ORTEGA FLOUR TORTILLAS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ORTEGA TACOS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SARGENTO LOW-FAT, SHREDDED, CHEDDAR CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

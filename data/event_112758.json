@@ -1,0 +1,31 @@
+{
+  "report_number": "112758",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20090505",
+  "reactions": [
+    "ANGER",
+    "DIZZINESS"
+  ],
+  "date_started": "20090504",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "7-UP",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCHWEPPES DIET TONIC WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

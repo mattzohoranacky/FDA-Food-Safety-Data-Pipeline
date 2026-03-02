@@ -1,0 +1,42 @@
+{
+  "report_number": "2024-CFS-009695",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240710",
+  "reactions": [
+    "Blood lead increased"
+  ],
+  "date_started": "20240607",
+  "consumer": {
+    "age": "9",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOGO SQUEEZ ORGANIC APPLE APPLE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOGO SQUEEZ ORGANIC APPLE CINNAMON",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOGO SQUEEZ ORGANIC APPLE PEACH",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOGO SQUEEZ ORGANIC APPLE STRAWBERRY",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

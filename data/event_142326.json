@@ -1,0 +1,37 @@
+{
+  "report_number": "142326",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110808",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "BLOOD POTASSIUM INCREASED",
+    "CONSTIPATION",
+    "PAIN"
+  ],
+  "date_started": "20110706",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE 21-DAY HERBAL CLEANSING PROGRAM AM TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE 21-DAY HERBAL CLEANSING PROGRAM PM TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE FLORAFIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

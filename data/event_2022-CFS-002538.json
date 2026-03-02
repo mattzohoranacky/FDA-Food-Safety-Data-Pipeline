@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-002538",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220221",
+  "reactions": [
+    "Malnutrition",
+    "Musculoskeletal deformity",
+    "Vomiting",
+    "Weight gain poor"
+  ],
+  "date_started": "20210801",
+  "consumer": {
+    "age": "9",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT ELECARE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

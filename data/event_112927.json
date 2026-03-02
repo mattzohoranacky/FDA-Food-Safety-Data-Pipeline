@@ -1,0 +1,43 @@
+{
+  "report_number": "112927",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090306",
+  "reactions": [
+    "Adverse reaction",
+    "CYANOSIS",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FEELING HOT",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "FLUSHING",
+    "HYPERSENSITIVITY",
+    "LOCAL SWELLING",
+    "PRURITUS",
+    "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20090211",
+  "consumer": {
+    "age": "18",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KASHI GO LEAN CRUNCH, PROTEIN AND HIGH FIBER CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LOWFAT MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

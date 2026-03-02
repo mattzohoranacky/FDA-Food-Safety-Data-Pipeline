@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-005261",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210603",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea"
+  ],
+  "date_started": "20210602",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S SNOW PEAS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S VEGAN RANCH CRUNCH SALAD KIT",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

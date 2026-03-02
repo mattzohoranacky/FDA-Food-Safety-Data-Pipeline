@@ -1,0 +1,37 @@
+{
+  "report_number": "92753",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20070202",
+  "reactions": [
+    "COUGH",
+    "HYPERSENSITIVITY",
+    "PRODUCTIVE COUGH"
+  ],
+  "date_started": "20070128",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANCIENT HARVEST QUINOA FLAKES",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SOY MILK",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SYRUP",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

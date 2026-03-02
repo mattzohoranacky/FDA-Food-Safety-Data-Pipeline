@@ -1,0 +1,30 @@
+{
+  "report_number": "157067",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120926",
+  "reactions": [
+    "BLISTER",
+    "CHEMICAL BURN OF SKIN",
+    "EYE SWELLING",
+    "RASH GENERALISED",
+    "RETINAL EXUDATES",
+    "SKIN EXFOLIATION"
+  ],
+  "date_started": "20120918",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BURBERRY EAU DE TOILLET",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

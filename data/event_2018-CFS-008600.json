@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-008600",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180623",
+  "reactions": [
+    "Bacterial infection",
+    "Dyspnoea",
+    "Grunting"
+  ],
+  "date_started": "20180611",
+  "consumer": {
+    "age": "12",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRO-ADVANCE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRO-SENSITIVE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

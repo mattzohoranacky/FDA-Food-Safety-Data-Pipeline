@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-003170",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200303",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Hair texture abnormal"
+  ],
+  "date_started": "20180301",
+  "consumer": {
+    "age": "31.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL BELIEVE IN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO POO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-012321",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241007",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Erythema",
+    "Feeling hot",
+    "Food poisoning",
+    "Heart rate increased"
+  ],
+  "date_started": "20241001",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SEATTLE FISH COMPANY SUSHI GRADE TUNA STEAKS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "87569",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20060811",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20060807",
+  "consumer": {
+    "age": "9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPICE WORLD MINCED GARLIC",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHOPPED TOMATO",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONION",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

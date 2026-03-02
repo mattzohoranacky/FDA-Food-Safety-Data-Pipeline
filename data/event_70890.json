@@ -1,0 +1,35 @@
+{
+  "report_number": "70890",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040729",
+  "reactions": [
+    "DEHYDRATION",
+    "EYE INFLAMMATION",
+    "EYE PAIN",
+    "EYE SWELLING",
+    "FACE INJURY",
+    "RASH",
+    "RENAL DISORDER",
+    "SKIN INJURY"
+  ],
+  "date_started": "20040530",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ULTRA VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

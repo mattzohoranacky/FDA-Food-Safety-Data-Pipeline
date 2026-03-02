@@ -1,0 +1,47 @@
+{
+  "report_number": "206958",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170126",
+  "reactions": [
+    "ARTHROPOD BITE",
+    "DRY EYE",
+    "EAR DISCOMFORT",
+    "EYE PRURITUS",
+    "PRURITUS",
+    "SECRETION DISCHARGE"
+  ],
+  "date_started": "20160704",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN SWEET ALMOND MINT CLEANSING MOUSSE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN SWEET ALMOND MINT CLEANSING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALTRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

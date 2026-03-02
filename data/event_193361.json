@@ -1,0 +1,40 @@
+{
+  "report_number": "193361",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140814",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "ANAPHYLACTIC REACTION",
+    "Adverse reaction",
+    "CHOKING",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "HEADACHE",
+    "NASAL CONGESTION",
+    "OCULAR HYPERAEMIA",
+    "PYREXIA",
+    "RASH",
+    "WHEEZING"
+  ],
+  "date_started": "20140807",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE BUNNY TWIN POP ORANGE FLAVOR ICE POP",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

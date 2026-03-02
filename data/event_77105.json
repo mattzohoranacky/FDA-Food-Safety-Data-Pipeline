@@ -1,0 +1,39 @@
+{
+  "report_number": "77105",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050325",
+  "reactions": [
+    "ERYTHEMA",
+    "PRURITUS",
+    "RASH PAPULAR",
+    "SKIN WARM"
+  ],
+  "date_started": "20050201",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA SWEETENER",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-002177",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210309",
+  "reactions": [
+    "Dizziness",
+    "Vomiting"
+  ],
+  "date_started": "20210306",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET MOUNTAIN DEW",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

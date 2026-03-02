@@ -1,0 +1,37 @@
+{
+  "report_number": "208459",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170302",
+  "reactions": [
+    "ARRHYTHMIA",
+    "BLOOD IRON DECREASED",
+    "DIARRHOEA",
+    "FATIGUE",
+    "HYPERHIDROSIS",
+    "SYNCOPE",
+    "TREMOR"
+  ],
+  "date_started": "20161201",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLDEN MILK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MENTAL ALERTNESS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

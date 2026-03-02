@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-002957",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210401",
+  "reactions": [
+    "Abdominal discomfort",
+    "Acne cystic",
+    "Gastrointestinal disorder",
+    "Hormone level abnormal",
+    "Vomiting projectile"
+  ],
+  "date_started": "20210129",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TEAM LEAL SUPPS MODERN SCIENCE LABS - AURA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TEAM LEAL SUPPS MODERN SCIENCE LABS - CATALYST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TEAM LEAL SUPPS MODERN SCIENCE LABS - EASY GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "2023-CFS-007512",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230719",
+  "reactions": [
+    "Blood sodium decreased",
+    "Disorientation",
+    "Dysphemia",
+    "Fatigue",
+    "Headache",
+    "Hypertension",
+    "Malaise",
+    "Nausea",
+    "Palpitations",
+    "Tachycardia",
+    "Tremor"
+  ],
+  "date_started": "20230626",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROBIOTIC STICK PACK 30CT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVITALIZE 30CT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

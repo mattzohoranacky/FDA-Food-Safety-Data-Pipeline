@@ -1,0 +1,30 @@
+{
+  "report_number": "157211",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20121001",
+  "reactions": [
+    "COUGH",
+    "HEADACHE",
+    "INSOMNIA",
+    "NAUSEA",
+    "SKIN BURNING SENSATION",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20120927",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COPPOLA HAIR SMOOTHING TREATMENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

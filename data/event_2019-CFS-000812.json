@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-000812",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20190129",
+  "reactions": [
+    "Vomiting"
+  ],
+  "date_started": "20190127",
+  "consumer": {
+    "age": "5.8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE SWEET CHERUBS HEAVENLY SALAD TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

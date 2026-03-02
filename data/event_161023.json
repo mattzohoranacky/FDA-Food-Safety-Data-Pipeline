@@ -1,0 +1,36 @@
+{
+  "report_number": "161023",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130103",
+  "reactions": [
+    "Adverse event",
+    "DIARRHOEA",
+    "FALL",
+    "HAEMATOCHEZIA",
+    "HAEMORRHAGE",
+    "HEAD INJURY",
+    "LOSS OF CONSCIOUSNESS",
+    "MALAISE",
+    "RECTAL HAEMORRHAGE",
+    "SYNCOPE"
+  ],
+  "date_started": "20121231",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE FOODS MARKET ALTERNATIVE FUEL VEGETABLE JUICE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

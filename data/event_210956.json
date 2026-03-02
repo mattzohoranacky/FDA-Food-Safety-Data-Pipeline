@@ -1,0 +1,42 @@
+{
+  "report_number": "210956",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170426",
+  "reactions": [
+    "DIARRHOEA",
+    "DIZZINESS",
+    "GASTROINTESTINAL PAIN",
+    "MALAISE",
+    "MUSCLE SPASMS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20170425",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IGREEEN SOY STEAK JERKY",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROOT BEER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIDENT GUM",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

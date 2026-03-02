@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-007252",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180518",
+  "reactions": [
+    "Cheilitis",
+    "Lip exfoliation",
+    "Lip pain",
+    "Rash"
+  ],
+  "date_started": "20180507",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS LIP BALM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHAPSTICK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

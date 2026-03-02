@@ -1,0 +1,47 @@
+{
+  "report_number": "2025-CFS-011380",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20250717",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diverticulitis",
+    "Dyspnoea",
+    "Infection",
+    "Large intestine perforation",
+    "Painful respiration"
+  ],
+  "date_started": "20250625",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE MB CORE ACTIVATE GLP 1 NATURALLY REDUCE CRAVINGS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE MB ENHANCE VANILLA DRINK MIX IN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE PROTANDIM NRF2 SYNERGIZER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE TRUESCIENCE LIQUID COLLAGEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

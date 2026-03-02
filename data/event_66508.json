@@ -1,0 +1,36 @@
+{
+  "report_number": "66508",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20040210",
+  "reactions": [
+    "DRUG TOXICITY",
+    "DYSPHONIA",
+    "DYSPNOEA",
+    "HOSPITALISATION",
+    "HYPERSENSITIVITY",
+    "HYPOVENTILATION",
+    "PALLOR",
+    "PARKINSON'S DISEASE",
+    "RESPIRATORY ARREST",
+    "THINKING ABNORMAL",
+    "TREMOR"
+  ],
+  "date_started": "20030927",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCOSAMINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-007536",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200806",
+  "reactions": [
+    "Exposure to chemical pollution",
+    "Mesothelioma"
+  ],
+  "date_started": "20200120",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

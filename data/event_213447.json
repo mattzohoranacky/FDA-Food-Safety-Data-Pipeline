@@ -1,0 +1,25 @@
+{
+  "report_number": "213447",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170511",
+  "reactions": [
+    "MALAISE",
+    "POISONING"
+  ],
+  "date_started": "20170503",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COCONUT JUICE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

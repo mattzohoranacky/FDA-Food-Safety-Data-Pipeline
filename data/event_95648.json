@@ -1,0 +1,32 @@
+{
+  "report_number": "95648",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070820",
+  "reactions": [
+    "INFECTION",
+    "MALAISE"
+  ],
+  "date_started": "20070711",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUICE PLUS GARDEN BLEND 1.5G",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUICE PLUS ORCHARD BLEND 1.5G",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "146531",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110728",
+  "reactions": [
+    "DEATH",
+    "NECROTISING COLITIS"
+  ],
+  "date_started": "20110629",
+  "consumer": {
+    "age": "3",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC HUMAN MILK FORTIFIER",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "114511",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090623",
+  "reactions": [
+    "BLOOD POTASSIUM DECREASED",
+    "HEADACHE",
+    "PALPITATIONS",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20090621",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZANTREX 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

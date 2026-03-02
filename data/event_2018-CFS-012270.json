@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-012270",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20181009",
+  "reactions": [
+    "Oral discomfort"
+  ],
+  "date_started": "20181008",
+  "consumer": {
+    "age": "31.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOMINO CONFECTIONERS SUGAR",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Prenatal vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

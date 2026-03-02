@@ -1,0 +1,26 @@
+{
+  "report_number": "2021-CFS-009251",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210909",
+  "reactions": [
+    "Condition aggravated",
+    "Grand mal convulsion"
+  ],
+  "date_started": "20210101",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GUNDRY MD BIO COMPLETE 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "2023-CFS-005242",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230522",
+  "reactions": [
+    "Abdominal pain upper",
+    "Liver disorder"
+  ],
+  "date_started": "20210821",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REAL WATER",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

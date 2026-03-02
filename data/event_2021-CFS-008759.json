@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-008759",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210824",
+  "reactions": [
+    "Abdominal hernia",
+    "Adenoma benign",
+    "Decreased appetite",
+    "Diverticulitis",
+    "Dizziness",
+    "Gastric disorder",
+    "Pleural disorder",
+    "Sinus tachycardia",
+    "Vaginal discharge"
+  ],
+  "date_started": "20200601",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CULTURELLE (LACTOBACILLUS RHAMNISUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY CALCIUM 1200MG PLUS VIT 03 1000IU RPO RELEASE LIQUID SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

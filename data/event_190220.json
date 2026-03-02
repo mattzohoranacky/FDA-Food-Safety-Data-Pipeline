@@ -1,0 +1,83 @@
+{
+  "report_number": "190220",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20151002",
+  "reactions": [
+    "BLEPHAROSPASM",
+    "BLOOD PRESSURE INCREASED",
+    "DEHYDRATION",
+    "FACIAL SPASM",
+    "HYPERSENSITIVITY",
+    "LOCAL SWELLING",
+    "RENAL DISORDER",
+    "RENAL FUNCTION TEST ABNORMAL",
+    "SKIN DISCOLOURATION",
+    "VOMITING"
+  ],
+  "date_started": "20150911",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING -7 DAY PROGRAM [BLOOD CIRCULATION  PM PACKET]",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING -7 DAY PROGRAM [ENZYME BLEND  AM PACKET]",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING -7 DAY PROGRAM [ENZYME BLEND  PM PACKET]",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING -7 DAY PROGRAM [FIBER AND PREBIOTIC BLEND PACKET]",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING -7 DAY PROGRAM [GASTRO FORMULA - AM PACKET]",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING -7 DAY PROGRAM [KIDNEY HEALTH  PM PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING -7 DAY PROGRAM [LIVER CLEANSER  PM PACKET]",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING -7 DAY PROGRAM [PROBIOTICS  ACIDOPHILUS]",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING -7 DAY PROGRAM [TOTAL CLEANSER  AM PACKET]",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

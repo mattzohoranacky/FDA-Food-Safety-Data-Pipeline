@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-017309",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20221218",
+  "reactions": [
+    "Alopecia",
+    "Erythema",
+    "Parosmia",
+    "Pruritus"
+  ],
+  "date_started": "20221201",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

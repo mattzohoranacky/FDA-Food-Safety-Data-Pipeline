@@ -1,0 +1,37 @@
+{
+  "report_number": "2021-CFS-001897",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210301",
+  "reactions": [
+    "Malaise",
+    "Vomiting"
+  ],
+  "date_started": "20210228",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTHS STUFF ORGANIC BABY FOOD",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLINSTONE VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MELATONIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

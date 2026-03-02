@@ -1,0 +1,42 @@
+{
+  "report_number": "2021-CFS-006921",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20210719",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Malaise",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20210719",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PUBLIX COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PUBLIX DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PUBLIX LEMON-LIME SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PUBLIX ORANGE SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

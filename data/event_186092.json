@@ -1,0 +1,28 @@
+{
+  "report_number": "186092",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150515",
+  "reactions": [
+    "DEHYDRATION",
+    "ESCHERICHIA BACTERAEMIA",
+    "URINARY TRACT INFECTION",
+    "VOMITING"
+  ],
+  "date_started": "20150507",
+  "consumer": {
+    "age": "7",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTHS BEST TURKEY AND VEGETABLES",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

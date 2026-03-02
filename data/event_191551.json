@@ -1,0 +1,32 @@
+{
+  "report_number": "191551",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151119",
+  "reactions": [
+    "DIARRHOEA",
+    "GASTROINTESTINAL DISORDER",
+    "VOMITING"
+  ],
+  "date_started": "20151013",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MATERNE GOGO SQUEEZ FRUIT&VEGGIEZ ZIPPIN' ZINGIN' PEAR",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POUCHED SMUCKERS PRODUCTS",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

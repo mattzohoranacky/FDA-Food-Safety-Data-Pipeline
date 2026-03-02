@@ -1,0 +1,47 @@
+{
+  "report_number": "155173",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120803",
+  "reactions": [
+    "BACK PAIN",
+    "BLOOD PRESSURE INCREASED",
+    "CARDIAC FLUTTER",
+    "CHEST PAIN",
+    "DISCOMFORT",
+    "DYSPNOEA",
+    "EMOTIONAL DISTRESS",
+    "EMPHYSEMA",
+    "ERYTHEMA",
+    "GAIT DISTURBANCE",
+    "HEART RATE INCREASED",
+    "LIGAMENT SPRAIN",
+    "MUSCLE SPASMS",
+    "PALPITATIONS",
+    "SKIN WARM",
+    "SWELLING",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20120616",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COQ MAX DAILY PLUS RESVERATROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KRILL OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

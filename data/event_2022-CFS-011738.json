@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-011738",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220728",
+  "reactions": [
+    "Liver disorder"
+  ],
+  "date_started": "20210515",
+  "consumer": {
+    "age": "69.23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTHY WAY PURE SAM-E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Amazon.com: Healthy Way Pure SAM-e 500mg 90 Capsules (S-Adenosyl Methionine) Supports Health & Brain",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "2021-CFS-008904",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210829",
+  "reactions": [
+    "Balance disorder",
+    "Convulsion",
+    "Disorientation",
+    "Nausea",
+    "Syncope"
+  ],
+  "date_started": "20210819",
+  "consumer": {
+    "age": "68.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

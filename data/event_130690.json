@@ -1,0 +1,27 @@
+{
+  "report_number": "130690",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101005",
+  "reactions": [
+    "BLOOD POTASSIUM DECREASED",
+    "DYSPNOEA",
+    "POLLAKIURIA"
+  ],
+  "date_started": "20100922",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONSTER ENERGY DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-012450",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Injury",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241012",
+  "reactions": [
+    "Fatigue",
+    "Headache",
+    "Pain",
+    "Swelling"
+  ],
+  "date_started": "20240801",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRYSTAL GEYSER WATER 365 SPRING WATER365 COCONUT WATER365 ALKALINE AND ELECTROLYTE WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

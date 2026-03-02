@@ -1,0 +1,31 @@
+{
+  "report_number": "128220",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100630",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "FACE OEDEMA",
+    "NAUSEA",
+    "URTICARIA",
+    "VOMITING"
+  ],
+  "date_started": "20100629",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GATORADE RECOVER O3 (LEMON-LIME-ORANGE FLAVOR)",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

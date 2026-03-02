@@ -1,0 +1,37 @@
+{
+  "report_number": "165810",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130521",
+  "reactions": [
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "HYPERHIDROSIS",
+    "LOSS OF CONSCIOUSNESS",
+    "MALAISE",
+    "VISION BLURRED",
+    "VOMITING"
+  ],
+  "date_started": "20130427",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRI-HEALTH SUPPLEMENTS ARTHROZYME PLUS JOINT & MUSCLE HVL LLC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

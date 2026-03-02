@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-013550",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220901",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Skin disorder"
+  ],
+  "date_started": "20220601",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX COCONUT MIRACLE OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Women's multi vitamin Probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

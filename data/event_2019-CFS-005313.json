@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-005313",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190529",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Hypoaesthesia",
+    "Hypotension",
+    "Paraesthesia",
+    "Pruritus",
+    "Somnolence",
+    "Swollen tongue",
+    "Urticaria"
+  ],
+  "date_started": "20190303",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "5-HTP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

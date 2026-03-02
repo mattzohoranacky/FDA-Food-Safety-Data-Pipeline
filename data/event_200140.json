@@ -1,0 +1,27 @@
+{
+  "report_number": "200140",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160815",
+  "reactions": [
+    "COUGH",
+    "NASAL CONGESTION",
+    "RESPIRATORY DISTRESS",
+    "WHEEZING"
+  ],
+  "date_started": "20160308",
+  "consumer": {
+    "age": "154",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRI-VITA DROPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

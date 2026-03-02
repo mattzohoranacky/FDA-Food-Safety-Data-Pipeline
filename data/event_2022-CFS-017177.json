@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-017177",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20221213",
+  "reactions": [
+    "Abdominal pain upper",
+    "Asthenia",
+    "Chills",
+    "Dehydration",
+    "Diarrhoea",
+    "Feeding disorder",
+    "Headache",
+    "Vomiting"
+  ],
+  "date_started": "20221128",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CATALYST MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLUS HERBAL AMINO ACID SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

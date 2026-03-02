@@ -1,0 +1,38 @@
+{
+  "report_number": "180365",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20141023",
+  "reactions": [
+    "BLOOD PRESSURE ABNORMAL",
+    "HEADACHE",
+    "HYPERTENSION"
+  ],
+  "date_started": "20140917",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY CINNAMON 1000MG CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY ODOR-LESS FISH OIL 1000MG WITH 300MG OMEGA-3 COATED SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

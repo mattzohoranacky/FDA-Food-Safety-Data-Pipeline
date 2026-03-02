@@ -1,0 +1,40 @@
+{
+  "report_number": "136719",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110106",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ASTHENIA",
+    "BACTERIAL INFECTION",
+    "BLOOD PRESSURE DECREASED",
+    "COLD SWEAT",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "Food poisoning",
+    "HAEMATOCHEZIA",
+    "HYPERHIDROSIS",
+    "NAUSEA",
+    "NERVOUSNESS",
+    "NEUTROPENIA",
+    "Salmonellosis",
+    "VOMITING"
+  ],
+  "date_started": "20101101",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALFALFA SPROUTS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

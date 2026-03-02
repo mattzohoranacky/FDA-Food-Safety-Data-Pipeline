@@ -1,0 +1,27 @@
+{
+  "report_number": "2023-CFS-012889",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20231121",
+  "reactions": [
+    "Blood glucose increased",
+    "Blood urea increased",
+    "Liver function test abnormal"
+  ],
+  "date_started": "20230928",
+  "consumer": {
+    "age": "1",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRE JYM HIGH-PERFORMANCE PRE-WORKOUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "report_number": "178810",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20140822",
+  "reactions": [
+    "ACNE",
+    "ACNE CYSTIC",
+    "DERMAL CYST",
+    "MILIA",
+    "PRURITUS",
+    "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20140329",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENTON ALOE BHA TONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENTON HIGH CONTENT STEAM CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENTON SNAIL BEE ESSENCE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

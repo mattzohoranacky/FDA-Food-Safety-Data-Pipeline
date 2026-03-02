@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-004195",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20230421",
+  "reactions": [
+    "Anaphylactic reaction"
+  ],
+  "date_started": "20230418",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LUCERNE DAIRY FARMS 2% REDUCED FAT MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

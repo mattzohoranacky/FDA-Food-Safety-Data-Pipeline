@@ -1,0 +1,93 @@
+{
+  "report_number": "181297",
+  "outcomes": [
+    "Death",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141209",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "AGGRESSION",
+    "ANGER",
+    "ANXIETY",
+    "BLADDER DISCOMFORT",
+    "BLOOD CHOLESTEROL INCREASED",
+    "BLOOD ETHANOL INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD TESTOSTERONE DECREASED",
+    "BLOOD TRIGLYCERIDES INCREASED",
+    "CARDIOMEGALY",
+    "COMPLETED SUICIDE",
+    "DELUSION",
+    "DEPRESSION",
+    "DISORIENTATION",
+    "DIZZINESS",
+    "Death",
+    "FATIGUE",
+    "FEELING HOT",
+    "HALLUCINATIONS",
+    "MIXED",
+    "HEADACHE",
+    "HEART RATE IRREGULAR",
+    "HIGH DENSITY LIPOPROTEIN DECREASED",
+    "HYPERHIDROSIS",
+    "INSOMNIA",
+    "IRRITABILITY",
+    "LOW DENSITY LIPOPROTEIN INCREASED",
+    "MALAISE",
+    "NAUSEA",
+    "PANIC ATTACK",
+    "PROSTATOMEGALY",
+    "PSYCHOTIC DISORDER",
+    "SENSORY DISTURBANCE",
+    "SUICIDE ATTEMPT",
+    "TESTICULAR PAIN",
+    "TOXICOLOGIC TEST ABNORMAL",
+    "WEIGHT INCREASED"
+  ],
+  "date_started": "20140625",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIBULUS TERRESTRIS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "5 HTP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "D-ASPARTIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MICRONIZED CREATINE POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OPTI-MEN DIETARY SUPPLEMENT, HIGH POTENCY, 75+INGREDIENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUBLINGUAL LIQUID B WITH B12 COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

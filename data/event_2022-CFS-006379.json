@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-006379",
+  "outcomes": [
+    "Disability",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220502",
+  "reactions": [
+    "Diarrhoea",
+    "Dizziness",
+    "Dyspepsia",
+    "Fatigue",
+    "Headache",
+    "Lethargy",
+    "Malaise",
+    "Nausea",
+    "Pyrexia",
+    "Tremor",
+    "Vertigo",
+    "Vomiting"
+  ],
+  "date_started": "20220416",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS LUCKY CHARMS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

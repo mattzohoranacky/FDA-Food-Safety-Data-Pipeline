@@ -1,0 +1,31 @@
+{
+  "report_number": "211640",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170504",
+  "reactions": [
+    "Diarrhoea",
+    "Frequent bowel movements"
+  ],
+  "date_started": "20170422",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2 FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D(ERGOCALCIFEROL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

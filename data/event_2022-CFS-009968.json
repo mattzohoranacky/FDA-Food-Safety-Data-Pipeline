@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-009968",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220621",
+  "reactions": [
+    "Cholestasis",
+    "Fatigue",
+    "Hepatic enzyme increased",
+    "Hyperhidrosis",
+    "Malaise",
+    "Myalgia",
+    "Pruritus",
+    "Pyrexia"
+  ],
+  "date_started": "20220527",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRENCH LENTIL AND LEEK CRUMBLE PLANT PROTEIN CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

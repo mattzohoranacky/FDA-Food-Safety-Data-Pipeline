@@ -1,0 +1,41 @@
+{
+  "report_number": "166503",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130611",
+  "reactions": [
+    "ANXIETY",
+    "BURNING SENSATION",
+    "ERYTHEMA",
+    "FEAR",
+    "FLUSHING",
+    "HYPERSENSITIVITY",
+    "PARAESTHESIA",
+    "PRURITUS",
+    "RASH",
+    "SWELLING FACE"
+  ],
+  "date_started": "20130515",
+  "consumer": {
+    "age": "49.56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NIACIN 500 MG TIME RELEASE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURAL PROGESTERONE SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

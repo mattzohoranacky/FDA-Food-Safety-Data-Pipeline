@@ -1,0 +1,42 @@
+{
+  "report_number": "177852",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140714",
+  "reactions": [
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "BLOOD PRESSURE INCREASED",
+    "CARDIAC ARREST",
+    "HYPERHIDROSIS",
+    "MALAISE",
+    "MUSCLE DISORDER"
+  ],
+  "date_started": "20140612",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN WORLD SAFFLOWER OIL WITH VITAMIN B6 RAPID RELEASE SOFTGELS(DIETARY SUPPLEMENT) SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

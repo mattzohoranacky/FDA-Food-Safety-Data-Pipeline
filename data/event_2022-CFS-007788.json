@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-007788",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220523",
+  "reactions": [
+    "Abdominal pain upper",
+    "Bedridden",
+    "Diarrhoea",
+    "Malaise",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20220516",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF NATURAL CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "fish oil capsule",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-002570",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200221",
+  "reactions": [
+    "Asthenia",
+    "Blood pressure decreased",
+    "Chest pain",
+    "Dizziness",
+    "Headache",
+    "Hypoaesthesia",
+    "Palpitations"
+  ],
+  "date_started": "20200201",
+  "consumer": {
+    "age": "37",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REDWOOD UMZU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

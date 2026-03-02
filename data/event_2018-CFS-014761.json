@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-014761",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20181219",
+  "reactions": [
+    "Choking",
+    "Cyanosis",
+    "Dysgeusia",
+    "Dyspnoea",
+    "Lung disorder"
+  ],
+  "date_started": "20180721",
+  "consumer": {
+    "age": "10",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL D-VI-SOL LIQUID VITAMIN D SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Enfamil D-Vi-Sol Liquid Vitamin Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

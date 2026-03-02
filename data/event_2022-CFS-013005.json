@@ -1,0 +1,46 @@
+{
+  "report_number": "2022-CFS-013005",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220822",
+  "reactions": [
+    "Abdominal distension",
+    "Arthralgia",
+    "Bile acid malabsorption",
+    "Blood bilirubin increased",
+    "Chromaturia",
+    "Contusion",
+    "Fatigue",
+    "Hepatic enzyme increased",
+    "Pain",
+    "Pruritus",
+    "Spider vein"
+  ],
+  "date_started": "20220615",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH LENTIL + LEEK - PLANT PROTEIN CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "b12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

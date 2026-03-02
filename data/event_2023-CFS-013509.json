@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-013509",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Allergic Reaction"
+  ],
+  "date_created": "20231206",
+  "reactions": [
+    "Chest pain",
+    "Diarrhoea",
+    "Hypersensitivity",
+    "Nausea",
+    "Urinary tract infection",
+    "Urticaria"
+  ],
+  "date_started": "20231111",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AZO BLADDER CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

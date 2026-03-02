@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-006695",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220506",
+  "reactions": [
+    "Chemical injury",
+    "Erythema",
+    "Swelling"
+  ],
+  "date_started": "20220505",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SEPHORA COLLECTION OUTRAGEOUS HYDRATING & PLUMPING INTENSE LIP GLOSS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "L-methylfolate",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "172041",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130607",
+  "reactions": [
+    "DIARRHOEA",
+    "Haemorrhage",
+    "Pancreatic disorder",
+    "TENDERNESS",
+    "VOMITING"
+  ],
+  "date_started": "20120901",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EGG BEATERS (CONAGRA) LIQUID EGG PRODUCT",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    }
+  ]
+}

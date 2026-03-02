@@ -1,0 +1,42 @@
+{
+  "report_number": "2019-CFS-003894",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190413",
+  "reactions": [
+    "Burning sensation",
+    "Musculoskeletal stiffness",
+    "Rash",
+    "Skin discolouration",
+    "Skin exfoliation",
+    "Swelling face"
+  ],
+  "date_started": "20190306",
+  "consumer": {
+    "age": "33.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INFINITE ALOE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY WOMEN'S VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

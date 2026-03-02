@@ -1,0 +1,37 @@
+{
+  "report_number": "210762",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170424",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "FATIGUE",
+    "PAIN",
+    "PRURITUS",
+    "URINE OUTPUT INCREASED",
+    "VULVOVAGINAL DISCOMFORT",
+    "VULVOVAGINAL DRYNESS",
+    "VULVOVAGINAL PRURITUS"
+  ],
+  "date_started": "20170418",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REPLENS LONG LASTING VAGINAL MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WOMEN'S CENTRUM & D3 1000IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

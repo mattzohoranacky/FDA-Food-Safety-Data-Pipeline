@@ -1,0 +1,30 @@
+{
+  "report_number": "83250",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050711",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "LETHARGY",
+    "PRURITUS",
+    "SNEEZING",
+    "URTICARIA"
+  ],
+  "date_started": "20050708",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRENCH MEADOW BAKERY 100% KAMUT BREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

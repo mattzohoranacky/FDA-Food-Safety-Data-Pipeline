@@ -1,0 +1,38 @@
+{
+  "report_number": "2024-CFS-005541",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240523",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20240513",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RITUAL ESSENTIAL FOR WOMEN MULTIVITAMIN 50 PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RITUAL HYACERA DAILY SKIN HYDRATION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RITUAL SYNBIOTIC PLUS PREBIOTIC PROBIOTIC POSTBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

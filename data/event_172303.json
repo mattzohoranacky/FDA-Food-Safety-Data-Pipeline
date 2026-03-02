@@ -1,0 +1,28 @@
+{
+  "report_number": "172303",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20131127",
+  "reactions": [
+    "CARDIOMYOPATHY",
+    "CHEST PAIN",
+    "HEPATIC ENZYME INCREASED",
+    "LIVER FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20130331",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXYELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

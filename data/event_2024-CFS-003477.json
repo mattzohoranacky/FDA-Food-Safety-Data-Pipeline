@@ -1,0 +1,44 @@
+{
+  "report_number": "2024-CFS-003477",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240403",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Emotional distress",
+    "Food poisoning",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20240328",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEST SEAFOOD FROZEN SQUID CARVED",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEST SEAFOOD FROZEN SQUID TUBEU5",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHORIPDONG MIXED SEAFOOD SAUCE INCLUDED",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHORIPDONG OCTOPUS FOR STIR FRY SAUCE INCLUDED",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

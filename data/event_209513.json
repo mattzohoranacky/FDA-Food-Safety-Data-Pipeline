@@ -1,0 +1,33 @@
+{
+  "report_number": "209513",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170208",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "ANAPHYLACTIC REACTION",
+    "FOOD ALLERGY",
+    "PRURITUS",
+    "THROAT IRRITATION",
+    "VOMITING"
+  ],
+  "date_started": "20170205",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SMALL PLANET FOODS CASCADIAN FARM ORGANIC CHOCOLATE CHIP CHEWY GRANOLA BAR",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

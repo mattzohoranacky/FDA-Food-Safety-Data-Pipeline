@@ -1,0 +1,48 @@
+{
+  "report_number": "149291",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20120222",
+  "reactions": [
+    "ATRIAL FIBRILLATION",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "BLOOD LACTIC ACID INCREASED",
+    "BLOOD MAGNESIUM DECREASED",
+    "BLOOD PHOSPHORUS DECREASED",
+    "BLOOD POTASSIUM DECREASED",
+    "CARDIAC ENZYMES INCREASED",
+    "HEART RATE INCREASED",
+    "HYPOKALAEMIA",
+    "HYPOMAGNESAEMIA",
+    "HYPOPHOSPHATAEMIA",
+    "NODAL RHYTHM",
+    "PALPITATIONS",
+    "RENAL INJURY",
+    "RHABDOMYOLYSIS",
+    "TACHYCARDIA",
+    "TROPONIN I INCREASED",
+    "VOMITING"
+  ],
+  "date_started": "20120215",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEXAPRINE 650 MG BLEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRONIC PUMP INSANE NITRIC OXIDE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

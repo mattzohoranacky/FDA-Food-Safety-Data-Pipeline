@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-071552",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Allergic Reaction"
+  ],
+  "date_created": "20231222",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Food allergy"
+  ],
+  "date_started": "20231220",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "365 WHOLE FOOD MARKET PRETZEL NUGGETS ALMOND BUTTER",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

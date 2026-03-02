@@ -1,0 +1,44 @@
+{
+  "report_number": "2018-CFS-012170",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20181004",
+  "reactions": [
+    "Abdominal pain upper",
+    "Back pain",
+    "Chromaturia",
+    "Fatigue",
+    "Hepatic enzyme increased",
+    "Hepatitis",
+    "Influenza like illness",
+    "Pain",
+    "Pancreatitis"
+  ],
+  "date_started": "20180905",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVANCED FORMULA FATFIGHTER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GREENS ON THE GO blend BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "THERMOFIGHT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

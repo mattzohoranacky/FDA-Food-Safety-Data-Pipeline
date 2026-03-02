@@ -1,0 +1,64 @@
+{
+  "report_number": "165022",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130429",
+  "reactions": [
+    "BLOOD ELECTROLYTES DECREASED",
+    "DEHYDRATION",
+    "MALAISE",
+    "TREMOR"
+  ],
+  "date_started": "20130303",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE & SHINE HERBAL PRODUCTS ELECTROLIFE 120 CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE & SHINE HERBAL PRODUCTS FLORA GROW 120 CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE & SHINE HERBAL PRODUCTS GREAT GREENS 180 CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE & SHINE HERBAL PRODUCTS HERBAL NUTRITION 300 CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE & SHINE HERBAL PRODUCTS HYDRATED BENTONITE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE & SHINE HERBAL PRODUCTS PSYLLIUM HUSK POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE AND SHINE HERBAL PRODUCTS CHOMPER 300 CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

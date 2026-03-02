@@ -1,0 +1,30 @@
+{
+  "report_number": "87440",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060803",
+  "reactions": [
+    "CHOKING",
+    "COUGH",
+    "HYPOVENTILATION",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20060802",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEWAY ORGANIC SOY KEFIR",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "2025-CFS-002256",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Injury",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250222",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Crying",
+    "Fatigue",
+    "Flatulence",
+    "Hypersensitivity",
+    "Injury",
+    "Pain",
+    "Pyrexia",
+    "Rash",
+    "Swelling",
+    "Vomiting"
+  ],
+  "date_started": "20250220",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AUSSIE BUBS GOAT MILK INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

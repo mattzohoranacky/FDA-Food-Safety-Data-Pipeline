@@ -1,0 +1,51 @@
+{
+  "report_number": "175557",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20140402",
+  "reactions": [
+    "CHOKING SENSATION",
+    "COUGH",
+    "DYSPHONIA",
+    "DYSPNOEA"
+  ],
+  "date_started": "20140310",
+  "consumer": {
+    "age": "76.73",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE CALCIUM CITRATE + VITAMIN D3 MINIATURE COATED TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PURITAN'S PRIDE VITAMIN C 1000MG COMPLEX COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SAW PALMETTO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN K2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

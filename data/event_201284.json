@@ -1,0 +1,30 @@
+{
+  "report_number": "201284",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160909",
+  "reactions": [
+    "BLOOD TEST ABNORMAL",
+    "DYSPEPSIA",
+    "ENTERITIS",
+    "GASTRITIS",
+    "PANCREATITIS"
+  ],
+  "date_started": "20160806",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHIFF MOVE FREE JOINT HEALTH ADVANCED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

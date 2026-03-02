@@ -1,0 +1,41 @@
+{
+  "report_number": "2023-CFS-009035",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230827",
+  "reactions": [
+    "Hallucination",
+    "Liver disorder",
+    "Loss of consciousness",
+    "Vomiting"
+  ],
+  "date_started": "20230801",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZAR 3,000 MG DELTA 8 TINCTURE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZAR D8 HAPPY HOUR 2.0 BAG",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZAR D9 ORIGINAL WATER SOLUBLE DROPPER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

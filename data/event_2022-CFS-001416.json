@@ -1,0 +1,40 @@
+{
+  "report_number": "2022-CFS-001416",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220127",
+  "reactions": [
+    "Burning sensation",
+    "Cheilitis",
+    "Erythema",
+    "Haemorrhage",
+    "Skin sensitisation"
+  ],
+  "date_started": "20220117",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLISTEX ORANGE MANGO BLAST LIP PROTECTANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Senior multi-vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

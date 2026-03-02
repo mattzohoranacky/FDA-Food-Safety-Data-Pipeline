@@ -1,0 +1,42 @@
+{
+  "report_number": "146514",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20111208",
+  "reactions": [
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "PHARYNGEAL OEDEMA",
+    "PYREXIA",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20111010",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL CLEANSE DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL CLEANSE FIBER DRINK DIETARY FIBER SUPPLEMENT PEACHES AND CREAM FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL CLEANSE PROBIOTIC RESTORE ULTRA DIETARY PROBIOTIC SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

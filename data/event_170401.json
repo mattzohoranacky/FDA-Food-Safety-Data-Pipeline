@@ -1,0 +1,37 @@
+{
+  "report_number": "170401",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20130906",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "NAUSEA",
+    "TREMOR"
+  ],
+  "date_started": "20130810",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI NONFAT GREEK YOGURT, BLACK CHERRY",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI NONFAT GREEK YOGURT, BLUEBERRY",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI NONFAT GREEK YOGURT, PINEAPPLE",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

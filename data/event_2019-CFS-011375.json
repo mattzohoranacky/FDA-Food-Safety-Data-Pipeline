@@ -1,0 +1,29 @@
+{
+  "report_number": "2019-CFS-011375",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191114",
+  "reactions": [
+    "Dyspnoea",
+    "Local swelling",
+    "Rash"
+  ],
+  "date_started": "20190911",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNTOX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAQUEST VITAL REDS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

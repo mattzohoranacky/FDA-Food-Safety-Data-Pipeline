@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-006794",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220509",
+  "reactions": [
+    "Chemical injury"
+  ],
+  "date_started": "20220407",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LINI SKINFOOD NAPA VALLEY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURAL ALOE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

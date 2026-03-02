@@ -1,0 +1,48 @@
+{
+  "report_number": "2018-CFS-001610",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180124",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Hair texture abnormal",
+    "Pruritus",
+    "Scab",
+    "Skin ulcer",
+    "Trichorrhexis"
+  ],
+  "date_started": "20171103",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT HYDRATION SYSTEM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT IRT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REVIVE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

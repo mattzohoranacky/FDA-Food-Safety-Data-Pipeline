@@ -1,0 +1,37 @@
+{
+  "report_number": "158120",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20121024",
+  "reactions": [
+    "ARTHRALGIA",
+    "BLOOD POTASSIUM DECREASED",
+    "BODY TEMPERATURE INCREASED",
+    "MUSCULAR WEAKNESS",
+    "MYALGIA",
+    "POLLAKIURIA",
+    "SWELLING",
+    "VITAMIN K DECREASED"
+  ],
+  "date_started": "20120918",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE CATALYST AMINO ACID DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE MNS MAX 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

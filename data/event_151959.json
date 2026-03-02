@@ -1,0 +1,38 @@
+{
+  "report_number": "151959",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120404",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "ASTHENIA",
+    "BACTERIA STOOL IDENTIFIED",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FATIGUE",
+    "FEELING ABNORMAL",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HEADACHE",
+    "HYPERHIDROSIS",
+    "INSOMNIA",
+    "NIGHT SWEATS",
+    "Salmonella test positive"
+  ],
+  "date_started": "20120327",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUSHI ROLLS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

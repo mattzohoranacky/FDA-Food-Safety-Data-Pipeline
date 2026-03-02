@@ -1,0 +1,28 @@
+{
+  "report_number": "2023-CFS-000124",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230106",
+  "reactions": [
+    "Acute kidney injury",
+    "Sepsis",
+    "Urinary tract infection"
+  ],
+  "date_started": "20220727",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ONE DAILY WOMEN'S MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

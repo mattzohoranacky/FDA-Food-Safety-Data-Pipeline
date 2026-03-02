@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-008914",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230823",
+  "reactions": [
+    "Aspiration",
+    "Depression",
+    "Respiratory failure",
+    "Seizure"
+  ],
+  "date_started": "20230812",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MYLAN AMBRISENTAN 10MG TABLETS 30/50",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "2017-CFS-002558",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171211",
+  "reactions": [
+    "Feeling hot",
+    "Flatulence",
+    "Gastroenteritis viral",
+    "Malaise",
+    "Retching",
+    "Vomiting"
+  ],
+  "date_started": "20171211",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED BARRON 4 CHEESE PIZZA: CLASSIC CRUST",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED BARRON PIZZAS SAUSAGE & PEPPERONI",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

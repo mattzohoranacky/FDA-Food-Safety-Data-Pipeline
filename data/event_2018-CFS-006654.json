@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-006654",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20180503",
+  "reactions": [
+    "Burning sensation",
+    "Discomfort",
+    "Dysgeusia",
+    "Throat irritation"
+  ],
+  "date_started": "20180417",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUN WARRIOR CLASSIC PROTEIN (RAW WHOLEGRAIN BROWN RICE), NATURAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Simple Goodness Organic Rice Milk",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    }
+  ]
+}

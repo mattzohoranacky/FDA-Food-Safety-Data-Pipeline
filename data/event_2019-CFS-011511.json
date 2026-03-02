@@ -1,0 +1,49 @@
+{
+  "report_number": "2019-CFS-011511",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20191120",
+  "reactions": [
+    "Chills",
+    "Diarrhoea",
+    "Heart rate increased",
+    "Hypotension",
+    "Neutropenic sepsis",
+    "Neutrophil count decreased",
+    "Pharyngitis streptococcal",
+    "Pyrexia",
+    "Sepsis",
+    "Staphylococcal infection",
+    "Tonsillitis",
+    "Toxicity to various agents",
+    "Vomiting",
+    "White blood cell count decreased"
+  ],
+  "date_started": "20190803",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUCONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUFIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Kratom",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

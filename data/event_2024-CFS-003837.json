@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-003837",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240417",
+  "reactions": [
+    "Abdominal discomfort",
+    "Aphonia",
+    "Diarrhoea",
+    "Retching",
+    "Syncope",
+    "Vomiting"
+  ],
+  "date_started": "20240316",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LACTAID FAST ACT CHEWABLES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "184570",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150409",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "LISTERIOSIS",
+    "NAUSEA"
+  ],
+  "date_started": "20150404",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SABRA CLASSIC HUMMUS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRETZEL",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

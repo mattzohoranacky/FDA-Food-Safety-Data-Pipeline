@@ -1,0 +1,36 @@
+{
+  "report_number": "214569",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170622",
+  "reactions": [
+    "Amnesia",
+    "Central nervous system lesion",
+    "Confusional state",
+    "Generalised non-convulsive epilepsy",
+    "Nuclear magnetic resonance imaging abnormal",
+    "Psychomotor seizures"
+  ],
+  "date_started": "20170614",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CAFFEINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

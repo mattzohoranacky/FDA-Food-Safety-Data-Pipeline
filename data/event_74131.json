@@ -1,0 +1,42 @@
+{
+  "report_number": "74131",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20041201",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DISORIENTATION",
+    "DYSPNOEA",
+    "FEELING HOT",
+    "HOSPITALISATION",
+    "HYPERHIDROSIS",
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20040401",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PERMANENT MAKE-UP BLACK TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PERMANENT MAKE-UP BROWN TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PERMANENT MAKE-UP CHESTNUTT TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

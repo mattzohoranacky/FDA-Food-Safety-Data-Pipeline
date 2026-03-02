@@ -1,0 +1,48 @@
+{
+  "report_number": "2021-CFS-008953",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210901",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20210816",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE DOUBLE STRENGTH OMEGA-3 FISH OIL 1200MG/600MG ACTIVE OMEGA-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE TRIPLE STRENGTH JOINT SOOTHER GLUCOSAMINE CHONDROITIN MSM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Lutein",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "unspecified Senior Multi",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

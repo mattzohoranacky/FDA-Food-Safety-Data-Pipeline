@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-006815",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20210715",
+  "reactions": [
+    "Hepatic failure"
+  ],
+  "date_started": "20170701",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEIDERS RED YEAST RICE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

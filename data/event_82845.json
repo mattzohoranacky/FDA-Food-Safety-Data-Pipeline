@@ -1,0 +1,31 @@
+{
+  "report_number": "82845",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20051129",
+  "reactions": [
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20051129",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TARGET BRAND FRUIT PUNCH JUICE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TARGET BRAND STRAWBERRY KIWI JUICE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-012317",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241001",
+  "reactions": [
+    "Abdominal pain",
+    "Burning sensation",
+    "Faeces soft",
+    "Food poisoning",
+    "Headache",
+    "Hypoaesthesia",
+    "Hypoaesthesia oral",
+    "Paraesthesia oral"
+  ],
+  "date_started": "20240930",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMERICAN PRIDE SEAFOOD MARKET PUFFER FISH BLOW FISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

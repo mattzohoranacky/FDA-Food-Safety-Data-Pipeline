@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-014504",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241119",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Hospitalisation",
+    "Malaise",
+    "Nausea",
+    "Pyrexia",
+    "Sepsis",
+    "Vomiting"
+  ],
+  "date_started": "20241023",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GRIMMWAY FARMS SHREDDED CARROTS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

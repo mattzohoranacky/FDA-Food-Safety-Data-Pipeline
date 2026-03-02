@@ -1,0 +1,43 @@
+{
+  "report_number": "201695",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160919",
+  "reactions": [
+    "CARDIAC FIBRILLATION",
+    "HEART RATE INCREASED",
+    "HEART RATE IRREGULAR",
+    "PALPITATIONS"
+  ],
+  "date_started": "20160830",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EGGLAND'S BEST EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SAW PALMETTO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "194595",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160204",
+  "reactions": [
+    "Adverse event",
+    "COUGH",
+    "RESPIRATORY TRACT INFECTION",
+    "WHEEZING"
+  ],
+  "date_started": "20160131",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TEDDY'S OLD FASHIONED CREME SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

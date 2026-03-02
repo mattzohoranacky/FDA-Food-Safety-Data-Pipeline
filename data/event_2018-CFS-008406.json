@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-008406",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180620",
+  "reactions": [
+    "Bacterial infection",
+    "Chills",
+    "Choking",
+    "Cough",
+    "Dysgeusia",
+    "Dysphagia",
+    "Foreign body",
+    "Increased upper airway secretion",
+    "Malaise",
+    "Muscle spasms",
+    "Pneumonia aspiration",
+    "Pyrexia",
+    "Wheezing"
+  ],
+  "date_started": "20180522",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

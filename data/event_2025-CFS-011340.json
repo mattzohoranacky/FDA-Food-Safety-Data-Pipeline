@@ -1,0 +1,35 @@
+{
+  "report_number": "2025-CFS-011340",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Injury"
+  ],
+  "date_created": "20250720",
+  "reactions": [
+    "Cronobacter infection",
+    "Disability",
+    "Eating disorder",
+    "Fatigue",
+    "Hospitalisation",
+    "Injury",
+    "Malaise",
+    "Meningitis"
+  ],
+  "date_started": "20250213",
+  "consumer": {
+    "age": "8",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC INFANT FORMULA WITH IRON",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

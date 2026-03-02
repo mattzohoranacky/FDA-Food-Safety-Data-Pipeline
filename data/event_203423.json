@@ -1,0 +1,36 @@
+{
+  "report_number": "203423",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161025",
+  "reactions": [
+    "ALLERGY TEST POSITIVE",
+    "ASTHMA",
+    "COUGH",
+    "DYSPNOEA",
+    "WHEEZING"
+  ],
+  "date_started": "20160915",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVEENO BABY CALMING COMFORT BABY LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVEENO BABY CALMING COMFORT BATH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

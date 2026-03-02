@@ -1,0 +1,37 @@
+{
+  "report_number": "142367",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110603",
+  "reactions": [
+    "ABNORMAL LOSS OF WEIGHT",
+    "DEATH",
+    "DIARRHOEA",
+    "NECROTISING COLITIS",
+    "VOMITING"
+  ],
+  "date_started": "20110408",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLY THICK INSTANT FOOD THICKENER",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENFAMIL ENFACARE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

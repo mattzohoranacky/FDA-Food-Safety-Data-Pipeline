@@ -1,0 +1,31 @@
+{
+  "report_number": "123398",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100216",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "CHROMATURIA",
+    "FLATULENCE",
+    "NAUSEA",
+    "STOMACH DISCOMFORT",
+    "YELLOW SKIN"
+  ],
+  "date_started": "20091220",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN TEA FAT BURNER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

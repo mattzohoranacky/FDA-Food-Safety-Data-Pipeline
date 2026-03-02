@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-011138",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20201031",
+  "reactions": [
+    "Burning sensation",
+    "Haemorrhage",
+    "Pain",
+    "Pruritus",
+    "Skin exfoliation",
+    "Skin lesion"
+  ],
+  "date_started": "20201030",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REJUVINQUE OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-005723",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210614",
+  "reactions": [
+    "Dry skin",
+    "Local swelling",
+    "Pruritus",
+    "Swelling face"
+  ],
+  "date_started": "20210507",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAY FEM FACE CONDITIONER TREATMENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN FOR WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

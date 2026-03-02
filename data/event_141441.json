@@ -1,0 +1,29 @@
+{
+  "report_number": "141441",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060628",
+  "reactions": [
+    "Adverse event",
+    "DIARRHOEA",
+    "HAEMATOCHEZIA",
+    "SALMONELLOSIS"
+  ],
+  "date_started": "20060616",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCE WITH IRON POWDER",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

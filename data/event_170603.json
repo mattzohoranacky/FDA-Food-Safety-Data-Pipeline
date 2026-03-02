@@ -1,0 +1,46 @@
+{
+  "report_number": "170603",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130909",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "HEADACHE",
+    "Hospitalisation",
+    "MALAISE",
+    "NAUSEA",
+    "PAIN",
+    "TENDERNESS",
+    "VOMITING"
+  ],
+  "date_started": "20130903",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI FLIP NUTTY FOR `NANA, BANANA LOW-FAT YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI GREEK YOGURT FLIP, KEY LIME CRUMBLE",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI GREEK YOGURT, HONEY ROASTED SALTED ALMONDS",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

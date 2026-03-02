@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-002916",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190320",
+  "reactions": [
+    "Chest discomfort",
+    "Cough",
+    "Ear pain",
+    "Headache",
+    "Oropharyngeal pain",
+    "Pruritus",
+    "Rhinorrhoea"
+  ],
+  "date_started": "20190319",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA ESSENCE OIL 100% PURE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B-12 supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

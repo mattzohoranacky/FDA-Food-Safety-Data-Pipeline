@@ -1,0 +1,37 @@
+{
+  "report_number": "121696",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20081016",
+  "reactions": [
+    "ASTHENIA",
+    "BLOOD POTASSIUM DECREASED",
+    "CARDIAC MURMUR",
+    "PARALYSIS"
+  ],
+  "date_started": "20080731",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANTESITE REGLISSE ANIS",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIPLE VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

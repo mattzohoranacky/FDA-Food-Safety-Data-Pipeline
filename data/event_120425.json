@@ -1,0 +1,29 @@
+{
+  "report_number": "120425",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091116",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse event",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "NAUSEA"
+  ],
+  "date_started": "20091114",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HI-C FLASHIN' FRUIT PUNCH",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

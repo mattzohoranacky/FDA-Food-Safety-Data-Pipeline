@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-007791",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220523",
+  "reactions": [
+    "Chest pain",
+    "Dizziness",
+    "Hallucination",
+    "Heart rate increased",
+    "Palpitations"
+  ],
+  "date_started": "20220518",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DELTA 8 THC GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2024-CFS-012348",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241010",
+  "reactions": [
+    "Abdominal pain lower",
+    "Fatigue",
+    "Headache",
+    "Hypersensitivity",
+    "Malaise",
+    "Pain",
+    "Paraesthesia oral",
+    "Pruritus",
+    "Rash",
+    "Throat irritation"
+  ],
+  "date_started": "20241001",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GRANDY ORGANICS DARK CHOCOLATE COCONOLA GRAIN FREE GRANOLA",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

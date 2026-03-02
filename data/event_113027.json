@@ -1,0 +1,37 @@
+{
+  "report_number": "113027",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090507",
+  "reactions": [
+    "ACIDOSIS",
+    "ANION GAP INCREASED",
+    "BLOOD BICARBONATE ABNORMAL",
+    "BUNDLE BRANCH BLOCK RIGHT",
+    "DEPRESSED MOOD",
+    "GLASGOW COMA SCALE ABNORMAL",
+    "PNEUMONIA",
+    "PULSE ABNORMAL",
+    "PULSE ABSENT",
+    "RESPIRATION ABNORMAL",
+    "RESPIRATORY DISORDER"
+  ],
+  "date_started": "20081125",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HI-TECH LIPODRENE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

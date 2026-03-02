@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-008604",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180623",
+  "reactions": [
+    "Alopecia",
+    "Dry skin",
+    "Hair texture abnormal",
+    "Pruritus",
+    "Seborrhoea"
+  ],
+  "date_started": "20180124",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Plexus Iron",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

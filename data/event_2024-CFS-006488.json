@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-006488",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231204",
+  "reactions": [
+    "Arthralgia",
+    "Lacrimation increased",
+    "Vision blurred"
+  ],
+  "date_started": "20231005",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEDICAL GRADE PROPYLENE GLYCOL NON TOXIC PURE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

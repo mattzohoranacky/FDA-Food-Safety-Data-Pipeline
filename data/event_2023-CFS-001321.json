@@ -1,0 +1,35 @@
+{
+  "report_number": "2023-CFS-001321",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230207",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Erythema",
+    "Hair injury",
+    "Hair texture abnormal",
+    "Pruritus"
+  ],
+  "date_started": "20220901",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX N.4 BOND MAINTENANCE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX N.5 BOND MAINTENANCE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

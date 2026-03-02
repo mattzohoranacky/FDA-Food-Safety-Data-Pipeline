@@ -1,0 +1,31 @@
+{
+  "report_number": "85573",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20060509",
+  "reactions": [
+    "DIARRHOEA",
+    "DIZZINESS",
+    "MALAISE",
+    "NAUSEA"
+  ],
+  "date_started": "20060506",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALLEN'S CUT GREEN BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PORK BARBECUE SANDWICH",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

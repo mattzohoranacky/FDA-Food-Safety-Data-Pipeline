@@ -1,0 +1,68 @@
+{
+  "report_number": "191365",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151110",
+  "reactions": [
+    "ASTHENIA",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CREATININE INCREASED",
+    "CERULOPLASMIN INCREASED",
+    "CHROMATURIA",
+    "DECREASED APPETITE",
+    "DEHYDRATION",
+    "FAECES DISCOLOURED",
+    "HEPATITIS A ANTIBODY POSITIVE",
+    "HEPATOMEGALY",
+    "JAUNDICE",
+    "LIPASE INCREASED",
+    "NAUSEA",
+    "OCULAR ICTERUS",
+    "PRURITUS",
+    "SERUM FERRITIN INCREASED",
+    "ULTRASOUND LIVER ABNORMAL",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20140422",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "M-STEN EXTREME MASS BUILDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "AMINO ACIDS NOS W HERBAL NOS MINERALS NOS VIT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ANABOLIC AGENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL NOS W MINERALS NOS VITAMINS NOS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LACTOBACILLUS ACIDOPHILUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

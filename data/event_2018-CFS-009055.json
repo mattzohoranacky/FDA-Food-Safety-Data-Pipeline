@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-009055",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180706",
+  "reactions": [
+    "Alopecia",
+    "Skin sensitisation"
+  ],
+  "date_started": "20180601",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT JUNIOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "children's multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "children's probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

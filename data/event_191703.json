@@ -1,0 +1,37 @@
+{
+  "report_number": "191703",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151125",
+  "reactions": [
+    "CHOKING",
+    "FALL",
+    "FOREIGN BODY",
+    "HAEMORRHAGE",
+    "HEAD INJURY",
+    "LOSS OF CONSCIOUSNESS",
+    "PAIN",
+    "RIB FRACTURE"
+  ],
+  "date_started": "20151031",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMERICAN HEALTH ESTER-C 1000MG VEGETARIAN TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TRI LIPIDS (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

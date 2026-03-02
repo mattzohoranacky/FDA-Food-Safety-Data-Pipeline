@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-005604",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180406",
+  "reactions": [
+    "Anaemia",
+    "Menorrhagia",
+    "Vaginal haemorrhage"
+  ],
+  "date_started": "20171127",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELL ACTIVATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELL-U-LOSS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOINT SUPPORT ADVANCED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

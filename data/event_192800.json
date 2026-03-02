@@ -1,0 +1,39 @@
+{
+  "report_number": "192800",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160113",
+  "reactions": [
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "ANGER",
+    "ASTHENIA",
+    "CEREBROVASCULAR ACCIDENT",
+    "DEAFNESS",
+    "FEELING ABNORMAL",
+    "GAIT DISTURBANCE",
+    "GENERAL PHYSICAL HEALTH DETERIORATION",
+    "HYPERTENSION"
+  ],
+  "date_started": "20150515",
+  "consumer": {
+    "age": "83",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER ADULTS 50+ (MULTIMINERALS, MULTIVITAMINS) UNKNOWN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER MEN'S 50+ (MULTIMINERALS, MULTIVITAMINS) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

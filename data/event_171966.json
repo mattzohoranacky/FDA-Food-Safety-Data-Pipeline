@@ -1,0 +1,53 @@
+{
+  "report_number": "171966",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131113",
+  "reactions": [
+    "ANOREXIA",
+    "CHOLESTASIS",
+    "CHROMATURIA",
+    "FAECES DISCOLOURED",
+    "FATIGUE",
+    "GALLBLADDER DISORDER",
+    "JAUNDICE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "LIVER INJURY",
+    "NAUSEA",
+    "PRURITUS",
+    "VOMITING"
+  ],
+  "date_started": "20120130",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEGAL LIMITS LAB 6-ESTROGEN-PCT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEGAL LIMITS LAB OPTIMIZER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEGAL LIMITS LAB OXAN-VR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEGAL LIMITS LAB S-STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-004241",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200409",
+  "reactions": [
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20200408",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER CLASSIC GARDEN",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER SNOWBOARD SANDWICHES CHOCOLATE CHIP ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

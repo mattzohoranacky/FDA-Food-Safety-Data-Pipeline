@@ -1,0 +1,38 @@
+{
+  "report_number": "76232",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20050215",
+  "reactions": [
+    "DISORIENTATION",
+    "FATIGUE",
+    "MYALGIA"
+  ],
+  "date_started": "20050201",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COFFEE CREAMER",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRODUCTS WITH ASPARTAME",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRODUCTS WITH MSG",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-011818",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180925",
+  "reactions": [
+    "Burning sensation",
+    "Dandruff",
+    "Pruritus",
+    "Skin tightness"
+  ],
+  "date_started": "20180813",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT INTENSE REPAIR SHAMPOO AND REVITALIZE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REVITALIZE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Chewable Kirkland Multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

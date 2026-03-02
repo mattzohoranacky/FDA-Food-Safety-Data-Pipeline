@@ -1,0 +1,37 @@
+{
+  "report_number": "191968",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151207",
+  "reactions": [
+    "Blood pressure increased",
+    "DYSPNOEA",
+    "FOOD POISONING",
+    "LIP SWELLING",
+    "LOCAL SWELLING",
+    "OEDEMA PERIPHERAL",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20151116",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AFC SUSHI SPICY TUNA ROLL SUSHI",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOY SAUCE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

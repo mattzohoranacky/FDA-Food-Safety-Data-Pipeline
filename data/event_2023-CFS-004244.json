@@ -1,0 +1,39 @@
+{
+  "report_number": "2023-CFS-004244",
+  "outcomes": [
+    "Allergic Reaction"
+  ],
+  "date_created": "20230424",
+  "reactions": [
+    "Hypersensitivity",
+    "Lacrimation increased",
+    "Rash",
+    "Sneezing"
+  ],
+  "date_started": "20230412",
+  "consumer": {
+    "age": "15",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KISSABLE DEEP CLEANSING FOAMING ACNE SCRUB",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ST. IVES RADIANT SKIN SCRUB PINK LEMON & MANDARIN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "73963",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20041014",
+  "reactions": [
+    "DIARRHOEA",
+    "Food poisoning",
+    "HOSPITALISATION",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20041011",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITA CLASSIC PREMIUM SLICED SMOKED NOVA SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "177152",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130215",
+  "reactions": [
+    "BLOOD PRESSURE FLUCTUATION",
+    "DIARRHOEA",
+    "Death",
+    "TENDERNESS",
+    "VOMITING"
+  ],
+  "date_started": "20130118",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLD COAST BLUE CRAB SPREAD",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

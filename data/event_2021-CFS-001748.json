@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-001748",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210222",
+  "reactions": [
+    "Blood bilirubin",
+    "Jaundice",
+    "Malaise",
+    "Renal failure acute",
+    "Weight decreased"
+  ],
+  "date_started": "20210114",
+  "consumer": {
+    "age": "47.6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STANDARDIZED EXTRACT ASHWAGANDHA 450 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

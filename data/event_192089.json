@@ -1,0 +1,40 @@
+{
+  "report_number": "192089",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151215",
+  "reactions": [
+    "ABNORMAL BEHAVIOUR",
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "BLOOD PRESSURE INCREASED",
+    "CONFUSIONAL STATE",
+    "DIARRHOEA",
+    "FALL",
+    "FATIGUE",
+    "MEMORY IMPAIRMENT",
+    "MYALGIA",
+    "NAUSEA",
+    "PRURITUS"
+  ],
+  "date_started": "20151205",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THRIVE PREMIUM LIFESTYLE CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ULTRAMIX SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "190661",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151015",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CHOLELITHIASIS",
+    "FEELING ABNORMAL",
+    "HYPOAESTHESIA",
+    "PAIN IN EXTREMITY",
+    "PARAESTHESIA",
+    "PYREXIA"
+  ],
+  "date_started": "20150911",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER WOMEN'S 50+ (MULTIMINERALS, MULTIVITAMINS) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN B6",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

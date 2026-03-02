@@ -1,0 +1,26 @@
+{
+  "report_number": "2023-CFS-010752",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231003",
+  "reactions": [
+    "Intestinal perforation",
+    "Septic shock"
+  ],
+  "date_started": "20230924",
+  "consumer": {
+    "age": "4",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVIVO BIFIDOBACTERIUM INFANTIS ORAL SUSPENSION",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

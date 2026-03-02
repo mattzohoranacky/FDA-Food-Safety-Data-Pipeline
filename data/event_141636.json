@@ -1,0 +1,30 @@
+{
+  "report_number": "141636",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110718",
+  "reactions": [
+    "THROMBOSIS"
+  ],
+  "date_started": "20110605",
+  "consumer": {
+    "age": "55.95",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHELATED MINERAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA ANTIOXIDENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

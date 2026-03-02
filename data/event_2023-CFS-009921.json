@@ -1,0 +1,50 @@
+{
+  "report_number": "2023-CFS-009921",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230918",
+  "reactions": [
+    "Dermatitis atopic",
+    "Dermatitis contact",
+    "Dry eye"
+  ],
+  "date_started": "20230730",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVERYONE FOR EVERY BODY BODY LOTION, UNSCENTED,32 FL OZ",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOES NOURISH ALL-IN-ONE FACIAL CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MicroMax (seaweed)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

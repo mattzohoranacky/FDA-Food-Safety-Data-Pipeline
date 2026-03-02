@@ -1,0 +1,29 @@
+{
+  "report_number": "2019-CFS-003415",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190319",
+  "reactions": [
+    "Hair texture abnormal",
+    "Trichorrhexis"
+  ],
+  "date_started": "20190308",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "L'OREAL CASTING CREAM GLOSS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Casting Cream Gloss",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

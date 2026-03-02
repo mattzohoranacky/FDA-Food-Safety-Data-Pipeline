@@ -1,0 +1,37 @@
+{
+  "report_number": "116937",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090804",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CONSTIPATION",
+    "ECZEMA",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "INSOMNIA",
+    "IRRITABILITY"
+  ],
+  "date_started": "20090731",
+  "consumer": {
+    "age": "7",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCED BABY FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ALIMENTUM BABY FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

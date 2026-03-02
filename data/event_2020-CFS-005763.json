@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-005763",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200606",
+  "reactions": [
+    "Burning sensation",
+    "Erythema",
+    "Pain",
+    "Paraesthesia"
+  ],
+  "date_started": "20200606",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIORE BLUE AGAVE AND BAKING SODA COOLING FACE MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Applied chilled Aloe Vera to red/burnt skin on face",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

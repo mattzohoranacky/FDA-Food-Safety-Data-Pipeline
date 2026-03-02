@@ -1,0 +1,29 @@
+{
+  "report_number": "123534",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100216",
+  "reactions": [
+    "AMMONIA INCREASED",
+    "BLOOD LACTIC ACID INCREASED",
+    "BLOOD POTASSIUM DECREASED",
+    "GROWTH RETARDATION",
+    "HYPOKALAEMIA",
+    "METABOLIC ACIDOSIS"
+  ],
+  "date_started": "20100208",
+  "consumer": {
+    "age": "136",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRICIA NUTRA NEOCATE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

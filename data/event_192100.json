@@ -1,0 +1,30 @@
+{
+  "report_number": "192100",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151207",
+  "reactions": [
+    "SWELLING"
+  ],
+  "date_started": "20151128",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KOZY SHACK PREPARED TAPIOCA PUDDING",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUGAR PIE PUMKIN",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "116935",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090731",
+  "reactions": [
+    "MIGRAINE",
+    "URTICARIA",
+    "VOMITING"
+  ],
+  "date_started": "20090712",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE 21 DAY CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE CELL-U-LOSS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE TANG KUEI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

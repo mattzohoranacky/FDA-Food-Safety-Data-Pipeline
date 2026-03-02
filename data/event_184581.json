@@ -1,0 +1,47 @@
+{
+  "report_number": "184581",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150408",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHROMATURIA",
+    "DECREASED APPETITE",
+    "FAECES DISCOLOURED",
+    "FATIGUE",
+    "HEPATITIS",
+    "INTERNATIONAL NORMALISED RATIO DECREASED",
+    "JAUNDICE",
+    "PRURITUS",
+    "VOMITING"
+  ],
+  "date_started": "20130812",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIPOZENE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA-T GREEN TEA EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOUP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

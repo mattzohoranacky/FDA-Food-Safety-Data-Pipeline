@@ -1,0 +1,36 @@
+{
+  "report_number": "173756",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140204",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ANAL PRURITUS",
+    "DIARRHOEA",
+    "DRY MOUTH",
+    "DRY THROAT",
+    "DYSPNOEA",
+    "RETCHING"
+  ],
+  "date_started": "20140121",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOOD SCIENCE OF VERMONT: MEGA PRO BIOTIC-ND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CARLSON LABS MULTI VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

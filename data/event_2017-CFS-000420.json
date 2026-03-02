@@ -1,0 +1,31 @@
+{
+  "report_number": "2017-CFS-000420",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170922",
+  "reactions": [
+    "Pruritus",
+    "Scab",
+    "Skin exfoliation",
+    "Wound"
+  ],
+  "date_started": "20130317",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN HAIRCARE PRODUCTS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multi-vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

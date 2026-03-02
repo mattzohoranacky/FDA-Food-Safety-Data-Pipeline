@@ -1,0 +1,31 @@
+{
+  "report_number": "179827",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141001",
+  "reactions": [
+    "BACK PAIN",
+    "BREAST PAIN",
+    "CONSTIPATION",
+    "FALL",
+    "PAIN IN EXTREMITY",
+    "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20140826",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENEFIBER WITH WHEAT DEXTRIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

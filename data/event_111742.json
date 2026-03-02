@@ -1,0 +1,29 @@
+{
+  "report_number": "111742",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20090403",
+  "reactions": [
+    "BILE OUTPUT ABNORMAL",
+    "HEPATIC NECROSIS",
+    "HEPATIC STEATOSIS",
+    "HEPATITIS ACUTE",
+    "HEPATOMEGALY",
+    "PANCREATITIS ACUTE"
+  ],
+  "date_started": "20080717",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

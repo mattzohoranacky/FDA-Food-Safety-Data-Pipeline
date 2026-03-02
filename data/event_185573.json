@@ -1,0 +1,36 @@
+{
+  "report_number": "185573",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150416",
+  "reactions": [
+    "DYSPHONIA",
+    "DYSPNOEA",
+    "EYE SWELLING",
+    "OROPHARYNGEAL PAIN",
+    "OROPHARYNGEAL SWELLING",
+    "SWELLING",
+    "VISUAL IMPAIRMENT",
+    "VOMITING"
+  ],
+  "date_started": "20150326",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN WORLD MULTI-ENZYME DIGESTIVE CARE BROAD SPECTRUM FORMULA COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI-ENZYME BALANCE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "2023-CFS-013521",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20231205",
+  "reactions": [
+    "Discomfort",
+    "Erythema",
+    "Headache",
+    "Hypersensitivity",
+    "Paraesthesia",
+    "Pruritus"
+  ],
+  "date_started": "20231203",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATIVE COCONUT AND VANILLA NATIVE FACIAL CARE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "children's multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

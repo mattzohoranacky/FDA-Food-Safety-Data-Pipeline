@@ -1,0 +1,30 @@
+{
+  "report_number": "76001",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20050207",
+  "reactions": [
+    "AMNESIA",
+    "BLOOD PRESSURE INCREASED",
+    "CONFUSIONAL STATE",
+    "GLOBAL AMNESIA",
+    "HOSPITALISATION"
+  ],
+  "date_started": "20050202",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET A DAY, INC CORTILESS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

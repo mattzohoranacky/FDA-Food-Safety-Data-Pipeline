@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-004469",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180312",
+  "reactions": [
+    "Cough",
+    "Crying",
+    "Dyspnoea",
+    "Pruritus",
+    "Rash",
+    "Urticaria",
+    "Vomiting"
+  ],
+  "date_started": "20180311",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE EGG-FREE WIDE PASTA RIBBONS",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LARABAR MINT CHIP BROWNIE",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

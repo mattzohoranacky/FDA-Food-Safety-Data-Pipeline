@@ -1,0 +1,41 @@
+{
+  "report_number": "2018-CFS-007320",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180522",
+  "reactions": [
+    "Convulsion",
+    "Malaise",
+    "Muscle tightness",
+    "Retching",
+    "Tonic clonic movements"
+  ],
+  "date_started": "20180417",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY COMBO PACKET - CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY COMBO PACKET - STRAWBERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY COMBO PACKET - VANILLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

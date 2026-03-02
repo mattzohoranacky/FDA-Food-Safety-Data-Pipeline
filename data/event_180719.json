@@ -1,0 +1,51 @@
+{
+  "report_number": "180719",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20141110",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "DYSPEPSIA",
+    "ERUCTATION",
+    "FEELING COLD",
+    "FOOD POISONING",
+    "HYPERHIDROSIS",
+    "MALAISE",
+    "POISONING",
+    "VOMITING"
+  ],
+  "date_started": "20141106",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MCKEE BAKERY LITTLE DEBBIE NUTTY BARS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BENEFIBER- GENERIC DEXTRIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GLYCERIN",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PSYLLIUM HUSK FIBER CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

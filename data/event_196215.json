@@ -1,0 +1,56 @@
+{
+  "report_number": "196215",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160512",
+  "reactions": [
+    "BLOOD POTASSIUM DECREASED",
+    "BLOOD PRESSURE INCREASED",
+    "BLOOD SODIUM DECREASED",
+    "BLOOD TEST ABNORMAL",
+    "DIZZINESS",
+    "EXTRASYSTOLES",
+    "HEADACHE",
+    "HEART RATE INCREASED"
+  ],
+  "date_started": "20150914",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE DOUBLE STRENGTH PHYTOSTEROL COMPLEX (DIETARY SUPPLEMENT) RAPID RELEASE SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLAX SEED OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LUTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POTASSIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

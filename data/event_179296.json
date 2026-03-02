@@ -1,0 +1,33 @@
+{
+  "report_number": "179296",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140616",
+  "reactions": [
+    "MYOCARDIAL INFARCTION",
+    "VERTIGO"
+  ],
+  "date_started": "20140509",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EAS ADVANTEDGE PROTEIN DRINK CAFE CARMEL",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EAS ASVANTAGE PROTEIN DRINK IN TERA PAK.",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

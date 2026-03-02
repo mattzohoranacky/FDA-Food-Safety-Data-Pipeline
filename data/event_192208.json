@@ -1,0 +1,37 @@
+{
+  "report_number": "192208",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20151218",
+  "reactions": [
+    "HEADACHE",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20151209",
+  "consumer": {
+    "age": "18",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIT FIRM & FABULOUS DETOX TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIT FIRM & FABULOUS PATCHES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIT FIRM & FABULOUS SLIM CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

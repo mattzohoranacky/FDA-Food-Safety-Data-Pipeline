@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-008872",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210826",
+  "reactions": [
+    "Hypersensitivity",
+    "Skin exfoliation",
+    "Urticaria"
+  ],
+  "date_started": "20210809",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CREMO BODY WASH COCONUT TEA TREE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEODORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

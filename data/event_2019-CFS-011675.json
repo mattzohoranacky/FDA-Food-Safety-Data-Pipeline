@@ -1,0 +1,42 @@
+{
+  "report_number": "2019-CFS-011675",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191123",
+  "reactions": [
+    "Abdominal pain upper",
+    "Blood urine present",
+    "Burkholderia cepacia complex infection",
+    "Dyspnoea",
+    "Epstein-Barr virus infection",
+    "Eye pain",
+    "Helicobacter gastritis",
+    "Insomnia",
+    "Muscle spasms",
+    "Oropharyngeal pain",
+    "Pain",
+    "Renal pain",
+    "Staphylococcal infection",
+    "Urinary tract infection",
+    "Vulvovaginal pain"
+  ],
+  "date_started": "20190729",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUTADOSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

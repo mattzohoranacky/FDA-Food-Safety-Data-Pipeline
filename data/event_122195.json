@@ -1,0 +1,36 @@
+{
+  "report_number": "122195",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091214",
+  "reactions": [
+    "BURNING SENSATION",
+    "DRY SKIN",
+    "HYPOTRICHOSIS",
+    "PAIN",
+    "PRURITUS",
+    "SCAB",
+    "SKIN EXFOLIATION"
+  ],
+  "date_started": "20091207",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOCTOR MIRACLE TEMPLE AND NAP GRO BALM SUPER STRENGTH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DOCTOR MIRACLE ANTI BREAKAGE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

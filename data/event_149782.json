@@ -1,0 +1,51 @@
+{
+  "report_number": "149782",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120308",
+  "reactions": [
+    "BACK PAIN",
+    "CHILLS",
+    "DIARRHOEA",
+    "HEART RATE INCREASED",
+    "MALAISE",
+    "MUSCULOSKELETAL PAIN",
+    "NAUSEA",
+    "NECK PAIN",
+    "RESTLESSNESS",
+    "VOMITING"
+  ],
+  "date_started": "20120211",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL EQUILIBRIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE BASICS MULTIVITAMIN FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRILOSEC OTC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "REVERATROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

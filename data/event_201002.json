@@ -1,0 +1,50 @@
+{
+  "report_number": "201002",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160831",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "EYE SWELLING",
+    "FACE OEDEMA",
+    "PHARYNGEAL OEDEMA",
+    "RASH MACULAR",
+    "SOMNOLENCE",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20160807",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM  - CLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM  - THERMO INFERNO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM - BEAUTY & WATER BALANCE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP WOMENS RIPPED VITAPAK PROGRAM - WOMEN'S ULTRA MEGA (DIETARY SUPPLEMENT) PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

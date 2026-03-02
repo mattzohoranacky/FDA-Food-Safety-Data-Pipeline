@@ -1,0 +1,43 @@
+{
+  "report_number": "2020-CFS-006238",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200623",
+  "reactions": [
+    "Haemorrhage"
+  ],
+  "date_started": "20190801",
+  "consumer": {
+    "age": "39.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COCO LOTION PINK VICTORIA SECRET",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMONDS AND RUBY BY ELIZABETH TAYLOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JAIPUR BRACELET BOUCHERON",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHITE DIAMONDS ELIZABETH TAYLOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

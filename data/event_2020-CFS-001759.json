@@ -1,0 +1,45 @@
+{
+  "report_number": "2020-CFS-001759",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200209",
+  "reactions": [
+    "Alopecia",
+    "Pruritus",
+    "Skin irritation",
+    "Skin ulcer"
+  ],
+  "date_started": "20190101",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL BUILDUP BUSTER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO POO SHAMPOO CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Prenatal vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "88474",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060915",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "HAEMORRHAGE"
+  ],
+  "date_started": "20060910",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE SPINACH",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

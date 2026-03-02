@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-006274",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230619",
+  "reactions": [
+    "Pain"
+  ],
+  "date_started": "20230604",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACRYLIC NAILS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "motrin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

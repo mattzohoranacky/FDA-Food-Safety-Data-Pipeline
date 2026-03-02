@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-011863",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180828",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain",
+    "Diarrhoea haemorrhagic",
+    "Intestinal obstruction",
+    "Large intestinal obstruction",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20180823",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

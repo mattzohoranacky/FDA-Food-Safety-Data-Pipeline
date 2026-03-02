@@ -1,0 +1,32 @@
+{
+  "report_number": "2025-CFS-013397",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250816",
+  "reactions": [
+    "Deformity",
+    "Feeling of despair",
+    "Hypersensitivity"
+  ],
+  "date_started": "20061216",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NU SKIN CLEAR ACTION SYSTEM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NU SKIN PHARMANEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "report_number": "194605",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160321",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20160321",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STARKIST ALBACORE TUNA (IN WATER)",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BOTTLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GOOSE ISLAND 3-1-2 URBAN WHEAT ALE",
+      "industry_code": "32",
+      "industry_name": "Alcoholic Beverage"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAYONNAISE",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VERNOR'S GINGER ALE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHEAT BREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

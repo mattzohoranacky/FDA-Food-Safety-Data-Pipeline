@@ -1,0 +1,35 @@
+{
+  "report_number": "2019-CFS-001617",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190214",
+  "reactions": [
+    "Alopecia",
+    "Blister",
+    "Dandruff",
+    "Eczema",
+    "Pain",
+    "Pruritus"
+  ],
+  "date_started": "20190201",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT HYDRATION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT KIT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

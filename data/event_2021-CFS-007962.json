@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-007962",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210811",
+  "reactions": [
+    "Coeliac disease"
+  ],
+  "date_started": "20200207",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COUNTRY LIFE HIGH POTENCY VITAMIN D3250 MCG (10000 IU)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COUNTRY LIFE VITAMIN D3 125 MCG (5000 IU)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

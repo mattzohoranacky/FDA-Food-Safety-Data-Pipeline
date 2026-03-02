@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-005718",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240605",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Flushing",
+    "Inflammation",
+    "Skin burning sensation",
+    "Urticaria"
+  ],
+  "date_started": "20240428",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HISTAGEST DAO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOMOCYSTEINE SUPREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

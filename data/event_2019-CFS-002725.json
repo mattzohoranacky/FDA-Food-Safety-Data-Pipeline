@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-002725",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181228",
+  "reactions": [
+    "Cough",
+    "Diarrhoea",
+    "Dyspnoea",
+    "Erythema",
+    "Lacrimation increased",
+    "Pain",
+    "Swelling face",
+    "Wheezing"
+  ],
+  "date_started": "20181225",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CREAM OF RICE HOT CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

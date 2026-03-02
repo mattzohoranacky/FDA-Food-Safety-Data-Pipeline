@@ -1,0 +1,40 @@
+{
+  "report_number": "161711",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130131",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "LOSS OF CONSCIOUSNESS",
+    "RASH"
+  ],
+  "date_started": "20130109",
+  "consumer": {
+    "age": "66.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE RESVERATROL 250MG + RED WINE EXTRACT 10MG RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EVENING PRIMROSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B 12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "85553",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060504",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20060428",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR. PEPPER DIET DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CANDY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "174728",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140319",
+  "reactions": [
+    "ANXIETY",
+    "BURNING SENSATION",
+    "CHEST PAIN",
+    "DYSPHAGIA",
+    "HYPERHIDROSIS",
+    "ORAL PRURITUS",
+    "PARAESTHESIA ORAL",
+    "PRURITUS",
+    "SPEECH DISORDER",
+    "TONGUE DISORDER"
+  ],
+  "date_started": "20140225",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQUATE COMPLETE ULTRA WOMEN'S HEALTH 50+ MULTIVITAMIN MULTIMINERAL TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED OTC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

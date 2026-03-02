@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-006897",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20230703",
+  "reactions": [
+    "Gastrointestinal disorder",
+    "Weight increased"
+  ],
+  "date_started": "20221020",
+  "consumer": {
+    "age": "20.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOOD&GATHER BLUEBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOOD&GATHER TRIPLE BERRY BLEND",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

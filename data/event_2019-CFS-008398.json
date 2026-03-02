@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-008398",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20190815",
+  "reactions": [
+    "Abasia",
+    "Fall",
+    "Monoparesis",
+    "Pneumonia"
+  ],
+  "date_started": "20190301",
+  "consumer": {
+    "age": "84",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL CALCIUM + D3 SLOW RELEASE 1200",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHILLIPS COLON HEALTH PROBIOTICS WITH METABOLISM SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

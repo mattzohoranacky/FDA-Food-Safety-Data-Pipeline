@@ -1,0 +1,38 @@
+{
+  "report_number": "190791",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20151020",
+  "reactions": [
+    "ERUCTATION",
+    "FEELING HOT",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTRIC ULCER",
+    "GASTRITIS",
+    "HICCUPS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20151019",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IT WORKS! ADVANCED FORMULA FATFIGHTER WITH CARB INHIBITORS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DEFINING GEL BODY CONTOURING GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

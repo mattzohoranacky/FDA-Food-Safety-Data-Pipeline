@@ -1,0 +1,44 @@
+{
+  "report_number": "2022-CFS-002535",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220221",
+  "reactions": [
+    "Crying",
+    "Fatigue",
+    "Urinary tract infection",
+    "Vomiting"
+  ],
+  "date_started": "20211102",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT ELECARE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC ADVANCED",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC ALIMENTUM",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC PRO SENSITIVE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

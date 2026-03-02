@@ -1,0 +1,36 @@
+{
+  "report_number": "90483",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20061211",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "Adverse event",
+    "BODY TEMPERATURE INCREASED",
+    "BURNING SENSATION",
+    "DYSPNOEA",
+    "HYPOAESTHESIA",
+    "PARAESTHESIA",
+    "PRURITUS",
+    "SKIN DISCOLOURATION",
+    "TREMOR",
+    "URTICARIA"
+  ],
+  "date_started": "20061210",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZIP FIZZ LIQUID SHOT ENERGY DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

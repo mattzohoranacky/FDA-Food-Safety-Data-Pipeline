@@ -1,0 +1,33 @@
+{
+  "report_number": "195571",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160419",
+  "reactions": [
+    "BLISTER",
+    "BURNING SENSATION",
+    "SWELLING FACE",
+    "URTICARIA"
+  ],
+  "date_started": "20160417",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAIR FACE CREAM HAIR REMOVER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HAIR AND NAIL VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

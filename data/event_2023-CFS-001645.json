@@ -1,0 +1,36 @@
+{
+  "report_number": "2023-CFS-001645",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230214",
+  "reactions": [
+    "Blood pressure increased",
+    "Dependence",
+    "Hallucination"
+  ],
+  "date_started": "20220923",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZAZA TIANEPTINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ZAZA Red ZAZA Silver",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

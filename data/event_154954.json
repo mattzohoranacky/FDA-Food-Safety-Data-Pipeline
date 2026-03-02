@@ -1,0 +1,47 @@
+{
+  "report_number": "154954",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120730",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CARDIAC DISORDER",
+    "CARDIO-RESPIRATORY DISTRESS",
+    "CHEST PAIN",
+    "DEPRESSION",
+    "DIABETES MELLITUS",
+    "EMOTIONAL DISTRESS",
+    "HYPERTENSION",
+    "MENTAL DISORDER",
+    "MYOCARDIAL INFARCTION",
+    "OBESITY",
+    "RENAL DISORDER"
+  ],
+  "date_started": "20050815",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT HARDCORE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT REGULAR RAPID RELEASE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

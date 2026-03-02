@@ -1,0 +1,36 @@
+{
+  "report_number": "2021-CFS-004423",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210513",
+  "reactions": [
+    "Eczema"
+  ],
+  "date_started": "20210330",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE HONEST COMPANY ECZEMA SOOTHING THERAPY BODY WASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE HONEST COMPANY ECZEMA SOOTHING THERAPY CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Cetaphil baby body wash",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

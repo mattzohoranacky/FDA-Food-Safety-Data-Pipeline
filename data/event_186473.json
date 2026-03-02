@@ -1,0 +1,48 @@
+{
+  "report_number": "186473",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150515",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CARDIAC FIBRILLATION",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "Death",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "MYALGIA",
+    "NAUSEA",
+    "RESPIRATORY DISTRESS",
+    "SEPSIS",
+    "VOMITING"
+  ],
+  "date_started": "20150331",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE BELL HOMEMADE VANILLA CUPS",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE BELL NO SUGAR ADDED LOWFAT COUNTRY VANILLA",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE BELL PINEAPPLE SHERBERT",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

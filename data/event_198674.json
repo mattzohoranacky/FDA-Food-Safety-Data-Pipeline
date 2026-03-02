@@ -1,0 +1,31 @@
+{
+  "report_number": "198674",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160719",
+  "reactions": [
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "RENAL PAIN"
+  ],
+  "date_started": "20160717",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

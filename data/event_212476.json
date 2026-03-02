@@ -1,0 +1,47 @@
+{
+  "report_number": "212476",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20170526",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BIOPSY LIVER ABNORMAL",
+    "BLOOD ALBUMIN DECREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CHLORIDE DECREASED",
+    "BLOOD CREATININE INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD SODIUM DECREASED",
+    "BLOOD UREA INCREASED",
+    "DRUG-INDUCED LIVER INJURY",
+    "HEPATITIS",
+    "LIVER INJURY",
+    "NECROSIS",
+    "PROTEIN TOTAL DECREASED",
+    "TRANSAMINASES INCREASED"
+  ],
+  "date_started": "20170526",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENGLISH LAVENDER FLOWER TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-004901",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220223",
+  "reactions": [
+    "Abdominal pain",
+    "Dermatitis diaper",
+    "Diarrhoea",
+    "Dry skin",
+    "Salmonellosis"
+  ],
+  "date_started": "20220101",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRO SENSTIVE INFANT FORMULA POWDER FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

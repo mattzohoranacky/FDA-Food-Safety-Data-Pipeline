@@ -1,0 +1,36 @@
+{
+  "report_number": "150822",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120404",
+  "reactions": [
+    "CHOKING",
+    "DYSPHAGIA",
+    "RETCHING"
+  ],
+  "date_started": "20120325",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER ULTRA WOMENS MULTIMINERALS MULTIVITAMINS TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B3 (NICOTINIC ACID AMIDE) (NICOTINAMIDE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

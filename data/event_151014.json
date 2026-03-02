@@ -1,0 +1,44 @@
+{
+  "report_number": "151014",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120411",
+  "reactions": [
+    "BACK PAIN",
+    "TENDERNESS",
+    "THROMBOSIS"
+  ],
+  "date_started": "20120318",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE CHROMIUM PICOLINATE 200MCG YEAST FREE VEGETARIAN FORMULA TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE NATURAL HIGH LIGAN FLAX OIL 1000 MG RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ODORLESS GARLIC 500 MG RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE SOY LECITHIN 1200 MG (168MG PHOSPHATIDYLCHOLINE) RAPID RELEASE SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

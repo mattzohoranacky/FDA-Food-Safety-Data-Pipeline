@@ -1,0 +1,31 @@
+{
+  "report_number": "200701",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160826",
+  "reactions": [
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "Product contamination physical",
+    "RENAL FAILURE",
+    "SALMONELLA TEST POSITIVE",
+    "SALMONELLOSIS"
+  ],
+  "date_started": "20160730",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEPSI COLA SOFT DRINK SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

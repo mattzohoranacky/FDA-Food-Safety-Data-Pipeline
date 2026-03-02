@@ -1,0 +1,36 @@
+{
+  "report_number": "117155",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090310",
+  "reactions": [
+    "DIARRHOEA",
+    "HEADACHE",
+    "NAUSEA"
+  ],
+  "date_started": "20090303",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND FALLS PURE GRANULATED SUGAR",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KOOL-AID",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

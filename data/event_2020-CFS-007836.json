@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-007836",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200812",
+  "reactions": [
+    "Burning sensation",
+    "Deformity",
+    "Pruritus",
+    "Skin exfoliation"
+  ],
+  "date_started": "20200106",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUTROGENA FACE SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUTROGENA FACE WASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

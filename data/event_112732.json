@@ -1,0 +1,31 @@
+{
+  "report_number": "112732",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090504",
+  "reactions": [
+    "HEPATOCELLULAR INJURY",
+    "HEPATOMEGALY"
+  ],
+  "date_started": "20090501",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT CAFFEINE-FREE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

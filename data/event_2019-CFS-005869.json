@@ -1,0 +1,35 @@
+{
+  "report_number": "2019-CFS-005869",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190610",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea",
+    "Gastrointestinal disorder",
+    "Lethargy",
+    "Vomiting"
+  ],
+  "date_started": "20190606",
+  "consumer": {
+    "age": "6",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTH'S BEST ORGANIC WHOLE GRAIN OATMEAL CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D Drops",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

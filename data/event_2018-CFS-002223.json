@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-002223",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180206",
+  "reactions": [
+    "Anxiety",
+    "Immune system disorder",
+    "Weight decreased"
+  ],
+  "date_started": "20151021",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CONAGRA FOODS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

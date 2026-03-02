@@ -1,0 +1,37 @@
+{
+  "report_number": "179668",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140926",
+  "reactions": [
+    "DEHYDRATION",
+    "DIZZINESS",
+    "FEELING ABNORMAL",
+    "FEELING JITTERY",
+    "HEART RATE INCREASED",
+    "PALLOR",
+    "PRESYNCOPE"
+  ],
+  "date_started": "20140726",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ATHLETIC GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOTRUST LEPTIBURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "121679",
+  "outcomes": [
+    "Death",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091217",
+  "reactions": [
+    "CHEST PAIN",
+    "Death",
+    "FALL",
+    "HEAD INJURY",
+    "PULSE ABSENT",
+    "SNEEZING",
+    "VOMITING"
+  ],
+  "date_started": "20090825",
+  "consumer": {
+    "age": "88",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "5 HOUR ENERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

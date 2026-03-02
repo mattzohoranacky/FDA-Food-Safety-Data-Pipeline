@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-015513",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20221026",
+  "reactions": [
+    "Escherichia infection",
+    "Rash"
+  ],
+  "date_started": "20220818",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ECLAT VITAMIN C SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TREE OF LIFE RETINOL SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

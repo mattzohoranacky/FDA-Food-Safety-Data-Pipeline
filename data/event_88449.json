@@ -1,0 +1,31 @@
+{
+  "report_number": "88449",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060918",
+  "reactions": [
+    "BURNING SENSATION",
+    "GLOSSODYNIA",
+    "HYPERSENSITIVITY",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20060918",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWISS MISS HOT CHOCOLATE MIX",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

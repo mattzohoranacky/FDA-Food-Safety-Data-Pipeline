@@ -1,0 +1,45 @@
+{
+  "report_number": "2020-CFS-000022",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191231",
+  "reactions": [
+    "Dizziness",
+    "Sneezing",
+    "Somnolence",
+    "Swelling"
+  ],
+  "date_started": "20191224",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIFEEL SUNFLOWER MEGA CARE VITAMIN E OIL PREMIUM NATURAL HAIR OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "potassium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin b12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin d3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

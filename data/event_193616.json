@@ -1,0 +1,30 @@
+{
+  "report_number": "193616",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160216",
+  "reactions": [
+    "ERYTHEMA",
+    "EYE SWELLING",
+    "LACRIMATION INCREASED",
+    "RASH"
+  ],
+  "date_started": "20160214",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SKINREVIVE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

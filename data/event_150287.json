@@ -1,0 +1,42 @@
+{
+  "report_number": "150287",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120321",
+  "reactions": [
+    "BLOOD CHLORIDE DECREASED",
+    "BLOOD CREATININE INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD POTASSIUM DECREASED",
+    "BLOOD SODIUM DECREASED",
+    "DEHYDRATION",
+    "DIZZINESS",
+    "FATIGUE",
+    "HEADACHE",
+    "HYPOTENSION",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20120127",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS SLIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS SLIM ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

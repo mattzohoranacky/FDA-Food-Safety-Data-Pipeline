@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-012446",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191223",
+  "reactions": [
+    "Skin ulcer"
+  ],
+  "date_started": "20191201",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

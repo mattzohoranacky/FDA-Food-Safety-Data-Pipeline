@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-003462",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210415",
+  "reactions": [
+    "Atrial fibrillation"
+  ],
+  "date_started": "20210403",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SECRET MIRACLE HONEY ORIGINAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

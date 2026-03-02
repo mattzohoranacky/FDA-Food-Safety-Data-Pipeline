@@ -1,0 +1,40 @@
+{
+  "report_number": "170447",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20130918",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD CREATINE INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "CARDIAC ARREST",
+    "CARDIAC FAILURE ACUTE",
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "Death",
+    "ELECTROCARDIOGRAM ABNORMAL",
+    "RESPIRATORY DISTRESS"
+  ],
+  "date_started": "20130913",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NO XPLODE 2.0 (ASSORTED FLAVORS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BLACK POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

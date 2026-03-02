@@ -1,0 +1,30 @@
+{
+  "report_number": "114431",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090622",
+  "reactions": [
+    "DEHYDRATION",
+    "DIZZINESS",
+    "PHOTOPSIA",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20090607",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTIMATE PRO SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

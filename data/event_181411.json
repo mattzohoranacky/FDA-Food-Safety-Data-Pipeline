@@ -1,0 +1,38 @@
+{
+  "report_number": "181411",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20141215",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20141124",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LACTAID FAST ACT CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

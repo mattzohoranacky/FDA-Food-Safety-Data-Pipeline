@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-009794",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180728",
+  "reactions": [
+    "Asthenia",
+    "Dizziness",
+    "Gastrointestinal haemorrhage",
+    "Haemorrhage",
+    "Pallor",
+    "Rectal haemorrhage",
+    "Skin odour abnormal"
+  ],
+  "date_started": "20180723",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPERBEETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

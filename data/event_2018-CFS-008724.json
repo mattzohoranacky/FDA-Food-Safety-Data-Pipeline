@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-008724",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180627",
+  "reactions": [
+    "Amniocentesis abnormal",
+    "Complication of delivery",
+    "Lactation disorder",
+    "Placental disorder",
+    "Weight fluctuation",
+    "Weight gain poor"
+  ],
+  "date_started": "20160901",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM PRONUTRIENTS OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

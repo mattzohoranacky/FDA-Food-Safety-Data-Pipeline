@@ -1,0 +1,39 @@
+{
+  "report_number": "194735",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160324",
+  "reactions": [
+    "ADVERSE REACTION",
+    "ASTHENIA",
+    "CHILLS",
+    "DIZZINESS",
+    "DYSURIA",
+    "HOSPITALISATION",
+    "MALAISE",
+    "NAUSEA",
+    "POLLAKIURIA",
+    "PYREXIA",
+    "URINARY TRACT INFECTION",
+    "URINE FLOW DECREASED",
+    "VOMITING"
+  ],
+  "date_started": "20160131",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

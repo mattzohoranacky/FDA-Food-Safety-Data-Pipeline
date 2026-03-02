@@ -1,0 +1,35 @@
+{
+  "report_number": "183700",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141201",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL PAIN",
+    "CLOSTRIDIUM TEST POSITIVE",
+    "Clostridium difficile infection",
+    "DIARRHOEA",
+    "FAECES DISCOLOURED"
+  ],
+  "date_started": "20141126",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER SINGLE GRAIN RICE CEREAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC EXPERT CARE ALIMENTUM FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

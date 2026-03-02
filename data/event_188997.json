@@ -1,0 +1,33 @@
+{
+  "report_number": "188997",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150817",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CHEST DISCOMFORT",
+    "PAIN"
+  ],
+  "date_started": "20150810",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HITECH PHARMA LIPODRENE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

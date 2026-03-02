@@ -1,0 +1,40 @@
+{
+  "report_number": "2018-CFS-004371",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180313",
+  "reactions": [
+    "Aspiration",
+    "Blood pressure increased",
+    "Choking",
+    "Cough",
+    "Dyspnoea",
+    "Headache",
+    "Hypoaesthesia",
+    "Retching"
+  ],
+  "date_started": "20180215",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE OMEGA+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHYSIQ PROBIO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

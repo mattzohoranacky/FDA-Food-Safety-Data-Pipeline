@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-002539",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210317",
+  "reactions": [
+    "Hypoaesthesia oral",
+    "Lip swelling",
+    "Oedema mouth"
+  ],
+  "date_started": "20210313",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HARRELSON'S OWN CBD OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Senior Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

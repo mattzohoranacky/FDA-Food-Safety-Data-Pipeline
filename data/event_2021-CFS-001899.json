@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-001899",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210301",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20210227",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BROWN BLACK VINEGAR AGED 5 YEARS",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JAPANESE SOY SAUCE KISHIBORI SHOYU",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

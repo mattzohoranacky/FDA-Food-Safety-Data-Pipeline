@@ -1,0 +1,26 @@
+{
+  "report_number": "2024-CFS-011029",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240829",
+  "reactions": [
+    "Pyrexia",
+    "Salmonellosis"
+  ],
+  "date_started": "20240824",
+  "consumer": {
+    "age": "7",
+    "age_unit": "week(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ALIMENTUM READY-TO-FEED CANS",
+      "industry_code": "40N",
+      "industry_name": "Ready to Serve Formula"
+    }
+  ]
+}

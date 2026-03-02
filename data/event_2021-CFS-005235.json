@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-005235",
+  "outcomes": [
+    "Death",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210603",
+  "reactions": [
+    "Convulsion",
+    "Death",
+    "Weight decreased"
+  ],
+  "date_started": "20200830",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NJOY KRATOM WHITE MAENG DA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Kratom Natural Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-016061",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20221110",
+  "reactions": [
+    "Dark circles under eyes",
+    "Dry eye",
+    "Hypersensitivity",
+    "Periorbital swelling",
+    "Pruritus"
+  ],
+  "date_started": "20221025",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RODAN + FIELDS LASH BOOST",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MultiVitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

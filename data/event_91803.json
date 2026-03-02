@@ -1,0 +1,31 @@
+{
+  "report_number": "91803",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070222",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "MALAISE",
+    "NAUSEA"
+  ],
+  "date_started": "20070211",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

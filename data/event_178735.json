@@ -1,0 +1,36 @@
+{
+  "report_number": "178735",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140820",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "MEASLES",
+    "NAIL DISCOLOURATION",
+    "OEDEMA",
+    "RASH",
+    "RASH PAPULAR",
+    "SEPSIS",
+    "SWELLING"
+  ],
+  "date_started": "20120101",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "21 DAY HERBAL CLEANSING PROGRAM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE FORMULA 1 (PIFIA COLADA FLAVOR)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

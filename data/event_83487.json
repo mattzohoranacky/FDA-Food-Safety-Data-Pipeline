@@ -1,0 +1,41 @@
+{
+  "report_number": "83487",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060130",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BACK PAIN",
+    "CHROMATURIA",
+    "FATIGUE",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HEPATITIS A",
+    "INFLUENZA LIKE ILLNESS",
+    "MALAISE",
+    "NAUSEA",
+    "PRURITUS",
+    "PYREXIA",
+    "UROGENITAL DISORDER"
+  ],
+  "date_started": "20051014",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLAMS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

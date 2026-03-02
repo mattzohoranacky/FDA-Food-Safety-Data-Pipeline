@@ -1,0 +1,33 @@
+{
+  "report_number": "65679",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040114",
+  "reactions": [
+    "BLOOD POTASSIUM DECREASED",
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "FATIGUE",
+    "HOSPITALISATION",
+    "MYOCARDIAL INFARCTION",
+    "PALPITATIONS"
+  ],
+  "date_started": "20031215",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XENADRINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

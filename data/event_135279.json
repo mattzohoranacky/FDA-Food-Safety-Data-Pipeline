@@ -1,0 +1,33 @@
+{
+  "report_number": "135279",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110131",
+  "reactions": [
+    "DIZZINESS",
+    "MUSCULAR WEAKNESS",
+    "NERVE INJURY"
+  ],
+  "date_started": "20110114",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANDRE WALKER CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANDRE WALKER KERATIN SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

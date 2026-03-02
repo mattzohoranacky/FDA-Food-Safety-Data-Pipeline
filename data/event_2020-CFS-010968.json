@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-010968",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20201028",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20031022",
+  "consumer": {
+    "age": "17",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "365 WHOLE FOODS MARKET ORGANIC WHITE BALSAMIC VINAIGRETTE",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

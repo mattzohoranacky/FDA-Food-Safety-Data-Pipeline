@@ -1,0 +1,27 @@
+{
+  "report_number": "2020-CFS-006922",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20200716",
+  "reactions": [
+    "Abdominal pain",
+    "Hepatic enzyme increased",
+    "Hepatotoxicity"
+  ],
+  "date_started": "20191030",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VALERIAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

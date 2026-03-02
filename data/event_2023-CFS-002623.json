@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-002623",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20230311",
+  "reactions": [
+    "Diarrhoea",
+    "Flatulence",
+    "Food poisoning"
+  ],
+  "date_started": "20230311",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEB SUGAR-FREE WILD FRUIT GUMMI BEARS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

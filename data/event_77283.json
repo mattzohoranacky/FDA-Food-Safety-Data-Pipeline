@@ -1,0 +1,33 @@
+{
+  "report_number": "77283",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050331",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CELLULITIS",
+    "GASTROENTERITIS VIBRIO",
+    "HOSPITALISATION",
+    "MYALGIA",
+    "NAUSEA",
+    "VOMITING",
+    "Vibrio test positive"
+  ],
+  "date_started": "20041112",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-013999",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20181128",
+  "reactions": [
+    "Death",
+    "Exposure to chemical pollution",
+    "Mesothelioma malignant"
+  ],
+  "date_started": "20150528",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

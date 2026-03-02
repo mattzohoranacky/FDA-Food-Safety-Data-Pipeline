@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-001765",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200209",
+  "reactions": [
+    "Alopecia",
+    "Pruritus"
+  ],
+  "date_started": "20190805",
+  "consumer": {
+    "age": "22.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

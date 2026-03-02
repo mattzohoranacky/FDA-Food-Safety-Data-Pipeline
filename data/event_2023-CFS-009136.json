@@ -1,0 +1,38 @@
+{
+  "report_number": "2023-CFS-009136",
+  "outcomes": [
+    "Allergic Reaction"
+  ],
+  "date_created": "20230829",
+  "reactions": [
+    "Cough",
+    "Headache",
+    "Hypersensitivity"
+  ],
+  "date_started": "20230828",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAL SOAP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE ONIONS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SMIRNOFF ALCOHOL",
+      "industry_code": "32",
+      "industry_name": "Alcoholic Beverage"
+    }
+  ]
+}

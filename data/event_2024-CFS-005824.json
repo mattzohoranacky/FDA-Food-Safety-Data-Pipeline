@@ -1,0 +1,44 @@
+{
+  "report_number": "2024-CFS-005824",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20240609",
+  "reactions": [
+    "Asthenia",
+    "Blood creatine increased",
+    "Blood potassium increased",
+    "Blood sodium decreased",
+    "Blood urea increased",
+    "Dehydration",
+    "Kidney infection",
+    "Muscle injury",
+    "Nausea",
+    "Pollakiuria",
+    "Specific gravity urine increased"
+  ],
+  "date_started": "20240523",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA DEFEND PART 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA PROMOTE PART 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA URIARY CARE FLUSH PROACTIVE REGIMEN PART 1",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

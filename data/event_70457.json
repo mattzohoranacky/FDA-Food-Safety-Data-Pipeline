@@ -1,0 +1,31 @@
+{
+  "report_number": "70457",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040630",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "PHYSICAL EXAMINATION",
+    "VOMITING"
+  ],
+  "date_started": "20040625",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OTTER POPS",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEDIALYTE POPS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

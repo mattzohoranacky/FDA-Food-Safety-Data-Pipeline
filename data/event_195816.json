@@ -1,0 +1,31 @@
+{
+  "report_number": "195816",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160427",
+  "reactions": [
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20100105",
+  "consumer": {
+    "age": "70.01",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EUCERIN CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HUGGIES BABYWIPES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

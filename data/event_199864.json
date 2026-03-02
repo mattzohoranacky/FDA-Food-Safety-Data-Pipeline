@@ -1,0 +1,39 @@
+{
+  "report_number": "199864",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160401",
+  "reactions": [
+    "Adverse reaction",
+    "BURNING SENSATION",
+    "HEADACHE",
+    "URTICARIA"
+  ],
+  "date_started": "20160401",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BANANAS",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAMPOSOL FRESH BLUEBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STRAWBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

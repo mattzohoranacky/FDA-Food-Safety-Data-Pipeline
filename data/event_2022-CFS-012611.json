@@ -1,0 +1,39 @@
+{
+  "report_number": "2022-CFS-012611",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220815",
+  "reactions": [
+    "Pain",
+    "Pruritus",
+    "Skin ulcer",
+    "Wound secretion"
+  ],
+  "date_started": "20220727",
+  "consumer": {
+    "age": "51.7",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUST FOR MEN MUSTACHE & BEARD M-40 MEDIUM-DARK BROWN UPC 011509049117",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Calcium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi-Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

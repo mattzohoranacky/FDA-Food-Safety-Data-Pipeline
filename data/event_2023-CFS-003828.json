@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-003828",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230410",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Nausea",
+    "Urticaria",
+    "Vomiting"
+  ],
+  "date_started": "20230218",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HIGHKEY SOFT BAKED MINI TREATS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

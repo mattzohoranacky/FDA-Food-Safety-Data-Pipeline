@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-001963",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230222",
+  "reactions": [
+    "Blood urine present",
+    "Priapism",
+    "Urinary retention",
+    "Urinary tract infection"
+  ],
+  "date_started": "20230212",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RHINO 250K",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

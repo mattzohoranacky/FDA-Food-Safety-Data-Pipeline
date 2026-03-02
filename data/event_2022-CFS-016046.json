@@ -1,0 +1,56 @@
+{
+  "report_number": "2022-CFS-016046",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20221110",
+  "reactions": [
+    "Abdominal pain lower",
+    "Diarrhoea",
+    "Flatulence",
+    "Frequent bowel movements",
+    "Gastroenteritis listeria",
+    "Gastrointestinal disorder",
+    "Headache",
+    "Nausea",
+    "Pain"
+  ],
+  "date_started": "20221101",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FORAGER ORGANIC PROBIOTIC CASHEW MILK YOGURT STRAWBERRY",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit K",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "calcium/Mg",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multi vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vit D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

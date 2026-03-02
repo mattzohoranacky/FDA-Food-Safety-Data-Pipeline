@@ -1,0 +1,44 @@
+{
+  "report_number": "123790",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20100222",
+  "reactions": [
+    "APHASIA",
+    "CHEST DISCOMFORT",
+    "CHOKING",
+    "COUGH",
+    "DYSPNOEA",
+    "FOREIGN BODY TRAUMA",
+    "MYALGIA",
+    "PHARYNGITIS",
+    "VOMITING"
+  ],
+  "date_started": "20100203",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRANBERRY COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

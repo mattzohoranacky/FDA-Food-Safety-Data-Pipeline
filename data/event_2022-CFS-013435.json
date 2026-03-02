@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-013435",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220831",
+  "reactions": [
+    "Abasia",
+    "Hyponatraemia",
+    "Speech disorder"
+  ],
+  "date_started": "20220810",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALPHA BASE CAPSULES WITHOUT IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CORE RESTORE CORE SUPPORT CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHYTO CORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

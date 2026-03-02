@@ -1,0 +1,44 @@
+{
+  "report_number": "2021-CFS-009005",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210903",
+  "reactions": [
+    "Erythema",
+    "Rash",
+    "Skin irritation"
+  ],
+  "date_started": "20210505",
+  "consumer": {
+    "age": "1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE SUGAR FREE SYRUP",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEINZ TOMATO KETCHUP",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HIDDEN VALLEY RANCH",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YUM YUM SAUCE",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

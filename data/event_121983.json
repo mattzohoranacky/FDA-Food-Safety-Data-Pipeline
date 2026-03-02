@@ -1,0 +1,37 @@
+{
+  "report_number": "121983",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100104",
+  "reactions": [
+    "ALLERGY TO METALS",
+    "ASTHMA",
+    "CHEST DISCOMFORT",
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "RASH",
+    "RASH GENERALISED"
+  ],
+  "date_started": "20091214",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY VITA CRAVES GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

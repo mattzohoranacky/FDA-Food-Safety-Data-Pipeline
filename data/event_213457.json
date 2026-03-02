@@ -1,0 +1,30 @@
+{
+  "report_number": "213457",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20170610",
+  "reactions": [
+    "Migraine"
+  ],
+  "date_started": "20170207",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GATORADE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

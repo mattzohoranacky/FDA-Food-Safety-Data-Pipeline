@@ -1,0 +1,49 @@
+{
+  "report_number": "2020-CFS-008169",
+  "outcomes": [
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200822",
+  "reactions": [
+    "Abasia",
+    "Back pain",
+    "Decreased appetite",
+    "Depression",
+    "Diarrhoea",
+    "Insomnia",
+    "Suicidal ideation"
+  ],
+  "date_started": "20200814",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLO PMS GUMMY VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Biotin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "161596",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130129",
+  "reactions": [
+    "ACUTE MYOCARDIAL INFARCTION",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "CARDIOGENIC SHOCK",
+    "CHEST PAIN",
+    "COMA",
+    "DRUG SCREEN POSITIVE",
+    "HIGH DENSITY LIPOPROTEIN DECREASED",
+    "HYPERGLYCAEMIA",
+    "LUNG INFECTION",
+    "MYOCARDIAL INFARCTION",
+    "PNEUMONIA",
+    "TROPONIN INCREASED",
+    "VASCULAR OCCLUSION",
+    "VENTRICULAR SEPTAL DEFECT",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20130120",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REUMOFAN PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

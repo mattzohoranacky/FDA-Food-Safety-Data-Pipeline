@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-006052",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20180419",
+  "reactions": [
+    "Blood pressure increased",
+    "Diarrhoea",
+    "Dizziness",
+    "Dyspepsia",
+    "Headache",
+    "Heart rate increased",
+    "Hyperhidrosis",
+    "Palpitations",
+    "Tunnel vision",
+    "Vomiting"
+  ],
+  "date_started": "20180417",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

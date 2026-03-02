@@ -1,0 +1,37 @@
+{
+  "report_number": "127681",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100621",
+  "reactions": [
+    "BLOOD CREATININE INCREASED",
+    "COLITIS ISCHAEMIC",
+    "COLON INJURY",
+    "GASTROINTESTINAL HAEMORRHAGE",
+    "HAEMATOCHEZIA",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATOMEGALY"
+  ],
+  "date_started": "20100510",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLMASS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NO XPLODE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

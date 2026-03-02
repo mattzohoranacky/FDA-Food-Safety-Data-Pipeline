@@ -1,0 +1,28 @@
+{
+  "report_number": "170007",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130913",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BILIARY COLIC",
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20130903",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

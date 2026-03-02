@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-002436",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220218",
+  "reactions": [
+    "Alopecia",
+    "Rash"
+  ],
+  "date_started": "20220101",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX EVER STRAIGHTENING  BRAZILIAN KERATIN THERAPY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX HYDRATING TEATREE MINT SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Co Q-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

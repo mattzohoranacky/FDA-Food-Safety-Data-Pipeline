@@ -1,0 +1,35 @@
+{
+  "report_number": "2021-CFS-003023",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210404",
+  "reactions": [
+    "Blood pressure increased",
+    "Cardiac disorder",
+    "Electrocardiogram abnormal",
+    "Heart rate increased",
+    "Troponin increased"
+  ],
+  "date_started": "20210306",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRANBERRY ORANGE SCONES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium with Zinc tablets",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

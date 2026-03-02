@@ -1,0 +1,30 @@
+{
+  "report_number": "188776",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150727",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CHOKING",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "RETCHING",
+    "VOMITING"
+  ],
+  "date_started": "20150724",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRIENDLY'S RICH & CREAMY VANILLA CHOCOLATE STRAWBERRY ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

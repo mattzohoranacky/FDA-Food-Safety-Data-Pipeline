@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-004414",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241028",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Gastric ulcer",
+    "Nausea",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20240813",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE PRENATAL WITH FOLIC ACID PLUS DHA PRENATAL VITAMIN AND MINERAL SUPPLEMENT SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

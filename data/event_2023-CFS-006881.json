@@ -1,0 +1,28 @@
+{
+  "report_number": "2023-CFS-006881",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230703",
+  "reactions": [
+    "Hypersensitivity",
+    "Mouth swelling"
+  ],
+  "date_started": "20230701",
+  "consumer": {
+    "age": "49.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELESTIAL SEASOINGS COUNTRY PEACH PASSION",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

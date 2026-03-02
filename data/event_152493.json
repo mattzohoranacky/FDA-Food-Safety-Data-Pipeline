@@ -1,0 +1,37 @@
+{
+  "report_number": "152493",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120518",
+  "reactions": [
+    "ARRHYTHMIA",
+    "ASTHENIA",
+    "ATRIOVENTRICULAR BLOCK",
+    "BLOOD PRESSURE INCREASED",
+    "BURNING SENSATION",
+    "CHEST PAIN",
+    "MUSCULAR WEAKNESS",
+    "MYOCARDIAL INFARCTION"
+  ],
+  "date_started": "20120502",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE RHODIOLA (NO PREF. NAME)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

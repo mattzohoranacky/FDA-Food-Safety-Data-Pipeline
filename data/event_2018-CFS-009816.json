@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-009816",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180730",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Lip swelling",
+    "Pruritus",
+    "Rash macular",
+    "Swollen tongue"
+  ],
+  "date_started": "20180717",
+  "consumer": {
+    "age": "5.7",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HARVEST SNAPS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

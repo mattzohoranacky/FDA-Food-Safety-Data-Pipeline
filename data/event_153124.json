@@ -1,0 +1,32 @@
+{
+  "report_number": "153124",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120405",
+  "reactions": [
+    "BLINDNESS",
+    "CHEMICAL BURN OF SKIN",
+    "CONJUNCTIVITIS",
+    "EYE IRRITATION",
+    "EYE SWELLING",
+    "PAIN",
+    "SKIN IRRITATION",
+    "VISION BLURRED"
+  ],
+  "date_started": "20120329",
+  "consumer": {
+    "age": "42",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARVEL'S SPIDERMAN SHOWER GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

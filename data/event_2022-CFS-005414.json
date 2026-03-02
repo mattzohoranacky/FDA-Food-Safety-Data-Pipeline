@@ -1,0 +1,40 @@
+{
+  "report_number": "2022-CFS-005414",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220415",
+  "reactions": [
+    "Alopecia",
+    "Dry skin",
+    "Seborrhoea",
+    "Skin exfoliation",
+    "Skin irritation"
+  ],
+  "date_started": "20211226",
+  "consumer": {
+    "age": "33.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX NO 3",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX NO 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX NO 5",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

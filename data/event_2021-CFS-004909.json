@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-004909",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210525",
+  "reactions": [
+    "Application site discolouration",
+    "Erythema",
+    "Hypersensitivity",
+    "Pruritus"
+  ],
+  "date_started": "20201220",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PCA SKIN 4% PURE RETINOL PEEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PCA SKIN PROCEDURE OINTMENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

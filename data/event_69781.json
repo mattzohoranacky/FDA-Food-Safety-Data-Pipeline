@@ -1,0 +1,45 @@
+{
+  "report_number": "69781",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040217",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "INSOMNIA",
+    "IRRITABILITY",
+    "VOMITING"
+  ],
+  "date_started": "20040125",
+  "consumer": {
+    "age": "63",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BETTER THAN FORMULA ULTRA INFANT IMMUNE BOOSTER FORMULA 117 (POWDER)",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENFAMIL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PASTEURIZED NON-HOMOGENIZED MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RICE MILK",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    }
+  ]
+}

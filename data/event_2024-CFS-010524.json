@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-010524",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240809",
+  "reactions": [
+    "Blindness",
+    "Chills",
+    "Diarrhoea",
+    "Fear",
+    "Gait inability",
+    "Hallucination",
+    "Irregular breathing",
+    "Paralysis",
+    "Poisoning",
+    "Vomiting"
+  ],
+  "date_started": "20240804",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEW BREW EUPHORIC SELTZER KRATOM LEAF AND KAVA ROOT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "report_number": "200548",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160823",
+  "reactions": [
+    "ABASIA",
+    "BLOOD IRON INCREASED",
+    "POISONING"
+  ],
+  "date_started": "20121029",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED GRITS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED MEAT",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED NUTS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED PEAS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED RICE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

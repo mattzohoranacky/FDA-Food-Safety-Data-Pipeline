@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-011017",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240830",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20240424",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESSENTIAL FOR WOMEN PRENATAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESSENTIAL FOR WOMEN PRENATAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

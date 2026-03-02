@@ -1,0 +1,29 @@
+{
+  "report_number": "83180",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060112",
+  "reactions": [
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "LOSS OF CONSCIOUSNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20060110",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOT-ROX DIET AID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

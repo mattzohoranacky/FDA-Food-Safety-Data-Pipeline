@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-004412",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200923",
+  "reactions": [
+    "Vomiting"
+  ],
+  "date_started": "20200920",
+  "consumer": {
+    "age": "13",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S PROMISE ORGANIC REDUCED FAT MILK 2% MILKFAT VITAMINS A & D",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

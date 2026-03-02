@@ -1,0 +1,32 @@
+{
+  "report_number": "66178",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040129",
+  "reactions": [
+    "BLISTER",
+    "NAUSEA",
+    "RASH"
+  ],
+  "date_started": "20031203",
+  "consumer": {
+    "age": "56.92",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAT SELTZER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL REDUCER CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

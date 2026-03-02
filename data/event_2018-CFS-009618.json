@@ -1,0 +1,49 @@
+{
+  "report_number": "2018-CFS-009618",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180725",
+  "reactions": [
+    "Abdominal pain upper",
+    "Blood urine present",
+    "Chromaturia",
+    "Decreased appetite",
+    "Dizziness",
+    "Fatigue",
+    "Hepatotoxicity",
+    "Thirst decreased"
+  ],
+  "date_started": "20180612",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTEMISININ COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ECHINACEA PREMIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MYRRH FORTE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIRANON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

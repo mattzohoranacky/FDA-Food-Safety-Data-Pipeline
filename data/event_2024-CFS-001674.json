@@ -1,0 +1,79 @@
+{
+  "report_number": "2024-CFS-001674",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240206",
+  "reactions": [
+    "Blood cholesterol increased",
+    "Burning sensation",
+    "Colitis",
+    "Erythema",
+    "Erythromelalgia",
+    "Orthostatic hypotension",
+    "Paraesthesia",
+    "Peripheral sensory neuropathy",
+    "Restless legs syndrome",
+    "Rosacea",
+    "Swelling",
+    "Vitamin B6 increased"
+  ],
+  "date_started": "20210821",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CONTROLLED LABS ORANGE TRAID DAILY MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KETOLABS KETOCORE KETO VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MIO WATER FLAVORED DROP",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOW SPORTS NUTRITION, ZMA (ZINC & MAGNESIUM)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OPTIMUM NUTRITION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARKLING ICE FLAVORED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THORNE STRESS B-COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZIPFIZZ ENERGY DRINK MIX ELECTROLYTES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

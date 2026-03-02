@@ -1,0 +1,54 @@
+{
+  "report_number": "2021-CFS-001491",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210210",
+  "reactions": [
+    "Hair texture abnormal",
+    "Rash",
+    "Skin injury"
+  ],
+  "date_started": "20210207",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOLLYWOOD HAIR BAR GROTH EDGE CONTROL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CBD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Happy Hemp",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Yogi Tea Blackberry Apple Cider Vinegar Digestive awakening",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Yogi Tea Green Tea Blueberry Slim Life",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Yogi Tea Woman's Moon Cycle",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

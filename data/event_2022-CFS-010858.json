@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-010858",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220712",
+  "reactions": [
+    "Cholecystectomy",
+    "Malaise",
+    "Pancreatitis"
+  ],
+  "date_started": "20201119",
+  "consumer": {
+    "age": "47.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FOOD",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVIVE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

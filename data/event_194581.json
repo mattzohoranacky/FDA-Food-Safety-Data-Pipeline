@@ -1,0 +1,47 @@
+{
+  "report_number": "194581",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160322",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "FLUSHING",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "HEADACHE",
+    "PHARYNGEAL OEDEMA",
+    "RESPIRATORY TRACT CONGESTION"
+  ],
+  "date_started": "20160227",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC TOTAL LEAN ADVANCED LEAN SHAKE BURN VANILLA CREAM FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CO-Q10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

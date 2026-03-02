@@ -1,0 +1,30 @@
+{
+  "report_number": "134465",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090622",
+  "reactions": [
+    "Adverse event",
+    "BACK PAIN",
+    "CHEST PAIN",
+    "FOOD POISONING",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20090620",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRIVATE SELECTION ORGANIC BROCCOLI FLOWERETS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "2020-CFS-001711",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200207",
+  "reactions": [
+    "Diarrhoea",
+    "Vomiting",
+    "Weight decreased"
+  ],
+  "date_started": "20200112",
+  "consumer": {
+    "age": "19",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIC SOY NON-DAIRY BEVERAGE ORIGINAL",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    }
+  ]
+}

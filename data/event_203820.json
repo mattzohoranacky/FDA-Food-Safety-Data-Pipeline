@@ -1,0 +1,49 @@
+{
+  "report_number": "203820",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20161101",
+  "reactions": [
+    "AMNESIA",
+    "APPETITE DISORDER",
+    "DECREASED APPETITE",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "EYE IRRITATION",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GAIT DISTURBANCE",
+    "HALLUCINATION",
+    "MALAISE",
+    "MEMORY IMPAIRMENT",
+    "MUSCULOSKELETAL STIFFNESS",
+    "NAUSEA",
+    "OCULAR HYPERAEMIA",
+    "PAIN",
+    "PSYCHOLOGICAL TRAUMA",
+    "PYREXIA",
+    "RENAL FUNCTION TEST ABNORMAL",
+    "SWELLING",
+    "VIRAL TEST POSITIVE",
+    "VOMITING",
+    "Viral infection"
+  ],
+  "date_started": "20161009",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "X2 PERFORMANCE ALL NATURAL RASPBERRY ENERGY TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

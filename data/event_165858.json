@@ -1,0 +1,48 @@
+{
+  "report_number": "165858",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20130522",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANOREXIA",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "FATIGUE",
+    "HEPATOMEGALY",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "NAUSEA"
+  ],
+  "date_started": "20111222",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OIL OF OREGANO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TURMERIC (CURCUMA LONGA)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SODIUM CHLORIDE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

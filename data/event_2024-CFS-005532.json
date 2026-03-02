@@ -1,0 +1,43 @@
+{
+  "report_number": "2024-CFS-005532",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240528",
+  "reactions": [
+    "Decreased appetite",
+    "Dehydration",
+    "Malaise",
+    "Nausea",
+    "Urinary tract infection",
+    "Urine abnormality"
+  ],
+  "date_started": "20240508",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA 2 DEFEND PART 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA 3 PROMOTE PART 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA URIARY CARE 1 FLUSH PROACTIVE REGIMEN PART 1",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

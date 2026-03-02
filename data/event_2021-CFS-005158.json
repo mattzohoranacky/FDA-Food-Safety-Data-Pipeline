@@ -1,0 +1,27 @@
+{
+  "report_number": "2021-CFS-005158",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210602",
+  "reactions": [
+    "Hepatitis",
+    "Liver injury"
+  ],
+  "date_started": "20210415",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC L-TYROSINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

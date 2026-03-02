@@ -1,0 +1,35 @@
+{
+  "report_number": "169657",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130614",
+  "reactions": [
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "SWOLLEN TONGUE",
+    "TONGUE DISCOLOURATION",
+    "URTICARIA"
+  ],
+  "date_started": "20111215",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLOW FE BROWN (NCH) (FERROUS SULFATE) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL (ASCORBIC ACID, CALCIUM GLUCONATE, CUPRIC CARBONATE, CYANOCOBALAMIN, ERGOCALCIFEROL, FERROUS SULFATE, MAGANESE CHLORIDE, NICOTINAMINDE, POTASSIUM IODIDE, PYRIDOXINE HYDROCHLORIDE, RETINOL, RI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

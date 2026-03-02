@@ -1,0 +1,38 @@
+{
+  "report_number": "2019-CFS-005241",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20190528",
+  "reactions": [
+    "Asthenia",
+    "Diarrhoea",
+    "Dizziness",
+    "Gait disturbance",
+    "Vomiting"
+  ],
+  "date_started": "20190428",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KICK ASS IMMUNE ACTIVATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WISHGARDEN KICK-ASS SINUS UPPER RESPIRATORY HEROES!",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Kick-ass Immune",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

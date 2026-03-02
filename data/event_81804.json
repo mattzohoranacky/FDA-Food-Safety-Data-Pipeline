@@ -1,0 +1,47 @@
+{
+  "report_number": "81804",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20051104",
+  "reactions": [
+    "ADRENAL INSUFFICIENCY",
+    "ANXIETY",
+    "CONFUSIONAL STATE",
+    "DECREASED APPETITE",
+    "DEPENDENCE",
+    "DISTURBANCE IN ATTENTION",
+    "DIZZINESS",
+    "FATIGUE",
+    "INSOMNIA",
+    "PANIC ATTACK",
+    "PHYSICAL EXAMINATION",
+    "VISION BLURRED"
+  ],
+  "date_started": "20050803",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADRENALINE RUSH",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NO FEAR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED BULL",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

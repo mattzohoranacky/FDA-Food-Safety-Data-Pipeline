@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-005311",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20190529",
+  "reactions": [
+    "Abdominal pain upper",
+    "Acne",
+    "Insomnia"
+  ],
+  "date_started": "20190425",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA TERRAZYME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA ZENDOCRINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

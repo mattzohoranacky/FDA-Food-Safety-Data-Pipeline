@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-010168",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240727",
+  "reactions": [
+    "Abdominal pain upper",
+    "Vomiting"
+  ],
+  "date_started": "20240720",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEMBERS MARK HOMESTYLE CHUNKY GUACAMOLE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

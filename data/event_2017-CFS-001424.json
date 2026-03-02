@@ -1,0 +1,36 @@
+{
+  "report_number": "2017-CFS-001424",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20171030",
+  "reactions": [
+    "Chapped lips",
+    "Cheilitis",
+    "Hypersensitivity",
+    "Lip blister",
+    "Lip exfoliation",
+    "Lip pain",
+    "Paraesthesia oral"
+  ],
+  "date_started": "20171016",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS ORGANIC LIP BALM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Aquafor",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

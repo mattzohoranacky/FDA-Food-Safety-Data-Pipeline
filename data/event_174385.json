@@ -1,0 +1,37 @@
+{
+  "report_number": "174385",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20140305",
+  "reactions": [
+    "ANAEMIA",
+    "BLOOD CHOLESTEROL INCREASED",
+    "BLOOD IRON DECREASED",
+    "HEPATOMEGALY",
+    "NAUSEA",
+    "THROMBOCYTOPENIA",
+    "VOMITING"
+  ],
+  "date_started": "20131112",
+  "consumer": {
+    "age": "31.35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

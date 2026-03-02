@@ -1,0 +1,28 @@
+{
+  "report_number": "188172",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150721",
+  "reactions": [
+    "BLOOD CALCIUM DECREASED",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "WHITE BLOOD CELL COUNT DECREASED"
+  ],
+  "date_started": "20150707",
+  "consumer": {
+    "age": "59.37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOY ISOFLAVONES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

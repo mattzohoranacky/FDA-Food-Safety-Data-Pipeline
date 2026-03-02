@@ -1,0 +1,34 @@
+{
+  "report_number": "197061",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160607",
+  "reactions": [
+    "EYE IRRITATION",
+    "FOREIGN BODY IN EYE",
+    "RASH",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20140310",
+  "consumer": {
+    "age": "94",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OCUVITE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

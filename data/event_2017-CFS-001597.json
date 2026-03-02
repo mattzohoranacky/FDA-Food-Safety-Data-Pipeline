@@ -1,0 +1,40 @@
+{
+  "report_number": "2017-CFS-001597",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171106",
+  "reactions": [
+    "Abdominal pain upper",
+    "Anxiety",
+    "Diarrhoea",
+    "Malaise",
+    "Myalgia",
+    "Pyrexia"
+  ],
+  "date_started": "20171013",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOURISH BOWL CAULI RICE CURRY",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

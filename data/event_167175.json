@@ -1,0 +1,35 @@
+{
+  "report_number": "167175",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130627",
+  "reactions": [
+    "ANTIVIRAL PROPHYLAXIS",
+    "BLOOD TRIGLYCERIDES INCREASED",
+    "ENERGY INCREASED",
+    "HEAT STROKE",
+    "MEMORY IMPAIRMENT",
+    "PNEUMONIA"
+  ],
+  "date_started": "20120621",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EMERGEN-C (ASCORBIC , B-COMPLEX, ELECTROLYTE, MULTIMINERAL, ZINC) POWDER FOR ORAL SOLUTION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C (ASCORBIC ACID) CHEWABLE TABLET ONGOING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

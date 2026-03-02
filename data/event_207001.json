@@ -1,0 +1,32 @@
+{
+  "report_number": "207001",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170130",
+  "reactions": [
+    "BURNING SENSATION",
+    "EYE PRURITUS",
+    "EYELID RASH"
+  ],
+  "date_started": "20170116",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLAIR SKIN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVIVE EYE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

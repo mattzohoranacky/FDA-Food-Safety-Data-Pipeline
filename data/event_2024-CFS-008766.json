@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-008766",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200803",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain",
+    "Nausea",
+    "Staphylococcal infection",
+    "Vomiting",
+    "White blood cell count increased"
+  ],
+  "date_started": "20200801",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MIKE PIRRONE PRODUCE ROMAINE AND RED LEAF LETTUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

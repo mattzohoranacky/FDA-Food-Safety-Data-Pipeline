@@ -1,0 +1,37 @@
+{
+  "report_number": "180836",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20141114",
+  "reactions": [
+    "ASTHENIA",
+    "CELLULITIS",
+    "INFECTION",
+    "NEURALGIA",
+    "PAIN",
+    "PAIN OF SKIN",
+    "SCAB"
+  ],
+  "date_started": "20141027",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ETERNAL TATTOO INK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FUSION TATTOO INK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

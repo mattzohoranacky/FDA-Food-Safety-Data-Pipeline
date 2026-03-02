@@ -1,0 +1,30 @@
+{
+  "report_number": "129696",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100903",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS VIBRIO",
+    "HAEMATOCHEZIA",
+    "NAUSEA"
+  ],
+  "date_started": "20100614",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

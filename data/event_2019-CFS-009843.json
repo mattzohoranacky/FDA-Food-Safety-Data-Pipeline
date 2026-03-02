@@ -1,0 +1,25 @@
+{
+  "report_number": "2019-CFS-009843",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190909",
+  "reactions": [
+    "Hypoglycaemia"
+  ],
+  "date_started": "20190907",
+  "consumer": {
+    "age": "33.2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "V8 ENERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

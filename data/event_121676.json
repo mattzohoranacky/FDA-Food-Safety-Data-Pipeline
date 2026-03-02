@@ -1,0 +1,37 @@
+{
+  "report_number": "121676",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20091223",
+  "reactions": [
+    "DISORIENTATION",
+    "DYSTONIA",
+    "FALL",
+    "LOSS OF CONSCIOUSNESS",
+    "SKIN LACERATION",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20091130",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP AMPLIFIED MUSCLE IGNITER 4X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP AMPLIFIED WHEYBOLIC EXTREME 60",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

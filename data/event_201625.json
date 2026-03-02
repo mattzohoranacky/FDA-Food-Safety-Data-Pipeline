@@ -1,0 +1,33 @@
+{
+  "report_number": "201625",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160915",
+  "reactions": [
+    "ABORTION SPONTANEOUS",
+    "FOETAL NON-STRESS TEST ABNORMAL",
+    "INFECTION",
+    "LOSS OF CONSCIOUSNESS",
+    "PAIN"
+  ],
+  "date_started": "20160705",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WATT BROTHERS FARMS ORGANIC PEAS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATUREMADE PRENATAL MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "152463",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120510",
+  "reactions": [
+    "MUSCLE TIGHTNESS",
+    "MUSCULOSKELETAL DISORDER",
+    "PAIN",
+    "PARAESTHESIA"
+  ],
+  "date_started": "20120507",
+  "consumer": {
+    "age": "54.41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROYAL ROYAL BROWN BASMATI RICE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN MULTIMINERAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

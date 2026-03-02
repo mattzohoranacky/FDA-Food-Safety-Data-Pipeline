@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-013802",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20181121",
+  "reactions": [
+    "Anxiety",
+    "Convulsion",
+    "Dizziness",
+    "Feeling abnormal",
+    "Nervousness",
+    "Stress"
+  ],
+  "date_started": "20181001",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE ALL PLANT PROTEIN POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Nutrilite Body Kit",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

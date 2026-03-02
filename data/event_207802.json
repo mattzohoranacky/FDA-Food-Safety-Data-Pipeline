@@ -1,0 +1,50 @@
+{
+  "report_number": "207802",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170217",
+  "reactions": [
+    "BLOOD PRESSURE DECREASED",
+    "BLOOD PRESSURE INCREASED",
+    "EXTRASYSTOLES",
+    "HEART RATE DECREASED",
+    "LOSS OF CONSCIOUSNESS",
+    "NAUSEA",
+    "VISUAL FIELD DEFECT",
+    "VOMITING"
+  ],
+  "date_started": "20170215",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PLEXUS BIOCLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PLEXUS PROBIOTIC 5",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PLEXUS SLIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

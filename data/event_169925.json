@@ -1,0 +1,33 @@
+{
+  "report_number": "169925",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130911",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "CONSTIPATION",
+    "DEHYDRATION",
+    "DIZZINESS",
+    "FATIGUE",
+    "FLATULENCE",
+    "MALAISE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20130828",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI GREEK YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

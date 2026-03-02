@@ -1,0 +1,39 @@
+{
+  "report_number": "2022-CFS-008725",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220524",
+  "reactions": [
+    "Headache",
+    "Hyperhidrosis",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20220519",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF NATURAL CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

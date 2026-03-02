@@ -1,0 +1,33 @@
+{
+  "report_number": "119037",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20091007",
+  "reactions": [
+    "CEREBROVASCULAR DISORDER",
+    "CROSS SENSITIVITY REACTION",
+    "HEADACHE"
+  ],
+  "date_started": "20090822",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIFE ULTRA TAB (90 CT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ST. JOHNS WORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

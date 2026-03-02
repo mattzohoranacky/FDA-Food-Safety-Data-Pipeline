@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-008708",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220524",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Pharyngeal oedema",
+    "Rash"
+  ],
+  "date_started": "20220418",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS BIO CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS PROBIO5",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS SLIM MICROBIOME ACTIVATING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

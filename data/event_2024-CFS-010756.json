@@ -1,0 +1,41 @@
+{
+  "report_number": "2024-CFS-010756",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240819",
+  "reactions": [
+    "Conjunctivitis",
+    "Eyelid margin crusting",
+    "Hypersensitivity",
+    "Ocular hyperaemia",
+    "Oral disorder",
+    "Pain",
+    "Pruritus",
+    "Stomatitis",
+    "Upper respiratory tract infection"
+  ],
+  "date_started": "20230201",
+  "consumer": {
+    "age": "43.18",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMBROSIA EMBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL MVMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

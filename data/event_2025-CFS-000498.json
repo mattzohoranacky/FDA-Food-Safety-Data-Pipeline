@@ -1,0 +1,56 @@
+{
+  "report_number": "2025-CFS-000498",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Injury"
+  ],
+  "date_created": "20250114",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chills",
+    "Diarrhoea",
+    "Fatigue",
+    "Food poisoning",
+    "Haemorrhage",
+    "Headache",
+    "Hospitalisation",
+    "Injury",
+    "Nausea",
+    "Pyrexia",
+    "Visual acuity reduced",
+    "Vomiting"
+  ],
+  "date_started": "20241208",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GRIMMWAY FARMS CAL-ORGANIC CUT & PEELED BABY CARROTS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE CAGE FREE EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MINI COCKTAIL CUCUMBER",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLESUM FRESH SQUASH",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "88702",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20061010",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse reaction",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20061008",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMERICAN CLASSIC LETTUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "131258",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101007",
+  "reactions": [
+    "CEREBROVASCULAR ACCIDENT",
+    "CLAMPING OF BLOOD VESSEL",
+    "DIZZINESS"
+  ],
+  "date_started": "20090401",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE NITEWORKS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HLF SHAKE (UNSPECIFIED)",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

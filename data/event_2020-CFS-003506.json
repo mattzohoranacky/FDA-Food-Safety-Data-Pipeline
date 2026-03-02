@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-003506",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200313",
+  "reactions": [
+    "Hair texture abnormal",
+    "Laceration",
+    "Pruritus"
+  ],
+  "date_started": "20190317",
+  "consumer": {
+    "age": "18",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL LOW POO DELIGHT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL ULTRA DEFINING CURL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

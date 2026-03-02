@@ -1,0 +1,51 @@
+{
+  "report_number": "192876",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20160115",
+  "reactions": [
+    "CHAPPED LIPS",
+    "CHEILITIS",
+    "CONDITION AGGRAVATED",
+    "ERYTHEMA",
+    "FUNGAL INFECTION",
+    "HYPOAESTHESIA",
+    "LIP DRY",
+    "LIP SWELLING",
+    "PAIN",
+    "SCAB"
+  ],
+  "date_started": "20160113",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS LIP BALM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLAX SEED OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

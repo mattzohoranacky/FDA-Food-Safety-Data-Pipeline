@@ -1,0 +1,40 @@
+{
+  "report_number": "87942",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20060426",
+  "reactions": [
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20060421",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GIANT 1% LOWFAT MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE DRINK",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HONEY BUNCHES OF OATS WITH ALMONDS CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ORANGE JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

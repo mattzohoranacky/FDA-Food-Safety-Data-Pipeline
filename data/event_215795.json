@@ -1,0 +1,64 @@
+{
+  "report_number": "215795",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170724",
+  "reactions": [
+    "AMNESIA",
+    "ANXIETY",
+    "ARRHYTHMIA",
+    "ASTHENIA",
+    "BLINDNESS UNILATERAL",
+    "BLISTER",
+    "DECREASED APPETITE",
+    "DIZZINESS",
+    "DRY SKIN",
+    "DYSGEUSIA",
+    "ERYTHEMA",
+    "EXTRASYSTOLES",
+    "EYE DISCHARGE",
+    "HAEMATOCRIT DECREASED",
+    "HEADACHE",
+    "INSOMNIA",
+    "MOOD SWINGS",
+    "NAUSEA",
+    "NEUROPATHY PERIPHERAL",
+    "ONYCHOMYCOSIS",
+    "PARAESTHESIA",
+    "PRURITUS",
+    "RASH",
+    "RASH MACULAR",
+    "RED BLOOD CELL COUNT DECREASED",
+    "SKIN DISCOLOURATION",
+    "SKIN DISORDER",
+    "STRESS",
+    "SWELLING",
+    "VASCULITIS",
+    "WEIGHT DECREASED",
+    "WOUND"
+  ],
+  "date_started": "20170710",
+  "consumer": {
+    "age": "38.84",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER B-COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUPER B-COMPLEX KEY B VITAMINS PLUS VITAMIN C.",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "195885",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160429",
+  "reactions": [
+    "BURNING SENSATION",
+    "PRURITUS",
+    "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20160427",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOM'S NATURAL DEODORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

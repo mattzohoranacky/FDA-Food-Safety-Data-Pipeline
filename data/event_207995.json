@@ -1,0 +1,37 @@
+{
+  "report_number": "207995",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20161215",
+  "reactions": [
+    "Adverse reaction",
+    "HYPERSENSITIVITY",
+    "LIP BLISTER",
+    "RETCHING",
+    "THROAT IRRITATION",
+    "URTICARIA"
+  ],
+  "date_started": "20161214",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAMILY'S NATURAL PIEROGIES POTATOE WITH ONIONS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAMILY'S NATURAL PIEROGIES, SAUERKRAUT KAPUSTA",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

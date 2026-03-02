@@ -1,0 +1,29 @@
+{
+  "report_number": "173225",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140115",
+  "reactions": [
+    "CONCUSSION",
+    "HEAD INJURY",
+    "HEADACHE",
+    "NAUSEA",
+    "Product taste abnormal",
+    "SOMNOLENCE"
+  ],
+  "date_started": "20140106",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DARIGOLD 1% ULTRAPASTEURIZED MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

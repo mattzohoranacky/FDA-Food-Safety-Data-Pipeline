@@ -1,0 +1,37 @@
+{
+  "report_number": "163151",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130122",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "BLOOD PRESSURE FLUCTUATION",
+    "COUGH",
+    "DISCOMFORT",
+    "HYPERSENSITIVITY",
+    "MUCOSAL INFLAMMATION",
+    "PRURITUS",
+    "SKIN IRRITATION",
+    "SWELLING",
+    "URTICARIA",
+    "VOMITING"
+  ],
+  "date_started": "20130112",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRANKFORD CANDY CHRISTMAS CANDY MIX",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

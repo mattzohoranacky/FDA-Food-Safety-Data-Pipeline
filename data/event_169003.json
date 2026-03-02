@@ -1,0 +1,31 @@
+{
+  "report_number": "169003",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130809",
+  "reactions": [
+    "FLUSHING",
+    "HYPERSENSITIVITY",
+    "RASH",
+    "WHEEZING"
+  ],
+  "date_started": "20130628",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUESTAR SUPERSHOT",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

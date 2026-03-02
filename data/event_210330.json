@@ -1,0 +1,33 @@
+{
+  "report_number": "210330",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20170417",
+  "reactions": [
+    "Death",
+    "LEIOMYOSARCOMA",
+    "LIPOSARCOMA",
+    "METASTASIS"
+  ],
+  "date_started": "20161004",
+  "consumer": {
+    "age": "62.49",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CURCUMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

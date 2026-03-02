@@ -1,0 +1,41 @@
+{
+  "report_number": "149420",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120228",
+  "reactions": [
+    "BLOOD PRESSURE DECREASED",
+    "HAEMORRHAGE",
+    "HOSPITALISATION",
+    "LOSS OF CONSCIOUSNESS",
+    "RECTAL HAEMORRHAGE",
+    "TRANSFUSION"
+  ],
+  "date_started": "20120215",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON ULTRA DR ESKELANDS COLON TONE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COENZYME Q10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

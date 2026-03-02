@@ -1,0 +1,33 @@
+{
+  "report_number": "186739",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150602",
+  "reactions": [
+    "APRAXIA",
+    "CRYING",
+    "EYE INJURY",
+    "EYE IRRITATION",
+    "LETHARGY",
+    "OCULAR HYPERAEMIA",
+    "PAIN",
+    "SOMNOLENCE"
+  ],
+  "date_started": "20150525",
+  "consumer": {
+    "age": "22",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BABYGANICS NIGHT TIME SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

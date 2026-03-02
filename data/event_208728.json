@@ -1,0 +1,34 @@
+{
+  "report_number": "208728",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170310",
+  "reactions": [
+    "ASTHENIA",
+    "BLOOD PRESSURE DECREASED",
+    "GASTROINTESTINAL DISORDER",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "SYNCOPE",
+    "URTICARIA",
+    "VOMITING",
+    "VOMITING PROJECTILE",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20140119",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GROUND FLAX MEAL",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-008227",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230807",
+  "reactions": [
+    "Peripheral sensory neuropathy"
+  ],
+  "date_started": "20230517",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE CALCIUM CITRATE MAGNESIUM AND ZINC WITH VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATROL MELATONIN SLEEP TIME RELEASE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

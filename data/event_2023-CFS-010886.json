@@ -1,0 +1,27 @@
+{
+  "report_number": "2023-CFS-010886",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20231005",
+  "reactions": [
+    "Anaphylactic reaction"
+  ],
+  "date_started": "20230224",
+  "consumer": {
+    "age": "45.98",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MELALEUCA PEAK PERFORMANCE TOTAL HEALTH WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

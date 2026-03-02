@@ -1,0 +1,26 @@
+{
+  "report_number": "2018-CFS-010924",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20180831",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Bronchospasm"
+  ],
+  "date_started": "20180731",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KETOCOFFEE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

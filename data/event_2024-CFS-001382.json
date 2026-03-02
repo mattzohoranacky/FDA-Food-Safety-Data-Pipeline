@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-001382",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240130",
+  "reactions": [
+    "Hypoaesthesia",
+    "Pain",
+    "Paraesthesia",
+    "Swelling"
+  ],
+  "date_started": "20230901",
+  "consumer": {
+    "age": "65.6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FORCE FACTOR TOTAL BEETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

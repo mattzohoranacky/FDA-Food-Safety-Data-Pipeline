@@ -1,0 +1,31 @@
+{
+  "report_number": "2025-CFS-013632",
+  "outcomes": [
+    "Hospitalization",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250821",
+  "reactions": [
+    "Anaphylactic shock",
+    "Headache",
+    "Hospitalisation",
+    "Hypersensitivity",
+    "Rash",
+    "Swelling",
+    "Vomiting"
+  ],
+  "date_started": "20250818",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOODLES HERE COMES TRUFFLE CREAMY BLACK TRUFFLE CHEDDAR AND SHELLS",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "report_number": "152705",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120524",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "THERAPY REGIMEN CHANGED",
+    "VOMITING"
+  ],
+  "date_started": "20120314",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROOT TO HEALTH CORDY KING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROOT TO HEALTH GYMNEMA PLUS DIABETIC CARE FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "AMERICAN GINSENG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SENG BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

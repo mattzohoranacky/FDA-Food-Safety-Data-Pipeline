@@ -1,0 +1,36 @@
+{
+  "report_number": "189648",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20150916",
+  "reactions": [
+    "CONVULSION",
+    "FALL",
+    "IRREGULAR SLEEP PHASE",
+    "SLEEP DISORDER",
+    "UPPER LIMB FRACTURE"
+  ],
+  "date_started": "20150415",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARIES BLACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

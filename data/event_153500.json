@@ -1,0 +1,61 @@
+{
+  "report_number": "153500",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120615",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL PAIN",
+    "DECREASED APPETITE",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FLATULENCE",
+    "FOREIGN BODY TRAUMA",
+    "GASTROENTERITIS",
+    "MALAISE",
+    "MUSCLE SPASMS",
+    "PAIN",
+    "STOMACH DISCOMFORT"
+  ],
+  "date_started": "20120510",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN 50 PLUS VITAPAK CARDIOAID PHYTOSTEROLS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN 50 PLUS VITAPAK FISH OIL WITH COQ-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN 50 PLUS VITAPAK MEGA MEN 50 PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN 50 PLUS VITAPAK MEMORALL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN 50 PLUS VITAPAK SAW PALMETTO FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

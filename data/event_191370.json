@@ -1,0 +1,37 @@
+{
+  "report_number": "191370",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20151110",
+  "reactions": [
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "LIVER FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20151003",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEPTIBURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GARCINIA CAMBOGIA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PURE RASPBERRY KETONES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

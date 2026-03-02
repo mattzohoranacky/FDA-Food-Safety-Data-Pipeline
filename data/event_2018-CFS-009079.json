@@ -1,0 +1,29 @@
+{
+  "report_number": "2018-CFS-009079",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180708",
+  "reactions": [
+    "Burning sensation",
+    "Burns third degree",
+    "Erythema",
+    "Localised oedema"
+  ],
+  "date_started": "20180707",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRAGON'S BREATH",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

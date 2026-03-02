@@ -1,0 +1,50 @@
+{
+  "report_number": "184140",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150324",
+  "reactions": [
+    "ACNE",
+    "ARTHRALGIA",
+    "ASTHENIA",
+    "CARDIAC FLUTTER",
+    "CHEST PAIN",
+    "CONSTIPATION",
+    "DEHYDRATION",
+    "FATIGUE",
+    "HEADACHE",
+    "HYPERTENSION",
+    "INFECTION",
+    "PAIN",
+    "PALPITATIONS",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20150302",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS SLIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

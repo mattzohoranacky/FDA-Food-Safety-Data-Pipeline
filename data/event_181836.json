@@ -1,0 +1,27 @@
+{
+  "report_number": "181836",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150108",
+  "reactions": [
+    "LUNG DISORDER",
+    "PNEUMONIA",
+    "SYNCOPE"
+  ],
+  "date_started": "20141210",
+  "consumer": {
+    "age": "69.63",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOY ISOFLAVONE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

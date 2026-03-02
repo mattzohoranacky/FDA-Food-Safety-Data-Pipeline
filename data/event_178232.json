@@ -1,0 +1,35 @@
+{
+  "report_number": "178232",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140729",
+  "reactions": [
+    "Abasia",
+    "Asthenia",
+    "Erythema",
+    "Lethargy",
+    "Pruritus",
+    "Rash"
+  ],
+  "date_started": "20140709",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLOW-MAG (MAGNESIUM, CALCIUM) GASTRO RESISTANT TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SLOW-MAG (MAGNESIUM, CALCIUM) GASTRO RESISTANT TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

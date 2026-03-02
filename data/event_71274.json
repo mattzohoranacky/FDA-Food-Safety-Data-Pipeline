@@ -1,0 +1,39 @@
+{
+  "report_number": "71274",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040812",
+  "reactions": [
+    "HEPATIC CIRRHOSIS",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATIC FAILURE",
+    "HOSPITALISATION",
+    "INFLAMMATION",
+    "LIVER TRANSPLANT"
+  ],
+  "date_started": "20040508",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC BLACK COHOSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN BLACK COHOSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

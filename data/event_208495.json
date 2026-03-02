@@ -1,0 +1,42 @@
+{
+  "report_number": "208495",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20170303",
+  "reactions": [
+    "SKIN EXFOLIATION"
+  ],
+  "date_started": "20170224",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IMAN CONCEALER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LUCANA EYE SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "AVIQUA ANTI-WRINKLE COMPLEX",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IT COSMETICS ANTI-AGING MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

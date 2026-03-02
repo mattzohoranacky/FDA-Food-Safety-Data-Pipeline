@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-005807",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220421",
+  "reactions": [
+    "Diarrhoea",
+    "Gastrointestinal sounds abnormal",
+    "Vomiting"
+  ],
+  "date_started": "20220415",
+  "consumer": {
+    "age": "20.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS LUCKY CHARMS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Cranberry concentrate supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

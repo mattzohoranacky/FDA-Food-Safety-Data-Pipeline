@@ -1,0 +1,43 @@
+{
+  "report_number": "149529",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20120301",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "CHEST PAIN",
+    "DIARRHOEA",
+    "DYSPEPSIA",
+    "HYPERSENSITIVITY",
+    "LOSS OF CONSCIOUSNESS",
+    "NAUSEA",
+    "URTICARIA"
+  ],
+  "date_started": "20111206",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE CORAL CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

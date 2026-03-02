@@ -1,0 +1,58 @@
+{
+  "report_number": "184906",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150407",
+  "reactions": [
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HEADACHE",
+    "LETHARGY",
+    "NAUSEA",
+    "VISION BLURRED",
+    "VOMITING"
+  ],
+  "date_started": "20150405",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMY'S KITCHEN TORTILLA CASSEROLE & BLACK BEANS BOWL",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BANANA",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOAST",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "202458",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161001",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "IRRITABLE BOWEL SYNDROME",
+    "LIVER FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20160229",
+  "consumer": {
+    "age": "50.39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IBGARD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONCE A DAY WOMEN'S VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

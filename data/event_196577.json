@@ -1,0 +1,42 @@
+{
+  "report_number": "196577",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Congenital Anomaly",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160520",
+  "reactions": [
+    "ANXIETY",
+    "BLOOD PRESSURE INCREASED",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20160517",
+  "consumer": {
+    "age": "54.67",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE RHINO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWAG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIAGRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "69601",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040602",
+  "reactions": [
+    "BLOOD PRESSURE DECREASED",
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "HOSPITALISATION",
+    "HYPERSENSITIVITY",
+    "OEDEMA",
+    "URTICARIA"
+  ],
+  "date_started": "20040505",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRAFT VEGETABLE THIN CRACKERS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

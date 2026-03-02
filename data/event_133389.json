@@ -1,0 +1,36 @@
+{
+  "report_number": "133389",
+  "outcomes": [
+    "Death",
+    "Life Threatening"
+  ],
+  "date_created": "20101210",
+  "reactions": [
+    "Death",
+    "VENTRICULAR TACHYCARDIA"
+  ],
+  "date_started": "20101112",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARCHES TINNITUS B-12 FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARCHES TINNITUS FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARCHES TINNITUS STRESS FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

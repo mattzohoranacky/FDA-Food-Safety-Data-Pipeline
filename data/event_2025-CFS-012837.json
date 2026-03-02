@@ -1,0 +1,37 @@
+{
+  "report_number": "2025-CFS-012837",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250808",
+  "reactions": [
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20250807",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKETSIDE ORGANIC SHREDDED CARROTS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKETSIDE SPRING ORGANIC MIX",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S ORGANIC ARUGULA",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

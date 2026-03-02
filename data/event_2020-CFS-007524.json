@@ -1,0 +1,50 @@
+{
+  "report_number": "2020-CFS-007524",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200806",
+  "reactions": [
+    "Abdominal distension",
+    "Diarrhoea",
+    "Eructation",
+    "Fatigue",
+    "Flatulence",
+    "Gastric disorder",
+    "Gastroenteritis",
+    "Salmonellosis"
+  ],
+  "date_started": "20200724",
+  "consumer": {
+    "age": "52.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED ONIONS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YELLOW ONIONS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PreserVision",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

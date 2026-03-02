@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-006521",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180430",
+  "reactions": [
+    "Food allergy",
+    "Hypersensitivity",
+    "Oropharyngeal pain",
+    "Sneezing",
+    "Vomiting"
+  ],
+  "date_started": "20180428",
+  "consumer": {
+    "age": "9.6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LARABAR CHOCOLATE CHIP DOUGH",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LARABAR PEANUT BUTTER CHOCOLATE CHIP",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

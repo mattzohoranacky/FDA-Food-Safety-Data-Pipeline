@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-005895",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180416",
+  "reactions": [
+    "Choking",
+    "Dysphagia",
+    "Fall",
+    "Gait disturbance",
+    "Hypoaesthesia",
+    "Spinal fracture",
+    "Walking aid user"
+  ],
+  "date_started": "20180209",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS (LUTEIN VITAMIN AND MINERAL )",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM (MAGNESIUM HYDROXIDE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

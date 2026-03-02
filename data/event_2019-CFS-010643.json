@@ -1,0 +1,35 @@
+{
+  "report_number": "2019-CFS-010643",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20191021",
+  "reactions": [
+    "Abdominal distension",
+    "Constipation",
+    "Drug ineffective",
+    "Intestinal obstruction",
+    "Joint swelling",
+    "Malaise"
+  ],
+  "date_started": "20190930",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHILLIPS' COLON HEALTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Cascara Sagrada + Aloe",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

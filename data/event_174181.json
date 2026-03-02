@@ -1,0 +1,47 @@
+{
+  "report_number": "174181",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20140221",
+  "reactions": [
+    "DIZZINESS",
+    "FEELING JITTERY",
+    "INSOMNIA",
+    "MIGRAINE",
+    "NAUSEA",
+    "NERVOUSNESS"
+  ],
+  "date_started": "20140212",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURE VITAMINS GARCINIA CAMBOGIA DIRECT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURE VITAMINS PURE GREEN COFFEE BEAN EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI VITAMINS (VITAFUSION GUMMY)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

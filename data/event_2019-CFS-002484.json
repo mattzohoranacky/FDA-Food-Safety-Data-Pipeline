@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-002484",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190308",
+  "reactions": [
+    "Dizziness",
+    "Head injury",
+    "Heart rate irregular",
+    "Loss of consciousness",
+    "Palpitations",
+    "Syncope"
+  ],
+  "date_started": "20180801",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE GARCINIA CAMBOGIA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE GREEN COFFEE BEAN EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

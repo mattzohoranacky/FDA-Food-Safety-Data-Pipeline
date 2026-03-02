@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-001937",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240209",
+  "reactions": [
+    "Food poisoning"
+  ],
+  "date_started": "20240208",
+  "consumer": {
+    "age": "61.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OAXACA CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Herbal tea",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

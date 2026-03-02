@@ -1,0 +1,29 @@
+{
+  "report_number": "2021-CFS-004652",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210519",
+  "reactions": [
+    "Convulsion",
+    "Escherichia infection",
+    "Food poisoning",
+    "Renal failure",
+    "Respiratory disorder"
+  ],
+  "date_started": "20210501",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WILDBRIN KOREAN KIMCHI",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

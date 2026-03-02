@@ -1,0 +1,25 @@
+{
+  "report_number": "204512",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20161117",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "DRUG INTERACTION",
+    "MALAISE"
+  ],
+  "date_started": "20161103",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEDTIME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

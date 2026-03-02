@@ -1,0 +1,50 @@
+{
+  "report_number": "2017-CFS-000279",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20170911",
+  "reactions": [
+    "Rash",
+    "Skin irritation",
+    "Swelling"
+  ],
+  "date_started": "20170505",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "Similac Alimentum For Food Allergies and Colic",
+      "industry_code": "40C",
+      "industry_name": "Formula, Form Unspecified"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "Similac For Spit-Up",
+      "industry_code": "40C",
+      "industry_name": "Formula, Form Unspecified"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Dairyfree Potato Milk",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Gerber Soy",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Similac Alimentum For Food Allergies and Colic",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

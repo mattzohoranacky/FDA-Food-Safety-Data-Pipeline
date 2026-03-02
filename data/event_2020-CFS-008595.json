@@ -1,0 +1,29 @@
+{
+  "report_number": "2020-CFS-008595",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200831",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Gastroenteritis salmonella",
+    "Vomiting"
+  ],
+  "date_started": "20200828",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEACHES",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "report_number": "2024-CFS-005970",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240613",
+  "reactions": [
+    "Blood lead increased"
+  ],
+  "date_started": "20240530",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PICA CLAY",
+      "industry_code": "52",
+      "industry_name": "Miscellaneous Food Related Items"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "2020-CFS-003318",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200309",
+  "reactions": [
+    "Asthenia",
+    "Enterocolitis haemorrhagic",
+    "Fatigue",
+    "Vomiting"
+  ],
+  "date_started": "20191031",
+  "consumer": {
+    "age": "41.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TURMERIC GINGER WITH CURCUMIN GUMMIES, JOINT SUPPORT AND PAIN RELIEF.",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

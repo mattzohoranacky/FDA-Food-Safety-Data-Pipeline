@@ -1,0 +1,30 @@
+{
+  "report_number": "110975",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20081027",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "CONVULSION",
+    "Food allergy"
+  ],
+  "date_started": "20080925",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALBEE FOODS SNAPEA CRISPS (ORIGINAL)",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

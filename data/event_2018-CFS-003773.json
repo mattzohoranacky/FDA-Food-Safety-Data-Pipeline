@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-003773",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180304",
+  "reactions": [
+    "Rash"
+  ],
+  "date_started": "20171110",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COSMIC CLEAN BODY BUDDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

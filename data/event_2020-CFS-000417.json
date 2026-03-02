@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-000417",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200110",
+  "reactions": [
+    "Abdominal pain",
+    "Blood bilirubin increased",
+    "Faeces discoloured",
+    "Jaundice",
+    "Liver injury",
+    "Nausea",
+    "Transaminases increased"
+  ],
+  "date_started": "20191202",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAX SHRED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

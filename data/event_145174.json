@@ -1,0 +1,30 @@
+{
+  "report_number": "145174",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20111102",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED"
+  ],
+  "date_started": "20111019",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCOSAMINE MSM GELCAP 1500MG 150",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CINNAMON BREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

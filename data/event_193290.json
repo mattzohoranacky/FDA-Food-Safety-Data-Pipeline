@@ -1,0 +1,38 @@
+{
+  "report_number": "193290",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20160203",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "DISCOMFORT",
+    "FEELING HOT",
+    "FLUSHING",
+    "HYPERHIDROSIS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20160120",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARDEN OF LIFE RAW MEAL - CHOCOLATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

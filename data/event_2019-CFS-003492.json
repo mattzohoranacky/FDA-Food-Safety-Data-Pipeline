@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-003492",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190403",
+  "reactions": [
+    "Crying"
+  ],
+  "date_started": "20190403",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOUGHNUT",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED DYE 40",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

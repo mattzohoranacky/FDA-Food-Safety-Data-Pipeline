@@ -1,0 +1,30 @@
+{
+  "report_number": "191299",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151105",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "HEADACHE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20151103",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEIJER BOUNTIFUL MORNING GRANOLA",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

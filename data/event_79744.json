@@ -1,0 +1,45 @@
+{
+  "report_number": "79744",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20050728",
+  "reactions": [
+    "Headache",
+    "Hypersensitivity",
+    "Nausea"
+  ],
+  "date_started": "20050630",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRAGRANCE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HAIR SPRAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAIL POLISH (WET OR DRY)",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFUME",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

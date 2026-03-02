@@ -1,0 +1,45 @@
+{
+  "report_number": "193077",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160120",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "CHOKING",
+    "COELIAC DISEASE",
+    "DIARRHOEA",
+    "DYSPEPSIA",
+    "DYSPNOEA",
+    "HYPOAESTHESIA",
+    "LOCAL SWELLING",
+    "PARALYSIS",
+    "PHARYNGEAL OEDEMA",
+    "SWELLING",
+    "TREMOR",
+    "URTICARIA"
+  ],
+  "date_started": "20151212",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY CINNAMON 1000MG CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY ULTRA STRENGTH BIOTIN 10,000MCG RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

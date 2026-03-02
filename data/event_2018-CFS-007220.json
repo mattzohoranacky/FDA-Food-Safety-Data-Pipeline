@@ -1,0 +1,46 @@
+{
+  "report_number": "2018-CFS-007220",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180516",
+  "reactions": [
+    "Dandruff",
+    "Erythema",
+    "Eye irritation",
+    "Eye swelling",
+    "Skin exfoliation"
+  ],
+  "date_started": "20180428",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VENOFYE VIPERLIFT BIO SYRINGE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SAM-E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

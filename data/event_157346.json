@@ -1,0 +1,30 @@
+{
+  "report_number": "157346",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121004",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CHILLS",
+    "LEUKOCYTOSIS",
+    "NIGHT SWEATS",
+    "PYELONEPHRITIS",
+    "PYREXIA"
+  ],
+  "date_started": "20120924",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HARD TEN DAYS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

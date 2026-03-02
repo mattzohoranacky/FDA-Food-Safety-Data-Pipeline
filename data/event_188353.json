@@ -1,0 +1,33 @@
+{
+  "report_number": "188353",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20150730",
+  "reactions": [
+    "DIZZINESS",
+    "DYSPNOEA",
+    "PALPITATIONS",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20150416",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZERO XTREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

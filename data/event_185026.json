@@ -1,0 +1,32 @@
+{
+  "report_number": "185026",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140805",
+  "reactions": [
+    "BURNING SENSATION",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "RASH",
+    "SWELLING",
+    "SWELLING FACE"
+  ],
+  "date_started": "20140228",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

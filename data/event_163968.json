@@ -1,0 +1,33 @@
+{
+  "report_number": "163968",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130319",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "GASTROINTESTINAL DISORDER",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20130313",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BUMBLE BEE CHUNK LIGHT TUNA IN WATER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOOD CLUB VEGETABLE SOUP",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    }
+  ]
+}

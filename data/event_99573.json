@@ -1,0 +1,38 @@
+{
+  "report_number": "99573",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20080111",
+  "reactions": [
+    "MULTIPLE SCLEROSIS",
+    "NERVOUS SYSTEM DISORDER",
+    "SPINAL CORD INJURY"
+  ],
+  "date_started": "20070307",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET DR. PEPPER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRA SWEET",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

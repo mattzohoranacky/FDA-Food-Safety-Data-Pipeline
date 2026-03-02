@@ -1,0 +1,40 @@
+{
+  "report_number": "169846",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20130830",
+  "reactions": [
+    "ACUTE RESPIRATORY FAILURE",
+    "LUNG NEOPLASM MALIGNANT",
+    "MECHANICAL VENTILATION",
+    "OXYGEN CONSUMPTION INCREASED",
+    "PNEUMONIA",
+    "PNEUMONITIS",
+    "PULMONARY ARTERIAL HYPERTENSION",
+    "RESPIRATORY FAILURE",
+    "TOTAL LUNG CAPACITY ABNORMAL"
+  ],
+  "date_started": "20111218",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

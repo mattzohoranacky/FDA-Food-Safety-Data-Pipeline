@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-009691",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240710",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20240304",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOCOLATE CHIP COOKIE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-009333",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220605",
+  "reactions": [
+    "Asthenia",
+    "Dizziness",
+    "Feeling hot",
+    "Muscle spasms",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20220603",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONNIT ALPHA BRAIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

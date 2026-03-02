@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-000683",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190124",
+  "reactions": [
+    "Pruritus",
+    "Rash",
+    "Swelling face"
+  ],
+  "date_started": "20190121",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY PEPPERMINT OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Nature's Bounty Peppermint Oil 50 mg",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

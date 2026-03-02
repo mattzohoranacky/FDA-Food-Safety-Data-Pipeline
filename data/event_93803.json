@@ -1,0 +1,40 @@
+{
+  "report_number": "93803",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070618",
+  "reactions": [
+    "CHEILITIS",
+    "LIP BLISTER",
+    "RASH SCALY",
+    "SKIN EXFOLIATION",
+    "SKIN IRRITATION"
+  ],
+  "date_started": "20070521",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PRODUCTS DARK TOAST WHEAT PERMANENT EYEBROW COLOR TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PRODUCTS MAGENTA MAUVE PERMANENT LIP COLOR TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PRODUCTS RADIANT ROSE PERMANENT LIP COLOR TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

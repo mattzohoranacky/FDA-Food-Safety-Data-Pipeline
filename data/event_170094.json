@@ -1,0 +1,32 @@
+{
+  "report_number": "170094",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130828",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "Death",
+    "MUSCULOSKELETAL DISORDER",
+    "NAUSEA",
+    "SKIN DISORDER",
+    "VOMITING"
+  ],
+  "date_started": "20120901",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

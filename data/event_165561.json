@@ -1,0 +1,62 @@
+{
+  "report_number": "165561",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20130402",
+  "reactions": [
+    "BURNING SENSATION",
+    "CONTUSION",
+    "ERYTHEMA",
+    "EYE INFECTION",
+    "EYE INFLAMMATION",
+    "EYE SWELLING",
+    "HYPERSENSITIVITY",
+    "LOCAL SWELLING",
+    "SWELLING FACE"
+  ],
+  "date_started": "20121222",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OROGOLD COSMETICS 24K ANTI AGING EYE SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OROGOLD COSMETICS 24K ANTI-AGING HYDROPHYLLIC GEL EYE MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OROGOLD COSMETICS 24K DMAE INSTANT STRETCHING MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OROGOLD COSMETICS 24K INTENSIVE EYE FORMULA CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MARY KAY AGE FIGHTING MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MARY KAY MEDIUM COVERAGE FOUNDATION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

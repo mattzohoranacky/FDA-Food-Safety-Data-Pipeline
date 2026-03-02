@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-014298",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181204",
+  "reactions": [
+    "Chills",
+    "Chromaturia",
+    "Hepatic enzyme increased",
+    "Influenza",
+    "Jaundice",
+    "Pain",
+    "Pyrexia"
+  ],
+  "date_started": "20181026",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY EXTRA STRENGTH HAIR, SKIN & NAILS WITH BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

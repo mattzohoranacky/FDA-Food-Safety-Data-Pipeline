@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-006412",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200627",
+  "reactions": [
+    "Erythema",
+    "Eye swelling",
+    "Feeling hot",
+    "Rash",
+    "Swelling face",
+    "Urticaria"
+  ],
+  "date_started": "20200625",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDAY RILEY C.E.O. C + E ANTIOXIDANT PROTECT REPAIR MOISTERIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "daily calcium/vitamin D3 supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

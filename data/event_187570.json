@@ -1,0 +1,40 @@
+{
+  "report_number": "187570",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150630",
+  "reactions": [
+    "ATRIAL FIBRILLATION",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "PALPITATIONS"
+  ],
+  "date_started": "20150628",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THRIVE PREMIUM LIFESTYLE DFT WOMEN'S TONE PACK - PATCH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THRIVE PREMIUM LIFESTYLE DFT WOMEN'S TONE PACK - PILLS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THRIVE PREMIUM LIFESTYLE DFT WOMEN'S TONE PACK - SHAKES",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

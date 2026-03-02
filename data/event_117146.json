@@ -1,0 +1,32 @@
+{
+  "report_number": "117146",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090814",
+  "reactions": [
+    "BLOOD CHOLESTEROL INCREASED",
+    "WEIGHT INCREASED"
+  ],
+  "date_started": "20090730",
+  "consumer": {
+    "age": "32.21",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FINFLEX 550-XD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVOLUTION PCT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

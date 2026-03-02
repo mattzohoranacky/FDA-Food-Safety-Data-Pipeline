@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-005621",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20200601",
+  "reactions": [
+    "Arrhythmia"
+  ],
+  "date_started": "20180820",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEDICAL WEIGHT LOSS CLINIC FOOD SUPPLEMENT BARS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEDICAL WEIGHT LOSS CLINIC SHAKES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

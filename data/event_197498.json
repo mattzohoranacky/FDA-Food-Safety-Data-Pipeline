@@ -1,0 +1,29 @@
+{
+  "report_number": "197498",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160531",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "FLUSHING"
+  ],
+  "date_started": "20150405",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GO RUBY GO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED CINNAMON DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

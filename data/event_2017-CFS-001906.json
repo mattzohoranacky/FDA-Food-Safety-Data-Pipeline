@@ -1,0 +1,39 @@
+{
+  "report_number": "2017-CFS-001906",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170811",
+  "reactions": [
+    "Asthenia",
+    "Autoimmune hepatitis",
+    "Chills",
+    "Chromaturia",
+    "Cytomegalovirus test positive",
+    "Decreased appetite",
+    "Drug-induced liver injury",
+    "Fatigue",
+    "Hepatitis",
+    "Hepatitis E",
+    "Hepatitis E virus test positive",
+    "Jaundice",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20150310",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COQ10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

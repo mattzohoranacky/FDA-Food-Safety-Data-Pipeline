@@ -1,0 +1,36 @@
+{
+  "report_number": "138199",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110421",
+  "reactions": [
+    "EPISTAXIS"
+  ],
+  "date_started": "20110402",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTIC WONDER (KRILL OIL) CAPSULE, SOFT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12 (CYANOCOBALAMIN)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C (ASCORBIC ACID)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

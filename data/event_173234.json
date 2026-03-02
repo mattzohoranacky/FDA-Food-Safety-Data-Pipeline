@@ -1,0 +1,31 @@
+{
+  "report_number": "173234",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140115",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "DIZZINESS",
+    "HEPATITIS",
+    "JAUNDICE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "NAUSEA"
+  ],
+  "date_started": "20131122",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXY ELITE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "115586",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090507",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DYSGEUSIA",
+    "ERYTHEMA",
+    "GLOSSITIS",
+    "HAEMOPTYSIS",
+    "MALAISE",
+    "OEDEMA",
+    "PHARYNGEAL ERYTHEMA",
+    "PHARYNGITIS",
+    "STOMACH DISCOMFORT",
+    "STOMATITIS",
+    "SWOLLEN TONGUE",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20090503",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAYFIELD DAIRY FARMS HOMEMADE VANILLA ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERSHEY'S CHOCOLATE SYRUP",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

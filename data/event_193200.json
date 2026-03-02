@@ -1,0 +1,44 @@
+{
+  "report_number": "193200",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160201",
+  "reactions": [
+    "ANAEMIA",
+    "ANGIOEDEMA",
+    "BLOOD TEST ABNORMAL",
+    "HAEMOGLOBIN DECREASED",
+    "MENORRHAGIA",
+    "PRURITUS",
+    "RASH",
+    "SWELLING",
+    "URTICARIA"
+  ],
+  "date_started": "20151214",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FERIVA 2 1/7 IRON SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B-COMPLEX VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CO-Q10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "2023-CFS-008729",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230817",
+  "reactions": [
+    "Abdominal pain lower",
+    "Chills",
+    "Cold sweat",
+    "Diarrhoea",
+    "Loss of consciousness",
+    "Nausea",
+    "Vomiting",
+    "Vomiting projectile"
+  ],
+  "date_started": "20230730",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GHOST SIZE MUSCLE BUILDER WARHEADS SOUR WATERMELON FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

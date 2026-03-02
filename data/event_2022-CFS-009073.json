@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-009073",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220530",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Feeling cold",
+    "Oesophagitis",
+    "Retching",
+    "Tremor"
+  ],
+  "date_started": "20220525",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALLULOSE",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NAC. Vit b",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-003318",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190329",
+  "reactions": [
+    "Pain",
+    "Rash",
+    "Scab",
+    "Skin exfoliation"
+  ],
+  "date_started": "20190320",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS ORGANIC TROPICAL MANGO LIP BALM IMPROVED FORMULA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin d",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

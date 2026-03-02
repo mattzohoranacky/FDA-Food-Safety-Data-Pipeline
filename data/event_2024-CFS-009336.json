@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-009336",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240623",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Hypersensitivity"
+  ],
+  "date_started": "20240309",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHERRY FLAVOR ADDITIVE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GENERIC ALLERGY MEDICINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

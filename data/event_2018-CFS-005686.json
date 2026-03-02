@@ -1,0 +1,47 @@
+{
+  "report_number": "2018-CFS-005686",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180410",
+  "reactions": [
+    "Erythema",
+    "Eye swelling",
+    "Fatigue",
+    "Feeling abnormal",
+    "Hypersensitivity",
+    "Lip swelling",
+    "Multiple allergies",
+    "Rash",
+    "Swollen tongue",
+    "Urticaria"
+  ],
+  "date_started": "20180311",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING VALLEY WOMEN'S PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Cinnamon pills",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

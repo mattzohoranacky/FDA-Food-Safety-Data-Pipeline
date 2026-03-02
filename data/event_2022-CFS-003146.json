@@ -1,0 +1,55 @@
+{
+  "report_number": "2022-CFS-003146",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20220304",
+  "reactions": [
+    "Abdominal pain upper",
+    "Enlarged uvula",
+    "Eye swelling",
+    "Hypersensitivity",
+    "Oropharyngeal pain",
+    "Paraesthesia oral",
+    "Rhinorrhoea",
+    "Swelling"
+  ],
+  "date_started": "20220303",
+  "consumer": {
+    "age": "35.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FREEZE DRIED MANGO FRUIT CRISPS",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Calcium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Ketoconazole 2% shampoo",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3 (5000 IU)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Wal-Born Vitamin C chewable",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

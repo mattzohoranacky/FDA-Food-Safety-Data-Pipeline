@@ -1,0 +1,29 @@
+{
+  "report_number": "201704",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160910",
+  "reactions": [
+    "DYSPNOEA",
+    "ELECTROCARDIOGRAM QT PROLONGED",
+    "FATIGUE",
+    "NERVOUSNESS",
+    "PAIN IN JAW",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20160910",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

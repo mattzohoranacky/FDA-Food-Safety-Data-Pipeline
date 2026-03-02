@@ -1,0 +1,35 @@
+{
+  "report_number": "157252",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120726",
+  "reactions": [
+    "FUNGAL INFECTION",
+    "HALLUCINATION",
+    "MUSCLE SPASMS",
+    "NERVOUS SYSTEM DISORDER",
+    "PSYCHOMOTOR HYPERACTIVITY"
+  ],
+  "date_started": "20120717",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLD WESSEX 5 GRAIN CEREAL - HOT CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HOMEMADE MAPLE SYRUP",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

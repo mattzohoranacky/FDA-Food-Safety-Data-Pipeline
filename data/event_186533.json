@@ -1,0 +1,40 @@
+{
+  "report_number": "186533",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150527",
+  "reactions": [
+    "CONTUSION",
+    "DIZZINESS",
+    "FEELING ABNORMAL",
+    "HEAD INJURY",
+    "LOSS OF CONSCIOUSNESS",
+    "MUSCULOSKELETAL PAIN",
+    "RESTLESSNESS",
+    "SLEEP DISORDER",
+    "SWELLING FACE"
+  ],
+  "date_started": "20150320",
+  "consumer": {
+    "age": "84",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE TIME RELEASED STRESS B COMPLEX WITH C-500",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

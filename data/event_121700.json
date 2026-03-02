@@ -1,0 +1,30 @@
+{
+  "report_number": "121700",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20080611",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "GASTROENTERITIS SALMONELLA"
+  ],
+  "date_started": "20080524",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEDIUM TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SALAD",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

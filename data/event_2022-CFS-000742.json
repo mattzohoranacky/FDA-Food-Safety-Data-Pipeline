@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-000742",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220117",
+  "reactions": [
+    "Burning sensation",
+    "Rash",
+    "Skin exfoliation"
+  ],
+  "date_started": "20210115",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUTROGENA WATER GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "clearproof cleansing gel",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

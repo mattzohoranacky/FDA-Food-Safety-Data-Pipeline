@@ -1,0 +1,25 @@
+{
+  "report_number": "2023-CFS-006113",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230613",
+  "reactions": [
+    "Food poisoning"
+  ],
+  "date_started": "20230603",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VEGAN MEAL",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

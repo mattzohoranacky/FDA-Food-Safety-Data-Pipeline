@@ -1,0 +1,70 @@
+{
+  "report_number": "2018-CFS-007219",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20180516",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal distension",
+    "Abdominal rigidity",
+    "Abnormal sensation in eye",
+    "Adverse event",
+    "Ageusia",
+    "Anosmia",
+    "Arterial spasm",
+    "Blood pressure increased",
+    "Burning sensation",
+    "Constipation",
+    "Contusion",
+    "Dizziness",
+    "Dry eye",
+    "Dyspepsia",
+    "Eye irritation",
+    "Flatulence",
+    "Gastrointestinal disorder",
+    "Headache",
+    "Migraine",
+    "Nasal congestion",
+    "Olfactory nerve disorder",
+    "Pain in jaw",
+    "Palpitations",
+    "Parosmia",
+    "Sensation of pressure",
+    "Sinus headache",
+    "Tachycardia",
+    "Vasospasm"
+  ],
+  "date_started": "20180217",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE FOOD GINKGO LEAF",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B12 w. L-5-MTHF",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

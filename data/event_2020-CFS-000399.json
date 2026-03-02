@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-000399",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20200114",
+  "reactions": [
+    "Chest pain",
+    "Pneumonia",
+    "Sinusitis"
+  ],
+  "date_started": "20191017",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESSENTIAL EVERYDAY DISTILLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "emergen-c immune plus",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

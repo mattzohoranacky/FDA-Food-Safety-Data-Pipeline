@@ -1,0 +1,32 @@
+{
+  "report_number": "96505",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070912",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "NAUSEA",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20070905",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TEXAS PETE CHILI SAUCE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BEECH CLIFF KIPPERED FISH STEAKS-SMOKED",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

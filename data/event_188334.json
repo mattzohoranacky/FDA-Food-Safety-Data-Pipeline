@@ -1,0 +1,45 @@
+{
+  "report_number": "188334",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150728",
+  "reactions": [
+    "ASTHENIA",
+    "BLINDNESS",
+    "CIRCULATORY COLLAPSE",
+    "DIZZINESS",
+    "ERYTHEMA",
+    "FAECAL INCONTINENCE",
+    "HYPERSENSITIVITY",
+    "PRURITUS"
+  ],
+  "date_started": "20150703",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE OMEGA-3 FISH OIL 1200MG SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COQ-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TURMERIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

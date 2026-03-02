@@ -1,0 +1,35 @@
+{
+  "report_number": "197316",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160613",
+  "reactions": [
+    "ABNORMAL FAECES",
+    "CLOSTRIDIUM DIFFICILE INFECTION",
+    "HAEMATOCHEZIA",
+    "NAUSEA"
+  ],
+  "date_started": "20160404",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE ADULT GUMMIES HAIR, SKIN, NAILS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRANBERRY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

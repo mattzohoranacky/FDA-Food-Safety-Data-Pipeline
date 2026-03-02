@@ -1,0 +1,46 @@
+{
+  "report_number": "212572",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170530",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain",
+    "Ascites",
+    "Death",
+    "Decreased appetite",
+    "Fatigue",
+    "Gallbladder enlargement",
+    "Lymphadenopathy",
+    "Malignant ovarian cyst",
+    "Myalgia",
+    "Ovarian cancer",
+    "Ovarian cancer metastatic",
+    "Ovarian mass",
+    "Peritoneal carcinoma metastatic",
+    "Pleural effusion"
+  ],
+  "date_started": "20130125",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

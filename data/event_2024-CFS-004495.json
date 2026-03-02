@@ -1,0 +1,37 @@
+{
+  "report_number": "2024-CFS-004495",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240422",
+  "reactions": [
+    "Diarrhoea",
+    "Vomiting"
+  ],
+  "date_started": "20240421",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EAT MEATI MUSHROOM ROOT CRISPY CUTLETS",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "METAMUCIL FIBER GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

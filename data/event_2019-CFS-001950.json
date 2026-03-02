@@ -1,0 +1,34 @@
+{
+  "report_number": "2019-CFS-001950",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20190222",
+  "reactions": [
+    "Application site irritation",
+    "Application site swelling",
+    "Eye irritation",
+    "Eye pruritus",
+    "Swelling face"
+  ],
+  "date_started": "20190202",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

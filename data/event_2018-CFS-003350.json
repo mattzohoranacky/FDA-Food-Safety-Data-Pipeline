@@ -1,0 +1,27 @@
+{
+  "report_number": "2018-CFS-003350",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180227",
+  "reactions": [
+    "Blood pressure increased",
+    "Diabetes mellitus",
+    "Hypertension"
+  ],
+  "date_started": "20180213",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

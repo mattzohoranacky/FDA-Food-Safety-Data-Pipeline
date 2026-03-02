@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-013037",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20201227",
+  "reactions": [
+    "Burning sensation",
+    "Dry skin",
+    "Skin exfoliation"
+  ],
+  "date_started": "20201219",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PONDS REJUVENESS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B-12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

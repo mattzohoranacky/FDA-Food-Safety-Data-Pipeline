@@ -1,0 +1,28 @@
+{
+  "report_number": "88032",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060802",
+  "reactions": [
+    "DIARRHOEA"
+  ],
+  "date_started": "20060727",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCHWAN'S TRIM CREATIONS (#039) FUDG STICK CHOCOLATE",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLAVORED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

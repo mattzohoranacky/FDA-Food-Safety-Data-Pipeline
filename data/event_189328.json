@@ -1,0 +1,32 @@
+{
+  "report_number": "189328",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150831",
+  "reactions": [
+    "DIARRHOEA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20150827",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TWINLAB CLEANSERIES VEGGIE PROTEIN",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI B-VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

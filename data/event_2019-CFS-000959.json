@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-000959",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190130",
+  "reactions": [
+    "Urticaria"
+  ],
+  "date_started": "20181229",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2 MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED BODY WASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

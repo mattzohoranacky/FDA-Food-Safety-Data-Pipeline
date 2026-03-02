@@ -1,0 +1,45 @@
+{
+  "report_number": "97470",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20071024",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "COUGH",
+    "DIARRHOEA",
+    "DYSGEUSIA",
+    "ERUCTATION",
+    "FLATULENCE",
+    "GASTRIC DISORDER",
+    "HYPOAESTHESIA ORAL",
+    "PARAESTHESIA"
+  ],
+  "date_started": "20071019",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER BOTTLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKET PANTRY PURIFIED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TIC TACS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

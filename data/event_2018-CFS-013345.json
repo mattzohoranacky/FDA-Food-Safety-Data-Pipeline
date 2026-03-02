@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-013345",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20181108",
+  "reactions": [
+    "Basedow's disease",
+    "Blood thyroid stimulating hormone increased",
+    "Epistaxis",
+    "Pollakiuria",
+    "Pruritus",
+    "Weight decreased"
+  ],
+  "date_started": "20160211",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NATURALS WATER PILLS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALIVE MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "175652",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140117",
+  "reactions": [
+    "BLOOD CREATININE INCREASED",
+    "BLOOD PRESSURE INCREASED",
+    "HEADACHE",
+    "MALAISE",
+    "MIGRAINE",
+    "MULTI-ORGAN FAILURE",
+    "NAUSEA",
+    "POISONING",
+    "RENAL IMPAIRMENT",
+    "SWELLING",
+    "VOMITING"
+  ],
+  "date_started": "20111229",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMEN'S PHYTO-ESTROGEN FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

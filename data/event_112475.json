@@ -1,0 +1,32 @@
+{
+  "report_number": "112475",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090127",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse reaction",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "DIARRHOEA HAEMORRHAGIC",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "NAUSEA"
+  ],
+  "date_started": "20090104",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AUSTIN QUALITY FOODS TOASTY CRACKERS WITH PEANUT BUTTER",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

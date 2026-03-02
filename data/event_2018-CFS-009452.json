@@ -1,0 +1,38 @@
+{
+  "report_number": "2018-CFS-009452",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180718",
+  "reactions": [
+    "Blood sodium decreased",
+    "Disorientation",
+    "Dizziness",
+    "Gait disturbance",
+    "Nausea",
+    "Vertigo",
+    "Vomiting"
+  ],
+  "date_started": "20180624",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NORTH START NUTRITIONALS OCUXANTHIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Unspecified vitamins , herbs , supplements",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

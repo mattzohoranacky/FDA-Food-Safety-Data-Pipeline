@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-012213",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181004",
+  "reactions": [
+    "Haematochezia"
+  ],
+  "date_started": "19930904",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE COOKIE DOUGH CAFE GOURMET EDIBLE CHOCOLATE CHIP COOKIE DOUGH",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Flinstones Complete Chewables",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2020-CFS-010846",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20201023",
+  "reactions": [
+    "Decreased appetite",
+    "Diarrhoea",
+    "Nausea",
+    "Salmonellosis",
+    "Vomiting"
+  ],
+  "date_started": "20201002",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TAYLOR FARMS VEGETABLE MEDLEY",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

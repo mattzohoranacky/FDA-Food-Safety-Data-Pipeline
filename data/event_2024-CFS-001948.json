@@ -1,0 +1,38 @@
+{
+  "report_number": "2024-CFS-001948",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240210",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Dizziness",
+    "Fatigue",
+    "Myalgia",
+    "Nausea",
+    "Paraesthesia",
+    "Pyrexia"
+  ],
+  "date_started": "20240206",
+  "consumer": {
+    "age": "58.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S CHEESE PRODUCT",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-009961",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240617",
+  "reactions": [
+    "Anxiety",
+    "Delirium",
+    "Dyspnoea",
+    "Eye irritation",
+    "Food poisoning",
+    "Glassy eyes"
+  ],
+  "date_started": "20240614",
+  "consumer": {
+    "age": "10",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WESTERN WIND WILD CAUGHT 10/20 COUNT SEA SCALLOP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

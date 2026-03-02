@@ -1,0 +1,33 @@
+{
+  "report_number": "186366",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150526",
+  "reactions": [
+    "FOOD ALLERGY",
+    "HYPERSENSITIVITY",
+    "IDIOSYNCRATIC DRUG REACTION",
+    "OEDEMA",
+    "PHARYNGEAL OEDEMA",
+    "SWELLING"
+  ],
+  "date_started": "20150331",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY GOOD GREENS BERRY CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY GOOD GREENS ORIGINAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

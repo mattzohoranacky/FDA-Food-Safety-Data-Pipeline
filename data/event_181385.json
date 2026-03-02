@@ -1,0 +1,33 @@
+{
+  "report_number": "181385",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20141212",
+  "reactions": [
+    "DIZZINESS",
+    "ERYTHEMA",
+    "HEART RATE INCREASED",
+    "HOSTILITY",
+    "HYPERVENTILATION",
+    "MUSCULOSKELETAL STIFFNESS",
+    "NERVOUSNESS",
+    "TOXICITY TO VARIOUS AGENTS",
+    "TREMOR"
+  ],
+  "date_started": "20141208",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FUEL ENERGY DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

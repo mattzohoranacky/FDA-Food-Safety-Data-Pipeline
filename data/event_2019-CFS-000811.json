@@ -1,0 +1,40 @@
+{
+  "report_number": "2019-CFS-000811",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190129",
+  "reactions": [
+    "Asthenia",
+    "Dehydration",
+    "Diarrhoea",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20190124",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MACARONI AND CHEESE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Flintstone vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Gummy Vites immune supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

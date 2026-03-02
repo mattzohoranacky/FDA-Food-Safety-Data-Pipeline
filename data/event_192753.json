@@ -1,0 +1,51 @@
+{
+  "report_number": "192753",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160106",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ASTHENIA",
+    "Adverse event",
+    "DIARRHOEA",
+    "DYSPEPSIA",
+    "FOOD POISONING",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "LOSS OF CONSCIOUSNESS",
+    "PAIN",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20160104",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EAT SMART SWEET KALE CHOMFRISE DOUX SALAD KIT",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

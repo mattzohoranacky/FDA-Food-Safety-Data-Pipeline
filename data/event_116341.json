@@ -1,0 +1,31 @@
+{
+  "report_number": "116341",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20080415",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "GASTROENTERITIS SALMONELLA",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20080331",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MALT-O-MEAL HONEY NUT SCOOTERS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

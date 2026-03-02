@@ -1,0 +1,41 @@
+{
+  "report_number": "2018-CFS-005276",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20180329",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Eye swelling",
+    "Feeling abnormal",
+    "Pruritus generalised",
+    "Salivary hypersecretion",
+    "Urticaria"
+  ],
+  "date_started": "20180303",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HORNY GOATWEED WITH MACA RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOHIMBE 2000 RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE'S ANSWER DAMIANA 800MG VEGETARIAN CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

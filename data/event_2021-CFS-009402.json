@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-009402",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210912",
+  "reactions": [
+    "Alopecia",
+    "Migraine",
+    "Nervous system disorder",
+    "Skin irritation"
+  ],
+  "date_started": "20190301",
+  "consumer": {
+    "age": "35.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL CURL CREME",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

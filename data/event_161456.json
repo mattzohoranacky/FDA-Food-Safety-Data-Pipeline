@@ -1,0 +1,45 @@
+{
+  "report_number": "161456",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130124",
+  "reactions": [
+    "ADVERSE DRUG REACTION",
+    "DECREASED APPETITE",
+    "DRUG ERUPTION",
+    "DYSURIA",
+    "MALAISE",
+    "MUCOSAL INFLAMMATION",
+    "MYALGIA",
+    "RASH",
+    "SWELLING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20130102",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE HAIR, SKIN & NAILS FORMULA 3000 MCG BIOTIN COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE HYDROLYZED COLLAGEN CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE TRIPLE STRENGTH JOINT SOOTHER GLUCOSAMINE CHONDROITIN MSM WITH MOBILI-FLEX COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

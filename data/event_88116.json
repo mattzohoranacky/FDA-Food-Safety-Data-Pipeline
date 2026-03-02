@@ -1,0 +1,31 @@
+{
+  "report_number": "88116",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060829",
+  "reactions": [
+    "ANAEMIA",
+    "HEADACHE",
+    "SKIN DISCOLOURATION",
+    "Vitamin A increased"
+  ],
+  "date_started": "20060821",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DERMA CLEAR AKNE ZYME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN A",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

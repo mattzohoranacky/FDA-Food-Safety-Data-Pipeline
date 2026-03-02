@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-001078",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220124",
+  "reactions": [
+    "Blood pressure increased",
+    "Cerebrovascular accident",
+    "Migraine"
+  ],
+  "date_started": "20150921",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SKITTLES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

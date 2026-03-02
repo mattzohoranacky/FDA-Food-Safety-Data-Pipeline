@@ -1,0 +1,40 @@
+{
+  "report_number": "187637",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150624",
+  "reactions": [
+    "Aeromonas test positive",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "Food poisoning",
+    "GASTROENTERITIS AEROMONAS",
+    "HAEMATOCHEZIA",
+    "LEUKOCYTOSIS"
+  ],
+  "date_started": "20150609",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACADIA SPRING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SOY POWDERED FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

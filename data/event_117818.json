@@ -1,0 +1,39 @@
+{
+  "report_number": "117818",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090904",
+  "reactions": [
+    "COLON INJURY",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FATIGUE",
+    "HAEMATOCHEZIA",
+    "MUSCLE SPASMS",
+    "STOMACH DISCOMFORT"
+  ],
+  "date_started": "20081102",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUAL ACTION CLEANSE - TOTAL BODY PURIFIER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUAL-ACTION CLEANSE - COLON CLEAR FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

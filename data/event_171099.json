@@ -1,0 +1,33 @@
+{
+  "report_number": "171099",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131023",
+  "reactions": [
+    "BLISTER",
+    "CHEMICAL BURN OF SKIN",
+    "DYSPNOEA",
+    "EYE SWELLING",
+    "SECRETION DISCHARGE",
+    "SKIN BURNING SENSATION",
+    "SKIN DISORDER",
+    "SKIN LESION",
+    "SWELLING FACE"
+  ],
+  "date_started": "20130812",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

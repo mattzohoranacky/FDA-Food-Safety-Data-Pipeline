@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-005801",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240605",
+  "reactions": [
+    "Bradycardia",
+    "Hyperhidrosis",
+    "Myoclonus",
+    "Seizure",
+    "Unresponsive to stimuli"
+  ],
+  "date_started": "20240602",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND SHRUUMZ COOKIES AND CREAM CHOCOLATE BAR",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

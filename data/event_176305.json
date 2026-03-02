@@ -1,0 +1,62 @@
+{
+  "report_number": "176305",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140506",
+  "reactions": [
+    "ASPIRATION",
+    "BLOOD GLUCOSE INCREASED",
+    "BREATH SOUNDS ABNORMAL",
+    "CARBON DIOXIDE INCREASED",
+    "CARDIAC ENZYMES INCREASED",
+    "CHOKING",
+    "COUGH",
+    "DRUG ADMINISTRATION ERROR",
+    "DYSPNOEA",
+    "FOREIGN BODY TRAUMA",
+    "HYPOXIA",
+    "METABOLIC ACIDOSIS",
+    "MOUTH BREATHING",
+    "OXYGEN SATURATION DECREASED",
+    "PNEUMONITIS",
+    "RALES",
+    "RESPIRATORY ACIDOSIS",
+    "RESPIRATORY DISTRESS",
+    "TROPONIN INCREASED"
+  ],
+  "date_started": "20130827",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALCIUM CARBONATE (CALCIUM CARBONATE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALTRATE 600+ VITAMIN D (CALCIUM CARBONATE, CHOLECALCIFEROL) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OS-CAL (CALCIUM, ERGOCALCIFEROL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "POTASSIUM (POTASSIUM)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "191857",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151202",
+  "reactions": [
+    "BLOOD POTASSIUM INCREASED",
+    "BLOOD PRESSURE INCREASED",
+    "DYSPHONIA",
+    "HYPERTENSION",
+    "PULMONARY SARCOIDOSIS",
+    "VOCAL CORD PARALYSIS"
+  ],
+  "date_started": "20151123",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOLGAR FOLIC ACID 400 MCG TABLETS (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOLGAR P-5-P 50 MG TABLETS (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOLGAR VITAMIN C 500 MG WITH ROSE HIPS TABLETS (DIETARY SUPPLEMENTS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

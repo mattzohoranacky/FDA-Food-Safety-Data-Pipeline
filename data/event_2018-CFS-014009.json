@@ -1,0 +1,42 @@
+{
+  "report_number": "2018-CFS-014009",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20181118",
+  "reactions": [
+    "Hypersensitivity",
+    "Malaise",
+    "Nausea",
+    "Palpitations",
+    "Panic attack",
+    "Throat tightness",
+    "Urticaria"
+  ],
+  "date_started": "20181113",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CBD OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEMP EUPHORIA GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIBERTY LOTION HEMP OIL TOPICAL PAIN RELIEF",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

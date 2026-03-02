@@ -1,0 +1,40 @@
+{
+  "report_number": "2025-CFS-002629",
+  "outcomes": [
+    "Life Threatening",
+    "Disability"
+  ],
+  "date_created": "20250228",
+  "reactions": [
+    "Insomnia",
+    "Neuropathy peripheral",
+    "Skin injury",
+    "Weight increased"
+  ],
+  "date_started": "20230909",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE MULTI VITAMINIC GAF PLUS ADVANCE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

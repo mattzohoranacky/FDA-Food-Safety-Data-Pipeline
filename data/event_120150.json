@@ -1,0 +1,30 @@
+{
+  "report_number": "120150",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090512",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse event",
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "DIARRHOEA",
+    "NAUSEA",
+    "Product contamination physical"
+  ],
+  "date_started": "20090510",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STARBUCKS VANILLA FRAPPUCCINO",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

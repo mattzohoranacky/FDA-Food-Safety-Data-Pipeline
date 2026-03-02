@@ -1,0 +1,40 @@
+{
+  "report_number": "2021-CFS-002718",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210323",
+  "reactions": [
+    "Angina pectoris",
+    "Heart rate increased",
+    "Hypertension",
+    "Insomnia",
+    "Palpitations"
+  ],
+  "date_started": "20200101",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BODYDYNAMIX SLIMVANCE THERMOGENIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MEGA MEN SPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

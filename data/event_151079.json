@@ -1,0 +1,32 @@
+{
+  "report_number": "151079",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120410",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CHEST PAIN",
+    "HYPOAESTHESIA",
+    "MUSCULOSKELETAL PAIN",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20120323",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE TRIPLEFLEX TRIPLE STRENGTH WITH VIT D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

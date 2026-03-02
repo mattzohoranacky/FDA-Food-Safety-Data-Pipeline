@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-008884",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230821",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Food allergy"
+  ],
+  "date_started": "20230819",
+  "consumer": {
+    "age": "11.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IMMACULATE HONESTLY DELICIOUS ORGANIC FLAKEY BISCUITS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

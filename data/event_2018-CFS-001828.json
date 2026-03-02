@@ -1,0 +1,38 @@
+{
+  "report_number": "2018-CFS-001828",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20180126",
+  "reactions": [
+    "Arthralgia",
+    "Red blood cell sedimentation rate increased",
+    "Systemic lupus erythematosus"
+  ],
+  "date_started": "20141013",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIMBREL 500",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

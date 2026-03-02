@@ -1,0 +1,38 @@
+{
+  "report_number": "145969",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20111122",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "HYPERSENSITIVITY",
+    "PRURITUS"
+  ],
+  "date_started": "20111026",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC STAT GO TO SLEEP MELATONIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC STAT GO TO SLEEP RELAXATION FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC STAT GO TO SLEEP VALERIAN ROOT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

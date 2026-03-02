@@ -1,0 +1,35 @@
+{
+  "report_number": "181148",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141202",
+  "reactions": [
+    "HOLMES-ADIE PUPIL",
+    "PHOTOPHOBIA",
+    "PUPILS UNEQUAL",
+    "VISUAL ACUITY REDUCED",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20140430",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GINKGO BILOBA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM REGULAR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

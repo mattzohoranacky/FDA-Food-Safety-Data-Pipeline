@@ -1,0 +1,33 @@
+{
+  "report_number": "67578",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040323",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "HYPERSENSITIVITY",
+    "SCREAMING"
+  ],
+  "date_started": "20040302",
+  "consumer": {
+    "age": "61.19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BARBECUE SAUCE",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BARBECUED CHICKEN",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

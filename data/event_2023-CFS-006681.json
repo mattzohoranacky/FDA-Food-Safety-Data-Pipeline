@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-006681",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230629",
+  "reactions": [
+    "Erythema",
+    "Hypersensitivity",
+    "Paraesthesia",
+    "Pruritus",
+    "Skin burning sensation"
+  ],
+  "date_started": "20230624",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEURO RISE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

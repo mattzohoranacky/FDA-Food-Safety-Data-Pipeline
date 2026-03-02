@@ -1,0 +1,35 @@
+{
+  "report_number": "166810",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20130619",
+  "reactions": [
+    "DYSPHONIA",
+    "DYSPNOEA",
+    "OROPHARYNGEAL PAIN",
+    "THROAT TIGHTNESS",
+    "VISUAL IMPAIRMENT",
+    "WHEEZING"
+  ],
+  "date_started": "20130518",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND ADULT 50+ MATURE MULTI TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHEWABLE CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

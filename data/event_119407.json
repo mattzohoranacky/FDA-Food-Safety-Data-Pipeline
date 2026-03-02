@@ -1,0 +1,29 @@
+{
+  "report_number": "119407",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090925",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "GASTROENTERITIS SALMONELLA",
+    "Pyrexia",
+    "Salmonella test positive"
+  ],
+  "date_started": "20090923",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEECH NUT APPLES AND CHICKEN STAGE 2 BABY FOOD",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

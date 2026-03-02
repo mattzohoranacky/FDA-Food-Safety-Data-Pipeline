@@ -1,0 +1,27 @@
+{
+  "report_number": "2018-CFS-013115",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181102",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain",
+    "Vomiting"
+  ],
+  "date_started": "20181101",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KEEBLER CHOCOLATE CHIP COOKIES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

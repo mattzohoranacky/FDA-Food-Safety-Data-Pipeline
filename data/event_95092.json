@@ -1,0 +1,30 @@
+{
+  "report_number": "95092",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070216",
+  "reactions": [
+    "Adverse event",
+    "COLITIS",
+    "DEHYDRATION",
+    "DIZZINESS",
+    "FOOD POISONING"
+  ],
+  "date_started": "20070212",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

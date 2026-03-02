@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-010495",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191015",
+  "reactions": [
+    "Alopecia"
+  ],
+  "date_started": "20190922",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FUNCTION OF BEAUTY CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FUNCTION OF BEAUTY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Daily Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

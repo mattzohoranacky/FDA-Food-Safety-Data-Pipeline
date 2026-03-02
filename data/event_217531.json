@@ -1,0 +1,37 @@
+{
+  "report_number": "217531",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170908",
+  "reactions": [
+    "DERMATITIS CONTACT",
+    "FEELING HOT",
+    "PAIN",
+    "PAIN OF SKIN",
+    "PARAESTHESIA",
+    "PRURITUS",
+    "RASH ERYTHEMATOUS",
+    "SKIN IRRITATION"
+  ],
+  "date_started": "20170901",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SYNTHETIC HAIR AND EDGE CONTROL USED AND PROVIDED AT HER SHOP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BABY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

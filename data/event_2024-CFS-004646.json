@@ -1,0 +1,53 @@
+{
+  "report_number": "2024-CFS-004646",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20240429",
+  "reactions": [
+    "Abdominal pain upper",
+    "Blood cholesterol increased",
+    "Blood glucose increased",
+    "Feeling abnormal",
+    "Insomnia",
+    "Vomiting"
+  ],
+  "date_started": "20240404",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE SKIN COLLAGEN BEAUTY BOOSTER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1 UNKNOWN FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL ALOE CONCENTRATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL TEA CONCENTRATE UNKNOWN FLAVOR",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE PROTEIN DRINK MIX UNKNOWN FLAVOR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

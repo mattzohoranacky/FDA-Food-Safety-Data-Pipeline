@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-006407",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180426",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Erythema",
+    "Eye swelling",
+    "Pruritus",
+    "Throat irritation",
+    "Urticaria",
+    "Wheezing"
+  ],
+  "date_started": "20180403",
+  "consumer": {
+    "age": "9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZEEZEE'S MIXED FRUIT IN JUICE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

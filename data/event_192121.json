@@ -1,0 +1,33 @@
+{
+  "report_number": "192121",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20151216",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "DYSPNOEA",
+    "URTICARIA"
+  ],
+  "date_started": "20151024",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS CHOCOLATE PROTEIN SHAKE MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS VANILLA PROTEIN SHAKE MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

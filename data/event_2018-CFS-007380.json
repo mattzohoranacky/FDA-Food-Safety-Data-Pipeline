@@ -1,0 +1,45 @@
+{
+  "report_number": "2018-CFS-007380",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180523",
+  "reactions": [
+    "Chest discomfort",
+    "Chest pain",
+    "Dyspnoea",
+    "Feeling abnormal",
+    "Feeling drunk",
+    "Hangover",
+    "Heart rate increased",
+    "Malaise",
+    "Muscle spasms",
+    "Nausea"
+  ],
+  "date_started": "20180425",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BODYDYNAMIX SLIMVANCE THERMOGENIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFORMIX SST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GNC MENS' DAILY MULTLIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

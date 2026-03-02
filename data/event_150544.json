@@ -1,0 +1,39 @@
+{
+  "report_number": "150544",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120328",
+  "reactions": [
+    "DYSPNOEA",
+    "PRURITUS",
+    "SWELLING FACE",
+    "URTICARIA"
+  ],
+  "date_started": "20120202",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

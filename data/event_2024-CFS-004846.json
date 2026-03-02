@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-004846",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240119",
+  "reactions": [
+    "Anxiety",
+    "Dyspnoea",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20231229",
+  "consumer": {
+    "age": "1",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC SENSITIVE OPTIGRO FOR FUSSINESS & GAS, MILK- BASED INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

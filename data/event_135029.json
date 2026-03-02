@@ -1,0 +1,32 @@
+{
+  "report_number": "135029",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110131",
+  "reactions": [
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "Vibrio test positive"
+  ],
+  "date_started": "20100812",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COOKED SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

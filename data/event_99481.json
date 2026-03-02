@@ -1,0 +1,41 @@
+{
+  "report_number": "99481",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20060922",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA HAEMORRHAGIC"
+  ],
+  "date_started": "20060831",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S SPINACH SALAD",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BLUE CHEESE DRESSING",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

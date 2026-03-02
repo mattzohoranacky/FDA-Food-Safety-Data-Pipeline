@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-002152",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200215",
+  "reactions": [
+    "Alopecia",
+    "Skin irritation"
+  ],
+  "date_started": "20180815",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL B'LEAVE-IN MIRACLE CURL PLUMPER - TEXTURE & VOLUME",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LIGHT DEFINING GEL - DEFINE & CONTROL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

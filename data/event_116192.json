@@ -1,0 +1,28 @@
+{
+  "report_number": "116192",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090630",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "MALAISE",
+    "NAUSEA",
+    "Product taste abnormal",
+    "VOMITING"
+  ],
+  "date_started": "20090626",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERSHEY'S FAT FREE ULTRA PASTEURIZED MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

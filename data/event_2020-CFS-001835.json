@@ -1,0 +1,34 @@
+{
+  "report_number": "2020-CFS-001835",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200209",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Hair texture abnormal",
+    "Scab",
+    "Skin ulcer"
+  ],
+  "date_started": "20200207",
+  "consumer": {
+    "age": "24.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW-POO DELIGHT WEIGHTLESS WAVES MILD LATHER CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION DELIGHT WEIGHTLESS WAVES CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

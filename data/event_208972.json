@@ -1,0 +1,30 @@
+{
+  "report_number": "208972",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170315",
+  "reactions": [
+    "FOOD ALLERGY",
+    "HYPERSENSITIVITY",
+    "LIP SWELLING",
+    "MALAISE",
+    "THROAT IRRITATION",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20170312",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "B&B PECAN HALVES",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

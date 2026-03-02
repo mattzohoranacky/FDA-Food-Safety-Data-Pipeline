@@ -1,0 +1,37 @@
+{
+  "report_number": "172797",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131226",
+  "reactions": [
+    "JAUNDICE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "MALAISE",
+    "PRURITUS",
+    "STRESS",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20131208",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXYELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROSCULPT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

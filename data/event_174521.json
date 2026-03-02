@@ -1,0 +1,36 @@
+{
+  "report_number": "174521",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140225",
+  "reactions": [
+    "EPIDIDYMAL CYST",
+    "GROIN PAIN",
+    "NAUSEA",
+    "PAIN",
+    "VASODILATATION",
+    "VENOUS OCCLUSION"
+  ],
+  "date_started": "20140123",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC SUPER FOODS WHEAT GRASS POWDER 60 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC SUPERFOODS 25 GRAMS WHOLE FOOD-BASED PROTEIN PLUS PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

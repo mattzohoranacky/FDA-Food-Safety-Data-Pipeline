@@ -1,0 +1,39 @@
+{
+  "report_number": "193583",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160212",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HEADACHE",
+    "LOSS OF CONSCIOUSNESS",
+    "MALAISE",
+    "VENOUS PRESSURE JUGULAR INCREASED"
+  ],
+  "date_started": "20160202",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARDEN OF LIFE RAW MEAL",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "2019-CFS-005460",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190531",
+  "reactions": [
+    "Acne",
+    "Hypersensitivity",
+    "Rash",
+    "Skin papilloma",
+    "Swelling"
+  ],
+  "date_started": "20190510",
+  "consumer": {
+    "age": "21.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JAGUA TEMPORARY TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "arnica water",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multi-vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

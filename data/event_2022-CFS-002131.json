@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-002131",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20220212",
+  "reactions": [
+    "Death",
+    "Overdose",
+    "Wernicke's encephalopathy"
+  ],
+  "date_started": "20211215",
+  "consumer": {
+    "age": "51.58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AHA HOLISTICALS KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLISSNUTRA BLISSXTRA KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

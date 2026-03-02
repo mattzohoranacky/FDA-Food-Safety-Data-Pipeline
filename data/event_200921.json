@@ -1,0 +1,32 @@
+{
+  "report_number": "200921",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160705",
+  "reactions": [
+    "ABNORMAL BEHAVIOUR",
+    "MYDRIASIS",
+    "Suspected product tampering",
+    "UNRESPONSIVE TO STIMULI"
+  ],
+  "date_started": "20160415",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEST COMPANY GUMMY CALCIUM & VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLLY BRAND VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

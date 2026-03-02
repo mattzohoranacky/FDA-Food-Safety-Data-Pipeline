@@ -1,0 +1,30 @@
+{
+  "report_number": "132457",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100524",
+  "reactions": [
+    "Adverse reaction",
+    "BLINDNESS",
+    "PARAESTHESIA",
+    "Suspected product tampering",
+    "URTICARIA",
+    "VISION BLURRED"
+  ],
+  "date_started": "20100518",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SILK ORGANIC UNSWEETENED SOY MILK",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

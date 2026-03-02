@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-011119",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240904",
+  "reactions": [
+    "Lipase increased",
+    "Nausea",
+    "Pain",
+    "Pancreatitis"
+  ],
+  "date_started": "20240315",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AG1 WHOLE FOOD POUCH 360G NON SPECIFIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

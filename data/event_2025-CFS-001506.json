@@ -1,0 +1,32 @@
+{
+  "report_number": "2025-CFS-001506",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20250204",
+  "reactions": [
+    "Blood bilirubin increased",
+    "Death",
+    "Drug-induced liver injury",
+    "Hepatic failure",
+    "Hepatitis",
+    "Hospitalisation",
+    "Ocular icterus",
+    "Pancreatitis acute"
+  ],
+  "date_started": "20230125",
+  "consumer": {
+    "age": "51.9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELACORE EXTRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

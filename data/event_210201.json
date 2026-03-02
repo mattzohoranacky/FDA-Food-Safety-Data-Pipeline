@@ -1,0 +1,31 @@
+{
+  "report_number": "210201",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170412",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "HYPERSENSITIVITY",
+    "URTICARIA"
+  ],
+  "date_started": "20170315",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DHA COMPLETE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE-FOOD BASED PRENATAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

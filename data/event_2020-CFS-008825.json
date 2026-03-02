@@ -1,0 +1,62 @@
+{
+  "report_number": "2020-CFS-008825",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200915",
+  "reactions": [
+    "Acne",
+    "Alopecia",
+    "Dandruff",
+    "Dermatitis",
+    "Dry skin",
+    "Scar",
+    "Seborrhoea",
+    "Skin irritation",
+    "Skin sensitisation"
+  ],
+  "date_started": "20180107",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALIA PURIFYING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALIA PURIFYING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESSENTIAL OILS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEMP SEED OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

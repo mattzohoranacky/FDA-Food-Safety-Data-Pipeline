@@ -1,0 +1,37 @@
+{
+  "report_number": "2021-CFS-006822",
+  "outcomes": [
+    "Life Threatening",
+    "Disability"
+  ],
+  "date_created": "20210716",
+  "reactions": [
+    "Asthenia",
+    "Confusional state",
+    "Dyspnoea",
+    "Headache",
+    "Heart rate increased",
+    "Hypersensitivity",
+    "Palpitations"
+  ],
+  "date_started": "20210715",
+  "consumer": {
+    "age": "58.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLOVER VALLEY CHUNK LIGHT TUNA IN WATER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Lactaid",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

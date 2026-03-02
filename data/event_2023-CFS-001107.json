@@ -1,0 +1,53 @@
+{
+  "report_number": "2023-CFS-001107",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230202",
+  "reactions": [
+    "Disorientation",
+    "Dizziness",
+    "Dyspnoea",
+    "Fatigue",
+    "Feeling abnormal",
+    "Gait disturbance",
+    "Muscle twitching",
+    "Nausea",
+    "Palpitations",
+    "Sensory disturbance",
+    "Tremor"
+  ],
+  "date_started": "20230127",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEMP DERIVED DELTA-10 DELTA-8 THC VEGAN GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "iron supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

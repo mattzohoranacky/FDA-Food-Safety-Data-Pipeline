@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-010754",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20220710",
+  "reactions": [
+    "Back pain",
+    "Dysphagia",
+    "Malaise",
+    "Muscular weakness",
+    "Pain",
+    "Tension headache"
+  ],
+  "date_started": "20220629",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHNS KILLER PROTEIN DARK CACAO POWDER AND NATIVE WHEY PROTEIN",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Whole milk",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

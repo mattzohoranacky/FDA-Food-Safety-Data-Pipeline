@@ -1,0 +1,36 @@
+{
+  "report_number": "117313",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090824",
+  "reactions": [
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "CEREBROVASCULAR ACCIDENT",
+    "PARALYSIS",
+    "SPEECH DISORDER",
+    "THROMBOSIS"
+  ],
+  "date_started": "20090731",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER (MULTIMINERALS, MULTIVITAMINS) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GLUCOSAMINE WITH CONDITION SULFITES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

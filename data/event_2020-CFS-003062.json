@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-003062",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200226",
+  "reactions": [
+    "Rash",
+    "Urticaria"
+  ],
+  "date_started": "20200223",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CERAVE RENEWING SA CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "one a day women's",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin d",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

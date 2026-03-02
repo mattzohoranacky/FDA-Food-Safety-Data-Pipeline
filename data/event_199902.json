@@ -1,0 +1,34 @@
+{
+  "report_number": "199902",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160808",
+  "reactions": [
+    "ALOPECIA",
+    "DEPRESSION",
+    "ERYTHEMA",
+    "PRURITUS",
+    "SKIN EXFOLIATION"
+  ],
+  "date_started": "20160101",
+  "consumer": {
+    "age": "29.91",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN RE-MOIST HYDRATING HAIR MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

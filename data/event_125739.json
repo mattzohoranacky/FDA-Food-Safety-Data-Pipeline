@@ -1,0 +1,54 @@
+{
+  "report_number": "125739",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100422",
+  "reactions": [
+    "BURNING SENSATION",
+    "DIZZINESS",
+    "EAR DISORDER",
+    "FRACTURE",
+    "HEAD INJURY",
+    "HYPERSENSITIVITY",
+    "LOSS OF CONSCIOUSNESS",
+    "PANIC REACTION",
+    "PRURITUS",
+    "RIB FRACTURE",
+    "TINNITUS"
+  ],
+  "date_started": "20100307",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC ULTRA MEGA MEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC ULTRA MEGA SPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GNC WHEYBOLIC EXTREME 60",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HONEY",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-010035",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220621",
+  "reactions": [
+    "Arthralgia",
+    "Fatigue",
+    "Feeling abnormal",
+    "Gastrointestinal pain"
+  ],
+  "date_started": "20220620",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEYOND BURGER",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEYOND BURGER BREAKFAST SAUSAGE PATTIES",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    }
+  ]
+}

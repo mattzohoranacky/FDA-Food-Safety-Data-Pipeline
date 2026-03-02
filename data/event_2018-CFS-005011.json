@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-005011",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180116",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal",
+    "Hormone level abnormal",
+    "Hot flush",
+    "Skin ulcer",
+    "Trichorrhexis"
+  ],
+  "date_started": "20180101",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT GLOBAL HAIR PRODUCTS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Global Hair Products",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

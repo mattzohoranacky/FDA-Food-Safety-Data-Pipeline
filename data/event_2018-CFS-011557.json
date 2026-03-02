@@ -1,0 +1,43 @@
+{
+  "report_number": "2018-CFS-011557",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180918",
+  "reactions": [
+    "Blood bilirubin increased",
+    "Faeces pale",
+    "Hepatic enzyme increased",
+    "Influenza like illness",
+    "Jaundice",
+    "Nausea",
+    "Pruritus"
+  ],
+  "date_started": "20180823",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GI MICROB-X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GI Revive",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Klaire InterFase Plus capsules",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

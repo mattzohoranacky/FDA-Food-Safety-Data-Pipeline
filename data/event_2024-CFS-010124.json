@@ -1,0 +1,40 @@
+{
+  "report_number": "2024-CFS-010124",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240725",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dizziness",
+    "Erythema",
+    "Heart rate increased",
+    "Hypotension",
+    "Pain in extremity",
+    "Paraesthesia",
+    "Peripheral swelling"
+  ],
+  "date_started": "20240628",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRO-FORM LIFE TIME FITNESS D.TOX SHAKE MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRO-FORM LIFE TIME FITNESS FIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

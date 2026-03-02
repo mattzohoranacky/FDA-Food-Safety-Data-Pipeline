@@ -1,0 +1,47 @@
+{
+  "report_number": "69819",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20040622",
+  "reactions": [
+    "ATAXIA",
+    "CONCUSSION",
+    "CONVULSION",
+    "DIZZINESS",
+    "HEADACHE",
+    "LACERATION",
+    "LOSS OF CONSCIOUSNESS",
+    "PAIN",
+    "PHYSICAL EXAMINATION",
+    "SKIN BLEEDING"
+  ],
+  "date_started": "20040611",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELORA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PREGNENOLONE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STRESS TAB VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

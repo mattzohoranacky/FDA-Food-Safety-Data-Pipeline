@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-009063",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20180707",
+  "reactions": [
+    "Cerebral haemorrhage"
+  ],
+  "date_started": "20180702",
+  "consumer": {
+    "age": "45.5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE ENERGIZE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE MEN'S PACK CONVENIENT DAILY VITAMIN AND MINERAL NUTRITION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

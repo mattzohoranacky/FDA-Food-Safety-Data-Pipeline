@@ -1,0 +1,30 @@
+{
+  "report_number": "209801",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170331",
+  "reactions": [
+    "FEELING ABNORMAL",
+    "PRURITUS",
+    "RASH",
+    "SKIN IRRITATION"
+  ],
+  "date_started": "20170201",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EMERGEN C 1000 MG VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

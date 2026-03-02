@@ -1,0 +1,29 @@
+{
+  "report_number": "154196",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120706",
+  "reactions": [
+    "CHOLERA",
+    "DIARRHOEA",
+    "HEADACHE",
+    "MALAISE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20120518",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

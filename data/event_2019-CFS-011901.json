@@ -1,0 +1,44 @@
+{
+  "report_number": "2019-CFS-011901",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191202",
+  "reactions": [
+    "Alopecia",
+    "Skin ulcer",
+    "Trichorrhexis"
+  ],
+  "date_started": "20191001",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT BLACK 2N1",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT INTENSE REPAIR CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REJUVABEADS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

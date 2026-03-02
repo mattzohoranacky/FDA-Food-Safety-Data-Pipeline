@@ -1,0 +1,36 @@
+{
+  "report_number": "134533",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110114",
+  "reactions": [
+    "EPISTAXIS",
+    "ERYTHEMA",
+    "HOT FLUSH",
+    "PSYCHOMOTOR HYPERACTIVITY"
+  ],
+  "date_started": "20101218",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIPLE ACTION OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

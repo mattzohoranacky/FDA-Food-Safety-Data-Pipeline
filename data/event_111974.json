@@ -1,0 +1,34 @@
+{
+  "report_number": "111974",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090409",
+  "reactions": [
+    "BLOOD POTASSIUM INCREASED",
+    "BLOOD SODIUM DECREASED",
+    "HYPERSENSITIVITY",
+    "HYPOAESTHESIA",
+    "HYPONATRAEMIA",
+    "PARAESTHESIA",
+    "THROAT TIGHTNESS",
+    "TREMOR"
+  ],
+  "date_started": "20090125",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX CLEANSE FOR LIFE ASEPTIC SOLUTIONS - NATURAL BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

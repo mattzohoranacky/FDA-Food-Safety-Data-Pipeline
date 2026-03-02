@@ -1,0 +1,38 @@
+{
+  "report_number": "2018-CFS-008774",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180628",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Hypersensitivity",
+    "Swollen tongue",
+    "Throat irritation",
+    "Vomiting",
+    "Wheezing"
+  ],
+  "date_started": "20180510",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HIPPIE SNACKS SESAME COCONUT CLUSTERS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One-a-Day Kids gummy multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

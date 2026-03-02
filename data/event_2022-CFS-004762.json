@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-004762",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220405",
+  "reactions": [
+    "Burning sensation",
+    "Dyspnoea",
+    "Pruritus",
+    "Rash"
+  ],
+  "date_started": "20220401",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIVEA ORIGINAL MOISTURE ORIGINAL FORMULA WITH VITAMIN E",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Zyrtec",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

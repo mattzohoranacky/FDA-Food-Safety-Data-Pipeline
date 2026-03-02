@@ -1,0 +1,38 @@
+{
+  "report_number": "2017-CFS-001746",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171111",
+  "reactions": [
+    "Burning sensation",
+    "Eczema",
+    "Erythema",
+    "Hypoaesthesia",
+    "Pruritus",
+    "Rash",
+    "Skin exfoliation",
+    "Swelling"
+  ],
+  "date_started": "20171107",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARESS PURE EMBRACE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRESEMME SHAMPOO AND CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

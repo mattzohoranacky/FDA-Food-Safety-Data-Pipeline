@@ -1,0 +1,51 @@
+{
+  "report_number": "186520",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150601",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALBUMIN INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "CHEST DISCOMFORT",
+    "LIPASE INCREASED",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "MUSCULAR WEAKNESS",
+    "NAUSEA",
+    "OCULAR ICTERUS",
+    "VOMITING"
+  ],
+  "date_started": "20150507",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFETOTAL CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE FORMULA 1 HEALTHY MEAL NUTRITIONAL SHAKE MIX -  FRENCH VANILLA FLAVOR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE FORMULA 1 HEALTHY MEAL NUTRITIONAL SHAKE MIX - COOKIES N CREAM FLAVOR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE PROTEIN DRINK MIX - VANILLA FLAVOR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

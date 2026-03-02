@@ -1,0 +1,30 @@
+{
+  "report_number": "181484",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141218",
+  "reactions": [
+    "ARRHYTHMIA",
+    "DIZZINESS",
+    "EXTRASYSTOLES",
+    "FATIGUE",
+    "HEART RATE INCREASED",
+    "PALPITATIONS"
+  ],
+  "date_started": "20130901",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

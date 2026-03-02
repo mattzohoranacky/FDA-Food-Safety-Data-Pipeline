@@ -1,0 +1,37 @@
+{
+  "report_number": "77383",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20050411",
+  "reactions": [
+    "ASTHENIA",
+    "CEREBRAL HAEMORRHAGE",
+    "DYSARTHRIA",
+    "HEMIPARESIS",
+    "HOSPITALISATION",
+    "NUCLEAR MAGNETIC RESONANCE IMAGING BRAIN ABNORMAL"
+  ],
+  "date_started": "20050405",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIFE 356 DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIFE GREEN TEA FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

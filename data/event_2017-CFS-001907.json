@@ -1,0 +1,33 @@
+{
+  "report_number": "2017-CFS-001907",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20171118",
+  "reactions": [
+    "Abdominal pain",
+    "Cholecystitis",
+    "Chromaturia",
+    "Drug-induced liver injury",
+    "Eye colour change",
+    "Fatigue",
+    "Gallbladder disorder",
+    "Hepatitis",
+    "Nausea",
+    "Yellow skin"
+  ],
+  "date_started": "20130930",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

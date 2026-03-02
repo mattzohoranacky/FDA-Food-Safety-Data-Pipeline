@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-001573",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180122",
+  "reactions": [
+    "Dyspnoea",
+    "Nausea",
+    "Swelling face"
+  ],
+  "date_started": "20171016",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE INTELLIGENCE GENIUS PADS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RE9 ADVANCED SMOOTHING FACIAL CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

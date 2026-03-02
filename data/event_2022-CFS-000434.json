@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-000434",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220109",
+  "reactions": [
+    "Diarrhoea",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20220108",
+  "consumer": {
+    "age": "21.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE CLASSIC ROMAINE",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Womens multivitamin gummy",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

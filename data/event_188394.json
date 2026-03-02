@@ -1,0 +1,39 @@
+{
+  "report_number": "188394",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150730",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ARTHRITIS",
+    "CHILLS",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "HEADACHE",
+    "NAUSEA",
+    "NECK PAIN",
+    "PYREXIA"
+  ],
+  "date_started": "20150723",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUTENZA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IMMUNOPRP SPRAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

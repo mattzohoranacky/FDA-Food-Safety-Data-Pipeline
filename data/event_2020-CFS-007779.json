@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-007779",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200812",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Fatigue",
+    "Food poisoning",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20200807",
+  "consumer": {
+    "age": "35.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WAWA TUNA SALAD SANDWICH",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOPLAIT WHIPS YOGURT KEY LIME PIE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

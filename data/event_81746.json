@@ -1,0 +1,35 @@
+{
+  "report_number": "81746",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20050804",
+  "reactions": [
+    "EMERGENCY CARE EXAMINATION",
+    "HYPERSENSITIVITY",
+    "LYMPHADENOPATHY",
+    "PHARYNGITIS",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20050726",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURIPE BLUE BERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "YOGURT WITH BLUEBERRIES",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

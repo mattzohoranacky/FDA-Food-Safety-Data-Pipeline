@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-013314",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20211222",
+  "reactions": [
+    "Gait disturbance",
+    "Heart rate increased",
+    "Muscle twitching",
+    "Vomiting"
+  ],
+  "date_started": "20211218",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DELTA 8 GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

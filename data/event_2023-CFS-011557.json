@@ -1,0 +1,38 @@
+{
+  "report_number": "2023-CFS-011557",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231024",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal",
+    "Trichorrhexis"
+  ],
+  "date_started": "20220701",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX CONDITIONER N5",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX LEAVE IN CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX SHAMPOO N4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

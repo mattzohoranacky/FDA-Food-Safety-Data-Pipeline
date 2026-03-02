@@ -1,0 +1,53 @@
+{
+  "report_number": "181621",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20141223",
+  "reactions": [
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "ANEURYSM",
+    "ANURIA",
+    "BACK PAIN",
+    "CEREBRAL HAEMORRHAGE",
+    "CEREBROVASCULAR ACCIDENT",
+    "CYSTITIS",
+    "DYSPNOEA",
+    "Death",
+    "GAIT DISTURBANCE",
+    "HYPOAESTHESIA",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "JOINT RANGE OF MOTION DECREASED",
+    "PARALYSIS",
+    "SEPSIS",
+    "URINARY HESITATION",
+    "VISION BLURRED"
+  ],
+  "date_started": "20141126",
+  "consumer": {
+    "age": "65.55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OSTEO BI-FLEX GLUCOSAMINE CHRONDROITIN MSM WTIH 5-LOXIN TWO PER DAY CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

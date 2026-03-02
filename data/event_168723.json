@@ -1,0 +1,40 @@
+{
+  "report_number": "168723",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20130802",
+  "reactions": [
+    "Death",
+    "HERNIA",
+    "INTESTINAL OBSTRUCTION",
+    "PNEUMONIA ASPIRATION"
+  ],
+  "date_started": "20130712",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BODY FORTRESS SUPER ADVANCED WHEY PROTEIN STRAWBERRY FLAVOR 32 OUNCES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MINERAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

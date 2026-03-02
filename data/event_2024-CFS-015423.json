@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-015423",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241204",
+  "reactions": [
+    "Headache",
+    "Pain"
+  ],
+  "date_started": "20241013",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ELDORADO HOUSE BLEND PREMIUM COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER ZERO SUGAR FRENCH VANILLA COFFEE CREAMER",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAXWELL HOUSE INSTANT COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-010896",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20231005",
+  "reactions": [
+    "Anaphylactic shock",
+    "Blood pressure decreased",
+    "Heart rate decreased"
+  ],
+  "date_started": "20230914",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIVE CONSCIOUS CURCUWELL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIVE CONSCIOUS ZENWELL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

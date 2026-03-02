@@ -1,0 +1,30 @@
+{
+  "report_number": "2020-CFS-012498",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201130",
+  "reactions": [
+    "Rash",
+    "Urticaria"
+  ],
+  "date_started": "20200910",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBS FIT LIFE MUSCLES + JOINT MEDICINAL BALM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Coconut oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

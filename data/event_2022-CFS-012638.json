@@ -1,0 +1,26 @@
+{
+  "report_number": "2022-CFS-012638",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220815",
+  "reactions": [
+    "Renal failure acute",
+    "Urinary tract infection bacterial"
+  ],
+  "date_started": "20220605",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFE EXTENSION LITHIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

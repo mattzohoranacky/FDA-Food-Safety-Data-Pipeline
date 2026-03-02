@@ -1,0 +1,35 @@
+{
+  "report_number": "135706",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20110210",
+  "reactions": [
+    "DYSPEPSIA",
+    "VOMITING"
+  ],
+  "date_started": "20110209",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EL MONTEREY BEAN AND CHEESE BURRITO",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

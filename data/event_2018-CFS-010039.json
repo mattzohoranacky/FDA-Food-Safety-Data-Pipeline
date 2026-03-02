@@ -1,0 +1,47 @@
+{
+  "report_number": "2018-CFS-010039",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180806",
+  "reactions": [
+    "Cardiac failure",
+    "Coma",
+    "Disseminated intravascular coagulation",
+    "Dyspepsia",
+    "Feeling abnormal",
+    "Finger amputation",
+    "Headache",
+    "Hepatic failure",
+    "Joint injury",
+    "Pain in extremity",
+    "Raynaud's phenomenon",
+    "Renal failure",
+    "Transient ischaemic attack",
+    "Vomiting",
+    "Wheelchair user"
+  ],
+  "date_started": "20161215",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUCONTOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUFIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

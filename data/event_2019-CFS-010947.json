@@ -1,0 +1,28 @@
+{
+  "report_number": "2019-CFS-010947",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190912",
+  "reactions": [
+    "Arrhythmia",
+    "Heart rate decreased",
+    "Hypotension",
+    "Overdose"
+  ],
+  "date_started": "20190101",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED DAWN ENERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

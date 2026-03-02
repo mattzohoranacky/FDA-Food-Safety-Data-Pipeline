@@ -1,0 +1,37 @@
+{
+  "report_number": "77673",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050420",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "MALAISE",
+    "NAUSEA",
+    "RIGORS"
+  ],
+  "date_started": "20050419",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMERICAN SPORTS NUTRITION CREATINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROLAB GLUTAMINE POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OPTIMUM NUTRITION WHEY PROTEIN",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

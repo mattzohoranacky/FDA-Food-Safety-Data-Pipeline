@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-004596",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20231013",
+  "reactions": [
+    "Burning sensation",
+    "Chemical burn",
+    "Lip swelling",
+    "Swollen tongue"
+  ],
+  "date_started": "20231010",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKETSIDE SPINACH ORGANIC BABY ARUGULA",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

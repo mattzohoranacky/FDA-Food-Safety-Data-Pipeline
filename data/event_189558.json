@@ -1,0 +1,41 @@
+{
+  "report_number": "189558",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150911",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BIOPSY LIVER ABNORMAL",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHROMATURIA",
+    "DRUG-INDUCED LIVER INJURY",
+    "FATIGUE",
+    "JAUNDICE",
+    "LIPASE INCREASED",
+    "PRURITUS",
+    "TRANSFERRIN INCREASED"
+  ],
+  "date_started": "20140526",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLON CLEANSE HERBAL LAXATIVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARCINIA CAMBOGIA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

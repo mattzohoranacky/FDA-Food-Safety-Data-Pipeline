@@ -1,0 +1,51 @@
+{
+  "report_number": "176802",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140528",
+  "reactions": [
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FEELING HOT",
+    "FLUSHING",
+    "HYPOAESTHESIA",
+    "INCREASED UPPER AIRWAY SECRETION",
+    "PARAESTHESIA",
+    "RASH MACULAR",
+    "SKIN BURNING SENSATION",
+    "VOMITING"
+  ],
+  "date_started": "20140505",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEXYFEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC GENETIXHD ISO-DEFINE SWISS CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALIVE WOMEN'S ENERGY MULTIVITAMIN DAILY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PEARL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

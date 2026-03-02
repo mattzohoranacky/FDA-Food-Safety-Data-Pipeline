@@ -1,0 +1,35 @@
+{
+  "report_number": "203827",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20161103",
+  "reactions": [
+    "ALOPECIA",
+    "ECZEMA",
+    "PRURITUS",
+    "RASH",
+    "SKIN DISORDER",
+    "SKIN EXFOLIATION"
+  ],
+  "date_started": "20111130",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN CLEANING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

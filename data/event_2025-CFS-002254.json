@@ -1,0 +1,37 @@
+{
+  "report_number": "2025-CFS-002254",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250222",
+  "reactions": [
+    "Lethargy",
+    "Neonatal seizure"
+  ],
+  "date_started": "20250212",
+  "consumer": {
+    "age": "7",
+    "age_unit": "day(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC 360 TOTAL CARE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SIMILAC 360 TOTAL CARE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

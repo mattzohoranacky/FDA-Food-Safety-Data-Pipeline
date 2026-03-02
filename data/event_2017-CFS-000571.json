@@ -1,0 +1,49 @@
+{
+  "report_number": "2017-CFS-000571",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171003",
+  "reactions": [
+    "Chest pain",
+    "Death",
+    "Local swelling",
+    "Malaise",
+    "Myocardial infarction",
+    "Weight decreased"
+  ],
+  "date_started": "20170822",
+  "consumer": {
+    "age": "76.62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE B-COMPLEX WITH VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE SAW PALMETTO COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RIDGECREST CLEARLUNG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

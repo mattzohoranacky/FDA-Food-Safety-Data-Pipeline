@@ -1,0 +1,28 @@
+{
+  "report_number": "2020-CFS-009951",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20201005",
+  "reactions": [
+    "Dizziness",
+    "Hyperhidrosis",
+    "Paralysis",
+    "Vomiting"
+  ],
+  "date_started": "20201005",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

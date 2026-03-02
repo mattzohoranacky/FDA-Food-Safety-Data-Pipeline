@@ -1,0 +1,28 @@
+{
+  "report_number": "2021-CFS-007436",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210729",
+  "reactions": [
+    "Myocardial infarction"
+  ],
+  "date_started": "20210712",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVANVCED JOINT SUPPORT INSTAFLEX ADVANCED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

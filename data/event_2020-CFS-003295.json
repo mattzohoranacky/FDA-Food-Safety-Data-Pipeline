@@ -1,0 +1,47 @@
+{
+  "report_number": "2020-CFS-003295",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200307",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal distension",
+    "Diarrhoea",
+    "Headache",
+    "Muscle spasms",
+    "Nausea"
+  ],
+  "date_started": "20200305",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR. ZEVIA ZERO CALORIE SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B Complex",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

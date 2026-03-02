@@ -1,0 +1,43 @@
+{
+  "report_number": "2018-CFS-014739",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20181114",
+  "reactions": [
+    "Ataxia",
+    "Chest discomfort",
+    "Confusional state",
+    "Dizziness",
+    "Dyspnoea",
+    "Hypersensitivity",
+    "Nausea",
+    "Oral discomfort",
+    "Pharyngeal oedema",
+    "Pneumonitis"
+  ],
+  "date_started": "20181009",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOAP PRODUCT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SURF SWEETS GUMMY BEARS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Calcium with magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

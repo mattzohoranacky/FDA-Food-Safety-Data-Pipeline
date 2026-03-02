@@ -1,0 +1,33 @@
+{
+  "report_number": "195527",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160418",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "HYPOTENSION",
+    "INTESTINAL ISCHAEMIA",
+    "INTESTINAL OBSTRUCTION",
+    "NAUSEA",
+    "SEPTIC SHOCK",
+    "VOMITING"
+  ],
+  "date_started": "20160302",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROBIOTIC HIGH FIBER GUMMY BEARS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

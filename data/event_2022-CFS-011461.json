@@ -1,0 +1,41 @@
+{
+  "report_number": "2022-CFS-011461",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220725",
+  "reactions": [
+    "Eye infection",
+    "Hypersensitivity"
+  ],
+  "date_started": "20220712",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NARS HIGH PIGMENT LONGWEAR EYELINER 0.03 OZ. HAIGHT ASHBURY 8197",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Centrum multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "L-Lysine",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Zinc",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

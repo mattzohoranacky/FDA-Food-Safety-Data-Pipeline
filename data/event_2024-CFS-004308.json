@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-004308",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20210831",
+  "reactions": [
+    "Body temperature increased",
+    "Headache",
+    "Hyperhidrosis",
+    "Hypersensitivity",
+    "Pain"
+  ],
+  "date_started": "20210831",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LA BANDERITA BURRITO EXTRA LARGE FLOUR TORTILLAS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

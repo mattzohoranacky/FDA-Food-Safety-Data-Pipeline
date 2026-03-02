@@ -1,0 +1,43 @@
+{
+  "report_number": "2025-CFS-007796",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250515",
+  "reactions": [
+    "Anxiety",
+    "Dehydration",
+    "Diarrhoea",
+    "Dyspepsia",
+    "Fatigue",
+    "Hypersensitivity",
+    "Lethargy"
+  ],
+  "date_started": "20240514",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRAVN FLAVOR ORIGINAL SNACK CRACKERS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JOLLY RANCHER ZERO SUGAR HARD CANDY WATERMELON, GRAPE, APPLE, RASPBERRY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SCHNUCKS - DIET COLA SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

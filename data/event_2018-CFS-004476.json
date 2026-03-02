@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-004476",
+  "outcomes": [
+    "Death",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180313",
+  "reactions": [
+    "Death"
+  ],
+  "date_started": "20180201",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEKAS PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "POLYETH GLYCOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

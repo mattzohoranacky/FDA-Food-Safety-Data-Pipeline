@@ -1,0 +1,41 @@
+{
+  "report_number": "2019-CFS-002680",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20190314",
+  "reactions": [
+    "Abdominal pain",
+    "Chills",
+    "Cold sweat",
+    "Dizziness",
+    "Feeling hot",
+    "Hyperhidrosis",
+    "Muscle spasms",
+    "Nausea",
+    "Pain",
+    "Retching",
+    "Tinnitus",
+    "Vision blurred"
+  ],
+  "date_started": "20190314",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "B4Y ORGANIC DIGESTIVE SUPPORT HERBAL TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

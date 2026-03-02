@@ -1,0 +1,35 @@
+{
+  "report_number": "2025-CFS-006056",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250419",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Headache",
+    "Nausea",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20250419",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COOK UNITY CANTONESE BBQ CHICKEN WITH SCALLION NOODLES",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COOK UNITY MEXICAN CHICKEN AND RICE BOWL",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

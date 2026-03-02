@@ -1,0 +1,43 @@
+{
+  "report_number": "139110",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110511",
+  "reactions": [
+    "BALANCE DISORDER",
+    "BLOOD PRESSURE INCREASED",
+    "DIPLOPIA",
+    "HALLUCINATION",
+    "OPTIC ISCHAEMIC NEUROPATHY",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20110126",
+  "consumer": {
+    "age": "86",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION LUTEIN SOFT GELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

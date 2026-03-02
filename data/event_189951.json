@@ -1,0 +1,35 @@
+{
+  "report_number": "189951",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20150924",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "CONFUSIONAL STATE",
+    "DIARRHOEA",
+    "FATIGUE",
+    "HYPERSENSITIVITY",
+    "NAUSEA"
+  ],
+  "date_started": "20150915",
+  "consumer": {
+    "age": "15",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEY NUT CHEERIOS - GLUTEN FREE",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

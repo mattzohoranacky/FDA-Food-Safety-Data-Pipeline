@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-005273",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180329",
+  "reactions": [
+    "Abdominal distension",
+    "Muscle spasms",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20180311",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHILLIPS' COLON HEALTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One A Day Women's",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

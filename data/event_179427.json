@@ -1,0 +1,71 @@
+{
+  "report_number": "179427",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140918",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "INJURY",
+    "LIPASE INCREASED",
+    "MALAISE",
+    "NIGHT SWEATS",
+    "PANCREATITIS",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20130812",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "24 DAY CHALLENGE ADVOCARE SPARK CHERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "24 DAY CHALLENGE FIBER DRINK CITRUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "24 DAY CHALLENGE HERBAL CLEANSE DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "24 DAY CHALLENGE MEAL REPLACEMENT SHAKE CHOCOLATE MOCHA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "24 DAY CHALLENGE OMEGAPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "24 DAY CHALLENGE PROBIOTIC RESTORE ULTRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "24 DAY CHALLENGE MNS 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

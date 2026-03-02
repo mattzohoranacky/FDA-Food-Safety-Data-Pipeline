@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-001098",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190201",
+  "reactions": [
+    "Asthenia",
+    "Dyspnoea",
+    "Headache",
+    "Nausea"
+  ],
+  "date_started": "20190128",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRISYSTEM SOFT BAKED CINNAMON BUN",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRISYSTEM SOFT-BAKED BLUEBERRY MUFFINS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

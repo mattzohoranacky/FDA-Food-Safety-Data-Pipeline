@@ -1,0 +1,37 @@
+{
+  "report_number": "164853",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130424",
+  "reactions": [
+    "BALANCE DISORDER",
+    "ERYTHEMA",
+    "HYPOAESTHESIA",
+    "IRRITABLE BOWEL SYNDROME",
+    "MULTIPLE SCLEROSIS",
+    "RASH MACULAR",
+    "URTICARIA"
+  ],
+  "date_started": "20120912",
+  "consumer": {
+    "age": "39.28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENERGY SHOTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEMONADE PACKET",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

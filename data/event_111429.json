@@ -1,0 +1,30 @@
+{
+  "report_number": "111429",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090223",
+  "reactions": [
+    "MALAISE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20090215",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEL MONTE ORGANIC BABY LEAF SPINACH",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CREAM OF MUSHROOM SOUP",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    }
+  ]
+}

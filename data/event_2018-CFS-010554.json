@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-010554",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180823",
+  "reactions": [
+    "Headache",
+    "Nausea"
+  ],
+  "date_started": "20180821",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAL SOAP WHITE BAR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Various vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

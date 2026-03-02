@@ -1,0 +1,55 @@
+{
+  "report_number": "123389",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20080718",
+  "reactions": [
+    "DIARRHOEA",
+    "GASTROENTERITIS NOROVIRUS"
+  ],
+  "date_started": "20080710",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH STRAWBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GREEN SEEDLESS GRAPES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HORMEL SLICED SUMMER SAUSAGE",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KRAFT PRE-SLICED CHEESES - MONTEREY JACK, COLBY, MILD CHEDDAR",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SAFEWAY VEGGIE TRAY",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TRISCUIT CRACKERS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

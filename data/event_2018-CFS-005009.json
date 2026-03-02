@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-005009",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180312",
+  "reactions": [
+    "Abdominal pain",
+    "Anxiety",
+    "Breast atrophy",
+    "Breast tenderness",
+    "Headache",
+    "Menstruation irregular",
+    "Trichorrhexis"
+  ],
+  "date_started": "20171108",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Shampoo",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

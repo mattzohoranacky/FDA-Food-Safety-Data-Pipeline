@@ -1,0 +1,43 @@
+{
+  "report_number": "180404",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20141028",
+  "reactions": [
+    "CHEST PAIN",
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20141002",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE FOR LIFE NATURAL RICH BERRY LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE FOR LIFE NATURAL RICH BERRY POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "E+ ENERGY SHOT ATRIUM INNOVATION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IONIX SUPREME NATURAL FRUIT FLAVOR LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

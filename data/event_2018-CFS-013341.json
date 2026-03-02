@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-013341",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20181109",
+  "reactions": [
+    "Hypersensitivity",
+    "Nasal congestion",
+    "Pharyngeal oedema",
+    "Vomiting"
+  ],
+  "date_started": "20181030",
+  "consumer": {
+    "age": "7.8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GRACE SNACKS & MORE ANIMAL CRACKERS ORIGINAL FLAVOR",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

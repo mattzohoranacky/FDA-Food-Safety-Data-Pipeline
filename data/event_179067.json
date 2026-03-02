@@ -1,0 +1,58 @@
+{
+  "report_number": "179067",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140904",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "BLOOD CREATININE INCREASED",
+    "CHOLESTASIS",
+    "EOSINOPHIL COUNT INCREASED",
+    "HAEMOGLOBIN DECREASED",
+    "HEADACHE",
+    "HYPERBILIRUBINAEMIA",
+    "INTESTINAL FUNCTIONAL DISORDER",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "NAUSEA",
+    "NEUTROPHIL COUNT DECREASED",
+    "PRURITUS",
+    "RENAL FAILURE",
+    "SERUM FERRITIN INCREASED",
+    "SLEEP DISORDER",
+    "TRANSFERRIN INCREASED"
+  ],
+  "date_started": "20130601",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARES EXTREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN TAB",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

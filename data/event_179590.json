@@ -1,0 +1,29 @@
+{
+  "report_number": "179590",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20140922",
+  "reactions": [
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20140825",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ELMHURST DAIRY WHOLE MILK GRADE A",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PANCAKE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-006802",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220509",
+  "reactions": [
+    "Abdominal pain",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20220505",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS GIANT SIZED LUCKY CHARMS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

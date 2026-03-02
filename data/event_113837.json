@@ -1,0 +1,37 @@
+{
+  "report_number": "113837",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090608",
+  "reactions": [
+    "BLOOD CREATININE INCREASED",
+    "HYPERKALAEMIA",
+    "NAUSEA",
+    "OEDEMA",
+    "URINE ANALYSIS ABNORMAL",
+    "URINE OUTPUT DECREASED"
+  ],
+  "date_started": "20090528",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC CREATINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTEX RESEARCH ANABOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

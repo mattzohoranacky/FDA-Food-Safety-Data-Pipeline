@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-003041",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240319",
+  "reactions": [
+    "Apraxia",
+    "Botulism",
+    "Diplopia",
+    "Dizziness",
+    "Dysarthria",
+    "Dysphagia",
+    "Eyelid ptosis",
+    "Paralysis"
+  ],
+  "date_started": "20240205",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAKER'S MARK LOADED BAKED POTATO SOUP",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    }
+  ]
+}

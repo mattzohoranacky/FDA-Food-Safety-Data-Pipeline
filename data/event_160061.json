@@ -1,0 +1,27 @@
+{
+  "report_number": "160061",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Congenital Anomaly",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110228",
+  "reactions": [
+    "DEATH"
+  ],
+  "date_started": "20101105",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOUR LOCO ALCOHOL CAFFEINATED WATERMELON FLAVORED BEVERAGE",
+      "industry_code": "32",
+      "industry_name": "Alcoholic Beverage"
+    }
+  ]
+}

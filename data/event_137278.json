@@ -1,0 +1,30 @@
+{
+  "report_number": "137278",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110324",
+  "reactions": [
+    "DIZZINESS",
+    "HEART RATE INCREASED",
+    "HYPOTENSION",
+    "MYOCARDIAL INFARCTION",
+    "NAUSEA"
+  ],
+  "date_started": "20110228",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLACK STALLION TABS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

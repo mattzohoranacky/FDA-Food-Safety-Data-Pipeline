@@ -1,0 +1,49 @@
+{
+  "report_number": "2018-CFS-009405",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180717",
+  "reactions": [
+    "Adverse reaction",
+    "Alopecia",
+    "Dry skin",
+    "Hair texture abnormal",
+    "Menstruation irregular",
+    "Pruritus",
+    "Scab",
+    "Skin reaction"
+  ],
+  "date_started": "20180201",
+  "consumer": {
+    "age": "29.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HAIR MASQUE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT INTENSIVE REPAIR SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REJUVENIQUE OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

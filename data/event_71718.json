@@ -1,0 +1,33 @@
+{
+  "report_number": "71718",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040830",
+  "reactions": [
+    "ERYTHEMA",
+    "PAIN",
+    "PRURITUS",
+    "SWELLING"
+  ],
+  "date_started": "20040814",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUVIDERM'S DERMAL RENEWAL SYSTEM NIGHT CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUVIDERM'S OXYGEN DAY CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

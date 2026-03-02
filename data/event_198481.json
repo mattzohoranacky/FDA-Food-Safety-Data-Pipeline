@@ -1,0 +1,30 @@
+{
+  "report_number": "198481",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160304",
+  "reactions": [
+    "Adverse reaction",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "LIP SWELLING",
+    "URTICARIA"
+  ],
+  "date_started": "20160303",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NABISCO 100 CALORIES PACKS RITZ SNACK MIX",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

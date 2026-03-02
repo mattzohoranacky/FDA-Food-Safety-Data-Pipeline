@@ -1,0 +1,27 @@
+{
+  "report_number": "2022-CFS-004400",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220329",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20220128",
+  "consumer": {
+    "age": "25.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNILEVER LIQUID IV",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

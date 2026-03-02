@@ -1,0 +1,44 @@
+{
+  "report_number": "2018-CFS-013920",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181127",
+  "reactions": [
+    "Blood growth hormone abnormal",
+    "Blood insulin abnormal",
+    "Diabetes mellitus",
+    "Fall",
+    "Glycosylated haemoglobin increased",
+    "Head injury",
+    "Loss of consciousness"
+  ],
+  "date_started": "20180519",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SEROVITAL-HGH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "L-Glutamine",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Tumeric",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

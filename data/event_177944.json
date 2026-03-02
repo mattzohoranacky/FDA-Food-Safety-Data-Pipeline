@@ -1,0 +1,35 @@
+{
+  "report_number": "177944",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140715",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "DYSPHAGIA",
+    "SNEEZING",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20140626",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JELLY BELLY GRAPE SODA SYRUP",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEST BEND JELLY BELLY VERY CHERRY SYRUP",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    }
+  ]
+}

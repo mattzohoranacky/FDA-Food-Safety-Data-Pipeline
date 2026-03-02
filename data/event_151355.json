@@ -1,0 +1,42 @@
+{
+  "report_number": "151355",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120323",
+  "reactions": [
+    "COMPLICATION OF DEVICE REMOVAL",
+    "DARK CIRCLES UNDER EYES",
+    "DRY SKIN",
+    "EYE IRRITATION",
+    "OCULAR HYPERAEMIA",
+    "Product quality issue",
+    "TENDERNESS"
+  ],
+  "date_started": "20120315",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALMAY INTENSE I-COLOR SHIMMER-I KIT ITEM # 401 SMOKEY - I - FOR BROWN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALMAY EYE LINER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALMAY MASCARA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

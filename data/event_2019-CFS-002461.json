@@ -1,0 +1,38 @@
+{
+  "report_number": "2019-CFS-002461",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20190308",
+  "reactions": [
+    "Costochondritis",
+    "Decreased appetite",
+    "Emergency care examination",
+    "Heart rate irregular",
+    "Infrequent bowel movements",
+    "Musculoskeletal chest pain",
+    "Musculoskeletal pain"
+  ],
+  "date_started": "20181229",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EYEPROMISE RESTORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-003258",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220816",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea",
+    "Salmonellosis"
+  ],
+  "date_started": "20220813",
+  "consumer": {
+    "age": "7",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER GOOD START GENTLE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

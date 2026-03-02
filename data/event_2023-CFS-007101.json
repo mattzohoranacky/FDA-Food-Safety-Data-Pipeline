@@ -1,0 +1,28 @@
+{
+  "report_number": "2023-CFS-007101",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230710",
+  "reactions": [
+    "Diarrhoea",
+    "Somnolence",
+    "Vomiting"
+  ],
+  "date_started": "20230630",
+  "consumer": {
+    "age": "8",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER SOOTHEPRO",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

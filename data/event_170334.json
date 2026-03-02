@@ -1,0 +1,31 @@
+{
+  "report_number": "170334",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130920",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER"
+  ],
+  "date_started": "20130829",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI GREEK YOGURT APPLE CINNAMON",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI GREEK YOGURT BLUEBERRY",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

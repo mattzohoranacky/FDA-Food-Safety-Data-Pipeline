@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-003771",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180304",
+  "reactions": [
+    "Vomiting"
+  ],
+  "date_started": "20180304",
+  "consumer": {
+    "age": "38.21",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COSTCO SHEPHERD'S PIE",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

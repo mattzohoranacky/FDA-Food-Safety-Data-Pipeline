@@ -1,0 +1,40 @@
+{
+  "report_number": "201996",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160928",
+  "reactions": [
+    "ALOPECIA",
+    "LOCAL SWELLING",
+    "PRURITUS",
+    "RASH GENERALISED",
+    "SWEAT GLAND DISORDER"
+  ],
+  "date_started": "20140731",
+  "consumer": {
+    "age": "52.56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN CLEANSING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CO-Q10 GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI VITAMIN GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "2025-CFS-003701",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250321",
+  "reactions": [
+    "Anaphylactic shock",
+    "Hypersensitivity",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20241227",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROTEIN BAR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

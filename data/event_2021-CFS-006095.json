@@ -1,0 +1,42 @@
+{
+  "report_number": "2021-CFS-006095",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210628",
+  "reactions": [
+    "Vomiting"
+  ],
+  "date_started": "20110601",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BAKED GOODS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GMO SOY",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREPARED FOOD",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VEGETABLE OILS",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    }
+  ]
+}

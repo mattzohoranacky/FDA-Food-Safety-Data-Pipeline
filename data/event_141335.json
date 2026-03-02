@@ -1,0 +1,46 @@
+{
+  "report_number": "141335",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110711",
+  "reactions": [
+    "CHOKING",
+    "FEAR",
+    "FOREIGN BODY TRAUMA",
+    "OROPHARYNGEAL PAIN",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20110701",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER ULTRA WOMEN'S (MULTIMINERAL, MULTIVITAMINS) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C (ASCORBIC ACID)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D (ERGOCALCIFEROL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN E (TOCOPHEROL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

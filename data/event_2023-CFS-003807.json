@@ -1,0 +1,37 @@
+{
+  "report_number": "2023-CFS-003807",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230405",
+  "reactions": [
+    "Bacterial infection",
+    "Hypersensitivity"
+  ],
+  "date_started": "20230403",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SALUVERA EYELID CLEANSING WIPES TEA TREE OIL AND ALOE VERA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi-Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

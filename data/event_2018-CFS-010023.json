@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-010023",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180803",
+  "reactions": [
+    "Blister",
+    "Hypersensitivity",
+    "Pain",
+    "Pharyngeal oedema",
+    "Swelling face",
+    "Swollen tongue"
+  ],
+  "date_started": "20170427",
+  "consumer": {
+    "age": "46.7",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLOR BASE JET BLACK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUST FOR MEN NATURAL COLOR DEVELOPER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

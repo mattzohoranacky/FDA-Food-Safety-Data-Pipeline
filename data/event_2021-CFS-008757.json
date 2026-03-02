@@ -1,0 +1,43 @@
+{
+  "report_number": "2021-CFS-008757",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210824",
+  "reactions": [
+    "Accidental overdose",
+    "Alopecia",
+    "Cough",
+    "Fear of death",
+    "Gastric disorder",
+    "Hallucination",
+    "Hypophagia",
+    "Infection",
+    "Malaise",
+    "Nephrolithiasis",
+    "Pneumonia",
+    "Pyrexia",
+    "Unevaluable event"
+  ],
+  "date_started": "20201101",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE VITAMIN C 1000 MG WITH BIOFLAVONOIDS RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OTHER UNSPECIFIED PRODUCTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "160029",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120830",
+  "reactions": [
+    "FLUSHING",
+    "NAUSEA"
+  ],
+  "date_started": "20120508",
+  "consumer": {
+    "age": "70.49",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTER SHELL CALCIUM WITH VITAMIN D TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM 250 MG VITAMIN D 125 UNIT TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

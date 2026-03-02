@@ -1,0 +1,45 @@
+{
+  "report_number": "2020-CFS-001907",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200211",
+  "reactions": [
+    "Alopecia",
+    "Dry skin",
+    "Hair texture abnormal",
+    "Pruritus"
+  ],
+  "date_started": "20190301",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL B'LEAVE-IN STYLING",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL B'LEAVE-IN STYLING",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO-POO SHAMPOO AND CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Nature's Bounty women's vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "68856",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040511",
+  "reactions": [
+    "MIGRAINE",
+    "VOMITING"
+  ],
+  "date_started": "19960101",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAMPBELL'S SOUP",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LAY'S CHIPS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONOSODIUM GLUTAMATE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

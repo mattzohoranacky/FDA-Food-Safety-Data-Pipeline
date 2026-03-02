@@ -1,0 +1,29 @@
+{
+  "report_number": "91971",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070103",
+  "reactions": [
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "LETHARGY",
+    "MALAISE",
+    "SPEECH DISORDER",
+    "VOMITING"
+  ],
+  "date_started": "20061227",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENTENMANN'S 8 RICH FROSTED DONUTS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

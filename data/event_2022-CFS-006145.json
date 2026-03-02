@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-006145",
+  "outcomes": [
+    "Disability",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220428",
+  "reactions": [
+    "Abdominal distension",
+    "Diarrhoea"
+  ],
+  "date_started": "20220427",
+  "consumer": {
+    "age": "50.5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS LUCKY CHARMS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Once a day vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

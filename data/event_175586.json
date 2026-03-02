@@ -1,0 +1,50 @@
+{
+  "report_number": "175586",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140324",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ASTHENIA",
+    "DIZZINESS",
+    "DRUG TOXICITY",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "FLUSHING",
+    "PALPITATIONS",
+    "PRURITUS",
+    "SKIN BURNING SENSATION",
+    "SOMNOLENCE",
+    "UPPER AIRWAY OBSTRUCTION"
+  ],
+  "date_started": "20140301",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOLGAR NIACIN VITAMIN B3 250MG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LIQUID CALCIUM WITH VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

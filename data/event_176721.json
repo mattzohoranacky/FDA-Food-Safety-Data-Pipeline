@@ -1,0 +1,56 @@
+{
+  "report_number": "176721",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140523",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ALPHA-1 ANTI-TRYPSIN INCREASED",
+    "ANOREXIA",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD IRON INCREASED",
+    "CERULOPLASMIN DECREASED",
+    "CHROMATURIA",
+    "FATIGUE",
+    "GALLBLADDER DISORDER",
+    "HEPATITIS",
+    "HEPATOMEGALY",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "NAUSEA",
+    "NEUTROPHIL COUNT INCREASED",
+    "PRURITUS",
+    "RASH",
+    "SERUM FERRITIN INCREASED",
+    "TRANSFERRIN INCREASED",
+    "VOMITING"
+  ],
+  "date_started": "20130615",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXYELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED HERBAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

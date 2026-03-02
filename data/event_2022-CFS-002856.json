@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-002856",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220228",
+  "reactions": [
+    "Cerebrovascular accident",
+    "Hepatic enzyme increased",
+    "Hypoaesthesia",
+    "Vomiting"
+  ],
+  "date_started": "20210920",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GTH FARMS DELTA B GUMMIES. 26MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GTH FARMS G TABS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

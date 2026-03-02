@@ -1,0 +1,45 @@
+{
+  "report_number": "2020-CFS-009492",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200929",
+  "reactions": [
+    "Abdominal pain lower",
+    "Adnexa uteri mass",
+    "Congenital megaureter",
+    "Death",
+    "Decreased appetite",
+    "Diverticulum",
+    "Maternal exposure during pregnancy",
+    "Nausea",
+    "Ovarian cancer",
+    "Pleural effusion",
+    "Pollakiuria",
+    "Respiratory failure",
+    "Vomiting",
+    "Weight increased"
+  ],
+  "date_started": "20050603",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-005691",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220419",
+  "reactions": [
+    "Acute myocardial infarction",
+    "Chest discomfort",
+    "Palpitations"
+  ],
+  "date_started": "20220413",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SMOKED 2.0",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

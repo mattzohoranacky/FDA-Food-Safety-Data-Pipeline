@@ -1,0 +1,37 @@
+{
+  "report_number": "126620",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100521",
+  "reactions": [
+    "CONVULSION",
+    "DIZZINESS",
+    "FATIGUE",
+    "HEART RATE INCREASED",
+    "HYPOTENSION",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20100414",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADAM NUTRITION NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MEAL REPLACEMENT SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-008766",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20200912",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chest pain",
+    "Helicobacter test positive",
+    "Weight decreased"
+  ],
+  "date_started": "20200320",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKETSIDE ORGANIC SPINACH AND SPRING MIX",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

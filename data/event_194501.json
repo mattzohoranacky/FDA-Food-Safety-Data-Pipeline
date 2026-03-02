@@ -1,0 +1,56 @@
+{
+  "report_number": "194501",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160317",
+  "reactions": [
+    "Adverse reaction",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "PRURITUS",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20160317",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PAMELA'S PRODUCTS GLUTEN FREE DAIRY FREE CHOCOLATE BROWNIE MIX",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B&G FOODS GRANDMA'S MOLASSES",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GUITTARD DARK CHOCOLATE CHIPS",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HAIN SUNFLOWER OIL",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WINCO OLIVE OIL COOKING SPRAY",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    }
+  ]
+}

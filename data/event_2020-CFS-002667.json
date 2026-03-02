@@ -1,0 +1,26 @@
+{
+  "report_number": "2020-CFS-002667",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200219",
+  "reactions": [
+    "Platelet count decreased"
+  ],
+  "date_started": "20191115",
+  "consumer": {
+    "age": "46.4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRA CHAMPS TRIBULUS TERRESTRIS SUPPLEMENT EXTRA STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

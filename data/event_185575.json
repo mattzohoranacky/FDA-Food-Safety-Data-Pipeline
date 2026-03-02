@@ -1,0 +1,40 @@
+{
+  "report_number": "185575",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150416",
+  "reactions": [
+    "ARRHYTHMIA",
+    "ATRIOVENTRICULAR BLOCK",
+    "CARDIAC ARREST",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "ELECTROLYTE IMBALANCE",
+    "FATIGUE",
+    "MYOCARDIAL INFARCTION",
+    "VENTRICULAR FIBRILLATION"
+  ],
+  "date_started": "20150310",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MNS MAX C MAXIMUM APPETITE CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARK ENERGY DRINK MANGO STRAWBERRY CANISTER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "report_number": "114502",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090623",
+  "reactions": [
+    "NAUSEA",
+    "SEDATION",
+    "VOMITING"
+  ],
+  "date_started": "20090617",
+  "consumer": {
+    "age": "90.16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACCERA AXONA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHOLECALCIFEROL - VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COENZYME Q10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CYANCOBALAMIN VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

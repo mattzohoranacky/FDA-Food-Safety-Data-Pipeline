@@ -1,0 +1,42 @@
+{
+  "report_number": "2023-CFS-007547",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230508",
+  "reactions": [
+    "Breast cancer"
+  ],
+  "date_started": "20230401",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LUBRIDERM MENS 3 IN 1 BODY FACE POST SHAVE LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LUBRIDERM ADVANCED THERAPY LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LUBRIDERM DAILY MOISTURE LOTION NORMAL TO DRY SKIN FRAGRANCE FREE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LUBRIDERM DAILY MOISTURE LOTION NORMAL TO DRY SKIN FRAGRANCE FREE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

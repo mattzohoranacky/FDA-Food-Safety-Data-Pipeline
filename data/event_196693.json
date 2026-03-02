@@ -1,0 +1,42 @@
+{
+  "report_number": "196693",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160525",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL MASS",
+    "ABDOMINAL PAIN UPPER",
+    "BLOOD CHOLESTEROL INCREASED",
+    "BURNING SENSATION",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "ERYTHEMA",
+    "INSOMNIA",
+    "LOCAL SWELLING",
+    "MASS",
+    "PRURITUS",
+    "RASH"
+  ],
+  "date_started": "20160414",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE NIACIN 500 MG COATED CAPLETS (DIETARY SUPPLEMENT) CAPLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTIC (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

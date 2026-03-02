@@ -1,0 +1,30 @@
+{
+  "report_number": "197680",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151120",
+  "reactions": [
+    "DIARRHOEA",
+    "FOREIGN BODY",
+    "NAUSEA",
+    "ORAL PAIN",
+    "Product contamination physical",
+    "SENSORY DISTURBANCE"
+  ],
+  "date_started": "20151120",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARS M&M'S PEANUT CHOCOLATE CANDIES",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

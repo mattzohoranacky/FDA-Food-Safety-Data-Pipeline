@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-016365",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20221121",
+  "reactions": [
+    "Chest pain",
+    "Haematemesis",
+    "Migraine"
+  ],
+  "date_started": "20220818",
+  "consumer": {
+    "age": "51.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BATISTA DRY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOT YOUR MOTHERS DRY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Liquid vitamin B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

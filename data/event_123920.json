@@ -1,0 +1,29 @@
+{
+  "report_number": "123920",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100223",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "RASH PRURITIC",
+    "URTICARIA"
+  ],
+  "date_started": "20100127",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN WORLD ULTRA MAN SPORT TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

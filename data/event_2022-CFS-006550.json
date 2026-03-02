@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-006550",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220503",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Flatulence",
+    "Gastrointestinal disorder"
+  ],
+  "date_started": "20220415",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOLARAY ONCE DAILY ADULT 50+ MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

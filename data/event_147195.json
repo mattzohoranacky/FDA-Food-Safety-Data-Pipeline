@@ -1,0 +1,43 @@
+{
+  "report_number": "147195",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110324",
+  "reactions": [
+    "VOMITING"
+  ],
+  "date_started": "20110318",
+  "consumer": {
+    "age": "9",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTHS BEST MULTIGRAIN CEREAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTHS BEST ORGANIC APPLE YOGURT OATMEAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL PREMIUM INFANT LIPIL FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER ORGANIC BROWN RICE CEREAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

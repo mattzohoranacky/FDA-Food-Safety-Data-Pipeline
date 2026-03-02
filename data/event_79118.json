@@ -1,0 +1,35 @@
+{
+  "report_number": "79118",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050627",
+  "reactions": [
+    "DYSARTHRIA",
+    "FATIGUE",
+    "MENTAL IMPAIRMENT",
+    "PARAESTHESIA",
+    "POISONING"
+  ],
+  "date_started": "20050408",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BAREFOOT-CORAL CALCIUM PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WALGREENS MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

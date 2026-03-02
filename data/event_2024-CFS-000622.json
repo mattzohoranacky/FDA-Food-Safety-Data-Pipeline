@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-000622",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240115",
+  "reactions": [
+    "Burning sensation",
+    "Discomfort",
+    "Haemorrhage",
+    "Inflammation",
+    "Pain",
+    "Paraesthesia",
+    "Scar",
+    "Skin lesion",
+    "Skin reaction"
+  ],
+  "date_started": "20210307",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAN1 MAN OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

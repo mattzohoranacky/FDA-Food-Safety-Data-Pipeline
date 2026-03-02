@@ -1,0 +1,37 @@
+{
+  "report_number": "111665",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090331",
+  "reactions": [
+    "GASTROOESOPHAGEAL REFLUX DISEASE"
+  ],
+  "date_started": "20081205",
+  "consumer": {
+    "age": "1",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLINTSTONES COMPLETE CHILDREN'S MULTIVITAMIN MULTIMINERAL SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMEN'S PRENATAL DHA EPA LIQUID GELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMEN'S PRENATAL MULTIVITAMIN TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

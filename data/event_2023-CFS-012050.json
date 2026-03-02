@@ -1,0 +1,45 @@
+{
+  "report_number": "2023-CFS-012050",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20231030",
+  "reactions": [
+    "Bone disorder",
+    "Contusion",
+    "Eye swelling",
+    "Headache",
+    "Pain of skin",
+    "Skin disorder",
+    "Skin tightness",
+    "Swelling face",
+    "Urticaria"
+  ],
+  "date_started": "20230101",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAY FEM FACE CONDTIONER TREATMENT REGERIST MICRO SCULPTING SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Olay detoxifying pore scrub",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Olay renewal cream",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

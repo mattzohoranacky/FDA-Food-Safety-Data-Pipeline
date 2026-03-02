@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-004349",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220326",
+  "reactions": [
+    "Chest pain",
+    "Chills",
+    "Diarrhoea",
+    "Heart rate increased",
+    "Pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20220321",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JERGEN'S LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

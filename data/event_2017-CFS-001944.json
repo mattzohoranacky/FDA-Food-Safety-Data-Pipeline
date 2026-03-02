@@ -1,0 +1,30 @@
+{
+  "report_number": "2017-CFS-001944",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20171027",
+  "reactions": [
+    "Cough",
+    "Hypersensitivity",
+    "Paraesthesia oral",
+    "Throat tightness"
+  ],
+  "date_started": "20171013",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIGHTLY SALTED 50% LESS SODIUM POTATO CHIPS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

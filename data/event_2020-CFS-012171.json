@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-012171",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20201124",
+  "reactions": [
+    "Dizziness",
+    "Dyspnoea",
+    "Muscle twitching",
+    "Nervous system disorder",
+    "Tremor",
+    "Vitamin B6 increased",
+    "Vitamin D decreased"
+  ],
+  "date_started": "20201006",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATROL MELATONIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

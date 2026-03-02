@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-002877",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240308",
+  "reactions": [
+    "Clostridium difficile infection",
+    "Diarrhoea",
+    "Haematochezia",
+    "Rotavirus test positive",
+    "Salmonellosis",
+    "Upper respiratory tract infection"
+  ],
+  "date_started": "20240125",
+  "consumer": {
+    "age": "9",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC BABY FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

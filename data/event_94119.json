@@ -1,0 +1,30 @@
+{
+  "report_number": "94119",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20070626",
+  "reactions": [
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HEART RATE INCREASED",
+    "NAUSEA",
+    "SOMNOLENCE",
+    "VOMITING"
+  ],
+  "date_started": "20070624",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARIZONA GREEN TEA WITH GINSENG",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

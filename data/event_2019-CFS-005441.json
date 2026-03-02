@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-005441",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20190602",
+  "reactions": [
+    "Hypersensitivity",
+    "Oedema mouth",
+    "Urticaria"
+  ],
+  "date_started": "20121101",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TARTRAZINE, YELLOW #5",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fanta Orange",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

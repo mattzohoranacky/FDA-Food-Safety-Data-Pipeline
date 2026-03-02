@@ -1,0 +1,43 @@
+{
+  "report_number": "157932",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121001",
+  "reactions": [
+    "ALOPECIA",
+    "BURNING SENSATION",
+    "CELLULITIS",
+    "DERMATITIS CONTACT",
+    "DRY SKIN",
+    "SKIN BURNING SENSATION",
+    "TRICHORRHEXIS"
+  ],
+  "date_started": "20120827",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIX BEAUTY PURE & SIMPLE BRAZILIAN KERATIN CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIX BEAUTY PURE & SIMPLE BRAZILIAN KERATIN SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIX BEAUTY PURE & SIMPLE BRAZILIAN KERATIN THERAPY ANTI-BREAKAGE SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

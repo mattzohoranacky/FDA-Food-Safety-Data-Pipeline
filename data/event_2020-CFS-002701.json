@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-002701",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200221",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea"
+  ],
+  "date_started": "20200210",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRA CHAMPS ORGANIC MACA ROOTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B complex",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "148273",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120124",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "COGNITIVE DISORDER",
+    "CONFUSIONAL STATE",
+    "FATIGUE",
+    "HEADACHE",
+    "MALAISE",
+    "MENTAL STATUS CHANGES",
+    "VOMITING"
+  ],
+  "date_started": "20090818",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FERROUS GLUCONATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CITRATE OF MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

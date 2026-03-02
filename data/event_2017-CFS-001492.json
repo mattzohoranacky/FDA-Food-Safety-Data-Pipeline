@@ -1,0 +1,28 @@
+{
+  "report_number": "2017-CFS-001492",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170725",
+  "reactions": [
+    "Conjunctivitis"
+  ],
+  "date_started": "20170725",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLINIQUE MASCARA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Chubby Lase Mascara",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

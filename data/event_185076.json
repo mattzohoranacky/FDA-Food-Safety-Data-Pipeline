@@ -1,0 +1,40 @@
+{
+  "report_number": "185076",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150419",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CHOLELITHIASIS",
+    "CHROMATURIA",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "PAIN"
+  ],
+  "date_started": "20150322",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIAGEN (NICOTINAMIDE RIBOSIDE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NR NIAGEN NAD+ BOOSTER SAFE FOR SPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PQQ PYRROLOQUINOLINE QUINONE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

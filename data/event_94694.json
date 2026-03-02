@@ -1,0 +1,43 @@
+{
+  "report_number": "94694",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070716",
+  "reactions": [
+    "Death",
+    "GASTROENTERITIS VIBRIO",
+    "LEUKOCYTOSIS",
+    "LYMPHATIC DISORDER",
+    "MALAISE"
+  ],
+  "date_started": "20061004",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOUISIANA STEAMED OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LOUISIANA LOBSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SOFT SHELL CRAB",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

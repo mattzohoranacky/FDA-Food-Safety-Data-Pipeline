@@ -1,0 +1,38 @@
+{
+  "report_number": "2024-CFS-009801",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240610",
+  "reactions": [
+    "Ataxia",
+    "Burning sensation",
+    "Choking",
+    "Cyanosis",
+    "Dyspnoea",
+    "Fatigue",
+    "Mental impairment",
+    "Nausea",
+    "Neurological symptom",
+    "Oral hyperaesthesia",
+    "Seizure",
+    "Vomiting"
+  ],
+  "date_started": "20240606",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MT. SINAI FISH INC BLOWFISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

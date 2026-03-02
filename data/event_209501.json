@@ -1,0 +1,29 @@
+{
+  "report_number": "209501",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170321",
+  "reactions": [
+    "ALLERGY TEST POSITIVE",
+    "CARDIAC FIBRILLATION",
+    "DYSPNOEA",
+    "HEART RATE IRREGULAR",
+    "HYPERSENSITIVITY",
+    "PALPITATIONS"
+  ],
+  "date_started": "20170317",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KELLOGG'S FROSTED FLAKES",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

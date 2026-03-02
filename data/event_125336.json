@@ -1,0 +1,33 @@
+{
+  "report_number": "125336",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20100405",
+  "reactions": [
+    "HAEMATOCHEZIA",
+    "HYPERSENSITIVITY",
+    "INFLAMMATION",
+    "PROCTITIS ULCERATIVE"
+  ],
+  "date_started": "20070901",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PAY DAY POWER BAR PROTEIN BAR",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SNICKERS POWER BAR PROTEIN BAR",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

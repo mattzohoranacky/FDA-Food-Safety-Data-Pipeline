@@ -1,0 +1,42 @@
+{
+  "report_number": "2024-CFS-015432",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241205",
+  "reactions": [
+    "Burning sensation",
+    "Headache",
+    "Vision blurred"
+  ],
+  "date_started": "20241129",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELERY",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHERRY TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER BABY SPINACH TENDER YOUNG BABY SPINACH LEAVES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLE TRUTH ORGANIC MANGO CHUNKS FRESHLY FROZEN MANGO",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

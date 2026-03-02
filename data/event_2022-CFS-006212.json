@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-006212",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220428",
+  "reactions": [
+    "Asthenia",
+    "Chills",
+    "Insomnia",
+    "Malaise",
+    "Nausea",
+    "Panic attack",
+    "Yellow skin"
+  ],
+  "date_started": "20220329",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY  VY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY TRU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

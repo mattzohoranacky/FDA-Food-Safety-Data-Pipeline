@@ -1,0 +1,39 @@
+{
+  "report_number": "199006",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160725",
+  "reactions": [
+    "ALLERGY TEST POSITIVE",
+    "ALLERGY TO CHEMICALS",
+    "RASH"
+  ],
+  "date_started": "20150701",
+  "consumer": {
+    "age": "56.71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BODY WA SHES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL ESSENCE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOAPS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

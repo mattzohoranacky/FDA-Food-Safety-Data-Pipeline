@@ -1,0 +1,35 @@
+{
+  "report_number": "191852",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20151203",
+  "reactions": [
+    "DISCOMFORT",
+    "FEELING ABNORMAL",
+    "GLOSSODYNIA",
+    "PAIN",
+    "TONGUE DISORDER",
+    "TONGUE ULCERATION"
+  ],
+  "date_started": "20151023",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EMERGEN-C (ASCORBIC ACID, B-COMPLEX, ELECTROLYTE, MULTIMINERAL, MULTIVIT, ZINC) CHEWABLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EMERGEN-C IMMUNE PLUS(ASCORBIC, B-COMPLEX, ELECTROLYTES, MULTIMINERAL, MULTIVIT, VIT D, ZINC) CHEWABLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

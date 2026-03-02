@@ -1,0 +1,44 @@
+{
+  "report_number": "117871",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090904",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "EYE SWELLING",
+    "LACRIMATION INCREASED",
+    "OCULAR HYPERAEMIA",
+    "OROPHARYNGEAL SWELLING",
+    "PHARYNGEAL OEDEMA",
+    "SINUS CONGESTION",
+    "SWELLING FACE"
+  ],
+  "date_started": "20090615",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQUALINE CENTURY MATURE MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12 SYRUP SUBLINGUAL (CYANOCOBALAMIN)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

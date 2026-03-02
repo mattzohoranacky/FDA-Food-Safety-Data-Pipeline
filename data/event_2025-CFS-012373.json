@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-012373",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250801",
+  "reactions": [
+    "Anaphylactic shock",
+    "Diarrhoea",
+    "Hospitalisation",
+    "Nausea",
+    "Pain",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20250801",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOVEN EVERYTHING BAGELS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

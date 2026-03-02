@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-011502",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Congenital Anomaly",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220725",
+  "reactions": [
+    "Abortion spontaneous",
+    "Poisoning"
+  ],
+  "date_started": "20220701",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PINK CRUSH SOAPS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

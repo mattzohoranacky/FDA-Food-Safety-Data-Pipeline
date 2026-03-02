@@ -1,0 +1,35 @@
+{
+  "report_number": "182384",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20150113",
+  "reactions": [
+    "COUGH",
+    "FOOD ALLERGY",
+    "HYPERSENSITIVITY",
+    "Recalled product",
+    "URTICARIA",
+    "WHEEZING"
+  ],
+  "date_started": "20141230",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESSENTIAL EVERYDAY CHILI BEANS IN SAUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TACO BELL TACO SEASONING MIX",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

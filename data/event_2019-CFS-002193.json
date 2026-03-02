@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-002193",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190228",
+  "reactions": [
+    "Erythema",
+    "Exfoliative rash",
+    "Swelling face"
+  ],
+  "date_started": "20190212",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLE HENRIKSEN TRANSFORMATION PLUS GLOW CYCLE RETIN-ALT POWER SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "75526",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20041025",
+  "reactions": [
+    "BACK PAIN",
+    "BLOOD TEST ABNORMAL",
+    "DIARRHOEA",
+    "ELECTROCARDIOGRAM",
+    "HOSPITALISATION",
+    "NAUSEA",
+    "POISONING"
+  ],
+  "date_started": "20041025",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WALMART GREAT VALUE TOASTED RICE CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

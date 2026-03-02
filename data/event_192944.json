@@ -1,0 +1,39 @@
+{
+  "report_number": "192944",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160120",
+  "reactions": [
+    "CLOSTRIDIUM DIFFICILE INFECTION",
+    "DIARRHOEA",
+    "FLATULENCE",
+    "FUNGAL INFECTION",
+    "KIDNEY INFECTION",
+    "NEPHROLITHIASIS",
+    "RASH MACULAR",
+    "SEPSIS",
+    "SKIN DISORDER"
+  ],
+  "date_started": "20151101",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLORASTOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

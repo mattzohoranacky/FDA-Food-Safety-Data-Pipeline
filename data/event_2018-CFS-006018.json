@@ -1,0 +1,40 @@
+{
+  "report_number": "2018-CFS-006018",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180418",
+  "reactions": [
+    "Abdominal pain upper",
+    "Adrenal disorder",
+    "Blood cholesterol increased",
+    "Blood pressure decreased",
+    "Blood pressure increased",
+    "Chest pain",
+    "Dizziness",
+    "Flatulence",
+    "Fungal infection",
+    "Heart rate increased",
+    "Heart rate irregular",
+    "High density lipoprotein increased",
+    "Hypertension",
+    "Low density lipoprotein increased",
+    "Malaise",
+    "Palpitations"
+  ],
+  "date_started": "20180319",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOLGAR FORMULA V VM-75",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

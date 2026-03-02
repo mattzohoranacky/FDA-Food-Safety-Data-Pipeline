@@ -1,0 +1,47 @@
+{
+  "report_number": "2022-CFS-003238",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220303",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Gastrointestinal pain",
+    "Haematochezia",
+    "Vomiting"
+  ],
+  "date_started": "20220214",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROGERSHOOD APOTHECARY CINNABIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROGERSHOOD APOTHECARY PARAFY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROGERSHOOD APOTHECARY RED ARTIST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROGERSHOOD APOTHECARY SUSTAIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

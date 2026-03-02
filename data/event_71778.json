@@ -1,0 +1,33 @@
+{
+  "report_number": "71778",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20040827",
+  "reactions": [
+    "Adverse event",
+    "DEATH",
+    "SHOCK"
+  ],
+  "date_started": "20040803",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRAB",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

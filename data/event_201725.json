@@ -1,0 +1,39 @@
+{
+  "report_number": "201725",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160917",
+  "reactions": [
+    "ABORTION SPONTANEOUS",
+    "AMNIOCENTESIS",
+    "PRENATAL SCREENING TEST ABNORMAL",
+    "TRISOMY 21"
+  ],
+  "date_started": "20160720",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS BIOCLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS XFACTOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROBIO 5",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

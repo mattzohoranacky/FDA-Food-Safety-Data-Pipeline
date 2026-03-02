@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-005255",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200518",
+  "reactions": [
+    "Abdominal distension",
+    "Asthenia",
+    "Blood creatinine increased",
+    "Dyspnoea",
+    "Fatigue",
+    "Fluid overload",
+    "Hyperhidrosis",
+    "Malaise",
+    "Oedema",
+    "Renal failure acute",
+    "Swelling face"
+  ],
+  "date_started": "20200514",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUICKISILVER IMD PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

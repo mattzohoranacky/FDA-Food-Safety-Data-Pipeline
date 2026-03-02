@@ -1,0 +1,29 @@
+{
+  "report_number": "2019-CFS-000463",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190116",
+  "reactions": [
+    "Ageusia",
+    "Blood pressure fluctuation",
+    "Cough"
+  ],
+  "date_started": "20180301",
+  "consumer": {
+    "age": "87",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY ULTRA STRENGTH ADVANCED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

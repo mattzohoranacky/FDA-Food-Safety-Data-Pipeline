@@ -1,0 +1,38 @@
+{
+  "report_number": "2024-CFS-007065",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230707",
+  "reactions": [
+    "Cough",
+    "Dysarthria",
+    "Dysphagia",
+    "Dyspnoea",
+    "Heart rate increased",
+    "Hypersensitivity",
+    "Lip swelling",
+    "Pharyngeal swelling",
+    "Pruritus",
+    "Rash macular",
+    "Rhinorrhoea",
+    "Vomiting"
+  ],
+  "date_started": "20230706",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOLTHOUSE FARMS HONEY ALMOND PROTEIN PLUS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

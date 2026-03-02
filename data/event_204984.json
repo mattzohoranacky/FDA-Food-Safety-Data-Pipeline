@@ -1,0 +1,36 @@
+{
+  "report_number": "204984",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20161207",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLOOD TEST ABNORMAL",
+    "INFECTION",
+    "PANCREATITIS",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20131014",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARCINIA CAMBOGIA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "report_number": "2020-CFS-010314",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201013",
+  "reactions": [
+    "Abortion spontaneous",
+    "Adenomyosis",
+    "Breast mass",
+    "Gestational hypertension",
+    "Infertility",
+    "Leiomyoma",
+    "Malignant ascites",
+    "Maternal exposure during pregnancy",
+    "Ovarian cancer stage I",
+    "Ovarian cyst",
+    "Pelvic adhesions",
+    "Premature delivery",
+    "Vaginal polyp"
+  ],
+  "date_started": "20120430",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

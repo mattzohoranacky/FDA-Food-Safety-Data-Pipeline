@@ -1,0 +1,31 @@
+{
+  "report_number": "205661",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20161223",
+  "reactions": [
+    "CHILLS",
+    "DIARRHOEA",
+    "HYPERVENTILATION",
+    "MUSCULOSKELETAL STIFFNESS",
+    "PYREXIA",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20161120",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROASTED RED PEPPER HUMMUS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

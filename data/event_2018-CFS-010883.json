@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-010883",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180831",
+  "reactions": [
+    "Abdominal pain upper",
+    "Ammonia increased",
+    "Blood pressure increased",
+    "Dysuria",
+    "Hepatic failure",
+    "Renal failure"
+  ],
+  "date_started": "20180723",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INCONTROL24",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

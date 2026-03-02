@@ -1,0 +1,71 @@
+{
+  "report_number": "191717",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20151125",
+  "reactions": [
+    "DIARRHOEA",
+    "DIZZINESS",
+    "ERYTHEMA",
+    "FEELING ABNORMAL",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "PAIN",
+    "PRURITUS",
+    "RESPIRATORY ARREST",
+    "VOMITING",
+    "WHEEZING"
+  ],
+  "date_started": "20151107",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMENS ULTRA MEGA ACTIVE CALCIUM 600",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMENS ULTRA MEGA ACTIVE CLA COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMENS ULTRA MEGA ACTIVE MULTIVITAMIN VITAPAK PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMENS ULTRA MEGA ACTIVE ULTRA ENERGY GENERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMENS ULTRA MEGA ACTIVE ULTRA STRESS PROTECTION & CIRCULATORY SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3 (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

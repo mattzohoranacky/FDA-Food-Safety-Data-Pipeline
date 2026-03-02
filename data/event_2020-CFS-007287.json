@@ -1,0 +1,26 @@
+{
+  "report_number": "2020-CFS-007287",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200728",
+  "reactions": [
+    "Anaphylactic reaction"
+  ],
+  "date_started": "20200727",
+  "consumer": {
+    "age": "9",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLINTSTONES WITH IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-002853",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220228",
+  "reactions": [
+    "Decreased appetite",
+    "Lethargy",
+    "Pyrexia",
+    "Urine analysis abnormal"
+  ],
+  "date_started": "20220206",
+  "consumer": {
+    "age": "19",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC PROADVANCE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

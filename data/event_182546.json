@@ -1,0 +1,36 @@
+{
+  "report_number": "182546",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150129",
+  "reactions": [
+    "TRICHORRHEXIS"
+  ],
+  "date_started": "20150123",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAYBELLINE MEGA PLUSH WATERPROOF MASCARA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "METAMUCIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

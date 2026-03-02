@@ -1,0 +1,30 @@
+{
+  "report_number": "115053",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070220",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "FATIGUE",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20070115",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "82335",
+  "outcomes": [
+    "Death",
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20051206",
+  "reactions": [
+    "Apparent death",
+    "Arterial spasm",
+    "Arteriospasm coronary",
+    "Cardiac arrest",
+    "Death",
+    "Hypokinesia",
+    "Myocardial infarction",
+    "Troponin I increased",
+    "Ventricular fibrillation"
+  ],
+  "date_started": "20051001",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

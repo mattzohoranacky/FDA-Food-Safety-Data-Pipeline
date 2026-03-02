@@ -1,0 +1,37 @@
+{
+  "report_number": "2024-CFS-002522",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240229",
+  "reactions": [
+    "Abdominal pain",
+    "Anxiety",
+    "Back pain",
+    "Brain fog",
+    "Decreased appetite",
+    "Dizziness",
+    "Gait disturbance",
+    "Hypoaesthesia",
+    "Insomnia",
+    "Muscular weakness",
+    "Nausea",
+    "Speech disorder",
+    "Vaginal haemorrhage",
+    "Vomiting"
+  ],
+  "date_started": "20240213",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT LAKES WELLNESS COLLAGEN UNFLAVORED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

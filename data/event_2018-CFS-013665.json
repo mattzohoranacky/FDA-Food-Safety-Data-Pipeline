@@ -1,0 +1,50 @@
+{
+  "report_number": "2018-CFS-013665",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181118",
+  "reactions": [
+    "Anxiety",
+    "Arthralgia",
+    "Blood pressure increased",
+    "Body temperature increased",
+    "Depression",
+    "Feeling abnormal",
+    "Hyperhidrosis",
+    "Hypoaesthesia",
+    "Insomnia",
+    "Lethargy",
+    "Muscle spasms",
+    "Muscle twitching",
+    "Myoclonus",
+    "Neuropathy peripheral",
+    "Night sweats",
+    "Pain in extremity",
+    "Palpitations",
+    "Paraesthesia"
+  ],
+  "date_started": "20181110",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BREATHE EASY PROMOTES RESPIRATORY HEALTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Organic Turmeric with Meadowsweet and Ginger",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

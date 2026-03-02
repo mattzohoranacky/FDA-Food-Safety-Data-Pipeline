@@ -1,0 +1,45 @@
+{
+  "report_number": "126168",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20100422",
+  "reactions": [
+    "ASPHYXIA",
+    "ASTHENIA",
+    "FOREIGN BODY TRAUMA",
+    "INFLUENZA LIKE ILLNESS"
+  ],
+  "date_started": "20100328",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL MAXIMUM PLUS VITAMIN D (CALCIUM CITRATE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CITRACAL PETITES (CALCIUM CITRATE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GARLIC PILL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WALGREENS MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "80049",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050805",
+  "reactions": [
+    "CHEST PAIN",
+    "ELECTROCARDIOGRAM ABNORMAL",
+    "HEART RATE INCREASED"
+  ],
+  "date_started": "20050714",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REDLINE ENERGY DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

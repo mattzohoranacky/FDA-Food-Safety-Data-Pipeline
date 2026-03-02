@@ -1,0 +1,48 @@
+{
+  "report_number": "166244",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20130605",
+  "reactions": [
+    "BLOOD POTASSIUM DECREASED",
+    "CARDIOVASCULAR DISORDER",
+    "CHEST DISCOMFORT",
+    "MYOCARDIAL INFARCTION",
+    "SWELLING",
+    "WEIGHT INCREASED"
+  ],
+  "date_started": "20130506",
+  "consumer": {
+    "age": "60.45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADRECOR WITH LICORICE ROOT  NEUROSCIENCE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "AVIPAXIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "INFLAM B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KAVINACE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "122170",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100111",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CHEST DISCOMFORT",
+    "DIZZINESS",
+    "ERUCTATION"
+  ],
+  "date_started": "20091214",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEMBER'S MARK FISH OIL 1000MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

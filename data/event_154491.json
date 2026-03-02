@@ -1,0 +1,41 @@
+{
+  "report_number": "154491",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120717",
+  "reactions": [
+    "COLD SWEAT",
+    "DEHYDRATION",
+    "HEAT EXHAUSTION",
+    "HYPERHIDROSIS",
+    "HYPERTHERMIA",
+    "LETHARGY"
+  ],
+  "date_started": "20120703",
+  "consumer": {
+    "age": "61.37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SONNE'S #7 DETOXIFICANT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

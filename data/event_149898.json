@@ -1,0 +1,59 @@
+{
+  "report_number": "149898",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120312",
+  "reactions": [
+    "ANXIETY",
+    "DYSPNOEA",
+    "HEART RATE INCREASED",
+    "HYPERVENTILATION",
+    "NERVOUSNESS",
+    "PANIC ATTACK",
+    "PSYCHOTIC DISORDER"
+  ],
+  "date_started": "20120210",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANIMAL PAK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANIMAL STAK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DYMATIZE ELITE GOURMET PROTEIN COOKIES AND CREAM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DYMATIZE ELITE GOURMET PROTEIN FRENCH VANILLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NOW CARBO GAIN UNFLAVORED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROMERA HEALTH CON CRET BLUE RASPBERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

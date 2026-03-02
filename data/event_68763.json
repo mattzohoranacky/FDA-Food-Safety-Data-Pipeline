@@ -1,0 +1,32 @@
+{
+  "report_number": "68763",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040413",
+  "reactions": [
+    "DYSPNOEA",
+    "HOSPITALISATION",
+    "HYPERHIDROSIS",
+    "PALLOR",
+    "PHYSICAL EXAMINATION",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20040401",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARUCHAN INSTANT LUNCH (RAMEN NOODLES) - CHICKEN FLAVOR",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    }
+  ]
+}

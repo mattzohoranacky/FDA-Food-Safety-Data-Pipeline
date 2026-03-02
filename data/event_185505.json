@@ -1,0 +1,31 @@
+{
+  "report_number": "185505",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150414",
+  "reactions": [
+    "CHOKING",
+    "EXPIRED DRUG ADMINISTERED"
+  ],
+  "date_started": "20150310",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL MAXIMUM (CHOLECALCIFEROL + CALCIUM CITRATE) FILM COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL SUGAR-FREE SOFT CHEW UNCOATED (CALCIUM CARBONATE, CHOLECALCIFEROL, PHYTOMENADIONE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

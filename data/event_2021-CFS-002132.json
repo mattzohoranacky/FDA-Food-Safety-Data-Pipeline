@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-002132",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210307",
+  "reactions": [
+    "Alopecia",
+    "Burning sensation"
+  ],
+  "date_started": "20210304",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANTENE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANTENE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

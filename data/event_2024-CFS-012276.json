@@ -1,0 +1,44 @@
+{
+  "report_number": "2024-CFS-012276",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241009",
+  "reactions": [
+    "Diarrhoea",
+    "Malaise",
+    "Vomiting"
+  ],
+  "date_started": "20241009",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FARM FRESH EGGLAND'S BEST 18 EGGS GRADE A LARGE",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEIJER GRADE A EGGS LARGE CAGE FREE 24 EGGS CAGE FREE CERTIFIED",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BOOST NUTRIONAL DRINK",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RAINBOW VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

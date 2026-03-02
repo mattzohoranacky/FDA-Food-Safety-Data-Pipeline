@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-005061",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180322",
+  "reactions": [
+    "Abdominal pain upper",
+    "Coeliac disease",
+    "Malaise"
+  ],
+  "date_started": "20130301",
+  "consumer": {
+    "age": "1.04",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SILK ALMOND MILK",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SO DELICIOUS ALMOND MILK",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Pure Encapsulation Junior Nutrients",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

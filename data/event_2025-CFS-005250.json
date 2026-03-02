@@ -1,0 +1,34 @@
+{
+  "report_number": "2025-CFS-005250",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20250408",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Hospitalisation",
+    "Nausea"
+  ],
+  "date_started": "20240705",
+  "consumer": {
+    "age": "85",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE FRUITS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE VEGGIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

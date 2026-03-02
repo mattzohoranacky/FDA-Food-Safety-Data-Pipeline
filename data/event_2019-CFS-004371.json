@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-004371",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190430",
+  "reactions": [
+    "Choking",
+    "Cough",
+    "Dysphagia",
+    "Oropharyngeal pain",
+    "Throat irritation",
+    "Vomiting"
+  ],
+  "date_started": "20181001",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE SPIRULINA BLUE-GREEN ALGAE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

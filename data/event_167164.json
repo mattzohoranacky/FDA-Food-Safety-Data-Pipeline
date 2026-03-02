@@ -1,0 +1,46 @@
+{
+  "report_number": "167164",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130625",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "POOR QUALITY SLEEP",
+    "SELF-INJURIOUS IDEATION",
+    "SUICIDAL IDEATION"
+  ],
+  "date_started": "20130521",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUROSCIENCE INC. CALM CP 2 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUROSCIENCE, INC. ADRECOR 1-3 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NEUROSCIENCE INC. ENDOPLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NEUROSCIENCE INC. KAVINACE ULTRA PM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

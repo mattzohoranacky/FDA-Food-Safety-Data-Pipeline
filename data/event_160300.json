@@ -1,0 +1,42 @@
+{
+  "report_number": "160300",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20121219",
+  "reactions": [
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "ANXIETY",
+    "FEELING ABNORMAL",
+    "FEELING HOT",
+    "FLUSHING",
+    "HYPERLIPIDAEMIA",
+    "HYPERTENSION",
+    "IMPAIRED WORK ABILITY",
+    "LEFT VENTRICULAR HYPERTROPHY",
+    "LOSS OF CONSCIOUSNESS",
+    "PAIN",
+    "SYNCOPE"
+  ],
+  "date_started": "20120514",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC NIACIN 500 240 TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

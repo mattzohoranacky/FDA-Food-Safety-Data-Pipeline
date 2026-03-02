@@ -1,0 +1,40 @@
+{
+  "report_number": "2018-CFS-011311",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180911",
+  "reactions": [
+    "Blood calcium decreased",
+    "Body height decreased",
+    "Lung neoplasm malignant",
+    "Muscle spasms",
+    "Nail disorder",
+    "Oropharyngeal pain",
+    "Pharyngeal oedema",
+    "Rheumatoid arthritis",
+    "Throat cancer",
+    "Weight fluctuation"
+  ],
+  "date_started": "20090101",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALTRATE CALTRATE BONE HEALTH CALCIUM CARBONATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER ADULTS 50+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

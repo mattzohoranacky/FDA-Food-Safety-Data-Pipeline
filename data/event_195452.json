@@ -1,0 +1,35 @@
+{
+  "report_number": "195452",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160414",
+  "reactions": [
+    "DIARRHOEA",
+    "FATIGUE",
+    "LISTERIOSIS",
+    "MUSCLE SPASMS",
+    "NAUSEA",
+    "PAIN"
+  ],
+  "date_started": "20160411",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RESER MACARONI SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RESER'S POTATO SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

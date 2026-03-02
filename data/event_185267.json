@@ -1,0 +1,35 @@
+{
+  "report_number": "185267",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150414",
+  "reactions": [
+    "ABORTION SPONTANEOUS",
+    "EXPIRED DRUG ADMINISTERED",
+    "EXPOSURE DURING PREGNANCY",
+    "FATIGUE",
+    "HUMAN CHORIONIC GONADOTROPIN ABNORMAL",
+    "ULTRASOUND SCAN ABNORMAL"
+  ],
+  "date_started": "20150118",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FEOSOL BIFERA IRON (POLYSACCHARIDE IRON COMPLEX, HEME IRON POLYPEPTIDE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATUREMADE PRENATAL MULTI + DHA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "180707",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20141107",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ANXIETY",
+    "BLOOD PRESSURE INCREASED",
+    "HEADACHE",
+    "HYPERTENSION"
+  ],
+  "date_started": "20140626",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LE- VEL THRIVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ARTHRITIS SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WOMEN'S ONE A DAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

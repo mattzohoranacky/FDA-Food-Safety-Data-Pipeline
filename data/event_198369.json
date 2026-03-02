@@ -1,0 +1,47 @@
+{
+  "report_number": "198369",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160711",
+  "reactions": [
+    "APPETITE DISORDER",
+    "ASTHENIA",
+    "CHILLS",
+    "COCCYDYNIA",
+    "COUGH",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HEADACHE",
+    "INFLUENZA LIKE ILLNESS",
+    "MYALGIA",
+    "NAUSEA",
+    "NIGHT SWEATS",
+    "PYREXIA",
+    "RASH PRURITIC",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20160527",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE SUPER B COMPLEX (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED VITAMIN SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

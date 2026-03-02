@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-002967",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180213",
+  "reactions": [
+    "Decreased appetite",
+    "Diarrhoea",
+    "Nausea"
+  ],
+  "date_started": "20180201",
+  "consumer": {
+    "age": "9",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEECH NUT ORGANIC CUCUMBER",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEECH NUT ORGANIC KALE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEECH NUT ORGANIC PEAR",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

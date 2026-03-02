@@ -1,0 +1,51 @@
+{
+  "report_number": "2024-CFS-009730",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240712",
+  "reactions": [
+    "Anxiety",
+    "Asthenia",
+    "Depression",
+    "Disturbance in attention",
+    "Eye swelling",
+    "Fatigue",
+    "Fear",
+    "Hypersensitivity",
+    "Pharyngeal swelling",
+    "Sleep disorder",
+    "Stress"
+  ],
+  "date_started": "20240704",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REDCON1 MRE PROTEIN SHAKE SALTED CARMEL REAL WHOLE FOOD",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IBUPROFEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LIDOCAINE PAIN RELIEF PATCHES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

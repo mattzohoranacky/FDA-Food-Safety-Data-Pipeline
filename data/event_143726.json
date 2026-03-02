@@ -1,0 +1,37 @@
+{
+  "report_number": "143726",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110921",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "LIVER FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20110506",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM BRAND TRADITIONAL RED YEAST RICE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GLUCOSAMINE CHONDROITIN MSM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "report_number": "181140",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20141201",
+  "reactions": [
+    "ABNORMAL FAECES",
+    "CONSTIPATION",
+    "DEPRESSED MOOD",
+    "FAECES HARD",
+    "GASTROINTESTINAL DISORDER",
+    "PAIN",
+    "PAINFUL DEFAECATION"
+  ],
+  "date_started": "20141028",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH KODIAK SOCKEYE SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIUM ALASKAN HALIBUT",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SMOKED COHO SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEATHERVANE SCALLOPS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

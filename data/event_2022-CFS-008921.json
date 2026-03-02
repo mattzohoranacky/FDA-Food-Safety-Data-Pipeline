@@ -1,0 +1,41 @@
+{
+  "report_number": "2022-CFS-008921",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20220527",
+  "reactions": [
+    "Chills",
+    "Diarrhoea",
+    "Malaise",
+    "Pain",
+    "Pyrexia",
+    "Salmonellosis"
+  ],
+  "date_started": "20220520",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Algae Omega 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Daily vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

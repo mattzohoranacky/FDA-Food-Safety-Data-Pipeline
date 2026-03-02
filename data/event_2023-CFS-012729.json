@@ -1,0 +1,58 @@
+{
+  "report_number": "2023-CFS-012729",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231117",
+  "reactions": [
+    "Ataxia",
+    "Blood pressure increased",
+    "Cold sweat",
+    "Dry mouth",
+    "Dysarthria",
+    "Dysphagia",
+    "Fluid retention",
+    "Flushing",
+    "Hypertensive emergency",
+    "Insomnia",
+    "Paraesthesia",
+    "Vision blurred"
+  ],
+  "date_started": "20231016",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ESTROVEN MENOPAUSE RELIEF SLEEP COOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Bio-identical Compounded HRT Cream",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Gluten Rid supplement from Swanson",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Hyaluronic Acid",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

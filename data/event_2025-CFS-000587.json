@@ -1,0 +1,34 @@
+{
+  "report_number": "2025-CFS-000587",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230331",
+  "reactions": [
+    "Abdominal pain",
+    "Pruritus"
+  ],
+  "date_started": "20230510",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLAVOR GOD BUFFALO SEASONING",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLAVOR GOD RANCH SEASONING",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-001523",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240131",
+  "reactions": [
+    "Abdominal discomfort",
+    "Astrovirus test positive",
+    "Diarrhoea",
+    "Pyrexia",
+    "Salmonellosis",
+    "Vomiting"
+  ],
+  "date_started": "20240118",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRAMIGEN POWDER INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

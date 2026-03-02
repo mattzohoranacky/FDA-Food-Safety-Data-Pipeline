@@ -1,0 +1,36 @@
+{
+  "report_number": "154087",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120705",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DEHYDRATION",
+    "LUNG INFECTION",
+    "ORGAN FAILURE",
+    "PYREXIA",
+    "RASH"
+  ],
+  "date_started": "20120627",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCO-SURE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SENSE OF MIND TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

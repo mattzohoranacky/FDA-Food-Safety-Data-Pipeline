@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-008905",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210829",
+  "reactions": [
+    "Drug screen positive",
+    "Lethargy",
+    "Pupil fixed"
+  ],
+  "date_started": "20210826",
+  "consumer": {
+    "age": "7",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR. TALBOTS SOOTHING TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PARENTS CHOICE GRIPE WATER ORIGINAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "report_number": "172189",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20131119",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "FATIGUE",
+    "HEAD DISCOMFORT",
+    "HEADACHE",
+    "MIGRAINE WITH AURA",
+    "PHARYNGEAL HYPOAESTHESIA",
+    "SINUS DISORDER",
+    "THIRST",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20131116",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWERVE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ASTAXANTHIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KRILL OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "report_number": "148683",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20111229",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ANOREXIA",
+    "APPETITE DISORDER",
+    "BACTERIA STOOL IDENTIFIED",
+    "BACTERIAL INFECTION",
+    "CONVULSION",
+    "COUGH",
+    "DIARRHOEA",
+    "ERYTHEMA",
+    "LETHARGY",
+    "RASH",
+    "RASH PAPULAR",
+    "SLEEP DISORDER",
+    "THIRST",
+    "VOMITING"
+  ],
+  "date_started": "20111209",
+  "consumer": {
+    "age": "30",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NUTRAMIGEN AA (PRESCRIPTION POWDERED FORMULA)",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ARROWHEAD MILLS PUFFED WHEAT CEREAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BOTTLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DUM DUM SUCKER",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GENERAL MILLS WHEAT CHEX",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PEDIALYTE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TAP WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

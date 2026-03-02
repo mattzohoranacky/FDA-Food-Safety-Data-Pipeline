@@ -1,0 +1,47 @@
+{
+  "report_number": "208754",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170309",
+  "reactions": [
+    "ALLERGY TO CHEMICALS",
+    "ERYTHEMA",
+    "RASH",
+    "RASH GENERALISED",
+    "RASH PAPULAR",
+    "SWELLING"
+  ],
+  "date_started": "20170210",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALTRATE 600 + D SOFT CHEWS (CALCIUM CARBONATE, CHOLECALCIFEROL) CHEWABLE TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAG OXIDE (MAGNESIUM OXIDE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRESERVISION AREDS 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

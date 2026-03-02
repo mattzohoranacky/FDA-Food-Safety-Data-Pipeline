@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-005994",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200615",
+  "reactions": [
+    "Dry skin",
+    "Skin discolouration",
+    "Skin tightness"
+  ],
+  "date_started": "20191015",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE ORDINARY 7% GYLCOLIC ACID TONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

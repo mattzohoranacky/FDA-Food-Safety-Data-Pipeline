@@ -1,0 +1,31 @@
+{
+  "report_number": "175596",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140320",
+  "reactions": [
+    "FALL",
+    "HEAD INJURY"
+  ],
+  "date_started": "20140217",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OCUVITE WITH LUTHEIN (CAPSULE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL (FISH OIL) (FISH OIL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

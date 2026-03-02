@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-009421",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220608",
+  "reactions": [
+    "Abdominal discomfort",
+    "Blood pressure decreased",
+    "Dizziness",
+    "Vomiting"
+  ],
+  "date_started": "20220602",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OMG GUMMIES 800MG",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

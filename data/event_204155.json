@@ -1,0 +1,40 @@
+{
+  "report_number": "204155",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161115",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "CHEST PAIN",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "EYE IRRITATION",
+    "Food poisoning",
+    "HEADACHE",
+    "HYPOAESTHESIA",
+    "MUSCULAR WEAKNESS",
+    "NAUSEA",
+    "PYREXIA",
+    "VISION BLURRED",
+    "VISUAL IMPAIRMENT",
+    "VOMITING"
+  ],
+  "date_started": "20160925",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENTENMANN'S MINIS CHEESE DANISH",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

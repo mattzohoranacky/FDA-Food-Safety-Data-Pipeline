@@ -1,0 +1,42 @@
+{
+  "report_number": "2024-CFS-004718",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240430",
+  "reactions": [
+    "Aspiration",
+    "Choking",
+    "Chronic obstructive pulmonary disease",
+    "Cough",
+    "Dyspnoea",
+    "Weight decreased"
+  ],
+  "date_started": "20240116",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE FRUITS 90 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE VEGGIES 90 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

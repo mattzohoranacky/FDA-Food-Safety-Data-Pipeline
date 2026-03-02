@@ -1,0 +1,44 @@
+{
+  "report_number": "81668",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20051101",
+  "reactions": [
+    "FAECAL INCONTINENCE",
+    "FATIGUE",
+    "LYMPHADENOPATHY"
+  ],
+  "date_started": "20051028",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE WITH CAFFEINE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE WITHOUT CAFFEINE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET PEPSI WITH CAFFEINE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET PEPSI WITHOUT CAFFEINE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "116321",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090727",
+  "reactions": [
+    "DIARRHOEA",
+    "FLATULENCE"
+  ],
+  "date_started": "20090724",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER INSTANT OATS (MAPLE AND BROWN SUGAR)",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JUICE",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

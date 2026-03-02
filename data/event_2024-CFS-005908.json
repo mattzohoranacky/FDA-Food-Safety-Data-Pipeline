@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-005908",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20240612",
+  "reactions": [
+    "Abdominal pain",
+    "Abnormal loss of weight",
+    "Fatigue",
+    "Metabolic disorder",
+    "Tongue ulceration"
+  ],
+  "date_started": "20240412",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURE ENCAPSULATIONS ONE MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

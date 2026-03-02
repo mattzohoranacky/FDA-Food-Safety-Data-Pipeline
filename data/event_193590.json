@@ -1,0 +1,39 @@
+{
+  "report_number": "193590",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20160212",
+  "reactions": [
+    "ANXIETY",
+    "CONDITION AGGRAVATED",
+    "CONFUSIONAL STATE",
+    "DEPRESSION",
+    "DISTURBANCE IN ATTENTION",
+    "Death",
+    "HEADACHE",
+    "INSOMNIA",
+    "MENTAL STATUS CHANGES",
+    "SUICIDAL IDEATION"
+  ],
+  "date_started": "20160109",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING VALLEY #1 VITAMIN BRAND MELATONIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

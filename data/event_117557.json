@@ -1,0 +1,43 @@
+{
+  "report_number": "117557",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20071108",
+  "reactions": [
+    "CONFUSIONAL STATE",
+    "DIARRHOEA",
+    "FOOD ALLERGY",
+    "NAUSEA",
+    "OEDEMA PERIPHERAL",
+    "SWELLING",
+    "SWELLING FACE"
+  ],
+  "date_started": "20071030",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GORTON'S GRILLED FILLET LEMON PEPPER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COCKTAIL SAUCE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MASHED POTATOES",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

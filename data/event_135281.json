@@ -1,0 +1,43 @@
+{
+  "report_number": "135281",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110131",
+  "reactions": [
+    "ARTHRALGIA",
+    "ARTHRITIS",
+    "BALANCE DISORDER",
+    "FATIGUE",
+    "GAIT DISTURBANCE",
+    "INFREQUENT BOWEL MOVEMENTS",
+    "MUSCULOSKELETAL PAIN",
+    "NECK PAIN",
+    "PAIN",
+    "SLUGGISHNESS"
+  ],
+  "date_started": "20101001",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUAL-ACTION COLON CLEANSE, 96MG, 554MG ALL PER PILL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUAL-ACTION TOTAL BODY PURIFIER, 56MG, 13MCG, 498MG, 160MG ALL PER PILL FORMULAS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

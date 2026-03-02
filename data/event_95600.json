@@ -1,0 +1,32 @@
+{
+  "report_number": "95600",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20061023",
+  "reactions": [
+    "Adverse reaction",
+    "ERYTHEMA",
+    "RASH",
+    "SKIN IRRITATION",
+    "SKIN WARM"
+  ],
+  "date_started": "20061019",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LILY OF THE DESERT 99% ALOE VERA GELLY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IVORY SOAP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

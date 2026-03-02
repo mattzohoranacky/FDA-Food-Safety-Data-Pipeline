@@ -1,0 +1,28 @@
+{
+  "report_number": "186225",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150520",
+  "reactions": [
+    "BLOOD PRESSURE DECREASED",
+    "DEHYDRATION",
+    "GASTROINTESTINAL DISORDER",
+    "VOMITING"
+  ],
+  "date_started": "20150508",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPERFOOD SUPERBOOST - ESSENTIAL LIVING FOODS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

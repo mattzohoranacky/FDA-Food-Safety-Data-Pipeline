@@ -1,0 +1,33 @@
+{
+  "report_number": "2020-CFS-001606",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200206",
+  "reactions": [
+    "Alopecia",
+    "Pruritus",
+    "Skin ulcer",
+    "Tenderness"
+  ],
+  "date_started": "20180107",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL STYLING CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL SUPER CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

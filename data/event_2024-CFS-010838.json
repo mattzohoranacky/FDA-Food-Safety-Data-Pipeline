@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-010838",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240822",
+  "reactions": [
+    "Erythema nodosum",
+    "Lymphadenopathy",
+    "Pyrexia",
+    "Rash macular",
+    "Sarcoidosis"
+  ],
+  "date_started": "20240501",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PECTASOL C MODIFIED CITRUS PECTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

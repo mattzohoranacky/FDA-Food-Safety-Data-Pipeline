@@ -1,0 +1,29 @@
+{
+  "report_number": "2019-CFS-002311",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190304",
+  "reactions": [
+    "Abdominal discomfort",
+    "Blood pressure increased",
+    "Dehydration",
+    "Faeces discoloured",
+    "Haematochezia",
+    "Haemorrhage",
+    "Infection"
+  ],
+  "date_started": "20190204",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2 FORMULA SOFT GELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2020-CFS-002656",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200221",
+  "reactions": [
+    "Abdominal pain",
+    "Constipation",
+    "Diarrhoea",
+    "Nausea"
+  ],
+  "date_started": "20191026",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIDA DETOX TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

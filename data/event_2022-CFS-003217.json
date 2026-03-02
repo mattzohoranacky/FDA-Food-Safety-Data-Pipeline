@@ -1,0 +1,47 @@
+{
+  "report_number": "2022-CFS-003217",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220307",
+  "reactions": [
+    "Chills",
+    "Diarrhoea",
+    "Muscular weakness",
+    "Nausea",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20220301",
+  "consumer": {
+    "age": "38.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GINGER ALE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

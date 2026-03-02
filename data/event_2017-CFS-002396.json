@@ -1,0 +1,30 @@
+{
+  "report_number": "2017-CFS-002396",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171206",
+  "reactions": [
+    "Convulsion",
+    "Hemiplegia",
+    "Muscle spasms",
+    "Partial seizures",
+    "Torticollis"
+  ],
+  "date_started": "20171102",
+  "consumer": {
+    "age": "23.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "5-HOUR ENERGY BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "93426",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070530",
+  "reactions": [
+    "GASTROENTERITIS VIBRIO",
+    "MUSCULOSKELETAL DISORDER",
+    "MYALGIA"
+  ],
+  "date_started": "20070326",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EDDIE'S QUALITY OYSTER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SOFTSHELL CRAB",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

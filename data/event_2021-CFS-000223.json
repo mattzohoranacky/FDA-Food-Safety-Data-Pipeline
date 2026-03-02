@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-000223",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210108",
+  "reactions": [
+    "Blood test abnormal",
+    "Neuropathy peripheral",
+    "Vitamin B6 increased"
+  ],
+  "date_started": "20200601",
+  "consumer": {
+    "age": "69.18",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY MENS 50 PLUS HEATHLY ADVANTAGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRESERVISION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

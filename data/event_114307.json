@@ -1,0 +1,36 @@
+{
+  "report_number": "114307",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090526",
+  "reactions": [
+    "Adverse reaction",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "PRURITUS"
+  ],
+  "date_started": "20080915",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RISING MOON ORGANICS BUTTERNUT SQUASH RAVIOLIS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RISING MOON ORGANICS GARLIC AND ROASTED VEGGIES RAVIOLI",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "181604",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141223",
+  "reactions": [
+    "BLISTER",
+    "BURNING SENSATION",
+    "DERMATITIS CONTACT",
+    "EYE SWELLING",
+    "MYOPIA",
+    "SECRETION DISCHARGE",
+    "SKIN IRRITATION",
+    "SWELLING FACE",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20141206",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

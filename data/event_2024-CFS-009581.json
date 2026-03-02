@@ -1,0 +1,40 @@
+{
+  "report_number": "2024-CFS-009581",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240705",
+  "reactions": [
+    "Hallucination",
+    "Loss of consciousness",
+    "Psychotic disorder",
+    "Seizure"
+  ],
+  "date_started": "20240630",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND SHRUUMZ PREMIUM MICRODOSING CHOCOLATE",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DELTA 8 THC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNOLIA FLOWER PETALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

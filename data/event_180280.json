@@ -1,0 +1,31 @@
+{
+  "report_number": "180280",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20141022",
+  "reactions": [
+    "DYSPNOEA",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20140827",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITACLEAR DIETARY SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

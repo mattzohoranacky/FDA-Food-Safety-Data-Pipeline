@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-010725",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220708",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Gastrooesophageal reflux disease",
+    "Malaise",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20220627",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST SMOKED PAPRIKA ROPA VIEJA HARVEST BAKE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST TOMATILLO + PEPPER FLATBREAD",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

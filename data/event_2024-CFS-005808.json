@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-005808",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240608",
+  "reactions": [
+    "Drug screen positive"
+  ],
+  "date_started": "20240420",
+  "consumer": {
+    "age": "28.38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THORNE RESEARCH NAC N-ACETYLCYSTEINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "THORNE RESEARCH NAC N-ACETYLCYSTEINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

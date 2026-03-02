@@ -1,0 +1,30 @@
+{
+  "report_number": "190448",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151007",
+  "reactions": [
+    "ANTI-TRANSGLUTAMINASE ANTIBODY INCREASED"
+  ],
+  "date_started": "20150909",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUTEN-FREE HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY CHEWABLE MULTI-VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

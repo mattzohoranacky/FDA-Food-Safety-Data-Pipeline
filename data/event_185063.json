@@ -1,0 +1,49 @@
+{
+  "report_number": "185063",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20150417",
+  "reactions": [
+    "ACNE",
+    "BURNING SENSATION",
+    "CHROMATURIA",
+    "CONSTIPATION",
+    "DEHYDRATION",
+    "DRY SKIN",
+    "FAECES HARD",
+    "JAUNDICE",
+    "PAIN",
+    "PARAESTHESIA",
+    "PRURITUS",
+    "SKIN TIGHTNESS",
+    "URINE OUTPUT DECREASED",
+    "URINE VISCOSITY INCREASED"
+  ],
+  "date_started": "20150415",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIVAPURA CHAPPARRAL INFUSED COCONUT OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STANDARD PROCESS ZYPAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUNFOODS CHLORELLA TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

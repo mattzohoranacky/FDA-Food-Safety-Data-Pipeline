@@ -1,0 +1,34 @@
+{
+  "report_number": "182846",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150206",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "EXTRASYSTOLES",
+    "HEART RATE INCREASED",
+    "HYPERTENSION"
+  ],
+  "date_started": "20150104",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IONIX SUPREME ASEPTIC SOLUTIONS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL ACCELERATOR ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

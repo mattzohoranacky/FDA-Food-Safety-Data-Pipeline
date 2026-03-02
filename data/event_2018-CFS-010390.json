@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-010390",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180817",
+  "reactions": [
+    "Adnexa uteri pain",
+    "Drug interaction",
+    "Menorrhagia",
+    "Menstrual disorder",
+    "Muscle spasms",
+    "Myocardial infarction",
+    "Ovarian disorder"
+  ],
+  "date_started": "20170529",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE DHEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Unspecified Herbal Supplements (Dietary Supplements)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

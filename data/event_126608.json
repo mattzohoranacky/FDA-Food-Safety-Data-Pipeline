@@ -1,0 +1,68 @@
+{
+  "report_number": "126608",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20100520",
+  "reactions": [
+    "HEART RATE INCREASED",
+    "HYPERLIPIDAEMIA",
+    "HYPOTHYROIDISM",
+    "IMPAIRED FASTING GLUCOSE",
+    "LEFT VENTRICULAR DYSFUNCTION",
+    "VENTRICULAR FIBRILLATION"
+  ],
+  "date_started": "20100517",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIC RESEARCH CENTER CORTI-TRIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIC RESEARCH CENTER ESSENTIAL FATTY ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIC RESEARCH CENTER FAT AND CARB BLOCKER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIC RESEARCH CENTER MRC HEALTHY WOMAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIC RESEARCH CENTER MRC-6",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIC RESEARCH CENTER MSM-METHYL-SULFONYL-METANE-LIGNISUL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIC RESEARCH PHENTRATRIM PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

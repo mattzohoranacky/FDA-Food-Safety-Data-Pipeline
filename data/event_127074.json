@@ -1,0 +1,32 @@
+{
+  "report_number": "127074",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20100430",
+  "reactions": [
+    "DIARRHOEA"
+  ],
+  "date_started": "20100130",
+  "consumer": {
+    "age": "61.15",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACAI PURE DETOX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLON CLEANSE XR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

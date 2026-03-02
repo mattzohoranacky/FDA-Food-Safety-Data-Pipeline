@@ -1,0 +1,42 @@
+{
+  "report_number": "186535",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150401",
+  "reactions": [
+    "ABASIA",
+    "ASTHENIA",
+    "Adverse event",
+    "BLOOD PRESSURE DECREASED",
+    "BLOOD PRESSURE FLUCTUATION",
+    "COLITIS",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FALL",
+    "LETHARGY",
+    "LOSS OF CONSCIOUSNESS",
+    "PNEUMONIA",
+    "RENAL FAILURE",
+    "RETCHING",
+    "SEPSIS",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20150326",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE BELL CHOCOLATE CHIP COOKIE DOUGH ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-007271",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180420",
+  "reactions": [
+    "Hormone level abnormal",
+    "Scar"
+  ],
+  "date_started": "20170601",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AFRICAN CREAM BEAUTY CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "African Creme Beauty Cream",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Johnson Baby Lotion",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

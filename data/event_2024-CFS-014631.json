@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-014631",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Injury"
+  ],
+  "date_created": "20241121",
+  "reactions": [
+    "Abdominal discomfort",
+    "Fatigue",
+    "Nausea",
+    "Pain"
+  ],
+  "date_started": "20241119",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CREAM OF WHEAT HOT CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "A2 MILK, 2% REDUCED FAT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

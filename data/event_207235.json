@@ -1,0 +1,31 @@
+{
+  "report_number": "207235",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170206",
+  "reactions": [
+    "DERMATITIS",
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20170119",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MISSION WHITE CORN TORTILLA 30CT",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MISSION YELLOW CORN TORTILLA  30CT",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

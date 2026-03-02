@@ -1,0 +1,31 @@
+{
+  "report_number": "78004",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050104",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "MALAISE",
+    "NAUSEA"
+  ],
+  "date_started": "20050103",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PUMPKIN PIE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2017-CFS-000855",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171011",
+  "reactions": [
+    "Allergy test positive",
+    "Anaphylactic reaction",
+    "Asthenia",
+    "Heart rate decreased",
+    "Loss of consciousness",
+    "Pain"
+  ],
+  "date_started": "20170918",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALGAE OMEGA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

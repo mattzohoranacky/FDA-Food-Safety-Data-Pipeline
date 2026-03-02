@@ -1,0 +1,46 @@
+{
+  "report_number": "2023-CFS-007743",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20230725",
+  "reactions": [
+    "Abdominal discomfort",
+    "Diarrhoea",
+    "Illness",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20230719",
+  "consumer": {
+    "age": "26.3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNITED AIRLINES FOOD DINNER CHICKEN WITH RED SAUCE AND NOODLES WITH SIDES OF BREAD & BUTTER AND RICE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "apple juice",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "crackers",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ginger ale",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

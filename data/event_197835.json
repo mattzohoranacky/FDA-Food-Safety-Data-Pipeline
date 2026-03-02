@@ -1,0 +1,39 @@
+{
+  "report_number": "197835",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160621",
+  "reactions": [
+    "AORTIC THROMBOSIS",
+    "CHEST DISCOMFORT",
+    "DYSPNOEA",
+    "ECHOCARDIOGRAM ABNORMAL",
+    "MYOCARDIAL INFARCTION",
+    "NAUSEA",
+    "VENTRICULAR FIBRILLATION",
+    "VOMITING"
+  ],
+  "date_started": "20160418",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFORMIX SST SUSPENSION SUPER THERMOGENIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PERFORMIX STIM-FREE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

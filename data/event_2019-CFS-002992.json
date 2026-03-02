@@ -1,0 +1,45 @@
+{
+  "report_number": "2019-CFS-002992",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190321",
+  "reactions": [
+    "Dizziness",
+    "Dyspnoea",
+    "Migraine",
+    "Nausea"
+  ],
+  "date_started": "20181117",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "APRIL SPEHAR APRIL SHOWERS SOAP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAROLINE POISONNIEZ SKY VALLEY FARMS SOAPS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOMEMADE CRAFTBAR SOAP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SARAH SMITH MILK & HONEY HERBAL PRODUCTS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

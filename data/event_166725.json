@@ -1,0 +1,32 @@
+{
+  "report_number": "166725",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130614",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "CONSTIPATION",
+    "INTESTINAL OBSTRUCTION"
+  ],
+  "date_started": "20120617",
+  "consumer": {
+    "age": "84",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENEFIBER UNKNOWN (NCH) (UNKNOWN)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENEFIBER WITH WHEAT DEXTRIN (NCH) WHEAT DEXTRIN POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

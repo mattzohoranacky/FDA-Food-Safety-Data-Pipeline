@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-013851",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220223",
+  "reactions": [
+    "Corona virus infection",
+    "Diarrhoea",
+    "Lethargy",
+    "Pyrexia",
+    "Salmonellosis"
+  ],
+  "date_started": "20210127",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRO SENSITIVE  INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

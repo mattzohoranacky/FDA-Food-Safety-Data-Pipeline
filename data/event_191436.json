@@ -1,0 +1,33 @@
+{
+  "report_number": "191436",
+  "outcomes": [
+    "Death",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151116",
+  "reactions": [
+    "CARDIAC ARREST",
+    "Death",
+    "VENTRICULAR FIBRILLATION"
+  ],
+  "date_started": "20151115",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIRMAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VIRAMAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

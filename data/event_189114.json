@@ -1,0 +1,30 @@
+{
+  "report_number": "189114",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150824",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "COLITIS",
+    "HEADACHE",
+    "HEART RATE INCREASED",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "PALPITATIONS"
+  ],
+  "date_started": "20150822",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DORITOS ROULETTE FLAVOR",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

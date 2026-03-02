@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-012189",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181113",
+  "reactions": [
+    "Chemical injury",
+    "Dandruff",
+    "Erythema",
+    "Skin exfoliation",
+    "Skin haemorrhage",
+    "Skin ulcer"
+  ],
+  "date_started": "20180903",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TROLL'S 3 IN 1 BODY WASH, SHAMPOO, CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "3 in 1 body wash, shampoo, conditioner",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

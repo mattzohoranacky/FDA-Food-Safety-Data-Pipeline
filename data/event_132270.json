@@ -1,0 +1,54 @@
+{
+  "report_number": "132270",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20101116",
+  "reactions": [
+    "ANXIETY",
+    "CONSTIPATION",
+    "CONVULSION",
+    "DEPRESSION",
+    "FEELING ABNORMAL",
+    "INSOMNIA",
+    "SUICIDAL IDEATION"
+  ],
+  "date_started": "20101031",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR NATURA COLONIX INTESTINAL CLEANSER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR NATURA FLORA PROTECT PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR NATURA KLERITEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR NATURA PARANIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

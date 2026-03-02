@@ -1,0 +1,36 @@
+{
+  "report_number": "140656",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110621",
+  "reactions": [
+    "ASCITES",
+    "GALLBLADDER INJURY",
+    "HEPATOCELLULAR INJURY",
+    "HERNIA",
+    "HYPERSENSITIVITY",
+    "LIVER DISORDER",
+    "PAIN"
+  ],
+  "date_started": "20090616",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT HARDCORE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT REGULAR RAPID RELEASE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

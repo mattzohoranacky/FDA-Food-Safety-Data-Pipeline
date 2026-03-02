@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-009725",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180727",
+  "reactions": [
+    "Diarrhoea",
+    "Influenza like illness",
+    "Nausea",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20180716",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVERYTHING CRACKERS WITH CREAM CHEESE",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

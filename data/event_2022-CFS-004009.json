@@ -1,0 +1,41 @@
+{
+  "report_number": "2022-CFS-004009",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220316",
+  "reactions": [
+    "Aphasia",
+    "Asthenia",
+    "Cerebrovascular accident",
+    "Tremor"
+  ],
+  "date_started": "20211214",
+  "consumer": {
+    "age": "68.2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AFFINITY WHOLE HEALTH IBUTAMOREN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AFFINITY WHOLE HEALTH MOOD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AFFINITY WHOLE HEALTH SLEEP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

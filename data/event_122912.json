@@ -1,0 +1,69 @@
+{
+  "report_number": "122912",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091222",
+  "reactions": [
+    "BLISTER",
+    "CAUSTIC INJURY",
+    "ORAL DISCOMFORT",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20091215",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROXANNE BOTTLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRACKERS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLAT BREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FROSTED FLAKES OR MINI WHEATS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HOMEMADE VEGETABLE SOUP",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POTATOES",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SKIM MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

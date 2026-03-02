@@ -1,0 +1,30 @@
+{
+  "report_number": "2020-CFS-004370",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200414",
+  "reactions": [
+    "Asthenia",
+    "Diarrhoea",
+    "Dyspnoea",
+    "Haematochezia",
+    "Haemorrhage",
+    "Loss of consciousness"
+  ],
+  "date_started": "20200318",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2 SOFT GELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

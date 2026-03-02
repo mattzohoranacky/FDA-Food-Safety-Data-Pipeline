@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-013603",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220906",
+  "reactions": [
+    "Dandruff",
+    "Dry skin",
+    "Pruritus",
+    "Rash",
+    "Scab"
+  ],
+  "date_started": "20220808",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUTROGENA HEALTH SCALP SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Collagen",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

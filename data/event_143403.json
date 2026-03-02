@@ -1,0 +1,43 @@
+{
+  "report_number": "143403",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110908",
+  "reactions": [
+    "DIZZINESS",
+    "NAUSEA"
+  ],
+  "date_started": "20110903",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAINDROP THERAPY HERBAL OIL TREATMENT BASIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAINDROP THERAPY HERBAL OIL TREATMENT OREGANO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAINDROP THERAPY HERBAL OIL TREATMENT THYME",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAINDROP THERAPY HERBAL OIL TREATMENT WINTERGREEN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-002937",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180222",
+  "reactions": [
+    "Convulsion",
+    "Head injury",
+    "Headache",
+    "Hypertension",
+    "Nerve injury",
+    "Sickle cell anaemia",
+    "Syncope",
+    "Systemic lupus erythematosus"
+  ],
+  "date_started": "20050601",
+  "consumer": {
+    "age": "30.05",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EMERGEN-C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "AIRBORNE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

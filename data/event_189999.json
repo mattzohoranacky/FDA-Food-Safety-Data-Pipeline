@@ -1,0 +1,39 @@
+{
+  "report_number": "189999",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150922",
+  "reactions": [
+    "BACK PAIN",
+    "BLOOD TEST ABNORMAL",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "EMOTIONAL DISTRESS",
+    "FOOD POISONING",
+    "KIDNEY INFECTION",
+    "NIGHT SWEATS",
+    "TREMOR",
+    "VEIN COLLAPSE",
+    "VOMITING"
+  ],
+  "date_started": "20150819",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACIDOPHILUS PROBIOTIC 100 MILLION ORGANISMS TABLETS (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOTIN (DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

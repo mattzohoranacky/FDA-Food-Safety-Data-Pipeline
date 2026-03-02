@@ -1,0 +1,38 @@
+{
+  "report_number": "69422",
+  "outcomes": [
+    "Death",
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20040602",
+  "reactions": [
+    "CARDIOMEGALY",
+    "CEREBRAL HAEMORRHAGE",
+    "DEATH",
+    "HEPATOMEGALY",
+    "MYOCARDIAL INFARCTION",
+    "RENAL DISORDER"
+  ],
+  "date_started": "20040419",
+  "consumer": {
+    "age": "28.98",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EPHEDRINE PLUS EPHEDRINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAX ALERTS EPHEDRINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

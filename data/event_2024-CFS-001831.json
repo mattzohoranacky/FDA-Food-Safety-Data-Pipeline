@@ -1,0 +1,41 @@
+{
+  "report_number": "2024-CFS-001831",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240208",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea",
+    "Fatigue",
+    "Headache",
+    "Nausea",
+    "Pyrexia"
+  ],
+  "date_started": "20240204",
+  "consumer": {
+    "age": "27.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RIZO BROS CALIFORNIA CREAMERY GRATED COTIJA AGED MEXICAN GRATED CHEESE MADE WITH GRADE A MILK",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Ashwagandha",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium Glycinate",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "187200",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150622",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "GASTRITIS",
+    "VOMITING"
+  ],
+  "date_started": "20150617",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRITE FOUNTAIN DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-013969",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241107",
+  "reactions": [
+    "Abdominal pain",
+    "Hypersensitivity",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20241106",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLD PEAK TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

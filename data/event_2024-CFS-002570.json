@@ -1,0 +1,26 @@
+{
+  "report_number": "2024-CFS-002570",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240301",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Malaise",
+    "Vomiting"
+  ],
+  "date_started": "20240205",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOSTESS TWINKIES DING DONG",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

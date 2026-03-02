@@ -1,0 +1,57 @@
+{
+  "report_number": "2023-CFS-009181",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230830",
+  "reactions": [
+    "Asthenia",
+    "Confusional state",
+    "Disturbance in attention",
+    "Dizziness",
+    "Gait disturbance",
+    "Hot flush",
+    "Hyperhidrosis",
+    "Hyperthyroidism",
+    "Insomnia",
+    "Syncope",
+    "Tachycardia",
+    "Thyroxine free increased",
+    "Vertigo",
+    "Weight decreased"
+  ],
+  "date_started": "20221109",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CORE MINERALS, US",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "US MAGNECAL D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITA-ANTIOXIDANT, US",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "US MagneCal D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

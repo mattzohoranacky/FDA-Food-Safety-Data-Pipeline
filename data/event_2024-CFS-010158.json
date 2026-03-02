@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-010158",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20240726",
+  "reactions": [
+    "Abdominal discomfort",
+    "Nausea"
+  ],
+  "date_started": "20240717",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHEKKO SESAME OIL",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MANTRA PEANUT OIL",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    }
+  ]
+}

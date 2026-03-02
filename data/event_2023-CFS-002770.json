@@ -1,0 +1,58 @@
+{
+  "report_number": "2023-CFS-002770",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20230315",
+  "reactions": [
+    "Asthenia",
+    "Dizziness",
+    "Headache",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20230215",
+  "consumer": {
+    "age": "55",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY BOOST DRINK BERRY BLASTER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY BOOST DRINK FRUIT PUNCH POW",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY BOOST DRINK LAVA FLOW",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY BOOST DRINK LEMON TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY BOOST DRINK MANGO GO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVY BOOST DRINK VARIETY PACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

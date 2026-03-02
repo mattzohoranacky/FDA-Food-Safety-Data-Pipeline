@@ -1,0 +1,42 @@
+{
+  "report_number": "67673",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040304",
+  "reactions": [
+    "Adverse event",
+    "EMERGENCY CARE EXAMINATION",
+    "HOSPITALISATION",
+    "MALAISE",
+    "METAL POISONING"
+  ],
+  "date_started": "20040203",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DULCE DE MARLOW CUCHARITAS DE TAMARINDO (SPOONS OF TAMARIND)",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DULCE DE MARLOW PULPARINDO HOT AND SALTED TAMARIND PULP",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DULCE DE MARLOW TAMARINDO JELLY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

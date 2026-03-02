@@ -1,0 +1,35 @@
+{
+  "report_number": "195347",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160412",
+  "reactions": [
+    "Abdominal pain",
+    "Decreased appetite",
+    "Diarrhoea",
+    "Dry mouth",
+    "Nausea"
+  ],
+  "date_started": "20160317",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EURO GOURMET ROMANIAN ZACUSCA TRADITIONAL ROMANIAN STYLE ALVAR SPREAD",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

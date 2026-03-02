@@ -1,0 +1,30 @@
+{
+  "report_number": "128236",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100715",
+  "reactions": [
+    "BACTERIAL INFECTION",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20100618",
+  "consumer": {
+    "age": "50.94",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNIVERA XTRA CONCENTRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

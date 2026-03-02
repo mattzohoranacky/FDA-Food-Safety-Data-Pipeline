@@ -1,0 +1,45 @@
+{
+  "report_number": "170314",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130918",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "CONSTIPATION",
+    "HERNIA"
+  ],
+  "date_started": "20130730",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARIZONA NUTRITIONAL SUPPLEMENTS ISAGENIX CLEANSE FOR LIFE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARIZONA NUTRITIONAL SUPPLEMENTS ISAGENIX IONIX SUPREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARIZONA NUTRITIONAL SUPPLEMENTS ISAGENIX ISAFLUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARIZONA NUTRITIONAL SUPPLEMENTS ISAGENIX NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

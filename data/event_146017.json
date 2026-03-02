@@ -1,0 +1,32 @@
+{
+  "report_number": "146017",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20111122",
+  "reactions": [
+    "Adverse event",
+    "BODY TEMPERATURE INCREASED",
+    "CELLULITIS",
+    "Death",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS VIBRIO",
+    "SHOCK"
+  ],
+  "date_started": "20100908",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

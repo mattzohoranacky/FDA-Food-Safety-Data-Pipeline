@@ -1,0 +1,32 @@
+{
+  "report_number": "84254",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060306",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse event",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "GASTRITIS",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20060215",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE TRAIL MIX",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

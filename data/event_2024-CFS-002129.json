@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-002129",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240215",
+  "reactions": [
+    "Blood lead increased"
+  ],
+  "date_started": "20230604",
+  "consumer": {
+    "age": "10",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WANABANA APPLESAUCE POUCHES",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON SUPPLEMENT FOR LEAD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

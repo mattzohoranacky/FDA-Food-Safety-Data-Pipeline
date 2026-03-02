@@ -1,0 +1,46 @@
+{
+  "report_number": "134735",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110124",
+  "reactions": [
+    "ANGINA PECTORIS",
+    "BLOOD PRESSURE INCREASED",
+    "FLUID RETENTION",
+    "HYPERSENSITIVITY",
+    "OEDEMA PERIPHERAL"
+  ],
+  "date_started": "20101217",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BAUSCH AND LOMB PRESERVISION AREDS SOFT GELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NIACIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POTASSIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

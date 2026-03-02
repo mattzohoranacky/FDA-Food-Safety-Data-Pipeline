@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-014519",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20241119",
+  "reactions": [
+    "Cardiac failure",
+    "Hospitalisation"
+  ],
+  "date_started": "20241114",
+  "consumer": {
+    "age": "83",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VASCULERA",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-004050",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200402",
+  "reactions": [
+    "Anxiety",
+    "Dizziness",
+    "Hypervitaminosis",
+    "Mood swings",
+    "Muscle spasms",
+    "Neuropathy peripheral",
+    "Sleep disorder",
+    "Vitamin B6 increased"
+  ],
+  "date_started": "20191001",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMEN'S ULTRA MEGA ENERGY & METABOLISM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GNC Women's Ultra Mega Energy & Metabolisn",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

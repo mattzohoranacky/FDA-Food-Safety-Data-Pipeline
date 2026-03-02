@@ -1,0 +1,33 @@
+{
+  "report_number": "183267",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150224",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "PAIN",
+    "RASH PRURITIC"
+  ],
+  "date_started": "20150214",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MOISTURIZING OLIGOFORCE SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RICH THERM PROTECTIVE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

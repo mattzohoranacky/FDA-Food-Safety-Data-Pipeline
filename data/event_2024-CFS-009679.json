@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-009679",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240709",
+  "reactions": [
+    "Diarrhoea",
+    "Pyrexia",
+    "Salmonellosis",
+    "Vomiting"
+  ],
+  "date_started": "20240707",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCE POWDER INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

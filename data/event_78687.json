@@ -1,0 +1,32 @@
+{
+  "report_number": "78687",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20050525",
+  "reactions": [
+    "HOSPITALISATION",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20050315",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CO Q10 (100 MG)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIATMIN E (100IU)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

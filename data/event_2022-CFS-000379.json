@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-000379",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220107",
+  "reactions": [
+    "Drug dependence",
+    "Drug withdrawal syndrome",
+    "Psychotic disorder",
+    "Toxicity to various agents"
+  ],
+  "date_started": "20220107",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DELTA-8 THC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "169533",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130829",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DEPRESSION",
+    "HEPATIC FUNCTION ABNORMAL",
+    "NAUSEA",
+    "RENAL DISORDER",
+    "URINE ANALYSIS",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20130503",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY EXTRA STRENGTH HAIR SKIN AND NAILS 5000 MCG OF BIOTIN COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

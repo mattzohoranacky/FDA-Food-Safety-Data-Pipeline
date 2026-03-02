@@ -1,0 +1,32 @@
+{
+  "report_number": "186349",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150528",
+  "reactions": [
+    "Adverse reaction",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20150525",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURIPE ORGANIC FRESH BLUEBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

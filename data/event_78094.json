@@ -1,0 +1,45 @@
+{
+  "report_number": "78094",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20050207",
+  "reactions": [
+    "Adverse reaction",
+    "BURNING SENSATION",
+    "CARDIAC FIBRILLATION",
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "HEART RATE ABNORMAL",
+    "HEART RATE INCREASED",
+    "HYPERSENSITIVITY",
+    "PALPITATIONS",
+    "PARAESTHESIA",
+    "RASH MACULAR",
+    "RESPIRATORY RATE INCREASED",
+    "SKIN DISORDER",
+    "URTICARIA"
+  ],
+  "date_started": "20050205",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACT II KETTLE CORN",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROPEL FITNESS WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

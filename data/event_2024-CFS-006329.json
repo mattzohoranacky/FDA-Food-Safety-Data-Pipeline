@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-006329",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230224",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Urinary tract infection",
+    "Vomiting"
+  ],
+  "date_started": "20230220",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LACTAID 1% LOWFAT MILK LACTOSE FREE",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

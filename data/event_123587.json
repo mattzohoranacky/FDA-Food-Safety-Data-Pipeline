@@ -1,0 +1,27 @@
+{
+  "report_number": "123587",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20091023",
+  "reactions": [
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20091021",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "J AND J SNACK FOODS SUPER PRETZEL",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

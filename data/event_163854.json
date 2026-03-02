@@ -1,0 +1,29 @@
+{
+  "report_number": "163854",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130328",
+  "reactions": [
+    "ATRIAL FIBRILLATION",
+    "DYSPNOEA",
+    "PALPITATIONS"
+  ],
+  "date_started": "20121001",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "5-HOUR ENERGY BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "report_number": "174020",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20140214",
+  "reactions": [
+    "ABNORMAL LOSS OF WEIGHT",
+    "ABNORMAL SLEEP-RELATED EVENT",
+    "ANXIETY",
+    "BIOPSY LIVER",
+    "BIOPSY LIVER ABNORMAL",
+    "CHOLESTATIC LIVER INJURY",
+    "CONSTIPATION",
+    "DECREASED APPETITE",
+    "DEPRESSION",
+    "EMOTIONAL DISTRESS",
+    "FATIGUE",
+    "HEPATIC FAILURE",
+    "HEPATITIS",
+    "HOSPITALISATION",
+    "HYPERBILIRUBINAEMIA",
+    "JAUNDICE",
+    "JAUNDICE CHOLESTATIC",
+    "LIVER DISORDER",
+    "LIVER SCAN ABNORMAL",
+    "MAJOR DEPRESSION",
+    "MOVEMENT DISORDER",
+    "MUSCLE ATROPHY",
+    "MUSCLE FATIGUE",
+    "NAUSEA",
+    "PAIN",
+    "POOR QUALITY SLEEP",
+    "PRURITUS",
+    "SKIN LESION",
+    "SLEEP DISORDER",
+    "TRAUMATIC LIVER INJURY",
+    "URINE BILIRUBIN INCREASED",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20131011",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAYHEM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SPRING VALLEY CONCENTRATED EXTRACT MILK THISTLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

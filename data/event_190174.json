@@ -1,0 +1,47 @@
+{
+  "report_number": "190174",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150930",
+  "reactions": [
+    "CHEMICAL BURN OF SKIN",
+    "CONDITION AGGRAVATED",
+    "ECZEMA",
+    "FOOD ALLERGY",
+    "LOCAL SWELLING",
+    "RASH",
+    "SINUS HEADACHE",
+    "SKIN DISORDER",
+    "SKIN IRRITATION",
+    "SQUAMOUS CELL CARCINOMA",
+    "SUNBURN",
+    "UPPER RESPIRATORY TRACT INFECTION"
+  ],
+  "date_started": "20150402",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER  WOMEN'S 50+ (MULTIMINERAL, MULTIVITAMIN) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED CHILDREN'S VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

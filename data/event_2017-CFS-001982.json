@@ -1,0 +1,32 @@
+{
+  "report_number": "2017-CFS-001982",
+  "outcomes": [
+    "Death",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20171118",
+  "reactions": [
+    "Atrial fibrillation",
+    "Blood thyroid stimulating hormone decreased",
+    "Death",
+    "Hyperbilirubinaemia",
+    "Ischaemic hepatitis",
+    "Jaundice",
+    "Thyrotoxic crisis",
+    "Thyroxine increased"
+  ],
+  "date_started": "20171114",
+  "consumer": {
+    "age": "41.43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VALERIAN ROOT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

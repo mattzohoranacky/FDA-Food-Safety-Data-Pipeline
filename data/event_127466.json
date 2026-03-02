@@ -1,0 +1,32 @@
+{
+  "report_number": "127466",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070418",
+  "reactions": [
+    "DIZZINESS",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20070224",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEL MONTE GREEN BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEL MONTE WHOLE KERNEL CORN",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

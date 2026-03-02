@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-009924",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180801",
+  "reactions": [
+    "Pruritus",
+    "Urticaria"
+  ],
+  "date_started": "20180212",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAY FEM FACE CONDITIONER-TREATMENT/PRO-X/HYDRA FIRMING/CREAM/NORMAL/NON-UV/48G",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAY FEM FACE CONDITIONER-TREATMENT/PRO-X/WRINKLE SMOOTHING/CREAM/NORMAL/NON-UV/48G",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

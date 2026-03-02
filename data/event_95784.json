@@ -1,0 +1,52 @@
+{
+  "report_number": "95784",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070823",
+  "reactions": [
+    "ASTHENIA",
+    "BALANCE DISORDER",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "CACHEXIA",
+    "DENERVATION ATROPHY",
+    "DYSARTHRIA",
+    "DYSPHAGIA",
+    "MITOCHONDRIAL ENCEPHALOMYOPATHY",
+    "MUSCULAR WEAKNESS",
+    "MYOPATHY TOXIC",
+    "MYOSITIS",
+    "SPEECH DISORDER"
+  ],
+  "date_started": "20070605",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROSVENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12 1000 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

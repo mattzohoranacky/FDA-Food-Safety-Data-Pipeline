@@ -1,0 +1,31 @@
+{
+  "report_number": "216352",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170807",
+  "reactions": [
+    "PAIN",
+    "TOOTH FRACTURE"
+  ],
+  "date_started": "20170806",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LARABAR FRUIT & NUT FOOD BAR, FRUITS + GREENS, MANGO SPINACH CASHEW",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAFUSION GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-006387",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220502",
+  "reactions": [
+    "Blood pressure increased",
+    "Body temperature increased",
+    "Dizziness",
+    "Fatigue",
+    "Headache",
+    "Hypoaesthesia",
+    "Rash",
+    "Skin discolouration",
+    "Urticaria"
+  ],
+  "date_started": "20220427",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FINEST NUTRITION VITAMIN B COMPLEX WITH VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

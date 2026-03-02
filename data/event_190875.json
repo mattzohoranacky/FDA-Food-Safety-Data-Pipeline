@@ -1,0 +1,29 @@
+{
+  "report_number": "190875",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150827",
+  "reactions": [
+    "DERMATITIS DIAPER",
+    "LACERATION",
+    "RASH",
+    "Skin ulcer",
+    "WOUND"
+  ],
+  "date_started": "20150811",
+  "consumer": {
+    "age": "7",
+    "age_unit": "week(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HUGGIES NATURAL CARE ONE AND DONE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

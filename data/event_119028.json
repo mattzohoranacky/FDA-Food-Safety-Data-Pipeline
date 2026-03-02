@@ -1,0 +1,46 @@
+{
+  "report_number": "119028",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20091015",
+  "reactions": [
+    "BLOOD PRESSURE DECREASED",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HYPERHIDROSIS",
+    "MALAISE"
+  ],
+  "date_started": "20090910",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE FORMULA 1 SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE HERBAL ALOE POWDER MIX-MANGO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE HERBAL CONCENTRATE TEA ORIGINAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE PROTEIN BAR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

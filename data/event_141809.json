@@ -1,0 +1,39 @@
+{
+  "report_number": "141809",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110719",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ASTHENOPIA",
+    "DIARRHOEA",
+    "EATING DISORDER",
+    "ERUCTATION",
+    "FATIGUE",
+    "LETHARGY",
+    "RETCHING",
+    "UNRESPONSIVE TO STIMULI",
+    "VOMITING"
+  ],
+  "date_started": "20110706",
+  "consumer": {
+    "age": "86",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHILLIPS COLON HEALTH BIFIDOBACTERIUM PLUS LACTIBACILLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

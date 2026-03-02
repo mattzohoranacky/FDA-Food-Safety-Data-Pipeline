@@ -1,0 +1,40 @@
+{
+  "report_number": "2024-CFS-000057",
+  "outcomes": [
+    "Life Threatening",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240102",
+  "reactions": [
+    "Eye swelling",
+    "Hypersensitivity",
+    "Nasal congestion",
+    "Throat irritation"
+  ],
+  "date_started": "20231224",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAVORITE DAY FREEZE-DRIED STRAWBERRIES IN DARK CHOCOLATE",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

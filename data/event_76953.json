@@ -1,0 +1,30 @@
+{
+  "report_number": "76953",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050204",
+  "reactions": [
+    "DYSPNOEA",
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20050203",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DANNON YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER OATMEAL- MAPLE AND BROWN SUGAR",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

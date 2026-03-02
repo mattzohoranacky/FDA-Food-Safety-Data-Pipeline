@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-009870",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190926",
+  "reactions": [
+    "Constipation",
+    "Faecaloma"
+  ],
+  "date_started": "20190919",
+  "consumer": {
+    "age": "35.3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MISSION CARB BALANCE BURRITO WHOLE WHEAT TORTILLAS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MISSION CARB BALANCE SOFT TACO FLOUR TORTILLAS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

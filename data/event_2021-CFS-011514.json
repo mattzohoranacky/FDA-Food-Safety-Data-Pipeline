@@ -1,0 +1,28 @@
+{
+  "report_number": "2021-CFS-011514",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20211116",
+  "reactions": [
+    "Menorrhagia"
+  ],
+  "date_started": "20211030",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PIPING ROCK MACA 1600MG CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "High Potency Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

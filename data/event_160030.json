@@ -1,0 +1,31 @@
+{
+  "report_number": "160030",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121212",
+  "reactions": [
+    "CONVULSION"
+  ],
+  "date_started": "20121123",
+  "consumer": {
+    "age": "28.39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "5-HOUR ENERGY EXTRA STRENGTH BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "5-HOUR ENERGY EXTRA STRENGTH GRAPE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

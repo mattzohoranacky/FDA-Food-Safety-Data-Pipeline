@@ -1,0 +1,37 @@
+{
+  "report_number": "2024-CFS-001385",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20240131",
+  "reactions": [
+    "Abdominal pain upper",
+    "Anxiety",
+    "Arthralgia",
+    "Drug-induced liver injury",
+    "Fatigue",
+    "Headache",
+    "Hepatic enzyme increased",
+    "Jaundice",
+    "Myalgia",
+    "Nervous system injury",
+    "Nervousness",
+    "Ocular icterus",
+    "Pyrexia",
+    "Stress"
+  ],
+  "date_started": "20231116",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUGENIX TOTAL T",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

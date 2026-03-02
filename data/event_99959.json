@@ -1,0 +1,27 @@
+{
+  "report_number": "99959",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20080130",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "IRON OVERLOAD"
+  ],
+  "date_started": "20071225",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TABAK'S THERMAWAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

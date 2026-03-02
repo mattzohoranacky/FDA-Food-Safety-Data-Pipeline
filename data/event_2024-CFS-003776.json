@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-003776",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240414",
+  "reactions": [
+    "Blood pressure increased",
+    "Headache",
+    "Hyperhidrosis",
+    "Posterior reversible encephalopathy syndrome",
+    "Seizure",
+    "Vomiting"
+  ],
+  "date_started": "20240402",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONNX-NITRO EXTREME PRE WORKOUT SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

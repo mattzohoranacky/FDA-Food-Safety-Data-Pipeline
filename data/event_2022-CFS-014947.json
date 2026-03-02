@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-014947",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20221011",
+  "reactions": [
+    "Visual acuity reduced"
+  ],
+  "date_started": "20221010",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERSHEY'S DARK CHOCOLATE NO SUGAR",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Ferrous Sulfate",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

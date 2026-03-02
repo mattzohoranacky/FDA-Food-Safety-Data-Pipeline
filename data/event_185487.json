@@ -1,0 +1,109 @@
+{
+  "report_number": "185487",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150428",
+  "reactions": [
+    "ACUTE HEPATIC FAILURE",
+    "ADVERSE DRUG REACTION",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "AMMONIA INCREASED",
+    "ANOXIA",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD ETHANOL INCREASED",
+    "BLOOD FIBRINOGEN INCREASED",
+    "BLOOD GLUCOSE DECREASED",
+    "BLOOD LACTIC ACID INCREASED",
+    "BLOOD THYROID STIMULATING HORMONE INCREASED",
+    "BODY TEMPERATURE DECREASED",
+    "BRAIN DEATH",
+    "BRAIN INJURY",
+    "BRAIN OEDEMA",
+    "CARDIAC ARREST",
+    "CONVULSION",
+    "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "DIASTOLIC DYSFUNCTION",
+    "DIZZINESS",
+    "DRUG SCREEN POSITIVE",
+    "DYSARTHRIA",
+    "DYSPNOEA",
+    "Death",
+    "FATIGUE",
+    "HYPERTENSION",
+    "HYPOKALAEMIA",
+    "HYPOPHOSPHATAEMIA",
+    "HYPOTHYROIDISM",
+    "INSOMNIA",
+    "INTRACRANIAL PRESSURE INCREASED",
+    "LACTIC ACIDOSIS",
+    "LEUKOCYTOSIS",
+    "MENTAL DISORDER",
+    "MENTAL IMPAIRMENT",
+    "METABOLIC ACIDOSIS",
+    "MYXOEDEMA",
+    "NAUSEA",
+    "OEDEMA",
+    "PAIN",
+    "PLEURAL EFFUSION",
+    "PNEUMOTHORAX",
+    "PULMONARY OEDEMA",
+    "PUPIL FIXED",
+    "RENAL FAILURE ACUTE",
+    "RESPIRATORY ALKALOSIS",
+    "RESPIRATORY DISTRESS",
+    "TACHYCARDIA",
+    "TACHYPNOEA",
+    "TOXICITY TO VARIOUS AGENTS",
+    "TRANSAMINASES INCREASED",
+    "UNRESPONSIVE TO STIMULI",
+    "VOMITING"
+  ],
+  "date_started": "20130508",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT HARDCORE RAPID RELEASE CAPSULES (DIETARY SUPPLEMENT) CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT MAX PRO CLINICAL LIQUID CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT PRO CLINICAL CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT PRO CLINICAL GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CAFFEINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRYSTAL LIGHT",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

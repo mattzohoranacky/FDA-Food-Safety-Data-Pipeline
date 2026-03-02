@@ -1,0 +1,35 @@
+{
+  "report_number": "186977",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20150615",
+  "reactions": [
+    "ASTHENIA",
+    "BEDRIDDEN",
+    "MUSCLE SPASMS",
+    "PAIN",
+    "SALMONELLOSIS",
+    "VOMITING"
+  ],
+  "date_started": "20150612",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND CREAMY ALMOND BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

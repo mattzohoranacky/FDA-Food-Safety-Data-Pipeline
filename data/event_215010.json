@@ -1,0 +1,30 @@
+{
+  "report_number": "215010",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170630",
+  "reactions": [
+    "Amnesia",
+    "Aphasia",
+    "Cerebral haemorrhage",
+    "Headache"
+  ],
+  "date_started": "20150803",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OMEGA Q PLUS RESVERATROL 100",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

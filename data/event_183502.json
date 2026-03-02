@@ -1,0 +1,33 @@
+{
+  "report_number": "183502",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150306",
+  "reactions": [
+    "BLOOD CREATININE INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD UREA INCREASED",
+    "CYSTITIS",
+    "DEHYDRATION",
+    "HYPERSENSITIVITY",
+    "OROPHARYNGEAL PAIN",
+    "PALATAL SWELLING",
+    "URINARY TRACT INFECTION"
+  ],
+  "date_started": "20150220",
+  "consumer": {
+    "age": "87",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABO 379",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

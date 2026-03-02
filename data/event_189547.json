@@ -1,0 +1,34 @@
+{
+  "report_number": "189547",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150908",
+  "reactions": [
+    "DIZZINESS",
+    "THROMBOSIS",
+    "VAGINAL HAEMORRHAGE"
+  ],
+  "date_started": "20150501",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "4LIFE TRANSFER FACTOR BELLE VIE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "4LIFE TRANSFER FACTOR RIOVIDA TRI-FACTOR FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

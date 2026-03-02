@@ -1,0 +1,30 @@
+{
+  "report_number": "86544",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060622",
+  "reactions": [
+    "Adverse reaction",
+    "BLOOD CALCIUM INCREASED",
+    "LETHARGY",
+    "VITAMIN D INCREASED",
+    "VOMITING"
+  ],
+  "date_started": "20060121",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCOTT'S EMULSION COD LIVER OIL SUPPLEMENT WITH CHERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

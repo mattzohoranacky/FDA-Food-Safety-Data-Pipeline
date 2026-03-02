@@ -1,0 +1,28 @@
+{
+  "report_number": "2023-CFS-003963",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230412",
+  "reactions": [
+    "Apnoea",
+    "Overdose",
+    "Toxic encephalopathy"
+  ],
+  "date_started": "20230410",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "F-PHENIPUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

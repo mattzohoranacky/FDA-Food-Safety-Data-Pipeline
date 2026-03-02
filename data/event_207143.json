@@ -1,0 +1,30 @@
+{
+  "report_number": "207143",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170202",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "ORAL ALLERGY SYNDROME",
+    "PHARYNGEAL OEDEMA",
+    "PRURITUS",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20170201",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEN AND JERRY'S HALF BAKED ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

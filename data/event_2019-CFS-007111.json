@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-007111",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20190712",
+  "reactions": [
+    "Clostridial infection",
+    "Frequent bowel movements",
+    "Nausea",
+    "Weight decreased"
+  ],
+  "date_started": "20190501",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLORASTOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin c",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin d",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "213787",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170307",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "GASTROINTESTINAL DISORDER",
+    "NAUSEA",
+    "Product taste abnormal",
+    "REGURGITATION"
+  ],
+  "date_started": "20170303",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POLAND SPRING/100% NATURAL SPRING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GEUM URBANUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "report_number": "2024-CFS-016241",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241228",
+  "reactions": [
+    "Alopecia"
+  ],
+  "date_started": "20241226",
+  "consumer": {
+    "age": "40.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARNIER WHOLE BLENDS HONEY TREASURE REPAIRING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARNIER WHOLE BLENDS HONEY TREASURE REPAIRING SHAMPOO FOR DRY, DAMAGED",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARYRUTHS LIQUID MULTIVITAMIN PLUS LUTRIVA HAIR GROWTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MIELLE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

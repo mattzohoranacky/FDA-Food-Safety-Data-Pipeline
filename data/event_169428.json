@@ -1,0 +1,33 @@
+{
+  "report_number": "169428",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130823",
+  "reactions": [
+    "DRUG INTERACTION",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20130705",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "D-LIMONENE NATURAL ORANGE PEEL OIL DIET. SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ROYAL JELLY WITH BEE POLLEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

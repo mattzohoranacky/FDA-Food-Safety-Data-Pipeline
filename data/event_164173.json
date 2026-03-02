@@ -1,0 +1,43 @@
+{
+  "report_number": "164173",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130404",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "AGGRESSION",
+    "ANXIETY",
+    "ANXIETY DISORDER",
+    "CONSTIPATION",
+    "DISCOMFORT",
+    "EPIGASTRIC DISCOMFORT",
+    "FAECES HARD",
+    "HAEMATOCHEZIA",
+    "MAJOR DEPRESSION",
+    "NAUSEA",
+    "OCCULT BLOOD POSITIVE",
+    "PAIN",
+    "SCOLIOSIS",
+    "TENDERNESS",
+    "VOMITING",
+    "X-RAY ABNORMAL"
+  ],
+  "date_started": "20130311",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CULTURELLE DIGESTIVE HEALTH CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "205410",
+  "outcomes": [
+    "Disability",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161219",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "FATIGUE",
+    "IMPAIRED GASTRIC EMPTYING",
+    "NAUSEA"
+  ],
+  "date_started": "20160729",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WELLSLEY FARMS 100% APPLE JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM CARBONATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

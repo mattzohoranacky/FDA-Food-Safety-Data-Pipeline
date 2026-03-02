@@ -1,0 +1,59 @@
+{
+  "report_number": "119549",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20091026",
+  "reactions": [
+    "BLOOD CREATINE INCREASED",
+    "DYSPNOEA",
+    "MALAISE",
+    "PARAESTHESIA",
+    "PERIPHERAL COLDNESS",
+    "SENSORY LOSS"
+  ],
+  "date_started": "20091002",
+  "consumer": {
+    "age": "18",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AXIS HT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BSN CELLMASS, GRAPE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NITRIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NO XPLODE LEMON LIME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NO XPLODE ORANGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SYNTHA-6, CHOCOLATE MILKSHAKE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

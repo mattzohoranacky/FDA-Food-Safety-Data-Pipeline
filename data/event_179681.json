@@ -1,0 +1,38 @@
+{
+  "report_number": "179681",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140929",
+  "reactions": [
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "EYE SWELLING",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "SKIN BURNING SENSATION",
+    "SKIN EXFOLIATION",
+    "SWELLING"
+  ],
+  "date_started": "20140824",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER RESEARCH LABS, PREMIER DIGEST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER RESEARCH LABS, PREMIER DIGESTASE- SP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

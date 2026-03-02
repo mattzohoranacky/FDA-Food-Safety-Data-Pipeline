@@ -1,0 +1,30 @@
+{
+  "report_number": "134166",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101222",
+  "reactions": [
+    "EYE SWELLING",
+    "PHARYNGITIS",
+    "SWELLING FACE",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20101123",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AIRBORNE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

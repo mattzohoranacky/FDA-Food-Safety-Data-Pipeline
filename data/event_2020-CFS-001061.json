@@ -1,0 +1,47 @@
+{
+  "report_number": "2020-CFS-001061",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200130",
+  "reactions": [
+    "Alopecia",
+    "Trichorrhexis"
+  ],
+  "date_started": "20190531",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRY CURL (THIOGLYCOLATE)",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOLLYWOOD BEAUTY OLIVE CHOLESTEROL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WAVE NOUVEAU MOISTURIZING FINISHING LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Wave Nouveau Texturizing System",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

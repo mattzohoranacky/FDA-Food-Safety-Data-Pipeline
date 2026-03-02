@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-003900",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210430",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal"
+  ],
+  "date_started": "20210101",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX HUGS SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX KISSES CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

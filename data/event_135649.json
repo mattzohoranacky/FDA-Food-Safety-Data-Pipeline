@@ -1,0 +1,37 @@
+{
+  "report_number": "135649",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110201",
+  "reactions": [
+    "EYE SWELLING",
+    "OEDEMA PERIPHERAL",
+    "PRURITUS",
+    "RASH",
+    "SWELLING",
+    "SWELLING FACE",
+    "URTICARIA"
+  ],
+  "date_started": "20101201",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUAVE ROSEMARY+MINT CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUAVE ROSEMARY+MINT SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

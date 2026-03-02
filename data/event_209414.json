@@ -1,0 +1,37 @@
+{
+  "report_number": "209414",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170317",
+  "reactions": [
+    "ABASIA",
+    "EFFUSION",
+    "HAEMORRHAGE",
+    "JOINT INJURY",
+    "JOINT SWELLING",
+    "MENISCUS INJURY"
+  ],
+  "date_started": "20161215",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INSTAFLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY EXTRA STRENGTH HAIR, SKIN & NAILS WITH 5000MCG BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "2018-CFS-003382",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180226",
+  "reactions": [
+    "Alopecia",
+    "Gastrointestinal disorder",
+    "Rash",
+    "Skin ulcer",
+    "Weight increased"
+  ],
+  "date_started": "20161001",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN CLENSING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi vit",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vit c",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "172986",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140103",
+  "reactions": [
+    "DYSPHAGIA",
+    "FOOD POISONING",
+    "PRURITUS",
+    "SWELLING"
+  ],
+  "date_started": "20130704",
+  "consumer": {
+    "age": "58.45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BASA SWAI FISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

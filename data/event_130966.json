@@ -1,0 +1,37 @@
+{
+  "report_number": "130966",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20101014",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "BURNING SENSATION",
+    "DISCOMFORT",
+    "FLUID RETENTION",
+    "INTESTINAL OBSTRUCTION",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20080406",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC CHITOSAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC CUT 25",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

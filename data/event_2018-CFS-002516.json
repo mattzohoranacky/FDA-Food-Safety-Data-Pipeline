@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-002516",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180214",
+  "reactions": [
+    "Alopecia",
+    "Pruritus",
+    "Rash",
+    "Skin ulcer",
+    "Trichorrhexis"
+  ],
+  "date_started": "20171115",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT HAIR LINE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit. D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

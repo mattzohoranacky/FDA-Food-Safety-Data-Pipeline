@@ -1,0 +1,35 @@
+{
+  "report_number": "143711",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100930",
+  "reactions": [
+    "DEATH",
+    "DERMATITIS BULLOUS",
+    "GASTROENTERITIS VIBRIO",
+    "ISCHAEMIA",
+    "RENAL FAILURE",
+    "RESPIRATORY FAILURE",
+    "RHABDOMYOLYSIS",
+    "SEPSIS",
+    "SHOCK"
+  ],
+  "date_started": "20100729",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

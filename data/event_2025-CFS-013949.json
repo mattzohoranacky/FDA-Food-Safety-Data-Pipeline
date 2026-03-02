@@ -1,0 +1,32 @@
+{
+  "report_number": "2025-CFS-013949",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20250826",
+  "reactions": [
+    "Hypersensitivity",
+    "Urticaria"
+  ],
+  "date_started": "20250822",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHICKEN OF THE SEA WILD CAUGHT, CHUNK LIGHT TUNA ,",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOSHIELD MD VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

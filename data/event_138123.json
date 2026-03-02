@@ -1,0 +1,61 @@
+{
+  "report_number": "138123",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110420",
+  "reactions": [
+    "BLOOD POTASSIUM DECREASED",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "ELECTROCARDIOGRAM ABNORMAL",
+    "ERUCTATION",
+    "FLATULENCE"
+  ],
+  "date_started": "20110318",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE SLIMMETRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMINS UNSPECIFIED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NUTILITE WHEY PROTEIN POWDER SAMPLE VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NUTRILITE PROTEIN SHAKE BERRY",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NUTRILITE PROTEIN SHAKE CHOCOLATE FUDGE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NUTRILITE WHEY PROTEIN POWDER SAMPLE CHOCOLATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

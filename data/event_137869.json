@@ -1,0 +1,53 @@
+{
+  "report_number": "137869",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110413",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ASTHENIA",
+    "CHEST DISCOMFORT",
+    "DIZZINESS",
+    "HEADACHE",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20110321",
+  "consumer": {
+    "age": "18",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRO PERFORMANCE AMP POST TRAINING PAK AMPLIFIED CREATINE 189",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRO PERFORMANCE AMP POST TRAINING PAK AMPLIFIED GLUTAMINE COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRO PERFORMANCE AMP POST TRAINING PAK BIOCORE RECOVERY ENZYME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRO PERFORMANCE AMP PRETRAINING PAK AMPLIFIED MAXERTION N O",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRO PERFORMANCE AMP PRETRAINING PAK AMPLIFIED MUSCLE IGNITER 4X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

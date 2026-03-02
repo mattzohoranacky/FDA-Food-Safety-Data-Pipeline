@@ -1,0 +1,43 @@
+{
+  "report_number": "2021-CFS-013526",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20211230",
+  "reactions": [
+    "Abdominal pain",
+    "Chills",
+    "Diarrhoea",
+    "Lethargy",
+    "Malaise",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20211226",
+  "consumer": {
+    "age": "54.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTHBOUND FARMS SPRING MIX",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TB12 PLANT BASED PROTEIN POWDER",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TYLENOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

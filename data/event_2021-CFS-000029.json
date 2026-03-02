@@ -1,0 +1,35 @@
+{
+  "report_number": "2021-CFS-000029",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210104",
+  "reactions": [
+    "Blood pressure increased",
+    "Dyspnoea",
+    "Heart rate abnormal",
+    "Tinnitus",
+    "Vomiting"
+  ],
+  "date_started": "20201217",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEE POLLEN CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Skinny with Jenny bee pollen",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

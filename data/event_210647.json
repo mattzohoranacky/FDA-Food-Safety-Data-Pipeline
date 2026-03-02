@@ -1,0 +1,32 @@
+{
+  "report_number": "210647",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170420",
+  "reactions": [
+    "BLOOD BILIRUBIN INCREASED",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATIC FAILURE"
+  ],
+  "date_started": "20170418",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DMZ LOAD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXTREME MASS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

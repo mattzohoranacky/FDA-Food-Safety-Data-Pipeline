@@ -1,0 +1,36 @@
+{
+  "report_number": "2021-CFS-011426",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20211115",
+  "reactions": [
+    "Chemical injury"
+  ],
+  "date_started": "20211113",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACURE SERIOUSLY SOOTHING BIOCELLULOSE MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

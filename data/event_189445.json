@@ -1,0 +1,32 @@
+{
+  "report_number": "189445",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150904",
+  "reactions": [
+    "DRY SKIN",
+    "HYPERSENSITIVITY",
+    "SKIN EXFOLIATION"
+  ],
+  "date_started": "20150901",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENVIRON IONZYME C-QUENCE MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENVIRON IONZYME C-QUENCE EYE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

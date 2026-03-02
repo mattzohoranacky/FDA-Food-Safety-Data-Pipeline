@@ -1,0 +1,32 @@
+{
+  "report_number": "80027",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050628",
+  "reactions": [
+    "Colitis",
+    "DIARRHOEA",
+    "HAEMATEMESIS",
+    "HAEMATOCHEZIA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20050513",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DREYER'S SLOW CHURNED BUTTER PECAN ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-002816",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220225",
+  "reactions": [
+    "Overdose"
+  ],
+  "date_started": "20220224",
+  "consumer": {
+    "age": "7",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "USANA BIOMEGA JR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "USANA US USANIMALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

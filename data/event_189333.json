@@ -1,0 +1,43 @@
+{
+  "report_number": "189333",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150831",
+  "reactions": [
+    "ACNE",
+    "BURNING SENSATION",
+    "DRY SKIN",
+    "ERYTHEMA",
+    "PRURITUS",
+    "RASH",
+    "SKIN EXFOLIATION",
+    "SKIN SENSITISATION"
+  ],
+  "date_started": "20150827",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADORE ORGANIC INNOVATION CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADORE ORGANIC INNOVATION MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADORE ORGANIC INNOVATION TONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

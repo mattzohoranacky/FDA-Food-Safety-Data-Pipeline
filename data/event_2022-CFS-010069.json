@@ -1,0 +1,40 @@
+{
+  "report_number": "2022-CFS-010069",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220622",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Antinuclear antibody positive",
+    "Aspartate aminotransferase increased",
+    "Bacterial test positive",
+    "Chromaturia",
+    "Fatigue",
+    "Haemangioma",
+    "Hallucination",
+    "Headache",
+    "Hepatic enzyme increased",
+    "Malaise",
+    "Organ failure",
+    "Pain",
+    "Pyrexia",
+    "Skin burning sensation",
+    "Viral test positive",
+    "Vomiting",
+    "Xanthelasma"
+  ],
+  "date_started": "20220617",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH WHEAT CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

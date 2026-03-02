@@ -1,0 +1,33 @@
+{
+  "report_number": "85632",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20041028",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "HEADACHE",
+    "PARAESTHESIA"
+  ],
+  "date_started": "20041022",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARINATED STEAKS",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TUNA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

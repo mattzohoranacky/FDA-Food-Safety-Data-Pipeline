@@ -1,0 +1,43 @@
+{
+  "report_number": "2024-CFS-013069",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241022",
+  "reactions": [
+    "Erythema",
+    "Flushing",
+    "Hypersensitivity",
+    "Pharyngeal swelling",
+    "Urticaria"
+  ],
+  "date_started": "20241021",
+  "consumer": {
+    "age": "15",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "M.C.K SEATTLE CRUNCHY FURIKAKE ORIGINAL SNACK MIX",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

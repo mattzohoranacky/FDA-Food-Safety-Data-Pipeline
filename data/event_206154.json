@@ -1,0 +1,31 @@
+{
+  "report_number": "206154",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20170110",
+  "reactions": [
+    "CHROMATURIA",
+    "DYSPNOEA",
+    "FATIGUE",
+    "HAEMOLYTIC ANAEMIA",
+    "JAUNDICE",
+    "NEOPLASM MALIGNANT",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20160726",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

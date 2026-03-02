@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-013106",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20181101",
+  "reactions": [
+    "Abdominal pain",
+    "Malaise",
+    "Salmonellosis",
+    "Vomiting"
+  ],
+  "date_started": "20180601",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAITO FOODS WATERMELON CHUNKS",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

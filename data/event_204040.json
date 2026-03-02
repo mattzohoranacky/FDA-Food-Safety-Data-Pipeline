@@ -1,0 +1,50 @@
+{
+  "report_number": "204040",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161114",
+  "reactions": [
+    "ACNE",
+    "APHAGIA",
+    "DEHYDRATION",
+    "GALLBLADDER DISORDER",
+    "NAUSEA",
+    "PAIN",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20161020",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY CAFE LATTE BAG 30 SERVING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY CHOCOLATE BAG 30 SERVING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY CHOCOLATE VEGAN BAG 30 SERVING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY VANILLA BAG 30 SERVING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

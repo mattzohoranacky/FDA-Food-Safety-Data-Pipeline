@@ -1,0 +1,31 @@
+{
+  "report_number": "172181",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20131119",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIZZINESS"
+  ],
+  "date_started": "20131117",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING VALLEY SELENIUM 200 MCG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GNC MEGA MEN MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

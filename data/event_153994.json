@@ -1,0 +1,56 @@
+{
+  "report_number": "153994",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120702",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BACK PAIN",
+    "BILE DUCT OBSTRUCTION",
+    "CHOLELITHIASIS",
+    "CHOLESTASIS",
+    "EMOTIONAL DISTRESS",
+    "HEADACHE",
+    "HEPATIC STEATOSIS",
+    "JAUNDICE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "LIVER INJURY",
+    "MUSCLE SPASMS",
+    "NASOPHARYNGITIS",
+    "PAIN"
+  ],
+  "date_started": "20090905",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT  NATURAL CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT HARDCORE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT MAX LIQUID CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

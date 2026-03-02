@@ -1,0 +1,45 @@
+{
+  "report_number": "2021-CFS-011136",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20211104",
+  "reactions": [
+    "Atrial fibrillation",
+    "Cardiac flutter",
+    "Syncope"
+  ],
+  "date_started": "20130419",
+  "consumer": {
+    "age": "25.8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "5-HOUR ENERGY BERRY REGULAR STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED BULL ENERGY DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YUENGLING",
+      "industry_code": "32",
+      "industry_name": "Alcoholic Beverage"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi-vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

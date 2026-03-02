@@ -1,0 +1,62 @@
+{
+  "report_number": "97789",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20071102",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD CREATINE DECREASED",
+    "BLOOD IRON INCREASED",
+    "CAECAL LESION EXCISION",
+    "CARBON DIOXIDE INCREASED",
+    "COLLAGEN DISORDER",
+    "COLON INJURY",
+    "COLONIC POLYP",
+    "HAEMATOCHEZIA",
+    "HAEMATOCRIT DECREASED",
+    "HAEMOGLOBIN DECREASED",
+    "INTERNATIONAL NORMALISED RATIO DECREASED",
+    "INTUSSUSCEPTION",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "LYMPHOID TISSUE HYPERPLASIA",
+    "PLATELET COUNT DECREASED",
+    "PLATELET DISORDER",
+    "PLATELET FUNCTION TEST ABNORMAL",
+    "PROTHROMBIN TIME RATIO DECREASED",
+    "RECTAL HAEMORRHAGE",
+    "RED BLOOD CELL COUNT DECREASED",
+    "TACHYCARDIA",
+    "THROMBOCYTOPENIA",
+    "THROMBOSIS",
+    "VOMITING"
+  ],
+  "date_started": "20070617",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

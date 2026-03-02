@@ -1,0 +1,41 @@
+{
+  "report_number": "181389",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141212",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "DYSPNOEA",
+    "EPISTAXIS",
+    "FALL",
+    "GASTRIC ULCER",
+    "HAEMORRHAGE",
+    "HEADACHE",
+    "MOUTH HAEMORRHAGE",
+    "MUSCULOSKELETAL PAIN",
+    "SYNCOPE"
+  ],
+  "date_started": "20141109",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIBRE SYSTEM PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER DETOX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

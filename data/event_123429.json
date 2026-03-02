@@ -1,0 +1,39 @@
+{
+  "report_number": "123429",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100219",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "BLOOD CORTISOL DECREASED",
+    "BLOOD PRESSURE DECREASED",
+    "BODY TEMPERATURE INCREASED",
+    "BURNING SENSATION",
+    "DYSPNOEA",
+    "FATIGUE",
+    "FEELING HOT",
+    "HORMONE LEVEL ABNORMAL",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "OROPHARYNGEAL SWELLING",
+    "PROGESTERONE DECREASED",
+    "SWELLING",
+    "TREMOR"
+  ],
+  "date_started": "20100112",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMEN'S ULTRA MEGA GOLD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

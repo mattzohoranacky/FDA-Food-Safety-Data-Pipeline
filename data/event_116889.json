@@ -1,0 +1,27 @@
+{
+  "report_number": "116889",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090713",
+  "reactions": [
+    "LACERATION",
+    "Product contamination physical",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20090712",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROCK STAR ROASTED COFFEE AND ENERGY MOCHA AND CREAM COFFEE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

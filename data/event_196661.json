@@ -1,0 +1,38 @@
+{
+  "report_number": "196661",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20160525",
+  "reactions": [
+    "CEREBROVASCULAR ACCIDENT",
+    "DEPRESSION",
+    "HAEMORRHAGIC STROKE",
+    "HEADACHE",
+    "HYPOAESTHESIA",
+    "MEMORY IMPAIRMENT",
+    "SPEECH DISORDER"
+  ],
+  "date_started": "20160516",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEYOND RAW REBUILT MASS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CAFFEINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

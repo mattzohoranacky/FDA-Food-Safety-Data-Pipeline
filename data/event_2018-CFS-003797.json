@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-003797",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20180306",
+  "reactions": [
+    "Abdominal abscess",
+    "Abdominal infection",
+    "Abdominal pain",
+    "Diverticulitis",
+    "Gastrointestinal perforation"
+  ],
+  "date_started": "20180108",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE COENZYME Q10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING VALLEY RED YEAST RICE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

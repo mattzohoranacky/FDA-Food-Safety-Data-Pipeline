@@ -1,0 +1,27 @@
+{
+  "report_number": "77398",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050405",
+  "reactions": [
+    "HOSPITALISATION",
+    "PNEUMONIA",
+    "RENAL FAILURE ACUTE"
+  ],
+  "date_started": "20050329",
+  "consumer": {
+    "age": "76.44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SMOOTH MOVE HERBAL TEA PLACEBO",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

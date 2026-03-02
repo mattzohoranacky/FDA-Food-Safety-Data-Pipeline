@@ -1,0 +1,46 @@
+{
+  "report_number": "182318",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150121",
+  "reactions": [
+    "CHAPPED LIPS",
+    "EXCORIATION",
+    "LIP DRY",
+    "LIP SWELLING"
+  ],
+  "date_started": "20141225",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS LIP BALM HONEY DEW",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS LIP BALM RACHEL ROY HOLIDAY THREE PACK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

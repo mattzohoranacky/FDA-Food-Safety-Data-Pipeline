@@ -1,0 +1,42 @@
+{
+  "report_number": "194942",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20160330",
+  "reactions": [
+    "CONFUSIONAL STATE",
+    "MALAISE",
+    "METAL POISONING",
+    "ORGAN FAILURE",
+    "RENAL PAIN",
+    "VISION BLURRED"
+  ],
+  "date_started": "20160101",
+  "consumer": {
+    "age": "46.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEST BENTONITE CLAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ESSENTIAL OILS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

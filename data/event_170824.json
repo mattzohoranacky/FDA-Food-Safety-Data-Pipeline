@@ -1,0 +1,40 @@
+{
+  "report_number": "170824",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20131016",
+  "reactions": [
+    "ANAEMIA",
+    "ASCITES",
+    "BLOOD ALBUMIN DECREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "FATIGUE",
+    "HAEMATOCRIT DECREASED",
+    "HAEMOGLOBIN DECREASED",
+    "HEPATIC CIRRHOSIS",
+    "HEPATIC NEOPLASM",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "JAUNDICE",
+    "PORTAL HYPERTENSION",
+    "PROTHROMBIN TIME PROLONGED",
+    "VARICOSE VEIN",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20130916",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXYELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

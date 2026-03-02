@@ -1,0 +1,35 @@
+{
+  "report_number": "151220",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120413",
+  "reactions": [
+    "PRURITUS",
+    "RASH",
+    "SWELLING FACE",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20120308",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHEER COVER 30 DAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHEER COVER VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

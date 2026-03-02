@@ -1,0 +1,49 @@
+{
+  "report_number": "2024-CFS-003642",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240409",
+  "reactions": [
+    "Dizziness",
+    "Eye irritation",
+    "Headache",
+    "Tinnitus",
+    "Visual snow syndrome",
+    "Vitreous floaters"
+  ],
+  "date_started": "20230805",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOUBLE SCORPIO EMERALD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CICLOPIROX CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLUORIDEX 1.1 % DENTAL PASTE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAFUSION VITAMIN D3 GUMMY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

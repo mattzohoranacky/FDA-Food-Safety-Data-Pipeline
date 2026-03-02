@@ -1,0 +1,36 @@
+{
+  "report_number": "2023-CFS-003504",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230402",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Hypersensitivity",
+    "Nausea",
+    "Rash macular",
+    "Vomiting"
+  ],
+  "date_started": "20230228",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KACHAVA WHOLE BODY MEAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Kachava Whole Body Meal",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

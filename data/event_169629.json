@@ -1,0 +1,35 @@
+{
+  "report_number": "169629",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130614",
+  "reactions": [
+    "INITIAL INSOMNIA",
+    "NASAL CONGESTION",
+    "NASOPHARYNGITIS",
+    "OROPHARYNGEAL PAIN",
+    "TOOTH FRACTURE",
+    "TOOTHACHE"
+  ],
+  "date_started": "20121220",
+  "consumer": {
+    "age": "84",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GAS-X (NCH) (SIMETHICONE) DISPERSIBLE TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GAS-X PREVENTION (NCH) (ALPHA-GALACTOSIDASE) CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

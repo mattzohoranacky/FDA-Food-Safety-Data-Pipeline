@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-006506",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220503",
+  "reactions": [
+    "Anxiety",
+    "Decreased appetite",
+    "Nausea",
+    "Palpitations",
+    "Rash",
+    "Tachycardia",
+    "Vomiting"
+  ],
+  "date_started": "20220311",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "S-ADENOSYLMETHIONINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-006299",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210302",
+  "reactions": [
+    "Abdominal pain",
+    "Chills",
+    "Diarrhoea",
+    "Headache",
+    "Lethargy",
+    "Nausea",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20210227",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE SPROUTMAN ORGANIC ALFALFA SPROUTS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

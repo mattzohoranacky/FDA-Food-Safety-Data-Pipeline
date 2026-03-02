@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-012933",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220822",
+  "reactions": [
+    "Blepharitis",
+    "Eyelid oedema"
+  ],
+  "date_started": "20220818",
+  "consumer": {
+    "age": "25.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UP&UP 3-IN-1 MICELLAR CLEANSING WATER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "antihistamine eye drops",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

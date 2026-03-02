@@ -1,0 +1,30 @@
+{
+  "report_number": "119044",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20091007",
+  "reactions": [
+    "BACTERIAL INFECTION",
+    "BETA HAEMOLYTIC STREPTOCOCCAL INFECTION",
+    "FOOD POISONING",
+    "SEPSIS"
+  ],
+  "date_started": "20090605",
+  "consumer": {
+    "age": "47",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    }
+  ]
+}

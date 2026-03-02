@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-004680",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210519",
+  "reactions": [
+    "Renal pain"
+  ],
+  "date_started": "20210514",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HILL COUNTRY FARE ALL PURPOSE FLOUR BLEACHED",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Potassium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "193737",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160211",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "BACK PAIN",
+    "BLOOD POTASSIUM DECREASED",
+    "CONFUSIONAL STATE",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "HYPERHIDROSIS",
+    "VOMITING"
+  ],
+  "date_started": "20160127",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLAXSEED OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

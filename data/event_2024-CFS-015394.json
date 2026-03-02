@@ -1,0 +1,44 @@
+{
+  "report_number": "2024-CFS-015394",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241205",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Irritable bowel syndrome",
+    "Nausea",
+    "Pain",
+    "Postural orthostatic tachycardia syndrome",
+    "Swelling",
+    "Vomiting"
+  ],
+  "date_started": "20240905",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARROT BABY PEELED BAG",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARROT STICKS ORGANIC",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIC CARROTS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

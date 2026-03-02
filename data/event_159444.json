@@ -1,0 +1,33 @@
+{
+  "report_number": "159444",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121120",
+  "reactions": [
+    "ABASIA",
+    "ARTHRALGIA",
+    "BURNING SENSATION",
+    "FURUNCLE",
+    "HYPERSENSITIVITY",
+    "RASH",
+    "STAPHYLOCOCCAL INFECTION",
+    "URTICARIA"
+  ],
+  "date_started": "20111020",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TATTOO INK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

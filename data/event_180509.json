@@ -1,0 +1,37 @@
+{
+  "report_number": "180509",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141002",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DYSPNOEA EXERTIONAL",
+    "ERYTHEMA",
+    "FOOD POISONING",
+    "NAUSEA",
+    "RASH"
+  ],
+  "date_started": "20140916",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SADAKO JAPANESE RESTAURANT  SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SADAKO JAPANESE RESTAURANT EEL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SADAKO JAPANESE RESTAURANT YELLOW FIN TUNA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

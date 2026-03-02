@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-007621",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180531",
+  "reactions": [
+    "Accidental exposure to product",
+    "Exposure via direct contact",
+    "Eye disorder",
+    "Foreign body in eye",
+    "Injury corneal"
+  ],
+  "date_started": "20180419",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

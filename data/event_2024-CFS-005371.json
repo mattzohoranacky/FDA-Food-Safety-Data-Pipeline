@@ -1,0 +1,37 @@
+{
+  "report_number": "2024-CFS-005371",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20240521",
+  "reactions": [
+    "Hepatic enzyme increased",
+    "Liver injury"
+  ],
+  "date_started": "20240415",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE SKIN COLLAGEN BEAUTY BOOSTER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFTOFF LEMON-LIME BLAST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1 HEALTHY MEAL NUTRITIONAL SHAKE MIX - DULCE DE LECHE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

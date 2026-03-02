@@ -1,0 +1,28 @@
+{
+  "report_number": "2019-CFS-009372",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190911",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Lip swelling",
+    "Urticaria"
+  ],
+  "date_started": "20190707",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER TUNA PRE PACKAGED FROZEN FILLETS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

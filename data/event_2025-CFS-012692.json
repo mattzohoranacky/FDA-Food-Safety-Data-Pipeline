@@ -1,0 +1,35 @@
+{
+  "report_number": "2025-CFS-012692",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250806",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Emergency care",
+    "Eye pruritus",
+    "Hospitalisation",
+    "Hypersensitivity",
+    "Oral pruritus",
+    "Pruritus",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20250729",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LAKANTO ERYTHRITOL 30-60 GRANULAR MESH",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

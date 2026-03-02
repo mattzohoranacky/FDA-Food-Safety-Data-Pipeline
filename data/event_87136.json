@@ -1,0 +1,32 @@
+{
+  "report_number": "87136",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20060725",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK"
+  ],
+  "date_started": "20020928",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PAM BUTTER FLAVOR",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STOUFFER'S PIZZA",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

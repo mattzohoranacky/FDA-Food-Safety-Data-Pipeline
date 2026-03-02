@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-012564",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241011",
+  "reactions": [
+    "Listeriosis",
+    "Malaise",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20241002",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TAYLOR FARMS AMERICAN STYLE PASTA FRESH SALAD",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "report_number": "183522",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150310",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "AMNESIA",
+    "COLITIS ULCERATIVE",
+    "DEFAECATION URGENCY",
+    "DIARRHOEA",
+    "DIVERTICULITIS",
+    "DYSSTASIA",
+    "IMMUNE SYSTEM DISORDER",
+    "IRRITABLE BOWEL SYNDROME",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20141214",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE VITAMIN D3 2000 IU RAPID RELEASE LIQUID SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE BETA-CAROTENE PROVITAMIN A 25,000IU RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE SUBLINGUAL B12 5000MCG MICROLOZENGES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE VITAMIN E 400IU RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

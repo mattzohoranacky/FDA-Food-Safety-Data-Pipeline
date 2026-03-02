@@ -1,0 +1,35 @@
+{
+  "report_number": "2021-CFS-006020",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210625",
+  "reactions": [
+    "Choking sensation",
+    "Dyspnoea",
+    "Hypersensitivity",
+    "Nausea",
+    "Throat tightness"
+  ],
+  "date_started": "20210620",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALDEN'S ORGANIC ROUND SAMMIE'S VANILLA BEAN",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

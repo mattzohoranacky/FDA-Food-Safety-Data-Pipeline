@@ -1,0 +1,28 @@
+{
+  "report_number": "159245",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121019",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "LUNG DISORDER"
+  ],
+  "date_started": "20121010",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MENTOS SQUEEZE GUM STRAWBERRY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

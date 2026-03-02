@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-000528",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20231025",
+  "reactions": [
+    "Fallopian tube cancer stage III"
+  ],
+  "date_started": "20211215",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHNSONS POWDER NO UPC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHOWER TO SHOWER NO UPC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

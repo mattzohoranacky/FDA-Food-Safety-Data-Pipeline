@@ -1,0 +1,51 @@
+{
+  "report_number": "2020-CFS-002015",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200212",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Hair texture abnormal",
+    "Pruritus"
+  ],
+  "date_started": "20190703",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL BUILD UP BUSTER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL LOW POO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL NO POO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL STYLING CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL ULTRA DEFINING GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

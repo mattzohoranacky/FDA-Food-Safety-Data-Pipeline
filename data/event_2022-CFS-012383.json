@@ -1,0 +1,42 @@
+{
+  "report_number": "2022-CFS-012383",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220810",
+  "reactions": [
+    "Adverse event"
+  ],
+  "date_started": "20220607",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRUT CLASSIC ANTIPERSPIRANT & DEODORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRUT CLASSIC DEODORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SURE REGULAR SCENT ANTIPERSPIRANT & DEODERANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SURE UNSCENTED ANTIPERSPIRANT & DEODERANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

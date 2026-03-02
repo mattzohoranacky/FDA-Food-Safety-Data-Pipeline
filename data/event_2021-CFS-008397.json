@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-008397",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210817",
+  "reactions": [
+    "Alopecia",
+    "Skin burning sensation"
+  ],
+  "date_started": "20210815",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRESEMME CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRESEMME SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "120651",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091117",
+  "reactions": [
+    "BLOOD URINE PRESENT",
+    "HAEMORRHAGE"
+  ],
+  "date_started": "20091010",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JARROW FORMULAS GPLC GLYCINE PROPIONYL CARNITINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

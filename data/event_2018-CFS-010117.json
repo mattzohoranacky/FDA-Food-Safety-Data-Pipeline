@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-010117",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180808",
+  "reactions": [
+    "Adverse reaction",
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Erythema",
+    "Paraesthesia oral",
+    "Swelling face"
+  ],
+  "date_started": "20180713",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCIVATION XTEND BCAAS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

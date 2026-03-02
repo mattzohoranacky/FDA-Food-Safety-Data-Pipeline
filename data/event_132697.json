@@ -1,0 +1,31 @@
+{
+  "report_number": "132697",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100326",
+  "reactions": [
+    "ASTHENIA",
+    "Adverse event",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "LETHARGY",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20100323",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOUTHERN TSUNAMI BROWN RICE CALIFORNIA ROLL SUSHI",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-006615",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20210712",
+  "reactions": [
+    "Anaemia",
+    "Blindness",
+    "Death",
+    "Gastrointestinal haemorrhage",
+    "Nausea",
+    "Necrotising fasciitis",
+    "Neuropathy peripheral",
+    "Toxicity to various agents",
+    "Weight decreased"
+  ],
+  "date_started": "20210709",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCOSE ESSENTIALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

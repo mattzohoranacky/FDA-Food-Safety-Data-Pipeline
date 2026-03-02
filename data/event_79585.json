@@ -1,0 +1,45 @@
+{
+  "report_number": "79585",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050719",
+  "reactions": [
+    "BURNING SENSATION",
+    "DYSGEUSIA",
+    "ERYTHEMA",
+    "MUSCLE SPASMS",
+    "RIGORS",
+    "SWELLING"
+  ],
+  "date_started": "20050501",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOACCEL SB SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FIRMANCE PYCNOGENOL FIRMING SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOUNTAIN OF YOUTH SMOOTHING LINE DIMINISHING GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "REJUVEDERM EXPRESSION AGE DIMINISHING INSTANT LIFT PRIMER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

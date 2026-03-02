@@ -1,0 +1,40 @@
+{
+  "report_number": "2020-CFS-001882",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200211",
+  "reactions": [
+    "Alopecia",
+    "Burning sensation",
+    "Pruritus",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20191207",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL DEVA FRESH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO POO SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION DECADENCE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

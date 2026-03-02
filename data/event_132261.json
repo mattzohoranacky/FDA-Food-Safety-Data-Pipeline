@@ -1,0 +1,33 @@
+{
+  "report_number": "132261",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101116",
+  "reactions": [
+    "DIARRHOEA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20100831",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUAL ACTION DIET CLEANSE 28 DAY METABOLIC FAT BURNING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUAL ACTION DIET CLEANSE 7-DAY PURIFYING FLUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

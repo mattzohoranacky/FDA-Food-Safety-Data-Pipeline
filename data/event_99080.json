@@ -1,0 +1,27 @@
+{
+  "report_number": "99080",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070827",
+  "reactions": [
+    "NAUSEA",
+    "Product contamination physical",
+    "VOMITING"
+  ],
+  "date_started": "20061118",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SAM'S CHOICE LIGHT CRANBERRY JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-010184",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240729",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal distension",
+    "Dehydration",
+    "Diarrhoea",
+    "Muscle spasms",
+    "Nausea",
+    "Rash erythematous",
+    "Supraventricular tachycardia",
+    "Vasculitis"
+  ],
+  "date_started": "20240621",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SFI HEALTH THER-BIOTIC COMPLETE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

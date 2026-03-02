@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-006998",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20211216",
+  "reactions": [
+    "Death",
+    "Haemorrhagic stroke"
+  ],
+  "date_started": "20210831",
+  "consumer": {
+    "age": "98",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIL CRITTERS GUMMY VITES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

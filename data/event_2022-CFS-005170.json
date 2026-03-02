@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-005170",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220412",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain",
+    "Diarrhoea",
+    "Nausea",
+    "Pyrexia"
+  ],
+  "date_started": "20220410",
+  "consumer": {
+    "age": "56.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS LUCKY CHARMS FROSTED TOASTED OAT CEREAL WITH MARSHMALLOWS GLUTEN FREE",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

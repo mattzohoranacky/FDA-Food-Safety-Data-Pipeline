@@ -1,0 +1,37 @@
+{
+  "report_number": "93684",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070612",
+  "reactions": [
+    "GASTROENTERITIS VIBRIO",
+    "MALAISE"
+  ],
+  "date_started": "20070418",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COOKED CRAB",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STEAMED CLAMS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

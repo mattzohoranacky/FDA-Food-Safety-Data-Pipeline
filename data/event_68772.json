@@ -1,0 +1,43 @@
+{
+  "report_number": "68772",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040504",
+  "reactions": [
+    "CHEMICAL BURN OF SKIN",
+    "CHEMICAL INJURY"
+  ],
+  "date_started": "20040501",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EASYSTRAIGHT CONDITIONING OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EASYSTRAIGHT CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EASYSTRAIGHT LEAVE-IN CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EASYSTRAIGHT SEALANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

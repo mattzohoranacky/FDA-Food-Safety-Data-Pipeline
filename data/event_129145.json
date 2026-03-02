@@ -1,0 +1,53 @@
+{
+  "report_number": "129145",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100817",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "ASTHENIA",
+    "BLOOD GLUCOSE INCREASED",
+    "BODY TEMPERATURE INCREASED",
+    "BURNING SENSATION",
+    "DEHYDRATION",
+    "DYSPEPSIA",
+    "FEELING ABNORMAL",
+    "IMPAIRED DRIVING ABILITY",
+    "MOVEMENT DISORDER",
+    "MULTI-ORGAN DISORDER",
+    "PAIN",
+    "PANCREATIC DISORDER",
+    "STOMACH DISCOMFORT",
+    "THOUGHT BLOCKING"
+  ],
+  "date_started": "20100629",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN WORLD L-GLUTAMINE 500MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MUSCLE MILK VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

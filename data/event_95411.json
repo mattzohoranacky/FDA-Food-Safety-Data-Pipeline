@@ -1,0 +1,33 @@
+{
+  "report_number": "95411",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20070813",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "HEART RATE INCREASED",
+    "HYPERHIDROSIS",
+    "MALAISE",
+    "NAUSEA",
+    "PAIN"
+  ],
+  "date_started": "20070805",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2021-CFS-006097",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210628",
+  "reactions": [
+    "Eye swelling",
+    "Ocular hyperaemia"
+  ],
+  "date_started": "20210516",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLE HENRIKSON BANANA BRIGHT EYE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COENZYME Q10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL MVI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

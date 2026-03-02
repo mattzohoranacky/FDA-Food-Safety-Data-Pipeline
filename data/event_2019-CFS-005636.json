@@ -1,0 +1,29 @@
+{
+  "report_number": "2019-CFS-005636",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20190606",
+  "reactions": [
+    "Blood bilirubin increased",
+    "Fatigue",
+    "Hepatic failure",
+    "Liver function test abnormal"
+  ],
+  "date_started": "20190214",
+  "consumer": {
+    "age": "56.02",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIV SXINNEY MAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

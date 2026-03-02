@@ -1,0 +1,37 @@
+{
+  "report_number": "168728",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130802",
+  "reactions": [
+    "COUGH",
+    "DYSPHAGIA",
+    "DYSPHONIA",
+    "DYSPNOEA",
+    "INFLAMMATION",
+    "PAIN",
+    "PNEUMONIA ASPIRATION",
+    "SPEECH DISORDER"
+  ],
+  "date_started": "20130710",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQUATE COMPLETE MULTIVITAMIN COATED TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM AND VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

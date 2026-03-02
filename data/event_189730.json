@@ -1,0 +1,35 @@
+{
+  "report_number": "189730",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150917",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "NAUSEA",
+    "URTICARIA"
+  ],
+  "date_started": "20150915",
+  "consumer": {
+    "age": "9",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BUTTER BRICKLE",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOUBLE DUNKER",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

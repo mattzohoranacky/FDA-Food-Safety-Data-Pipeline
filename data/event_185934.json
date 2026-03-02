@@ -1,0 +1,44 @@
+{
+  "report_number": "185934",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150507",
+  "reactions": [
+    "ACNE",
+    "ANDROGENS INCREASED",
+    "BLOOD CORTISOL INCREASED",
+    "BLOOD TESTOSTERONE INCREASED",
+    "FATIGUE",
+    "HAIR GROWTH ABNORMAL",
+    "IRRITABILITY",
+    "LIVER FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20140514",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXI ELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

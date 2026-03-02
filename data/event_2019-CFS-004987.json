@@ -1,0 +1,38 @@
+{
+  "report_number": "2019-CFS-004987",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190517",
+  "reactions": [
+    "Carpal tunnel syndrome",
+    "Infection",
+    "Nerve injury"
+  ],
+  "date_started": "20171204",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TATTOO INK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Centrum multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

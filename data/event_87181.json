@@ -1,0 +1,31 @@
+{
+  "report_number": "87181",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060724",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CAMPYLOBACTER INFECTION",
+    "DIARRHOEA",
+    "MALAISE",
+    "PYREXIA"
+  ],
+  "date_started": "20060716",
+  "consumer": {
+    "age": "59.52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRAIRIE FARMS VITAMIN D MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

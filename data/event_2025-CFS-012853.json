@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-012853",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250808",
+  "reactions": [
+    "Atrial fibrillation"
+  ],
+  "date_started": "20250807",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVATIVES FROM SEAFOOD AND CANNED FOOD",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VARIOUS BRANDS FROZEN SEAFOOD WITH SULFITE PRESERVATIVES",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

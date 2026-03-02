@@ -1,0 +1,54 @@
+{
+  "report_number": "172555",
+  "outcomes": [
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131119",
+  "reactions": [
+    "AGITATION",
+    "ALOPECIA",
+    "ANOREXIA",
+    "CONSTIPATION",
+    "DYSGEUSIA",
+    "DYSPEPSIA",
+    "ERYTHEMA",
+    "EYE IRRITATION",
+    "FATIGUE",
+    "HEART RATE IRREGULAR",
+    "HELMINTHIC INFECTION",
+    "HYPERSENSITIVITY",
+    "INSOMNIA",
+    "MALAISE",
+    "NERVOUSNESS",
+    "ORAL FUNGAL INFECTION",
+    "PAIN",
+    "PARAESTHESIA",
+    "PRODUCTIVE COUGH",
+    "RASH PAPULAR",
+    "SKIN BURNING SENSATION",
+    "SKIN IRRITATION",
+    "SKIN REACTION",
+    "VISION BLURRED",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20131112",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IMPERIAL WELLNESS ESSENTIAL DETOX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GARLIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

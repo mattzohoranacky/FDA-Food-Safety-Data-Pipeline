@@ -1,0 +1,31 @@
+{
+  "report_number": "127077",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100511",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "CHEST DISCOMFORT",
+    "ERYTHEMA",
+    "SWELLING",
+    "TENDERNESS"
+  ],
+  "date_started": "20100510",
+  "consumer": {
+    "age": "17.15",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENEVIA POMEGRANATE IMMUNE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

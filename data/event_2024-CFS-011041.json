@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-011041",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240830",
+  "reactions": [
+    "Altered state of consciousness",
+    "Death",
+    "Metal poisoning",
+    "Seizure"
+  ],
+  "date_started": "20220715",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KARMA AYURVEDA DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

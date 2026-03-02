@@ -1,0 +1,37 @@
+{
+  "report_number": "2023-CFS-004898",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230511",
+  "reactions": [
+    "Depression",
+    "Suicidal ideation"
+  ],
+  "date_started": "20230308",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AG1 WHOLE FOOD DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "lions mane, mushi, and cordyceps",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "tetrahydrocannabinol",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

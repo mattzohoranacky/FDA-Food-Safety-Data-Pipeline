@@ -1,0 +1,34 @@
+{
+  "report_number": "137530",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20110225",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "HEADACHE",
+    "VOMITING"
+  ],
+  "date_started": "20110203",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOROT FROZEN CILANTRO",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DOROT FROZEN GARLIC",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

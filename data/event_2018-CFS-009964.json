@@ -1,0 +1,54 @@
+{
+  "report_number": "2018-CFS-009964",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180802",
+  "reactions": [
+    "Acne",
+    "Alopecia",
+    "Breast swelling",
+    "Breast tenderness",
+    "Hair texture abnormal",
+    "Lymphadenopathy",
+    "Menstruation irregular"
+  ],
+  "date_started": "20180430",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT BLOW OUT CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT SMOOTHING DEEP CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Biotin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Post Natal Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

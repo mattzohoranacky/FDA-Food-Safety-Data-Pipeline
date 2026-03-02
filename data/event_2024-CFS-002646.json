@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-002646",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240305",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Discomfort",
+    "Dyspnoea",
+    "Pruritus",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20240117",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY FISH OIL 1200MG 360MG OF OMEGA-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

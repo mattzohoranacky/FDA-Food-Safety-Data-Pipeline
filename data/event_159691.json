@@ -1,0 +1,43 @@
+{
+  "report_number": "159691",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121119",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CHOLESTEROL INCREASED",
+    "BLOOD TRIGLYCERIDES INCREASED",
+    "CHOLESTASIS",
+    "CHROMATURIA",
+    "DECREASED APPETITE",
+    "GALLBLADDER DISORDER",
+    "GENERALISED ERYTHEMA",
+    "HEPATITIS CHOLESTATIC",
+    "INTERNATIONAL NORMALISED RATIO DECREASED",
+    "JAUNDICE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "NAUSEA",
+    "PRURITUS",
+    "RASH"
+  ],
+  "date_started": "20101101",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RUXIAN TONG CHINESE HERB",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

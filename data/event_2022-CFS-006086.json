@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-006086",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220427",
+  "reactions": [
+    "Acne",
+    "Skin irritation"
+  ],
+  "date_started": "20220407",
+  "consumer": {
+    "age": "28.2",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LINI SKIN FOOD VEGAN LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

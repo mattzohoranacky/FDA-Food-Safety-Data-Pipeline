@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-005330",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20240520",
+  "reactions": [
+    "Blood pressure increased",
+    "Dehydration",
+    "Dizziness",
+    "Feeling abnormal",
+    "Palpitations"
+  ],
+  "date_started": "20240506",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOLARAY HER LIFE STAGES LIBIDO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOLARAY HER LIFE STAGES POSTMENOPAUSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

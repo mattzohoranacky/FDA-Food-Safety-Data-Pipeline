@@ -1,0 +1,32 @@
+{
+  "report_number": "2025-CFS-005179",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20250404",
+  "reactions": [
+    "Anxiety",
+    "Balance disorder",
+    "Chest discomfort",
+    "Dyspnoea",
+    "Heart rate increased",
+    "Panic attack"
+  ],
+  "date_started": "20250327",
+  "consumer": {
+    "age": "34.92",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH MAGNESIUM GLYCINATE COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

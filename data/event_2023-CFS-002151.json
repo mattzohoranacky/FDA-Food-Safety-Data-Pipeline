@@ -1,0 +1,35 @@
+{
+  "report_number": "2023-CFS-002151",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230301",
+  "reactions": [
+    "Chemical burns of eye",
+    "Eye irritation",
+    "Eye pain",
+    "Eye swelling",
+    "Lacrimation increased",
+    "Vitreous floaters"
+  ],
+  "date_started": "20230228",
+  "consumer": {
+    "age": "37.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DUO INDIVIDUAL LASH ADHESIVE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Aloe vera",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-013379",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231202",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Diverticulitis",
+    "Flatulence"
+  ],
+  "date_started": "20231111",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE PRODUCE FRUIT 90 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE PRODUCE VEGGIES 90 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "report_number": "129390",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20100823",
+  "reactions": [
+    "BLOOD GLUCOSE DECREASED",
+    "CONDITION AGGRAVATED",
+    "DIABETES MELLITUS"
+  ],
+  "date_started": "20100806",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER ULTRA MEN'S",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIBERCON (CALCIUM POLYCARBOPHIL, TABLET)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MOVE FREE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

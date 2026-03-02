@@ -1,0 +1,27 @@
+{
+  "report_number": "2023-CFS-004742",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20230508",
+  "reactions": [
+    "Abdominal pain upper",
+    "Joint stiffness",
+    "Pain",
+    "Swelling face"
+  ],
+  "date_started": "20230501",
+  "consumer": {
+    "age": "42.3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTRI KING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

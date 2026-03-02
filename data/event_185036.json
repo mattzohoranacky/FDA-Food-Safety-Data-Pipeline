@@ -1,0 +1,44 @@
+{
+  "report_number": "185036",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150123",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "ASTHENIA",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "MICTURITION DISORDER",
+    "NAUSEA",
+    "PYREXIA",
+    "URINARY HESITATION",
+    "VOMITING"
+  ],
+  "date_started": "20150120",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAMPBELLS CREAM OF MUSHROOM SOUP",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SALAD",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SMOOTHIE WITH APPLES, ORANGES, STRAWBERRIES & COCONUT MILK",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    }
+  ]
+}

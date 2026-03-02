@@ -1,0 +1,39 @@
+{
+  "report_number": "2020-CFS-002747",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200224",
+  "reactions": [
+    "Alopecia",
+    "Pruritus",
+    "Skin irritation"
+  ],
+  "date_started": "20190710",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL ARC ANGEL GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL ONE CONDITION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW POO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-000657",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20231028",
+  "reactions": [
+    "Death",
+    "Injury"
+  ],
+  "date_started": "20130627",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHNSONS POWDER NO UPC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHOWER TO SHOWER NO UPC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

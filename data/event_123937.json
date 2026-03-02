@@ -1,0 +1,32 @@
+{
+  "report_number": "123937",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100115",
+  "reactions": [
+    "LOCALISED OEDEMA",
+    "RASH MACULAR",
+    "URTICARIA"
+  ],
+  "date_started": "20100114",
+  "consumer": {
+    "age": "1",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HAPPYTOT BUTTERNUT SQUASH AND APPLE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SKIPPY CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-014547",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250908",
+  "reactions": [
+    "Food poisoning",
+    "Hypersensitivity",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Swelling"
+  ],
+  "date_started": "20250905",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE MOZZARELLA LOW-MOISTURE PART-SKIM STRING CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

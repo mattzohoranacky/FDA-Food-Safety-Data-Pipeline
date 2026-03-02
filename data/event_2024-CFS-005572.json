@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-005572",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240528",
+  "reactions": [
+    "Aspiration",
+    "Dizziness",
+    "Nausea",
+    "Seizure",
+    "Somnolence",
+    "Unresponsive to stimuli",
+    "Vomiting"
+  ],
+  "date_started": "20240525",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND SHRUUMS BIRTHDAY CAKE PREMIUM MICRODOSE CHOCOLATE",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

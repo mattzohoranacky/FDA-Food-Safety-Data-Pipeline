@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-013413",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20241029",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chest pain",
+    "Diarrhoea",
+    "Dyspepsia",
+    "Eructation",
+    "Fatigue",
+    "Headache",
+    "Musculoskeletal stiffness",
+    "Nausea",
+    "Vomiting projectile"
+  ],
+  "date_started": "20241017",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLE TRUTH GLUTEN FREE WAFFLES BLUEBERRY",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

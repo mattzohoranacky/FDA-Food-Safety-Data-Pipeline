@@ -1,0 +1,33 @@
+{
+  "report_number": "149926",
+  "outcomes": [
+    "Hospitalization",
+    "Congenital Anomaly",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090202",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABORTION SPONTANEOUS",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "NAUSEA",
+    "VAGINAL HAEMORRHAGE",
+    "VOMITING"
+  ],
+  "date_started": "20090123",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AUSTIN CHEESE WITH PEANUT BUTTER",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "110753",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090303",
+  "reactions": [
+    "ABASIA",
+    "CARDIAC ENZYMES INCREASED",
+    "DEHYDRATION",
+    "GROIN PAIN",
+    "HEPATIC ENZYME INCREASED",
+    "PANCREATIC ENZYMES INCREASED"
+  ],
+  "date_started": "20090206",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

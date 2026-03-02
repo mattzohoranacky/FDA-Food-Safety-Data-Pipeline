@@ -1,0 +1,35 @@
+{
+  "report_number": "2023-CFS-012874",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231120",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chills",
+    "Diarrhoea",
+    "Food poisoning",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20231118",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CANTALOUPES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Costco Optfiber",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

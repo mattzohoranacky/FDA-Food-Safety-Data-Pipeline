@@ -1,0 +1,35 @@
+{
+  "report_number": "2021-CFS-011312",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20211110",
+  "reactions": [
+    "Decreased appetite",
+    "Encephalopathy",
+    "Hypertension",
+    "Liver function test abnormal",
+    "Nausea",
+    "Tachycardia"
+  ],
+  "date_started": "20211105",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE HERBS GREEN VEIN BORNEO KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE HERBS RED VEIN BALI KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

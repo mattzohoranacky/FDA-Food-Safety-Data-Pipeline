@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-003040",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240319",
+  "reactions": [
+    "Chest pain",
+    "Dyspepsia",
+    "Dyspnoea",
+    "Nausea"
+  ],
+  "date_started": "20240208",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHEWY SPREE",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

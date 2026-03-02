@@ -1,0 +1,40 @@
+{
+  "report_number": "134202",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100730",
+  "reactions": [
+    "Adverse event",
+    "DIZZINESS",
+    "DYSPEPSIA",
+    "ERYTHEMA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "FLUSHING",
+    "FOOD POISONING",
+    "HEADACHE",
+    "HEART RATE INCREASED",
+    "HEART RATE IRREGULAR",
+    "NAUSEA",
+    "PALPITATIONS",
+    "PYREXIA",
+    "SKIN DISCOLOURATION",
+    "TREMOR",
+    "URTICARIA"
+  ],
+  "date_started": "20100729",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AHI TUNA ENTREE",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

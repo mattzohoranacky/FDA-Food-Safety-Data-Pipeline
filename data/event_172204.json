@@ -1,0 +1,37 @@
+{
+  "report_number": "172204",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20131106",
+  "reactions": [
+    "CEREBROVASCULAR ACCIDENT",
+    "TRANSIENT ISCHAEMIC ATTACK"
+  ],
+  "date_started": "20130722",
+  "consumer": {
+    "age": "85",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUINCY BIOSCIENCE PREVAGEN, ES, 20MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

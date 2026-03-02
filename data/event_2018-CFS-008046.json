@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-008046",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180608",
+  "reactions": [
+    "Abdominal pain",
+    "Coeliac disease"
+  ],
+  "date_started": "20180528",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARROWHEAD MILLS ORGANIC BROWN RICE FLOUR GLUTEN FREE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARROWHEAD MILLS ORGANIC TAPIOCA FLOUR GLUTEN FREE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

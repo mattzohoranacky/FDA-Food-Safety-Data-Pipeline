@@ -1,0 +1,31 @@
+{
+  "report_number": "110533",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090205",
+  "reactions": [
+    "DIARRHOEA",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "MALAISE",
+    "NAUSEA",
+    "RETCHING",
+    "VOMITING"
+  ],
+  "date_started": "20090112",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRED MEYER SELF SERVE FRESH GROUND PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

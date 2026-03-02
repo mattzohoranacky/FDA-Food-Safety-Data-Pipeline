@@ -1,0 +1,34 @@
+{
+  "report_number": "189593",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150910",
+  "reactions": [
+    "BLOOD CALCIUM INCREASED",
+    "BLOOD IRON INCREASED",
+    "CONSTIPATION",
+    "MEDICAL DEVICE COMPLICATION",
+    "VITAMIN D DECREASED"
+  ],
+  "date_started": "20150908",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER WOMEN'S 50+ (MULTIMINERALS, MULTIVITAMINS) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GLUCERNA (AMINO ACIDS NOS, CARTHAMUS TINCTORIUS OIL, FRUCTOSE, GLYCINE MAX SEED OIL, MINERALS NOS, VITAMINS NOS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

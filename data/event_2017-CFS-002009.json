@@ -1,0 +1,37 @@
+{
+  "report_number": "2017-CFS-002009",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20171122",
+  "reactions": [
+    "Cholestasis",
+    "Chromaturia",
+    "Dizziness",
+    "Hepatitis",
+    "Hepatotoxicity",
+    "Jaundice",
+    "Malaise",
+    "Nausea"
+  ],
+  "date_started": "20170917",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEAN MODE STIMULANT-FREE FAT BURNER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THERMOGENIC FAT BURNER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

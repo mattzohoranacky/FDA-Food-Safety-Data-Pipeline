@@ -1,0 +1,32 @@
+{
+  "report_number": "191037",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20151026",
+  "reactions": [
+    "DIZZINESS",
+    "HEADACHE",
+    "Product taste abnormal"
+  ],
+  "date_started": "20151022",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NABISCO (MONDELEZ) GRAHAM CRACKER HONEY GRAHAM CRACKER",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MELTED CHOCOLATE AND MARSHMALLOW MIX (S'MORES)",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

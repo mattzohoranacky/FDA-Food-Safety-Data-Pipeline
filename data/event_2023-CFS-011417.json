@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-011417",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20231020",
+  "reactions": [
+    "Eye pain",
+    "Ocular hyperaemia",
+    "Sensitive skin",
+    "Visual impairment"
+  ],
+  "date_started": "20231011",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOOD HABIT RESCUE ME BRIGHT AWAKE EYE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

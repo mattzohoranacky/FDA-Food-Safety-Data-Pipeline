@@ -1,0 +1,30 @@
+{
+  "report_number": "131932",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100802",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ASTHENIA",
+    "BLOOD GLUCOSE INCREASED",
+    "DYSPEPSIA",
+    "PANCREATIC DISORDER"
+  ],
+  "date_started": "20100629",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN WORLD L-GLUTAMINE 500MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

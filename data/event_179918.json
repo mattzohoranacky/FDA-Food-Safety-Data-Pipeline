@@ -1,0 +1,30 @@
+{
+  "report_number": "179918",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140822",
+  "reactions": [
+    "Body temperature fluctuation",
+    "Cronobacter test positive",
+    "Decreased appetite",
+    "Escherichia test positive",
+    "Pyrexia"
+  ],
+  "date_started": "20140813",
+  "consumer": {
+    "age": "6",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCED DRY FORMULA WITH IRON",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

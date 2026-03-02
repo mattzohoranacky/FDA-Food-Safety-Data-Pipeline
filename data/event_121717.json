@@ -1,0 +1,36 @@
+{
+  "report_number": "121717",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20080227",
+  "reactions": [
+    "Chest discomfort",
+    "Deafness",
+    "Discomfort",
+    "Dizziness",
+    "Hyperventilation",
+    "Loss of consciousness",
+    "Palpitations"
+  ],
+  "date_started": "20080201",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TREETOP APPLESAUCE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TREETOP APPLESAUCE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

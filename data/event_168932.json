@@ -1,0 +1,34 @@
+{
+  "report_number": "168932",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130806",
+  "reactions": [
+    "CEREBROVASCULAR ACCIDENT",
+    "CONFUSIONAL STATE",
+    "DEHYDRATION",
+    "PARAESTHESIA",
+    "TOXICOLOGIC TEST ABNORMAL"
+  ],
+  "date_started": "20130703",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRAZE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OPTIMUM GOLD STANDARD 100% WHEY PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

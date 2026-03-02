@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-008658",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230816",
+  "reactions": [
+    "Abnormal faeces",
+    "Hypovitaminosis",
+    "Malabsorption",
+    "Muscle atrophy",
+    "Steatorrhoea",
+    "Weight decreased"
+  ],
+  "date_started": "20221102",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STEP ONE FOODS GRANOLA TYPE BAR",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

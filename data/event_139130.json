@@ -1,0 +1,30 @@
+{
+  "report_number": "139130",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110414",
+  "reactions": [
+    "CHOKING",
+    "FAECES DISCOLOURED",
+    "HAEMATOCHEZIA",
+    "HAEMORRHAGE",
+    "OESOPHAGEAL RUPTURE",
+    "TENDERNESS"
+  ],
+  "date_started": "20110326",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAMPBELL S CHUNKY SOUP BEEF WITH COUNTRY VEGETABLES",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    }
+  ]
+}

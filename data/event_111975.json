@@ -1,0 +1,29 @@
+{
+  "report_number": "111975",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090409",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "HEPATIC ENZYME INCREASED",
+    "JAUNDICE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20090306",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHERADROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

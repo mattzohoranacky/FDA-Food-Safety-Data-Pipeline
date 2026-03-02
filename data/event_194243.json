@@ -1,0 +1,32 @@
+{
+  "report_number": "194243",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160309",
+  "reactions": [
+    "CARDIAC FIBRILLATION",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "HEART RATE INCREASED",
+    "HYPERHIDROSIS",
+    "PALPITATIONS",
+    "SYNCOPE",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20160129",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NESTLE BOOST NUTRITIONAL DRINK",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

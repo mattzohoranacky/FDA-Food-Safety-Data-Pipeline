@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-015525",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241207",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Gastrooesophageal reflux disease",
+    "Headache",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20241206",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TURKEY TOM SANDWICH",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

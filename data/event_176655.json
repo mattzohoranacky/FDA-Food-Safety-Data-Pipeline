@@ -1,0 +1,42 @@
+{
+  "report_number": "176655",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140521",
+  "reactions": [
+    "FEELING HOT",
+    "HEADACHE",
+    "LOSS OF CONSCIOUSNESS",
+    "MYOCARDIAL INFARCTION",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20140326",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY ULTRA STRENGTH ADVANCED PROBIOTIC 10 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OSCAL-500",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

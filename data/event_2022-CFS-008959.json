@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-008959",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220527",
+  "reactions": [
+    "Anxiety",
+    "Chest pain",
+    "Fear"
+  ],
+  "date_started": "20220525",
+  "consumer": {
+    "age": "31.7",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL GREENS DELTA 8 HEMP GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Daily men's vitamin generic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

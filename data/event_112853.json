@@ -1,0 +1,29 @@
+{
+  "report_number": "112853",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090506",
+  "reactions": [
+    "BACK PAIN",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "HEADACHE"
+  ],
+  "date_started": "20090325",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT HARDCORE LIQUID CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

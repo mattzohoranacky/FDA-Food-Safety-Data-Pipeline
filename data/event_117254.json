@@ -1,0 +1,33 @@
+{
+  "report_number": "117254",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090825",
+  "reactions": [
+    "Adverse reaction",
+    "BLISTER",
+    "HYPERSENSITIVITY",
+    "RASH"
+  ],
+  "date_started": "20090816",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UMPQUAH VANILLA ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PLUM",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

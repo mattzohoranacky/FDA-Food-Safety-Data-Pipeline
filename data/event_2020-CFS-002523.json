@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-002523",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200220",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain upper"
+  ],
+  "date_started": "20191101",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIVINE HEALTH KETO ZONE DR. COLBERT MCT OIL POWDER",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

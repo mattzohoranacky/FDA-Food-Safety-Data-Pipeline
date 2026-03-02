@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-010387",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220629",
+  "reactions": [
+    "Abdominal pain",
+    "Asthenia",
+    "Nausea",
+    "Pain",
+    "Pyrexia"
+  ],
+  "date_started": "20220613",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRENCH LENTIL  LEEK CRUMBLES",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

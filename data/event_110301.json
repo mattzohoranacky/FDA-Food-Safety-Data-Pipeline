@@ -1,0 +1,31 @@
+{
+  "report_number": "110301",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090217",
+  "reactions": [
+    "DIARRHOEA",
+    "LOCALISED OEDEMA",
+    "OCULAR HYPERAEMIA",
+    "PHARYNGITIS",
+    "PRURITUS",
+    "RASH",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20090207",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEPLIN",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

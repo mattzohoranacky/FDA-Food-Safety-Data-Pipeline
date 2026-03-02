@@ -1,0 +1,27 @@
+{
+  "report_number": "2020-CFS-002640",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20200210",
+  "reactions": [
+    "Hypercalcaemia",
+    "Pain",
+    "Vitamin D increased",
+    "Vomiting"
+  ],
+  "date_started": "20200205",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESCRIBED FOR LIFE CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

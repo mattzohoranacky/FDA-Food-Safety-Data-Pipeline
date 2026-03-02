@@ -1,0 +1,53 @@
+{
+  "report_number": "144438",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110921",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FATIGUE",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HAEMATOCHEZIA",
+    "HEADACHE",
+    "MUSCULOSKELETAL DISORDER",
+    "MYALGIA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20110819",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BOILED SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRAB AND SPINACH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RAW CLAM",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

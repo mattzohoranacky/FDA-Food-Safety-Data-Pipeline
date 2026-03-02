@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-011706",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240924",
+  "reactions": [
+    "Abdominal discomfort",
+    "Malaise",
+    "Reaction to sweetener"
+  ],
+  "date_started": "20240918",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTIFICIAL SWEETENER",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES NECTAR SPLASH BERRY BLEND JUICE AND NATURE'S NECTAR SPLASH TR",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

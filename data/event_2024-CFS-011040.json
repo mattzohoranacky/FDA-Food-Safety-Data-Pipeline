@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-011040",
+  "outcomes": [
+    "Life Threatening",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240830",
+  "reactions": [
+    "Anaphylactic reaction"
+  ],
+  "date_started": "20240728",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFE EXTENSION CYTOKINE SUPPRESS WITH EGCG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFE EXTENSION GLYCINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFE EXTENSION MEGA BENFOTIAMINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

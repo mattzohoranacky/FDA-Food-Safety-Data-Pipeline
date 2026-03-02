@@ -1,0 +1,36 @@
+{
+  "report_number": "194134",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160307",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN UPPER",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "ERUCTATION",
+    "FLATULENCE",
+    "VOMITING"
+  ],
+  "date_started": "20160304",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACTIVIA BLUEBERRY YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

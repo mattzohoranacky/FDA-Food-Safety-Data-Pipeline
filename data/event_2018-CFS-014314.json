@@ -1,0 +1,29 @@
+{
+  "report_number": "2018-CFS-014314",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20181130",
+  "reactions": [
+    "Cystic fibrosis"
+  ],
+  "date_started": "20181113",
+  "consumer": {
+    "age": "8.35",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AQUADEKS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Dekas Plus",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

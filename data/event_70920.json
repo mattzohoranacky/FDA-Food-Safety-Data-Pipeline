@@ -1,0 +1,78 @@
+{
+  "report_number": "70920",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040730",
+  "reactions": [
+    "DERMATITIS EXFOLIATIVE",
+    "DERMATOLOGIC EXAMINATION",
+    "DRY SKIN",
+    "ERYTHEMA",
+    "INFLAMMATION",
+    "MULTIPLE ALLERGIES",
+    "SWELLING"
+  ],
+  "date_started": "20031225",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CETAPHIL CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CETAPHIL LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAL SOAP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LANCOME BI-FACIAL EYE MAKEUP REMOVER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LANCOME FOUNDATION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHISEIDO LIQUID EYELINER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHISEIDO POWDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THERMASILK CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THERMASILK SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

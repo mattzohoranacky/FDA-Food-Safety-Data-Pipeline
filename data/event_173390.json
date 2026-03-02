@@ -1,0 +1,69 @@
+{
+  "report_number": "173390",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131218",
+  "reactions": [
+    "MUSCULAR WEAKNESS",
+    "PAIN IN EXTREMITY",
+    "RHABDOMYOLYSIS"
+  ],
+  "date_started": "20131123",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC BEYOND RAW RE-BUILT MASS CHOCOLATE BROWNIE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC BEYOND RAW RE-BUILT MASS STRAWBERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC BEYOND RAW RE-LOADED VITPAK PROGRAM ANABOLIC PRIMER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC BEYOND RAW RE-LOADED VITPAK PROGRAM HARDCORE MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC BEYOND RAW RE-LOADED VITPAK PROGRAM MTOR MATRIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC BEYOND RAW RE-LOADED VITPAK PROGRAM N.O. PUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC BEYOND RAW RE-LOADED VITPAK PROGRAM RAW DIGESTIVE COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC BEYOND RAW RE-LOADED VITPAK PROGRAM TRIPLE STRENGTH FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

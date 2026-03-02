@@ -1,0 +1,30 @@
+{
+  "report_number": "2017-CFS-001063",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171014",
+  "reactions": [
+    "Dizziness"
+  ],
+  "date_started": "20171013",
+  "consumer": {
+    "age": "9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZAZA CHEWY FILLED CANDY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Flintstones chewable vitamin daily",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

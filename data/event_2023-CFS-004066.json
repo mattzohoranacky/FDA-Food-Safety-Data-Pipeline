@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-004066",
+  "outcomes": [
+    "Disability",
+    "Congenital Anomaly"
+  ],
+  "date_created": "20230417",
+  "reactions": [
+    "Abdominal pain upper",
+    "Headache",
+    "Nausea"
+  ],
+  "date_started": "20230415",
+  "consumer": {
+    "age": "59.6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW VEGETABLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

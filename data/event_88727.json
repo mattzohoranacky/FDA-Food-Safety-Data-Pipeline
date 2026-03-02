@@ -1,0 +1,32 @@
+{
+  "report_number": "88727",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20061011",
+  "reactions": [
+    "Adverse reaction",
+    "HYPERSENSITIVITY",
+    "MUCOSAL INFLAMMATION"
+  ],
+  "date_started": "20061009",
+  "consumer": {
+    "age": "1",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MOCHA MIX",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUCOA MARGARINE",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    }
+  ]
+}

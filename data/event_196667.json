@@ -1,0 +1,43 @@
+{
+  "report_number": "196667",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20160525",
+  "reactions": [
+    "ALLERGY TEST POSITIVE",
+    "DERMATITIS CONTACT",
+    "DRY SKIN",
+    "HYPERSENSITIVITY",
+    "INSOMNIA",
+    "PAIN",
+    "PRURITUS",
+    "SKIN FISSURES"
+  ],
+  "date_started": "20160524",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CONDITIONERS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOTIONS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAMPOOS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

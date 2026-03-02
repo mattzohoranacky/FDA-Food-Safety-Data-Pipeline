@@ -1,0 +1,51 @@
+{
+  "report_number": "203370",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20161024",
+  "reactions": [
+    "ASTHENIA",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD TRIGLYCERIDES INCREASED",
+    "CHROMATURIA",
+    "HEPATIC ENZYME INCREASED",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "PROTHROMBIN TIME PROLONGED",
+    "PRURITUS"
+  ],
+  "date_started": "20161019",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PENTA BUILT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MILK THISTLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NAC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OTHER PROHORMONE SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "report_number": "2021-CFS-002463",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210316",
+  "reactions": [
+    "Appendicitis"
+  ],
+  "date_started": "20210307",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GROWN AMERICAN SUPERFOOD",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

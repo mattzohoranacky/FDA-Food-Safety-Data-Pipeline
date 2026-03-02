@@ -1,0 +1,30 @@
+{
+  "report_number": "2020-CFS-000099",
+  "outcomes": [
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200106",
+  "reactions": [
+    "Trigeminal neuralgia"
+  ],
+  "date_started": "20191130",
+  "consumer": {
+    "age": "40.04",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "U-DREAM LITE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "U Dream Lite Herbal Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

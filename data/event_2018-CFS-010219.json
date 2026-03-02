@@ -1,0 +1,45 @@
+{
+  "report_number": "2018-CFS-010219",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180807",
+  "reactions": [
+    "Aphasia",
+    "Blood magnesium decreased",
+    "Blood potassium decreased",
+    "Dizziness",
+    "Fatigue",
+    "Hyperventilation",
+    "Hypoaesthesia",
+    "Loss of consciousness",
+    "Muscle spasms",
+    "Muscle tightness",
+    "Nausea",
+    "Presyncope",
+    "Tremor",
+    "Vomiting"
+  ],
+  "date_started": "20180710",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIMVANCE THERMOGENIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED AMINO ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

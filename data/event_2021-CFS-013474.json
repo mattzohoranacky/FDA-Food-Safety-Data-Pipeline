@@ -1,0 +1,58 @@
+{
+  "report_number": "2021-CFS-013474",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20211228",
+  "reactions": [
+    "Alopecia",
+    "Basedow's disease",
+    "Blood pressure increased",
+    "Burning sensation",
+    "Confusional state",
+    "Dry skin",
+    "Heart rate increased",
+    "Hypoaesthesia",
+    "Paraesthesia",
+    "Pruritus",
+    "Tremor"
+  ],
+  "date_started": "20200120",
+  "consumer": {
+    "age": "42.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AUSSIE DRY CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AUSSIE DRY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Selenium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit D 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

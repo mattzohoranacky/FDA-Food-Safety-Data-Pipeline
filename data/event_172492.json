@@ -1,0 +1,46 @@
+{
+  "report_number": "172492",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131115",
+  "reactions": [
+    "ANTINUCLEAR ANTIBODY POSITIVE",
+    "ASTHENIA",
+    "BLOOD BICARBONATE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CREATININE INCREASED",
+    "BLOOD PRESSURE SYSTOLIC DECREASED",
+    "BLOOD THYROID STIMULATING HORMONE INCREASED",
+    "BLOOD URINE PRESENT",
+    "DEHYDRATION",
+    "DIZZINESS",
+    "HYPERHIDROSIS",
+    "HYPOTENSION",
+    "NAUSEA",
+    "ORTHOSTATIC HYPOTENSION",
+    "RENAL FAILURE",
+    "SYNCOPE"
+  ],
+  "date_started": "20131022",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KYANI SUNRISE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KYANI SUNSET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

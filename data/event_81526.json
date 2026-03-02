@@ -1,0 +1,33 @@
+{
+  "report_number": "81526",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20051021",
+  "reactions": [
+    "DIARRHOEA",
+    "EMERGENCY CARE EXAMINATION",
+    "HOSPITALISATION",
+    "HYPOAESTHESIA",
+    "HYPOKALAEMIA",
+    "HYPOTENSION",
+    "VENTRICULAR TACHYCARDIA",
+    "VOMITING"
+  ],
+  "date_started": "20051012",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MANDRAKE ROOT POWDER (PODOPHYLLUM PELTATUM)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

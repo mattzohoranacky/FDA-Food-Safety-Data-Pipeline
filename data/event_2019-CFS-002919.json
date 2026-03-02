@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-002919",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20190320",
+  "reactions": [
+    "Abdominal distension",
+    "Diarrhoea",
+    "Flatulence"
+  ],
+  "date_started": "20190307",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHEERIOS PUMPKIN SPICE",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER OATS",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "180732",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141112",
+  "reactions": [
+    "DRY SKIN",
+    "ECZEMA",
+    "EYE SWELLING",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "SWELLING FACE"
+  ],
+  "date_started": "20141016",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALMAY INTENSE I-COLOR, COLOR 002 BROWN TOPAZ, EYE LINER PENCIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DEPLIN",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

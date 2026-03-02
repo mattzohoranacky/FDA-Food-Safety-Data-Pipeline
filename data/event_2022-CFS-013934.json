@@ -1,0 +1,45 @@
+{
+  "report_number": "2022-CFS-013934",
+  "outcomes": [
+    "Death",
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220912",
+  "reactions": [
+    "Confusional state",
+    "Death",
+    "Encephalopathy",
+    "Malaise",
+    "Pain",
+    "Sepsis",
+    "Urinary tract infection"
+  ],
+  "date_started": "20220521",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER MAGNESIUM CITRATE LEMON AND GRAPE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PROTEIN CAFE LATTE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PROTEIN VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

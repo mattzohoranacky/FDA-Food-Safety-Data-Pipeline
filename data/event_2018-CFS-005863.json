@@ -1,0 +1,29 @@
+{
+  "report_number": "2018-CFS-005863",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180415",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Nausea",
+    "Pyrexia"
+  ],
+  "date_started": "20180410",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE 18 LARGE WHITE GRADE A",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    }
+  ]
+}

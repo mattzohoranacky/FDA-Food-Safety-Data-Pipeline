@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-007075",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180508",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea"
+  ],
+  "date_started": "20180424",
+  "consumer": {
+    "age": "43.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIETSPOTLIGHT BURN HD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

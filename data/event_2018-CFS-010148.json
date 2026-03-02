@@ -1,0 +1,48 @@
+{
+  "report_number": "2018-CFS-010148",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180807",
+  "reactions": [
+    "Eye pain",
+    "Eye pruritus",
+    "Eye swelling",
+    "Local swelling",
+    "Pain",
+    "Pain in extremity",
+    "Pruritus generalised",
+    "Swelling"
+  ],
+  "date_started": "20180628",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMENS ULTRA MEGA MENOPAUSE VITAPAK - EVENING PRIMROSE 1300",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMENS ULTRA MEGA MENOPAUSE VITAPAK - FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMENS ULTRA MEGA MENOPAUSE VITAPAK - MENOPAUSE FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMENS ULTRA MEGA MENOPAUSE VITAPAK - ULTRA MEGA BONE DENSITY WITHOUT IRON AND IODINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

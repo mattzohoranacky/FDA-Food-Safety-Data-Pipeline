@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-000873",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200129",
+  "reactions": [
+    "Abdominal pain",
+    "Gastritis"
+  ],
+  "date_started": "20190525",
+  "consumer": {
+    "age": "32.6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCHWARTZ GLUCOSAMINE CHONDROTIN MSM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SBO probiotics.",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

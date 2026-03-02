@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-014227",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20181205",
+  "reactions": [
+    "Abdominal distension",
+    "Coeliac disease",
+    "Diarrhoea",
+    "Flatulence",
+    "Nausea"
+  ],
+  "date_started": "20181203",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Calcium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

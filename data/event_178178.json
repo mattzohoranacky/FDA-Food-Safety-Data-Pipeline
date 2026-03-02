@@ -1,0 +1,31 @@
+{
+  "report_number": "178178",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140722",
+  "reactions": [
+    "Accidental exposure to product",
+    "BURNING SENSATION",
+    "DIZZINESS",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HEADACHE",
+    "SALIVARY GLAND DISORDER",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20140714",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POLAND SPRINGS NATURAL SPRING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

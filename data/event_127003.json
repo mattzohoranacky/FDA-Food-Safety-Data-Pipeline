@@ -1,0 +1,31 @@
+{
+  "report_number": "127003",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100603",
+  "reactions": [
+    "PRURITUS",
+    "URTICARIA"
+  ],
+  "date_started": "20100427",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CANDEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIVING FLORA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

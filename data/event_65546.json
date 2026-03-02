@@ -1,0 +1,36 @@
+{
+  "report_number": "65546",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20030701",
+  "reactions": [
+    "DYSPNOEA",
+    "EMERGENCY CARE EXAMINATION",
+    "EYE IRRITATION",
+    "EYE OEDEMA",
+    "EYE PRURITUS",
+    "HOSPITALISATION",
+    "Hypersensitivity",
+    "SINUS PAIN",
+    "SNEEZING",
+    "THROAT TIGHTNESS",
+    "VISION BLURRED"
+  ],
+  "date_started": "20030624",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BUNNY LOVE FRESH BABY CARROTS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

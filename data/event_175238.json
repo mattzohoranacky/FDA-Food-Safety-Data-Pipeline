@@ -1,0 +1,50 @@
+{
+  "report_number": "175238",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140404",
+  "reactions": [
+    "CEREBROVASCULAR ACCIDENT",
+    "CONFUSIONAL STATE",
+    "DISCOMFORT",
+    "DISTURBANCE IN ATTENTION",
+    "HEART RATE INCREASED",
+    "NERVOUSNESS",
+    "PANIC ATTACK",
+    "PSYCHOMOTOR HYPERACTIVITY"
+  ],
+  "date_started": "20140303",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC MEGA MEN SPORT VITAPAK PROGRAM (BURN 60)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC MEGA MEN SPORT VITAPAK PROGRAM (L-ARGININE & L-CITULLINE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC MEGA MEN SPORT VITAPAK PROGRAM (L-GLUTAMINE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC MEGA MEN SPORT VITAPAK PROGRAM (MEGA MEN SPORT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

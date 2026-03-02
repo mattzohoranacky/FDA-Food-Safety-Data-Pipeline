@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-003498",
+  "outcomes": [
+    "Death",
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Congenital Anomaly",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220310",
+  "reactions": [
+    "Death",
+    "Poisoning"
+  ],
+  "date_started": "20220308",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GAMING POWDER BY ADVANCED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

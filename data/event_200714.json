@@ -1,0 +1,46 @@
+{
+  "report_number": "200714",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160826",
+  "reactions": [
+    "DERMATITIS ALLERGIC",
+    "ERYTHEMA",
+    "PRURITUS",
+    "RASH",
+    "RASH GENERALISED"
+  ],
+  "date_started": "20160825",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITICOLINE MIRACOLINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FERROUS SULFATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STRESSTABS MULTIVITAMINS WITH ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C 500 MG/TAB",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

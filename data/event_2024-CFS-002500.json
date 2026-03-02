@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-002500",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240228",
+  "reactions": [
+    "Kidney infection",
+    "Urinary tract infection"
+  ],
+  "date_started": "20240202",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH PALEO CLEANSE PLUS 14 DAY DETOX PROGRAM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

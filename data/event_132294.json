@@ -1,0 +1,33 @@
+{
+  "report_number": "132294",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101112",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DYSPNOEA",
+    "GALLBLADDER DISORDER",
+    "HEADACHE",
+    "INFLUENZA LIKE ILLNESS",
+    "MALAISE",
+    "PAIN",
+    "PYREXIA",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20101104",
+  "consumer": {
+    "age": "45.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLEXAMIN TRIPLE STRENGTH GLUCOSAMINE CHONDROITIN FORMULA WITH JOINT FLEX PLUS VITAMIN D3 + MSM TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

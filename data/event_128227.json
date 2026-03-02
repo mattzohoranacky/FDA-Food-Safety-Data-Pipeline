@@ -1,0 +1,33 @@
+{
+  "report_number": "128227",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100712",
+  "reactions": [
+    "BLOOD CALCIUM INCREASED",
+    "CALCULUS BLADDER",
+    "CHOLELITHIASIS",
+    "DRUG EXPOSURE DURING PREGNANCY"
+  ],
+  "date_started": "20100625",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TUMS EXTRA STRENGHT TABLETS, ASSORTED FRUIT (CALCIUM CARBONATE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TUMS REGULAR STRENGTH, PEPPERMINT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

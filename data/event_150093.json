@@ -1,0 +1,28 @@
+{
+  "report_number": "150093",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120316",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "DYSPNOEA",
+    "URTICARIA"
+  ],
+  "date_started": "20120303",
+  "consumer": {
+    "age": "25.61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "5 HOUR ENERGY BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

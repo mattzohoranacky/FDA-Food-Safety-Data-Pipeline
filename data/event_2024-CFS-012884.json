@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-012884",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241020",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Headache",
+    "Nausea",
+    "Rash",
+    "Swelling",
+    "Vomiting"
+  ],
+  "date_started": "20241020",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NERDS GUMMY CLUSTERS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

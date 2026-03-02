@@ -1,0 +1,31 @@
+{
+  "report_number": "86237",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060322",
+  "reactions": [
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "MYOCLONUS",
+    "RHABDOMYOLYSIS",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20060316",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONSTER ENERGY DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

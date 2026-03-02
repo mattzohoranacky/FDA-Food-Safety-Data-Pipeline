@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-000317",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230113",
+  "reactions": [
+    "Atrial fibrillation",
+    "Blood magnesium decreased",
+    "Blood potassium decreased",
+    "Heart rate irregular"
+  ],
+  "date_started": "20221216",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "8GREENS GELATIN GUMMIES PEACH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

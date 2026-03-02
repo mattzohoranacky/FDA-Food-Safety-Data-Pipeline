@@ -1,0 +1,36 @@
+{
+  "report_number": "113721",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090604",
+  "reactions": [
+    "BURNING SENSATION",
+    "CAUSTIC INJURY",
+    "DISCOMFORT",
+    "EYE SWELLING",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "SKIN DISCOLOURATION",
+    "SWELLING"
+  ],
+  "date_started": "20090521",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "L'OREAL PARIS PREFERENCE HAIR COLOR PRODUCT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "181086",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20141121",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CHEST PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20141119",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRAFT LUNCHABLE",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PACIFIC COOLER CAPRI SUN",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

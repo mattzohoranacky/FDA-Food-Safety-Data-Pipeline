@@ -1,0 +1,35 @@
+{
+  "report_number": "86588",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060414",
+  "reactions": [
+    "VOMITING"
+  ],
+  "date_started": "20060414",
+  "consumer": {
+    "age": "15",
+    "age_unit": "month(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTH'S BEST BANANA PEACHES AND RASPBERRY",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTH'S BEST PEACH OATMEAL AND BANANA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTH'S BEST RICE CEREAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

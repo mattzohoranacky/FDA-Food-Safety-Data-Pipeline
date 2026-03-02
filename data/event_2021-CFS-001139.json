@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-001139",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210202",
+  "reactions": [
+    "Blister",
+    "Burning sensation",
+    "Eczema",
+    "Pruritus"
+  ],
+  "date_started": "20210125",
+  "consumer": {
+    "age": "56.2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEAUTY 360 COCO BUTTER LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQUATE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VASELINE INTENSIVE CARE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

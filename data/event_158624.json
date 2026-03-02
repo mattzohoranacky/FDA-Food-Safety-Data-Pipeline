@@ -1,0 +1,31 @@
+{
+  "report_number": "158624",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121105",
+  "reactions": [
+    "CHEST PAIN",
+    "HEART RATE INCREASED",
+    "HYPERTENSION",
+    "HYPOAESTHESIA",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20120710",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTIMATE FORMULA BEE POLLEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

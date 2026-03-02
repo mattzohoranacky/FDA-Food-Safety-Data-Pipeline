@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-003081",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180223",
+  "reactions": [
+    "Chills",
+    "Feeling abnormal",
+    "Pneumonia klebsiella",
+    "Tremor"
+  ],
+  "date_started": "20171222",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALIGN PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

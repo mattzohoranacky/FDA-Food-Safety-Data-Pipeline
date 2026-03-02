@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-001026",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210129",
+  "reactions": [
+    "Abdominal discomfort",
+    "Anxiety",
+    "Dyspnoea",
+    "Gastrooesophageal reflux disease",
+    "Nausea",
+    "Nervousness",
+    "Vomiting"
+  ],
+  "date_started": "20200701",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRITOS FLAMING HOT CHEETOS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

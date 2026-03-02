@@ -1,0 +1,65 @@
+{
+  "report_number": "173387",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131218",
+  "reactions": [
+    "DIZZINESS",
+    "DYSPHONIA",
+    "FATIGUE",
+    "FEELING HOT",
+    "HYPERHIDROSIS",
+    "HYPERSENSITIVITY",
+    "LACRIMATION INCREASED",
+    "LISTLESS",
+    "NAUSEA",
+    "RHINORRHOEA",
+    "SNEEZING"
+  ],
+  "date_started": "20131126",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN ENERGY & METABOLISM VITAPAK PROGRAM: ENERGY AND METABOLISM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN ENERGY & METABOLISM VITAPAK: BURN 60",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN ENERGY & METABOLISM VITAPAK: CARNITINE 500",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN ENERGY & METABOLISM VITAPAK: CONCENTRATED FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN ENERGY & METABOLISM VITAPAK: STAMINOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GINSENG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "92124",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070320",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL TENDERNESS",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "HEPATOCELLULAR DAMAGE",
+    "JAUNDICE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "MALAISE",
+    "NAUSEA",
+    "THERAPEUTIC AGENT TOXICITY",
+    "VOMITING"
+  ],
+  "date_started": "20070227",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAGGIE DROZD SPICE DIET PILLS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

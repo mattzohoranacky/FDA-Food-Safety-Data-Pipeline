@@ -1,0 +1,29 @@
+{
+  "report_number": "156061",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120831",
+  "reactions": [
+    "DYSPNOEA",
+    "OEDEMA"
+  ],
+  "date_started": "20110708",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIVEREX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

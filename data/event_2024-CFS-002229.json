@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-002229",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240209",
+  "reactions": [
+    "Dyspnoea",
+    "Swelling",
+    "Urticaria",
+    "Vomiting"
+  ],
+  "date_started": "20230526",
+  "consumer": {
+    "age": "1",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MENA FOODS SUNDRIED TOMATO HUMMUS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

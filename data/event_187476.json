@@ -1,0 +1,47 @@
+{
+  "report_number": "187476",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150629",
+  "reactions": [
+    "ABASIA",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "BLOOD SODIUM DECREASED",
+    "BLOOD UREA INCREASED",
+    "CARBON DIOXIDE DECREASED",
+    "LYMPHOCYTE COUNT INCREASED",
+    "MYALGIA",
+    "NEUTROPHIL COUNT INCREASED",
+    "PAIN IN EXTREMITY",
+    "RHABDOMYOLYSIS",
+    "URINE ANALYSIS ABNORMAL",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20150624",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARNIVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CREATINE SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLEPHARM® ARNOLD SCHWARZENEGGER SERIES ARNOLD IRON PUMP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

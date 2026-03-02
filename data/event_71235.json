@@ -1,0 +1,31 @@
+{
+  "report_number": "71235",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040811",
+  "reactions": [
+    "HEPATIC ENZYME INCREASED",
+    "PHYSICAL EXAMINATION"
+  ],
+  "date_started": "20040626",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLETECH EPHEDRA FREE HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

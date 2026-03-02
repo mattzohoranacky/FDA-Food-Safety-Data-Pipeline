@@ -1,0 +1,55 @@
+{
+  "report_number": "122687",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100106",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ANXIETY",
+    "ASTHENIA",
+    "CONFUSIONAL STATE",
+    "DEPRESSION",
+    "FATIGUE",
+    "HOT FLUSH",
+    "HYPERHIDROSIS",
+    "INSOMNIA",
+    "MUSCLE SPASMS",
+    "MUSCLE TWITCHING",
+    "NEPHROLITHIASIS",
+    "NERVOUSNESS",
+    "NIGHTMARE",
+    "SLEEP DISORDER",
+    "STRESS",
+    "TREMOR",
+    "URINARY TRACT DISORDER"
+  ],
+  "date_started": "20091215",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CVS VALERIAN 490MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUN VALLEY VALERIAN 400MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MELATONIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

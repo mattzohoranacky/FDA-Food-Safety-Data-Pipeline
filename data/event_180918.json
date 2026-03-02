@@ -1,0 +1,38 @@
+{
+  "report_number": "180918",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20141114",
+  "reactions": [
+    "CHILLS",
+    "CHROMATURIA",
+    "CONDITION AGGRAVATED",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20141021",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRECISION ENGINEERED LIQUI-FUSION RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN WORLD ULTRA MAN SPORT HIGH POTENCY TIMED RELEASE COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

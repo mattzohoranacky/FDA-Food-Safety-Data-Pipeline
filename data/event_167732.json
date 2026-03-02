@@ -1,0 +1,42 @@
+{
+  "report_number": "167732",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130709",
+  "reactions": [
+    "ARTHRALGIA",
+    "COELIAC DISEASE",
+    "DYSKINESIA",
+    "GOITRE",
+    "MALAISE",
+    "PARALYSIS",
+    "RHEUMATOID ARTHRITIS",
+    "SHOCK",
+    "TREMOR",
+    "VERTIGO",
+    "VOMITING"
+  ],
+  "date_started": "20130617",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OSTEO BI FLEX NUTRA JOINT WITH GLUCOSAMINE UNFLAVORED DRINK MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OSTEO BI-FLEX WITH 5-LOXIN ADVANCED JOINT & MUSCLE COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

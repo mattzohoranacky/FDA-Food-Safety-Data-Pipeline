@@ -1,0 +1,35 @@
+{
+  "report_number": "125893",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20100423",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CHILLS",
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "HEADACHE",
+    "HYPERHIDROSIS"
+  ],
+  "date_started": "20100125",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS RAW OYSTERS ON THE HALF SHELL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "AHI TUNA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

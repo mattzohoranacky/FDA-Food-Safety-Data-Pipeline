@@ -1,0 +1,35 @@
+{
+  "report_number": "198372",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160711",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "RENAL FAILURE ACUTE",
+    "VOMITING"
+  ],
+  "date_started": "20160525",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE MULTI FOR HIM (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

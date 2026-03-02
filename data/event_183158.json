@@ -1,0 +1,38 @@
+{
+  "report_number": "183158",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150219",
+  "reactions": [
+    "ABDOMINAL PAIN LOWER",
+    "ABDOMINAL PAIN UPPER",
+    "COAGULOPATHY",
+    "DIZZINESS",
+    "HAEMORRHAGE",
+    "MUSCLE SPASMS",
+    "NAUSEA",
+    "PAIN"
+  ],
+  "date_started": "20141120",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOTRUST LEPTIBURN?",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRO X-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

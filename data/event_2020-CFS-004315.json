@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-004315",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200413",
+  "reactions": [
+    "Oral discomfort",
+    "Pain",
+    "Swelling"
+  ],
+  "date_started": "20200412",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEST JOHN'S GOLD LABEL TURKEY BREAST",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Daily vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

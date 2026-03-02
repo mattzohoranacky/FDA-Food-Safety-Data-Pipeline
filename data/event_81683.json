@@ -1,0 +1,36 @@
+{
+  "report_number": "81683",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20050825",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "EMERGENCY CARE EXAMINATION",
+    "EYE INFLAMMATION",
+    "NAUSEA",
+    "OROPHARYNGEAL SWELLING",
+    "PRURITUS",
+    "RASH"
+  ],
+  "date_started": "20050820",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE FOODS HUMMUS, ROASTED RED PEPPER",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "YUKON GOLD POTATO CHIP",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

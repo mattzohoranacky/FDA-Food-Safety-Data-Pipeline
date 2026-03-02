@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-004845",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180315",
+  "reactions": [
+    "Food poisoning",
+    "Malaise",
+    "Vomiting"
+  ],
+  "date_started": "20180306",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LARABAR BLUEBERRY MUFFIN",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LARABAR CHERRY PIE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

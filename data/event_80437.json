@@ -1,0 +1,60 @@
+{
+  "report_number": "80437",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050824",
+  "reactions": [
+    "ARTHRALGIA",
+    "BACK PAIN",
+    "DIARRHOEA",
+    "FEELING ABNORMAL",
+    "NAUSEA",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20050823",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARNOLD PALMER LITE HALF ICED TEA, HALF LEMONADE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SNACK CAKE WITH SPLENDA",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "APPLE SAUCE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GINGER SNAPS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SOUP",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOAST",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

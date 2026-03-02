@@ -1,0 +1,34 @@
+{
+  "report_number": "116545",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090729",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "MALAISE",
+    "NAUSEA",
+    "SALMONELLOSIS"
+  ],
+  "date_started": "20090728",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN CRUNCHY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRACKER",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

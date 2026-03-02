@@ -1,0 +1,40 @@
+{
+  "report_number": "92009",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20070313",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "FLATULENCE",
+    "GASTROINTESTINAL DISORDER",
+    "MALAISE"
+  ],
+  "date_started": "20070307",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCERNA MEAL BARS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCERNA MEAL SHAKES",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCERNA MEAL SNACKS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

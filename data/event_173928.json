@@ -1,0 +1,35 @@
+{
+  "report_number": "173928",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140205",
+  "reactions": [
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "DIZZINESS",
+    "DYSARTHRIA",
+    "GRAND MAL CONVULSION",
+    "LETHARGY",
+    "VOMITING"
+  ],
+  "date_started": "20140115",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTRA TURBO HG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTRA VITAL GOLD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "194401",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160315",
+  "reactions": [
+    "BLOOD ARSENIC INCREASED",
+    "COGNITIVE DISORDER",
+    "DARK CIRCLES UNDER EYES",
+    "DRY EYE",
+    "FATIGUE",
+    "MEMORY IMPAIRMENT",
+    "NEUROPATHY PERIPHERAL",
+    "PARAESTHESIA",
+    "SKIN LESION"
+  ],
+  "date_started": "20151228",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOLINEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THROAT RELIEF FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

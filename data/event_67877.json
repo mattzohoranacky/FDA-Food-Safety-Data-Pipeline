@@ -1,0 +1,35 @@
+{
+  "report_number": "67877",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040402",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CARDIAC DISORDER",
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "HEADACHE",
+    "HOSPITALISATION",
+    "INTENSIVE CARE",
+    "MYOCARDIAL INFARCTION",
+    "PULMONARY EMBOLISM",
+    "TROPONIN INCREASED"
+  ],
+  "date_started": "20040319",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIFE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

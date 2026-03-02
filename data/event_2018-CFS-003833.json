@@ -1,0 +1,57 @@
+{
+  "report_number": "2018-CFS-003833",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180306",
+  "reactions": [
+    "Acne",
+    "Acne pustular",
+    "Anaemia",
+    "Anxiety",
+    "Blood iron decreased",
+    "Blood magnesium decreased",
+    "Contusion",
+    "Heart rate increased",
+    "Heart rate irregular",
+    "Hepatic enzyme increased",
+    "Lymph node pain",
+    "Lymphadenopathy",
+    "Palpitations",
+    "Renal impairment",
+    "Toxicity to various agents"
+  ],
+  "date_started": "20180215",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS SLIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Plexus Bio Cleanse",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Plexus Probio5",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Plexus XFactor+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

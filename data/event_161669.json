@@ -1,0 +1,40 @@
+{
+  "report_number": "161669",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130131",
+  "reactions": [
+    "CONSTIPATION",
+    "CONTUSION",
+    "HEADACHE",
+    "INSOMNIA",
+    "PRURITUS"
+  ],
+  "date_started": "20111212",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERALIFE NITEWORKS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE CORE COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE OCULAR DEFENSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

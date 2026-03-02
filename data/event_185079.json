@@ -1,0 +1,55 @@
+{
+  "report_number": "185079",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150413",
+  "reactions": [
+    "CEREBROVASCULAR ACCIDENT",
+    "DYSPNOEA",
+    "FAECES DISCOLOURED",
+    "GASTRIC ULCER",
+    "HOT FLUSH",
+    "MYOCARDIAL INFARCTION",
+    "PNEUMONIA",
+    "PULMONARY EMBOLISM"
+  ],
+  "date_started": "20140920",
+  "consumer": {
+    "age": "85",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENVIA GOLD GROUND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B6",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

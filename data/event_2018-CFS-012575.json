@@ -1,0 +1,46 @@
+{
+  "report_number": "2018-CFS-012575",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20181016",
+  "reactions": [
+    "Abdominal distension",
+    "Adrenal insufficiency",
+    "Blood glucose increased",
+    "Diabetes mellitus inadequate control",
+    "Flatulence"
+  ],
+  "date_started": "20180915",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE FOR LIFE NATURAL RICH BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COMPLETE ESSENTIAL DAILY PACK W/ISAGENESIS- FOR WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAFLUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

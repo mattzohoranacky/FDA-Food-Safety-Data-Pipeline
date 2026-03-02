@@ -1,0 +1,39 @@
+{
+  "report_number": "2020-CFS-010453",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201013",
+  "reactions": [
+    "Adnexa uteri cyst",
+    "Aortic aneurysm",
+    "Aortic arteriosclerosis",
+    "Benign salivary gland neoplasm",
+    "Brenner tumour",
+    "Malignant peritoneal neoplasm",
+    "Maternal exposure during pregnancy",
+    "Ovarian cancer metastatic",
+    "Transitional cell carcinoma"
+  ],
+  "date_started": "20151215",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

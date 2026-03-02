@@ -1,0 +1,40 @@
+{
+  "report_number": "174508",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140311",
+  "reactions": [
+    "ACTIVATED PARTIAL THROMBOPLASTIN TIME PROLONGED",
+    "ACUTE HEPATIC FAILURE",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHOLESTASIS",
+    "COAGULOPATHY",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "JAUNDICE",
+    "LABORATORY TEST ABNORMAL",
+    "LIVER INJURY",
+    "PROTHROMBIN TIME PROLONGED",
+    "PRURITUS"
+  ],
+  "date_started": "20140203",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLDSTAR MASS- CARNAGE 25MG, 15MG , 5MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

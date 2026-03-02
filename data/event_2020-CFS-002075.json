@@ -1,0 +1,34 @@
+{
+  "report_number": "2020-CFS-002075",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200213",
+  "reactions": [
+    "Erythema",
+    "Pruritus",
+    "Skin burning sensation",
+    "Skin ulcer",
+    "Tenderness"
+  ],
+  "date_started": "20200107",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO POO DECADENCE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

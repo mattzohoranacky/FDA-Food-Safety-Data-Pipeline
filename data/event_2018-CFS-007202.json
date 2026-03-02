@@ -1,0 +1,29 @@
+{
+  "report_number": "2018-CFS-007202",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180517",
+  "reactions": [
+    "Condition aggravated",
+    "Rash"
+  ],
+  "date_started": "20180517",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BANANA",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "POWDERED SUGAR MINI DONUTS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

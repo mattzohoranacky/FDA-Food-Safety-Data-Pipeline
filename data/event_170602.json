@@ -1,0 +1,36 @@
+{
+  "report_number": "170602",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130823",
+  "reactions": [
+    "HEADACHE",
+    "MUSCULOSKELETAL STIFFNESS",
+    "NAUSEA",
+    "TENDERNESS",
+    "VOMITING"
+  ],
+  "date_started": "20130814",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER OATMEAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VEGGIE WRAP",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

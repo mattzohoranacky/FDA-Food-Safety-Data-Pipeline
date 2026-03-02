@@ -1,0 +1,37 @@
+{
+  "report_number": "188479",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150805",
+  "reactions": [
+    "CYST",
+    "ERYTHEMA",
+    "HYPOAESTHESIA",
+    "MASS",
+    "PARAESTHESIA",
+    "PRURITUS",
+    "SWELLING"
+  ],
+  "date_started": "20150804",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLD SPICE FIJI DEODORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

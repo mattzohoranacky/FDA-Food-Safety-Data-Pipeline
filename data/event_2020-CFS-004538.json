@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-004538",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200420",
+  "reactions": [
+    "Dizziness",
+    "Headache",
+    "Nasal congestion",
+    "Pruritus",
+    "Tinnitus",
+    "Vision blurred"
+  ],
+  "date_started": "20200419",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER YELLOWFIN TUNA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

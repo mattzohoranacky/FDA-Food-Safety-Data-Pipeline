@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-011720",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220728",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Dizziness",
+    "Oropharyngeal pain",
+    "Pyrexia",
+    "Rash"
+  ],
+  "date_started": "20220413",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH ANNATTO E 300",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH COQNOL 200",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

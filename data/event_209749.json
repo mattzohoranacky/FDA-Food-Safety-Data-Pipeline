@@ -1,0 +1,36 @@
+{
+  "report_number": "209749",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170329",
+  "reactions": [
+    "CONDITION AGGRAVATED",
+    "MYOCARDIAL INFARCTION",
+    "NERVE INJURY",
+    "NEUROPATHY PERIPHERAL",
+    "STRESS",
+    "VITAMIN B6 INCREASED"
+  ],
+  "date_started": "20160628",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER (MULTIMINERALS, MULTIVITAMINS) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN B-COMPLEX (VITAMIN B-COMPLEX) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

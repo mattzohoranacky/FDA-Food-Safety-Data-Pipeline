@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-000745",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200127",
+  "reactions": [
+    "Diarrhoea",
+    "Food poisoning",
+    "Nausea"
+  ],
+  "date_started": "20200121",
+  "consumer": {
+    "age": "42",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HIPPIE BREW ELIXIRS ELDERBERRY SYRUP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Elderberry Syrup",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

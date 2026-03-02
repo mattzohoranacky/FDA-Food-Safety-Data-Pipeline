@@ -1,0 +1,37 @@
+{
+  "report_number": "189554",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150904",
+  "reactions": [
+    "CELLULITIS",
+    "ERYTHEMA",
+    "SWELLING",
+    "TREMOR",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20150717",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE L-ARGININE 1000MG  FREE  FORM COATED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "207309",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170207",
+  "reactions": [
+    "BLOOD GLUCOSE DECREASED",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "HYPOGLYCAEMIA",
+    "HYPOPHAGIA",
+    "HYPOTENSION",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20160822",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "B12 ENERGY BERRY MELTS TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CERTIFIED ORGANIC JUICE CLEANSE - OJC PLUS - BERRY GREENS (DIETARY SUPPLEMENT) POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

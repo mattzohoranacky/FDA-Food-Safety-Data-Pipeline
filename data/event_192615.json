@@ -1,0 +1,59 @@
+{
+  "report_number": "192615",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160108",
+  "reactions": [
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "AGITATION",
+    "ARTERIOSCLEROSIS",
+    "BLOOD VISCOSITY INCREASED",
+    "CARDIOMEGALY",
+    "CHEST PAIN",
+    "CONVULSION",
+    "FATIGUE",
+    "HEADACHE",
+    "SYNCOPE",
+    "THROMBOSIS"
+  ],
+  "date_started": "20151122",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL ALOE CONCENTRATE- CRANBERRY FLAVOR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THERMO-BOND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1 HEALTHY MEAL",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HEBAL ALOE CONCENTRATE- MANGO FLAVOR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL TEA CONCENTRATE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

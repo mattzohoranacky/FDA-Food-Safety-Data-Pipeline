@@ -1,0 +1,39 @@
+{
+  "report_number": "170904",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20131016",
+  "reactions": [
+    "ABNORMAL SENSATION IN EYE",
+    "EYE IRRITATION",
+    "OCULAR HYPERAEMIA",
+    "SKIN BURNING SENSATION"
+  ],
+  "date_started": "20131005",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR. BONNER'S MAGIC SOAP BABY MILD",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALGAE DHA (SPECTRUM)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI-VITEES COMPLETE MULTI-VITAMIN (VITATUSION)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

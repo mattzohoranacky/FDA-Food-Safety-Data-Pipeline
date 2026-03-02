@@ -1,0 +1,38 @@
+{
+  "report_number": "2021-CFS-002049",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210304",
+  "reactions": [
+    "Dry skin",
+    "Laceration",
+    "Skin exfoliation"
+  ],
+  "date_started": "20210304",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAWN MIST BODY WASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAWN MIST LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAWN MIST SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

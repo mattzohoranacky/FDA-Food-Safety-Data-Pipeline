@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-007318",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20191009",
+  "reactions": [
+    "Diarrhoea",
+    "Dizziness",
+    "Fatigue",
+    "Neck pain",
+    "Rash",
+    "Speech disorder",
+    "Tachycardia"
+  ],
+  "date_started": "20190926",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

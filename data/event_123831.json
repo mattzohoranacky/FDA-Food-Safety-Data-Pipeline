@@ -1,0 +1,32 @@
+{
+  "report_number": "123831",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091014",
+  "reactions": [
+    "COLD SWEAT",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FEELING HOT",
+    "HALLUCINATION",
+    "HEADACHE",
+    "HYPERHIDROSIS",
+    "VERTIGO",
+    "VOMITING"
+  ],
+  "date_started": "20090929",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEPSI COLA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "151089",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20120411",
+  "reactions": [
+    "DYSPHONIA",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20120311",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMENS ULTRA MEGA JOINT VITAPAK TRIFLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMENS ULTRA MEGA JOINT VITAPAK TRIPLE STRENGTH FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMENS ULTRA MEGA JOINT VITAPAK WITHOUT IRON AND IODINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

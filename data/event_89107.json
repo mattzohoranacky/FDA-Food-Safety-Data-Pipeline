@@ -1,0 +1,40 @@
+{
+  "report_number": "89107",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20060918",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "Adverse reaction",
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20060912",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "READY PAC SPINACH (FRESH BABY BAGGED)",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PINTO BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RED WINE VINEGAR DRESSING",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

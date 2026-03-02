@@ -1,0 +1,28 @@
+{
+  "report_number": "195061",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160405",
+  "reactions": [
+    "BACK PAIN",
+    "BLOOD PRESSURE INCREASED",
+    "CARDIAC ENZYMES INCREASED",
+    "MYOCARDIAL INFARCTION"
+  ],
+  "date_started": "20160319",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRAINBRIGHT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "2017-CFS-002999",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171221",
+  "reactions": [
+    "Aspiration",
+    "Cough",
+    "Dysphonia",
+    "Dyspnoea",
+    "Foreign body",
+    "Hypopnoea",
+    "Increased upper airway secretion",
+    "Nausea",
+    "Oxygen saturation decreased",
+    "Retching",
+    "Salivary hypersecretion",
+    "Stress",
+    "Throat irritation"
+  ],
+  "date_started": "20171111",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

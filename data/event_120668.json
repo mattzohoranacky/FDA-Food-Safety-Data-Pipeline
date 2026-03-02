@@ -1,0 +1,31 @@
+{
+  "report_number": "120668",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20091123",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CHEST DISCOMFORT",
+    "DYSPHAGIA",
+    "HEADACHE",
+    "NEUROLOGICAL SYMPTOM",
+    "SPEECH DISORDER"
+  ],
+  "date_started": "20091121",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "APATRIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

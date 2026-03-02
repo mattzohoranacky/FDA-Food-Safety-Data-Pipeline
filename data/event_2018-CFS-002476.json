@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-002476",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180212",
+  "reactions": [
+    "Blister",
+    "Burning sensation",
+    "Dandruff",
+    "Eye irritation",
+    "Eye pruritus",
+    "Hypersensitivity",
+    "Pruritus",
+    "Skin burning sensation",
+    "Skin ulcer",
+    "Wound secretion"
+  ],
+  "date_started": "20180117",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RESTORE LEAVE IN CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

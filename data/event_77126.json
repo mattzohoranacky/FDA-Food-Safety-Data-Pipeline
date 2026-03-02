@@ -1,0 +1,30 @@
+{
+  "report_number": "77126",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20030912",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "CHOKING",
+    "COUGH",
+    "HYPERSENSITIVITY",
+    "PHYSICAL EXAMINATION"
+  ],
+  "date_started": "20030826",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC SOY BAKING MIX",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

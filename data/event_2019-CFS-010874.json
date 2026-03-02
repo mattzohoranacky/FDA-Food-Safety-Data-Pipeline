@@ -1,0 +1,45 @@
+{
+  "report_number": "2019-CFS-010874",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191029",
+  "reactions": [
+    "Abdominal pain upper",
+    "Abdominal tenderness",
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Hepatic failure",
+    "Muscle spasms"
+  ],
+  "date_started": "20190315",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA ALPHA CRS+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA DEEP BLUE POLYPHENOL COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA MITO2MAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

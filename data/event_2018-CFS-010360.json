@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-010360",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180815",
+  "reactions": [
+    "Chapped lips",
+    "Cheilitis",
+    "Lip haemorrhage"
+  ],
+  "date_started": "20180723",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS VISIBLY SOFT LIP BALM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "2024-CFS-003851",
+  "outcomes": [
+    "Life Threatening",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240417",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Palpitations",
+    "Pharyngeal swelling",
+    "Swelling face",
+    "Throat irritation",
+    "Urticaria"
+  ],
+  "date_started": "20240408",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA 2 DEFEND PART 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA PROMOTE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UQORA URIARY CARE FLUSH PROACTIVE REGIMEN PART 1",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

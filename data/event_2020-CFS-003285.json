@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-003285",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200306",
+  "reactions": [
+    "Dandruff",
+    "Hair texture abnormal"
+  ],
+  "date_started": "20180924",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Shea moisture hair products",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "tea tree oil",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-003160",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240321",
+  "reactions": [
+    "Anxiety",
+    "Depression",
+    "Dizziness",
+    "Sensory loss",
+    "Suicidal ideation"
+  ],
+  "date_started": "20230715",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEPTUNE'S FIX TIANEPTINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

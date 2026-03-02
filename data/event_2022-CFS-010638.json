@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-010638",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220705",
+  "reactions": [
+    "Chest pain",
+    "Gastritis",
+    "Hepatic enzyme increased",
+    "Pyrexia"
+  ],
+  "date_started": "20220602",
+  "consumer": {
+    "age": "55.9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

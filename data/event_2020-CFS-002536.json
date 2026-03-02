@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-002536",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200220",
+  "reactions": [
+    "Heart rate increased",
+    "Hyperhidrosis"
+  ],
+  "date_started": "20200211",
+  "consumer": {
+    "age": "36.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLYBY FUEL ELECTROLYTE SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

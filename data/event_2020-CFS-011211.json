@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-011211",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20201028",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Erythema",
+    "Flushing",
+    "Paraesthesia",
+    "Urticaria"
+  ],
+  "date_started": "20200825",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY PERFORMANCE ENERGIZE LEMON PREWORKOUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY PERFORMANCE RECOVER CHOCOLATE POST WORKOUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

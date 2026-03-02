@@ -1,0 +1,39 @@
+{
+  "report_number": "128233",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100714",
+  "reactions": [
+    "ASTHENIA",
+    "CONVULSION",
+    "DYSPNOEA",
+    "FALL",
+    "FOAMING AT MOUTH",
+    "HYPERSENSITIVITY",
+    "MUSCLE TWITCHING",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20100616",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DG HEALTH NIACIN 250 MG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DG HEALTH PHYTOSTEROL COMPLEX SOFT GELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

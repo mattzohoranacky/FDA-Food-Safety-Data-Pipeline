@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-008085",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20200820",
+  "reactions": [
+    "Coeliac disease",
+    "Diarrhoea",
+    "Muscle spasms"
+  ],
+  "date_started": "20200808",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRCAL CALCIUM + D3 GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "50+ Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Culturelle",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "report_number": "93487",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20070605",
+  "reactions": [
+    "BRAIN MASS",
+    "COGNITIVE DISORDER",
+    "CONFUSIONAL STATE",
+    "HEADACHE",
+    "HUNGER",
+    "HYPERSENSITIVITY",
+    "MENSTRUATION IRREGULAR",
+    "MULTIPLE SCLEROSIS",
+    "OBSESSIVE-COMPULSIVE DISORDER",
+    "OPTIC NEURITIS",
+    "PROTEIN TOTAL DECREASED",
+    "THIRST"
+  ],
+  "date_started": "19980801",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET DR. PEPPER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET PEPSI",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

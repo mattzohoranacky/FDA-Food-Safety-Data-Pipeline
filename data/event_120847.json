@@ -1,0 +1,40 @@
+{
+  "report_number": "120847",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20091201",
+  "reactions": [
+    "ANXIETY",
+    "CARDIAC MURMUR",
+    "HYPOGLYCAEMIA",
+    "PALPITATIONS",
+    "URINARY TRACT INFECTION"
+  ],
+  "date_started": "20090412",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRYSTAL LIGHT JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET SODA COCA-COLA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET SODA PEPSI",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

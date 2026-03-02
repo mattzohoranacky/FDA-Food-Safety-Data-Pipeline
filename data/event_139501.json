@@ -1,0 +1,45 @@
+{
+  "report_number": "139501",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110510",
+  "reactions": [
+    "FACE OEDEMA",
+    "HYPERSENSITIVITY",
+    "OEDEMA PERIPHERAL",
+    "SWELLING"
+  ],
+  "date_started": "20110414",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIBERWISE POWDERED DRINK MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHYTOMEGA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROVEX CV",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REPLENEX EXTRA STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

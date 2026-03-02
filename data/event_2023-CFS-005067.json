@@ -1,0 +1,43 @@
+{
+  "report_number": "2023-CFS-005067",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230516",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Blood alkaline phosphatase",
+    "Blood bilirubin increased",
+    "Diarrhoea",
+    "Fatigue",
+    "Hepatic enzyme increased",
+    "Hepatic steatosis"
+  ],
+  "date_started": "20230319",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AG1 WHOLE FOOD DIETARY SUPPLEMENT - 360G",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Pro Omega 2000 Fish Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "women's daily multi-vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

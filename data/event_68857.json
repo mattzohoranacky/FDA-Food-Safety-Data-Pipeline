@@ -1,0 +1,37 @@
+{
+  "report_number": "68857",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040511",
+  "reactions": [
+    "HOSPITALISATION",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20010512",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAMPBELL'S (UNSPECIFIED MSG CONTAINING PRODUCT)",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRAFT (UNSPECIFIED MSG CONTAINING PRODUCT)",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LAY'S (UNSPECIFIED MSG CONTAINING PRODUCT)",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

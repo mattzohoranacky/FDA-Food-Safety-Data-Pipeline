@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-012477",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240104",
+  "reactions": [
+    "Blood lead abnormal",
+    "Decreased appetite",
+    "Irritability",
+    "Lethargy",
+    "Pain"
+  ],
+  "date_started": "20231001",
+  "consumer": {
+    "age": "28",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WANABANA APPLE CINNAMON FRUIT PUREE POUCHES",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

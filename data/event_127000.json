@@ -1,0 +1,36 @@
+{
+  "report_number": "127000",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20100528",
+  "reactions": [
+    "BACK PAIN",
+    "DRY MOUTH",
+    "DYSPNOEA",
+    "HAEMORRHAGE",
+    "HEART RATE INCREASED",
+    "TONGUE DISORDER",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20100523",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BODY CREATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAPING TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "149853",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120213",
+  "reactions": [
+    "ABNORMAL FAECES",
+    "DEFAECATION URGENCY",
+    "FLATULENCE"
+  ],
+  "date_started": "20120208",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER CAPTAIN CRUNCHS OOPS ALL BERRIES CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "2 PERCENT MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

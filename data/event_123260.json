@@ -1,0 +1,36 @@
+{
+  "report_number": "123260",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091106",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLOOD GLUCOSE ABNORMAL",
+    "CARDIAC FAILURE",
+    "HEART RATE ABNORMAL",
+    "HYPOGLYCAEMIA",
+    "HYPOTENSION",
+    "MENTAL DISORDER",
+    "POOR PERIPHERAL CIRCULATION",
+    "Poisoning",
+    "VOMITING"
+  ],
+  "date_started": "20091102",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DISGUISE COMPLETE KIT HALLOWEEN FACE PAINTS KIT WITH NAIL POLISH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

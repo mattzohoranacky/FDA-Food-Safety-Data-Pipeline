@@ -1,0 +1,45 @@
+{
+  "report_number": "183048",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20150218",
+  "reactions": [
+    "ARTHRALGIA",
+    "ASTHENIA",
+    "CATARACT",
+    "DYSSTASIA",
+    "FATIGUE",
+    "GAIT DISTURBANCE",
+    "HEPATIC ENZYME INCREASED",
+    "MUSCULAR WEAKNESS",
+    "MYOPATHY",
+    "PAIN"
+  ],
+  "date_started": "20150212",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED YEAST RICE WITH COQ10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NIACIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

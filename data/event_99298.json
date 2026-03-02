@@ -1,0 +1,30 @@
+{
+  "report_number": "99298",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20071120",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20071115",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HUNT'S VANILLA PUDDING",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HUNT'S CHOCOLATE PUDDING",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    }
+  ]
+}

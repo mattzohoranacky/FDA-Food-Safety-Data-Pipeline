@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-013068",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241022",
+  "reactions": [
+    "Abdominal pain upper",
+    "Back pain",
+    "Food poisoning",
+    "Headache",
+    "Muscle spasms",
+    "Vomiting"
+  ],
+  "date_started": "20241022",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNDERWOOD RANCHES CHILI GARLIC PREMIUM CHILI HOT SAUCE",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

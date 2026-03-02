@@ -1,0 +1,37 @@
+{
+  "report_number": "119098",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20091015",
+  "reactions": [
+    "DIZZINESS",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "HEADACHE",
+    "HEART RATE INCREASED",
+    "MALAISE",
+    "NAUSEA",
+    "PALPITATIONS",
+    "VERTIGO",
+    "VISION BLURRED",
+    "VOMITING"
+  ],
+  "date_started": "20090930",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL (CALCIUM CITRATE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

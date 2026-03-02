@@ -1,0 +1,30 @@
+{
+  "report_number": "192491",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160104",
+  "reactions": [
+    "ERYTHEMA",
+    "INFECTION",
+    "SCAR",
+    "SWELLING",
+    "WOUND DRAINAGE"
+  ],
+  "date_started": "20151218",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TATTOO INK HAO TATTOO HWS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "204487",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20161128",
+  "reactions": [
+    "BALANCE DISORDER",
+    "CONTUSION",
+    "DRUG INTERACTION",
+    "EYE HAEMORRHAGE",
+    "FALL",
+    "HEAD INJURY",
+    "NAIL INJURY",
+    "NERVOUSNESS",
+    "OCULAR HYPERAEMIA",
+    "PAIN",
+    "SOFT TISSUE INJURY"
+  ],
+  "date_started": "20160722",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIPLE ACTION PROBIOTIC (DIETARY SUPPLEMENT) UNKNOWN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

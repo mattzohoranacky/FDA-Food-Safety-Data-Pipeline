@@ -1,0 +1,33 @@
+{
+  "report_number": "192481",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160104",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "INFLUENZA",
+    "NAUSEA",
+    "PANCREATITIS ACUTE"
+  ],
+  "date_started": "20151125",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IC-5",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEPTIBURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

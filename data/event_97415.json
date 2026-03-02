@@ -1,0 +1,30 @@
+{
+  "report_number": "97415",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20071023",
+  "reactions": [
+    "HEPATOCELLULAR DAMAGE"
+  ],
+  "date_started": "20070208",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AIRBORNE HERBAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GAC (MOMORDICA COCHINCHINENSIS)",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

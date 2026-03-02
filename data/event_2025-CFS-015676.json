@@ -1,0 +1,34 @@
+{
+  "report_number": "2025-CFS-015676",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250927",
+  "reactions": [
+    "Abdominal pain upper",
+    "Faeces discoloured",
+    "Flatulence",
+    "Pain"
+  ],
+  "date_started": "20250926",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BANG ENERGY DRINK, COTTON CANDY",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LENNY & LARRY'S THE COMPLETE COOKIE BIRTHDAY CAKE, SOFT BAKED, 16G PLANT PROTEIN, VEGAN, NON-GMO, 4 OUNCE COOKIE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

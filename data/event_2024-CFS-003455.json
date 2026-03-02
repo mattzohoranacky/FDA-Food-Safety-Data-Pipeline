@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-003455",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240402",
+  "reactions": [
+    "Blood potassium increased",
+    "Heart rate decreased",
+    "Unresponsive to stimuli"
+  ],
+  "date_started": "20240101",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROUNDHOUSE PROVISIONS MORNING KICK STRAWBERRY LEMONADE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

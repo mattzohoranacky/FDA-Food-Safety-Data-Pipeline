@@ -1,0 +1,64 @@
+{
+  "report_number": "163040",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130305",
+  "reactions": [
+    "ABASIA",
+    "ANXIETY",
+    "BLOOD CREATININE INCREASED",
+    "DIZZINESS",
+    "EYE SWELLING",
+    "HEADACHE",
+    "HEART RATE INCREASED",
+    "HYPERHIDROSIS",
+    "HYPERVENTILATION",
+    "HYPOKINESIA",
+    "HYPOTONIA",
+    "MYALGIA",
+    "NAUSEA",
+    "PAIN",
+    "PALLOR",
+    "RENAL FAILURE",
+    "RENAL FAILURE ACUTE",
+    "RHABDOMYOLYSIS",
+    "TACHYCARDIA",
+    "TENSION",
+    "TREMOR"
+  ],
+  "date_started": "20130201",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLCOR C4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEXYFEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRO PERFORMANCE AMP AMPLIFIED WHEYBOLIC EXTREME 60",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN PACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

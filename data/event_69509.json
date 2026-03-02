@@ -1,0 +1,30 @@
+{
+  "report_number": "69509",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20040525",
+  "reactions": [
+    "Cholera",
+    "DIARRHOEA",
+    "HOSPITALISATION"
+  ],
+  "date_started": "20040407",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLAMS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

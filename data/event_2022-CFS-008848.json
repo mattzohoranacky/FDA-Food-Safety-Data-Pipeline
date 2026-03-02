@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-008848",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220526",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Salmonellosis",
+    "Vomiting"
+  ],
+  "date_started": "20220520",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

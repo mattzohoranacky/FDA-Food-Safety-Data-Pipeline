@@ -1,0 +1,31 @@
+{
+  "report_number": "95035",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20070801",
+  "reactions": [
+    "ATELECTASIS",
+    "CHEST PAIN",
+    "JOINT LOCK",
+    "JOINT STIFFNESS",
+    "MUSCLE SPASMS",
+    "PALPITATIONS",
+    "SYNCOPE"
+  ],
+  "date_started": "20070731",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACE ENERGY DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

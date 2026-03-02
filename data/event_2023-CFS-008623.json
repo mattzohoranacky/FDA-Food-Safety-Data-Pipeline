@@ -1,0 +1,38 @@
+{
+  "report_number": "2023-CFS-008623",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230707",
+  "reactions": [
+    "Abdominal pain",
+    "Arthralgia",
+    "Burning sensation",
+    "Diarrhoea",
+    "Dizziness",
+    "Dyspnoea",
+    "Fatigue",
+    "Feeling of body temperature change",
+    "Headache",
+    "Heart rate increased",
+    "Hypoaesthesia",
+    "Nausea",
+    "Paraesthesia",
+    "Pruritus",
+    "Swelling face",
+    "Vision blurred"
+  ],
+  "date_started": "20230629",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIONFISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

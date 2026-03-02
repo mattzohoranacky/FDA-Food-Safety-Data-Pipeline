@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-005003",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180211",
+  "reactions": [
+    "Adverse reaction",
+    "Body temperature abnormal",
+    "Burning sensation",
+    "Chills",
+    "Cyanosis",
+    "Dizziness",
+    "Flushing",
+    "Headache",
+    "Pruritus"
+  ],
+  "date_started": "20180211",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "Snapper Fillets",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

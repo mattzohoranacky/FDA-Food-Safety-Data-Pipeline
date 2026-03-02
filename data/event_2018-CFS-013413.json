@@ -1,0 +1,42 @@
+{
+  "report_number": "2018-CFS-013413",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20181111",
+  "reactions": [
+    "Abdominal pain upper",
+    "Aphthous stomatitis",
+    "Discomfort",
+    "Dry mouth",
+    "Dyspnoea",
+    "Erythema",
+    "Hair disorder",
+    "Mydriasis",
+    "Skin irritation",
+    "Skin lesion",
+    "Tachycardia"
+  ],
+  "date_started": "20181111",
+  "consumer": {
+    "age": "42.1",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE 2% MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIERRA MIST",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "report_number": "2018-CFS-009212",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180711",
+  "reactions": [
+    "Acne cystic",
+    "Alopecia",
+    "Breast pain",
+    "Breast tenderness",
+    "Hair texture abnormal",
+    "Hormone level abnormal",
+    "Menstruation irregular",
+    "Trichorrhexis",
+    "Urinary incontinence",
+    "Weight increased"
+  ],
+  "date_started": "20180131",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT INTENSE REPAIR SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

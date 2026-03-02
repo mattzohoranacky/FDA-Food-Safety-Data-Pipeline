@@ -1,0 +1,31 @@
+{
+  "report_number": "182312",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141216",
+  "reactions": [
+    "DIARRHOEA",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "RASH",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20141206",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTEK DISPOSABLES, INC SIMPLE RIGHT WIPES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

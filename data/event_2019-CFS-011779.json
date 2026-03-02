@@ -1,0 +1,44 @@
+{
+  "report_number": "2019-CFS-011779",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191126",
+  "reactions": [
+    "Burning sensation",
+    "Chemical injury",
+    "Rash erythematous"
+  ],
+  "date_started": "20191125",
+  "consumer": {
+    "age": "14.2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVERY MAN JACK DEODORANT SANDALWOOD",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Deva Vegan Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Mineral Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Solaray Organic Garlic Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

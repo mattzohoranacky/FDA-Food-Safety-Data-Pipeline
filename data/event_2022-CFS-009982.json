@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-009982",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220621",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain upper",
+    "Chills",
+    "Hepatic enzyme increased",
+    "Jaundice",
+    "Pain in extremity",
+    "Pyrexia"
+  ],
+  "date_started": "20220612",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST LENTIL AND LEEKS CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

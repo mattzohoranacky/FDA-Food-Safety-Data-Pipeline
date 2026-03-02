@@ -1,0 +1,39 @@
+{
+  "report_number": "196224",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160504",
+  "reactions": [
+    "CRONOBACTER INFECTION",
+    "FEELING OF BODY TEMPERATURE CHANGE"
+  ],
+  "date_started": "20160423",
+  "consumer": {
+    "age": "7",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NURSERY PURIFIED WATER",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "POLYVITAMIN LIQUID",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC NEOSURE ENRICHED NUTRITION POWDERED INFANT FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

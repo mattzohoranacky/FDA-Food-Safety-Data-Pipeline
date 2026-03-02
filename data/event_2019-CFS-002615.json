@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-002615",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20190313",
+  "reactions": [
+    "Dizziness",
+    "Malaise",
+    "Tremor",
+    "Vomiting"
+  ],
+  "date_started": "20190312",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUORN MEATLESS PIECES",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

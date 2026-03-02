@@ -1,0 +1,33 @@
+{
+  "report_number": "157215",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120928",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "EPISTAXIS",
+    "HEADACHE",
+    "PAIN",
+    "RESPIRATORY TRACT CONGESTION",
+    "THOUGHT BLOCKING"
+  ],
+  "date_started": "20120901",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KERATIN COMPLEX SMOOTHING TREATMENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

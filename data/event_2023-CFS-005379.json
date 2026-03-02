@@ -1,0 +1,36 @@
+{
+  "report_number": "2023-CFS-005379",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230524",
+  "reactions": [
+    "Choking",
+    "Drooling",
+    "Dysphagia",
+    "Flushing",
+    "Hypersensitivity",
+    "Nausea",
+    "Ocular hyperaemia",
+    "Pruritus",
+    "Respiratory distress",
+    "Rhinorrhoea",
+    "Swelling face"
+  ],
+  "date_started": "20230502",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLYRA DOUBLE CHOCOLATE CREAM FILLED BREAKFAST BISCUITS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

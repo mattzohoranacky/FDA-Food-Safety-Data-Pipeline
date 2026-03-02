@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-011528",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20231018",
+  "reactions": [
+    "Chest discomfort",
+    "Eye pruritus",
+    "Hypersensitivity",
+    "Swelling face",
+    "Throat irritation",
+    "Wheezing"
+  ],
+  "date_started": "20230831",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLGATE OPTIC WHITE EXPRESS WHITENING PEN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

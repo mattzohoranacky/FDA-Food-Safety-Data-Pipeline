@@ -1,0 +1,39 @@
+{
+  "report_number": "200549",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160823",
+  "reactions": [
+    "ALOPECIA",
+    "DISCOMFORT",
+    "PRURITUS",
+    "SEBORRHOEIC DERMATITIS"
+  ],
+  "date_started": "20150101",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN SHAMPOO AND CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BALANCE OF NATURE FRUIT & VEGETABLE SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM MULTI VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

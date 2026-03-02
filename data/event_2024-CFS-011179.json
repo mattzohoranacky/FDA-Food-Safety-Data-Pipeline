@@ -1,0 +1,39 @@
+{
+  "report_number": "2024-CFS-011179",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240905",
+  "reactions": [
+    "Dysuria",
+    "Genital hypoaesthesia",
+    "Loss of libido",
+    "Malaise",
+    "Nerve injury",
+    "Vomiting"
+  ],
+  "date_started": "20240829",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CountBoost for Men",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAIRHAVEN HEALTH FERTILAID FOR MEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MotilityBoost for Men",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

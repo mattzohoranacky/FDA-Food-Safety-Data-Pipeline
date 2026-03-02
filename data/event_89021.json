@@ -1,0 +1,40 @@
+{
+  "report_number": "89021",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20061020",
+  "reactions": [
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20061007",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRYERS CARB SELECT CHOCOLATE ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRYERS CARB SELECT FUDGE BARS",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA GRANULATED SWEETENER",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA SINGLE SERVING PACKET SWEETENER",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

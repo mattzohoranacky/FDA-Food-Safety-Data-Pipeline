@@ -1,0 +1,34 @@
+{
+  "report_number": "204543",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20161120",
+  "reactions": [
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "RASH",
+    "SWELLING"
+  ],
+  "date_started": "20161119",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVEDA ALL SENSITIVE MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

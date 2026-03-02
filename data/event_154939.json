@@ -1,0 +1,46 @@
+{
+  "report_number": "154939",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120730",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ANGINA PECTORIS",
+    "BLOOD CHOLESTEROL INCREASED",
+    "DIABETES MELLITUS",
+    "HEPATIC STEATOSIS",
+    "HYPERTENSION",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "LIVER INJURY",
+    "NAUSEA",
+    "OBESITY"
+  ],
+  "date_started": "20080303",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT EPHEDRA FREE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT REGULAR RAPID RELEASE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT WITH EPHEDRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

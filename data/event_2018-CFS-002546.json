@@ -1,0 +1,70 @@
+{
+  "report_number": "2018-CFS-002546",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180213",
+  "reactions": [
+    "Anorectal discomfort",
+    "Apathy",
+    "Asthenia",
+    "Balance disorder",
+    "Chest injury",
+    "Constipation",
+    "Contusion",
+    "Diarrhoea",
+    "Dizziness",
+    "Faecal incontinence",
+    "Faecaloma",
+    "Fall",
+    "Fatigue",
+    "Fear",
+    "Gastrointestinal sounds abnormal",
+    "Head injury",
+    "Hyperhidrosis",
+    "Hypotension",
+    "Injury",
+    "Reaction to drug excipients",
+    "Skeletal injury",
+    "Tenderness",
+    "Weight decreased"
+  ],
+  "date_started": "20170101",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE TURMERIC CURCUMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE TURMERIC CURCUMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Biotin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CO Q-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

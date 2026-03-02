@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-015876",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Injury"
+  ],
+  "date_created": "20250930",
+  "reactions": [
+    "Ageusia",
+    "Anosmia",
+    "Headache",
+    "Pyrexia",
+    "Rash"
+  ],
+  "date_started": "20250820",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER STRENGTH PINEAPPLE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

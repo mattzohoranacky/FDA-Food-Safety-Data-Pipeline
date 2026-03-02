@@ -1,0 +1,37 @@
+{
+  "report_number": "2021-CFS-005971",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210623",
+  "reactions": [
+    "Abdominal pain upper",
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Cholestatic liver injury",
+    "Nausea",
+    "Pruritus",
+    "Rash",
+    "Vomiting"
+  ],
+  "date_started": "20210113",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUICED AMINOS ENHANCED BCAA ORANGE JUICE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLETECH PRO SERIES 100% MASS GAINER POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-008308",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180618",
+  "reactions": [
+    "Blood potassium decreased",
+    "Chills",
+    "Dehydration",
+    "Diarrhoea",
+    "Feeling jittery",
+    "Nausea",
+    "Pyrexia",
+    "Upper respiratory tract infection",
+    "Vomiting"
+  ],
+  "date_started": "20180525",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODERE BURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODERE TRIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

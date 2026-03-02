@@ -1,0 +1,28 @@
+{
+  "report_number": "82175",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20051128",
+  "reactions": [
+    "BACK PAIN",
+    "BLOOD CREATINE INCREASED",
+    "HOSPITALISATION",
+    "NECK PAIN"
+  ],
+  "date_started": "20051017",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NDS NUTRITION CR5 CREATINE SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

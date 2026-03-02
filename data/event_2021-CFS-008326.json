@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-008326",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210815",
+  "reactions": [
+    "Coeliac disease",
+    "Insomnia",
+    "Mood swings"
+  ],
+  "date_started": "20210814",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEW INDIA BAZAAR RICE FLOUR",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VEER RICE FLOUR",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

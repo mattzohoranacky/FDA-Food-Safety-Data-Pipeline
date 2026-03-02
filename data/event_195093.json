@@ -1,0 +1,36 @@
+{
+  "report_number": "195093",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160406",
+  "reactions": [
+    "LIP SWELLING",
+    "ORAL ALLERGY SYNDROME",
+    "PRURITUS",
+    "RASH",
+    "SWELLING FACE",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20160311",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOBAR A.M. PERFECTLY PEACH",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

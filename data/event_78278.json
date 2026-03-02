@@ -1,0 +1,30 @@
+{
+  "report_number": "78278",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050516",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "MALAISE"
+  ],
+  "date_started": "20050515",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANCHO'S CHEESE DIP",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SMOKED SAUSAGE",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

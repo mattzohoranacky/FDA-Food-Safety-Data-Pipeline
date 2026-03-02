@@ -1,0 +1,43 @@
+{
+  "report_number": "196131",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160503",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse event",
+    "CHEST PAIN",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "DYSPNOEA EXERTIONAL",
+    "LISTERIOSIS",
+    "VOMITING"
+  ],
+  "date_started": "20160125",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE CEASAR SALAD",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE ITALIAN SALAD MIX",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE ROMAINE LETTUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

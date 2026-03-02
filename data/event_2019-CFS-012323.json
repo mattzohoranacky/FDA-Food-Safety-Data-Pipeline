@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-012323",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191214",
+  "reactions": [
+    "Food poisoning"
+  ],
+  "date_started": "20191201",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE MAPLE AND BROWN SUGAR INSANT OATMEAL NATURALLY FLAVORED",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE MAPLE BROWN SUGAR NATURALLY FLAVORED INSTANT OATMEAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

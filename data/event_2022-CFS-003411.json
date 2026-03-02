@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-003411",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220309",
+  "reactions": [
+    "Blood glucose increased",
+    "Hypertension",
+    "Malaise"
+  ],
+  "date_started": "20220221",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SANTO REMEDIO SKINNY YUMMY GUMMY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SANTO REMEDIO SUPER SLIM CAFE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

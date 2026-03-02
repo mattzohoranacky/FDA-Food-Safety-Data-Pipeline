@@ -1,0 +1,52 @@
+{
+  "report_number": "2024-CFS-002205",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240216",
+  "reactions": [
+    "Diarrhoea",
+    "Dizziness",
+    "Fatigue",
+    "Gastrointestinal disorder",
+    "Headache",
+    "Listeriosis",
+    "Myalgia",
+    "Nausea",
+    "Pyrexia",
+    "Syncope",
+    "Vomiting"
+  ],
+  "date_started": "20240208",
+  "consumer": {
+    "age": "51.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUESO FRESCO",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

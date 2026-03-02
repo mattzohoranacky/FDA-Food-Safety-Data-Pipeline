@@ -1,0 +1,33 @@
+{
+  "report_number": "170825",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131011",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLOOD BILIRUBIN INCREASED",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATITIS ACUTE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20130703",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXYELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

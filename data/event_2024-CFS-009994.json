@@ -1,0 +1,42 @@
+{
+  "report_number": "2024-CFS-009994",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240718",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Adnexa uteri pain",
+    "Back pain",
+    "Constipation",
+    "Diarrhoea",
+    "Dizziness",
+    "Dyspnoea",
+    "Fatigue",
+    "Flatulence",
+    "Hypotension",
+    "Rash",
+    "Urticaria"
+  ],
+  "date_started": "20240525",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UMARY USA HYALURONIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SMARTY PANTS PRENATAL VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

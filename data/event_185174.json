@@ -1,0 +1,31 @@
+{
+  "report_number": "185174",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150410",
+  "reactions": [
+    "DIARRHOEA",
+    "DIZZINESS",
+    "GASTROENTERITIS VIRAL",
+    "HEADACHE",
+    "NAUSEA",
+    "VERTIGO"
+  ],
+  "date_started": "20150202",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SABRA ROASTED PINE NUT HUMMUS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

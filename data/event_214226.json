@@ -1,0 +1,45 @@
+{
+  "report_number": "214226",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170614",
+  "reactions": [
+    "Adverse event",
+    "DIARRHOEA",
+    "HAEMATOCHEZIA",
+    "MALAISE",
+    "MUCOUS STOOLS",
+    "SALMONELLA TEST POSITIVE",
+    "SALMONELLOSIS"
+  ],
+  "date_started": "20170609",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACADIA NATURAL SPRING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTH'S BEST FIRST APPLE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL PREMIUM INFANT FORMULA MILK BASED W/IRON",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

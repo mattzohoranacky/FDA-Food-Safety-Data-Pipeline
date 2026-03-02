@@ -1,0 +1,44 @@
+{
+  "report_number": "194364",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20160315",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ANAPHYLACTIC REACTION",
+    "FLUSHING",
+    "HYPOTENSION",
+    "URTICARIA",
+    "VOMITING",
+    "WHEEZING"
+  ],
+  "date_started": "20160304",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VEGA ONE PROTEIN SHAKE (COCONUT ALMOND)",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

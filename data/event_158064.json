@@ -1,0 +1,48 @@
+{
+  "report_number": "158064",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121023",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIZZINESS",
+    "DYSPEPSIA",
+    "GASTRIC INFECTION",
+    "GASTRITIS",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "HEADACHE",
+    "MALAISE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20120928",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE PERFECT HEALTH PACK - CONCENTRATED FRUITS AND VEGETABLES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE PERFECT HEALTH PACK - OCEAN ESSENTIALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE PERFECT HEALTH PACK-DOUBLE X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

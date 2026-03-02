@@ -1,0 +1,37 @@
+{
+  "report_number": "189026",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150820",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "COLITIS",
+    "DIARRHOEA",
+    "LOSS OF CONSCIOUSNESS",
+    "NAUSEA",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20150802",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLINIQUE GEL HYDRANT MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CLINIQUE ACNE 3 STEP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

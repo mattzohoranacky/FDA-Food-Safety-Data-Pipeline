@@ -1,0 +1,47 @@
+{
+  "report_number": "2024-CFS-014685",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241122",
+  "reactions": [
+    "Blood magnesium decreased",
+    "Blood potassium decreased",
+    "Feeling hot",
+    "Hospitalisation",
+    "Hypersensitivity",
+    "Hypoaesthesia",
+    "Hypoaesthesia oral",
+    "Malaise",
+    "Palpitations",
+    "Pruritus",
+    "Tachycardia"
+  ],
+  "date_started": "20241016",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE POTASSIUM GLUCONATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12 CYANOCOBALAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CRANBERRY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

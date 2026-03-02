@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-006110",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20180422",
+  "reactions": [
+    "Malocclusion",
+    "Tooth disorder"
+  ],
+  "date_started": "20180422",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROCKSTAR ENERGY DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Rockstar",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

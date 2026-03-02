@@ -1,0 +1,31 @@
+{
+  "report_number": "71092",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040804",
+  "reactions": [
+    "COUGH",
+    "HAEMOPTYSIS",
+    "POSTNASAL DRIP",
+    "PULMONARY CONGESTION"
+  ],
+  "date_started": "20040712",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ICE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOMATO JUICE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

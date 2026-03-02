@@ -1,0 +1,49 @@
+{
+  "report_number": "153968",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120629",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLOOD SODIUM INCREASED",
+    "DYSPNOEA",
+    "HAEMOGLOBIN INCREASED",
+    "HYPOTHYROIDISM",
+    "INSOMNIA",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "MICTURITION DISORDER",
+    "MUSCLE SPASMS",
+    "PAIN",
+    "RENAL IMPAIRMENT",
+    "THYROXINE DECREASED",
+    "WEIGHT INCREASED"
+  ],
+  "date_started": "20120627",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REUMOFAN PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ESTER-C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH-OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

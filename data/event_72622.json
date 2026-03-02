@@ -1,0 +1,39 @@
+{
+  "report_number": "72622",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20041001",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIZZINESS",
+    "FATIGUE",
+    "HEADACHE"
+  ],
+  "date_started": "20040910",
+  "consumer": {
+    "age": "12.92",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "7UP DIET SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MOUNTAIN DEW DIET SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEPSI DIET SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

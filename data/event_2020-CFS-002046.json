@@ -1,0 +1,51 @@
+{
+  "report_number": "2020-CFS-002046",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200213",
+  "reactions": [
+    "Acne",
+    "Hair texture abnormal",
+    "Pruritus",
+    "Trichorrhexis"
+  ],
+  "date_started": "20200210",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL B'LEAVE IN MIRACLE CURL PLUMPER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW-POO DELIGHT CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW-POO DELIGHT WEIGHTLESS WAVES MILD LATHER CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION DAILY CREAM CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION DELIGHT WEIGHTLESS WAVES CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

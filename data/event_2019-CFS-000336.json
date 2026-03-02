@@ -1,0 +1,43 @@
+{
+  "report_number": "2019-CFS-000336",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190103",
+  "reactions": [
+    "Cardiac flutter",
+    "Chest pain",
+    "Cold sweat",
+    "Electrocardiogram abnormal",
+    "Hypoaesthesia",
+    "Pain in extremity",
+    "Palpitations"
+  ],
+  "date_started": "20190102",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM INDO WHITE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM MAGNA RED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One A Day Womens",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

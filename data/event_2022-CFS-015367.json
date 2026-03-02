@@ -1,0 +1,45 @@
+{
+  "report_number": "2022-CFS-015367",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20221024",
+  "reactions": [
+    "Angina pectoris",
+    "Anxiety",
+    "Confusional state",
+    "Crying",
+    "Dizziness",
+    "Emotional distress",
+    "Gait disturbance",
+    "Miosis",
+    "Mydriasis",
+    "Nausea",
+    "Speech disorder developmental",
+    "Tremor",
+    "Unresponsive to stimuli",
+    "Vomiting"
+  ],
+  "date_started": "20221021",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEATH BY GUMMY BEARS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Delta8THCDeath by GummyBear",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

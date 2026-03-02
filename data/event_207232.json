@@ -1,0 +1,37 @@
+{
+  "report_number": "207232",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170206",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "BACK PAIN",
+    "DIARRHOEA",
+    "FAECES DISCOLOURED",
+    "INFECTION",
+    "PAIN",
+    "PELVIC PAIN"
+  ],
+  "date_started": "20160628",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DORITOS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "POP TARTS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

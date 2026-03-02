@@ -1,0 +1,47 @@
+{
+  "report_number": "154138",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120706",
+  "reactions": [
+    "FOREIGN BODY TRAUMA",
+    "HYPERSENSITIVITY",
+    "OESOPHAGEAL DISORDER",
+    "PRURITUS",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20120528",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMENS ULTRA MEGA MENOPAUSE EVENING PRIMROSE OIL 1300",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMENS ULTRA MEGA MENOPAUSE FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMENS ULTRA MEGA MENOPAUSE MENOPAUSE FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMENS ULTRA MEGA MENOPAUSE WOMENS ULTRA MEGA BONE DENSITY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

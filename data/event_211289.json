@@ -1,0 +1,29 @@
+{
+  "report_number": "211289",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170427",
+  "reactions": [
+    "ATRIOVENTRICULAR BLOCK",
+    "BLOOD PRESSURE DECREASED",
+    "CIRCULATORY COLLAPSE",
+    "DIZZINESS",
+    "SYNCOPE"
+  ],
+  "date_started": "20170331",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELEASE MANUFACTURED BY ROBINSON PHARMA INC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

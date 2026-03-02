@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-013498",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220831",
+  "reactions": [
+    "Anaemia",
+    "Asthenia",
+    "Chest pain",
+    "Faeces discoloured",
+    "Hypotension"
+  ],
+  "date_started": "20220829",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTRI KING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

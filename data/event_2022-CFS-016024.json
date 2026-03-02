@@ -1,0 +1,40 @@
+{
+  "report_number": "2022-CFS-016024",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20221109",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain",
+    "Burning sensation",
+    "Dyspepsia",
+    "Dyspnoea",
+    "Gallbladder disorder",
+    "Hepatic enzyme increased",
+    "Hyperhidrosis",
+    "Hypoaesthesia",
+    "Nausea",
+    "Speech disorder"
+  ],
+  "date_started": "20220515",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH LENTIL PLUS LEAK",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multi vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

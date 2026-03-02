@@ -1,0 +1,41 @@
+{
+  "report_number": "184598",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150409",
+  "reactions": [
+    "BLOOD PRESSURE DECREASED",
+    "BLOOD PRESSURE INCREASED",
+    "CONFUSIONAL STATE",
+    "DISORIENTATION",
+    "DIZZINESS",
+    "ERYTHEMA",
+    "HYPERHIDROSIS",
+    "NAUSEA",
+    "SWELLING",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20150314",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHARMASSURE PREMIUM VIGORPLEX (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MALE GNC VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

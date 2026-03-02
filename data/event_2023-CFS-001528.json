@@ -1,0 +1,28 @@
+{
+  "report_number": "2023-CFS-001528",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230210",
+  "reactions": [
+    "Dizziness",
+    "Headache",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20230209",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRAL WEST STRAWBERRIES FRAISES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

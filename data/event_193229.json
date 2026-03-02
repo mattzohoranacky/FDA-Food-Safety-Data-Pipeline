@@ -1,0 +1,42 @@
+{
+  "report_number": "193229",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160201",
+  "reactions": [
+    "BLOOD CALCIUM INCREASED",
+    "BLOOD PRESSURE INCREASED",
+    "HEART RATE INCREASED",
+    "HEART RATE IRREGULAR",
+    "INSOMNIA",
+    "NERVOUSNESS",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20150501",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTRA BONE UP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MILK THISTLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OVER 40 MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

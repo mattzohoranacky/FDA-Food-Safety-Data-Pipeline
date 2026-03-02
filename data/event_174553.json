@@ -1,0 +1,36 @@
+{
+  "report_number": "174553",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131121",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "MALAISE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20131113",
+  "consumer": {
+    "age": "6",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER PURE WATERFOR INFANTS",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENFAMIL PREMIUM NEWBORN INFANT, 8 OZ, DRY POWDER (PLASTIC SCOOP ENCLOSED)",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

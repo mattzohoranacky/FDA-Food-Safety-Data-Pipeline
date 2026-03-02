@@ -1,0 +1,34 @@
+{
+  "report_number": "2019-CFS-002802",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20190319",
+  "reactions": [
+    "Anxiety",
+    "Headache",
+    "Heart rate increased",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20190217",
+  "consumer": {
+    "age": "26.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUCONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUFIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

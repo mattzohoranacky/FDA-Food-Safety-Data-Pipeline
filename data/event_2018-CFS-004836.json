@@ -1,0 +1,56 @@
+{
+  "report_number": "2018-CFS-004836",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180316",
+  "reactions": [
+    "Abdominal distension",
+    "Acne",
+    "Alopecia",
+    "Fatigue",
+    "Headache",
+    "Hormone level abnormal",
+    "Menstruation irregular",
+    "Nipple pain",
+    "Trichorrhexis"
+  ],
+  "date_started": "20180121",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT JUNIOR DETANGLER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT JUNIOR SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REJUVABEADS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REPLENISH MASQUE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

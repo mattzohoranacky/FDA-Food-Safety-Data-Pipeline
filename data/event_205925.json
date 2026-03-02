@@ -1,0 +1,41 @@
+{
+  "report_number": "205925",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20161230",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "DIVERTICULITIS",
+    "GASTROINTESTINAL PAIN",
+    "NAUSEA"
+  ],
+  "date_started": "20160802",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY ENERGY (MULTIVITAMINS, MINERALS, CAFFEINE) FILM-COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B VITAMIN COMP [85,83,86,82,81 HCL] (B-KOMPLEX [85,83,86,82,81 HCL])",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

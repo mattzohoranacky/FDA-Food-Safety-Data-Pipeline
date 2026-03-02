@@ -1,0 +1,33 @@
+{
+  "report_number": "2025-CFS-000134",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20250106",
+  "reactions": [
+    "Dyspnoea",
+    "Hypersensitivity"
+  ],
+  "date_started": "20240301",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODERE BURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODERE TRIM CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

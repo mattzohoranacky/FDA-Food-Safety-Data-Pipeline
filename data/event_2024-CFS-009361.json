@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-009361",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20240624",
+  "reactions": [
+    "Food poisoning",
+    "Malaise",
+    "Vomiting"
+  ],
+  "date_started": "20240620",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TEXAS REDFISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

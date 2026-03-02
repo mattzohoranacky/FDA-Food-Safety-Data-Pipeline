@@ -1,0 +1,38 @@
+{
+  "report_number": "2018-CFS-012415",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20181012",
+  "reactions": [
+    "Cholecystitis",
+    "Cough",
+    "Dyspnoea",
+    "Heart rate increased",
+    "Nasal congestion",
+    "Pancreatitis",
+    "Pulmonary congestion"
+  ],
+  "date_started": "20180101",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE NUTRILITE DOUBLE X VITAMIN/MINERAL /PHYTONUTRIENT SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY AMWAY VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

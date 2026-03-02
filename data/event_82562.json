@@ -1,0 +1,28 @@
+{
+  "report_number": "82562",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20051213",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "COUGH",
+    "HAEMOGLOBIN DECREASED",
+    "PNEUMONIA",
+    "RIGORS"
+  ],
+  "date_started": "20051017",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUICE PLUS PLACEBO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

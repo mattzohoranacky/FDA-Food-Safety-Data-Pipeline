@@ -1,0 +1,61 @@
+{
+  "report_number": "2025-CFS-000731",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250116",
+  "reactions": [
+    "Neurological symptom",
+    "Tic"
+  ],
+  "date_started": "20200101",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE 1",
+      "industry_code": "50",
+      "industry_name": "Color Additiv Food/Drug/Cosmetic"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DORITOS NACHO CHEESE",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED 40",
+      "industry_code": "50",
+      "industry_name": "Color Additiv Food/Drug/Cosmetic"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED GATORADE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SKITTLES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YELLOW 6",
+      "industry_code": "50",
+      "industry_name": "Color Additiv Food/Drug/Cosmetic"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YELOW 5",
+      "industry_code": "50",
+      "industry_name": "Color Additiv Food/Drug/Cosmetic"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "report_number": "192260",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20151222",
+  "reactions": [
+    "AMNESIA",
+    "APHASIA",
+    "CEREBROVASCULAR ACCIDENT",
+    "CONVULSION",
+    "GAIT DISTURBANCE",
+    "MEDICAL INDUCTION OF COMA",
+    "VISUAL FIELD DEFECT"
+  ],
+  "date_started": "20151025",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR C4 SOX PRE WORKOUT G4 CHROME SERIES ICY BLUE RAZZAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BEYOND RAW",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BEYOND RAW RECOMP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PERFORMIXX STIRN FREE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PERFORRNIXX SST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

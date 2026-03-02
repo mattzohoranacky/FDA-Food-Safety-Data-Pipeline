@@ -1,0 +1,61 @@
+{
+  "report_number": "2017-CFS-001885",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171118",
+  "reactions": [
+    "Cholestatic liver injury",
+    "Chromaturia",
+    "Decreased appetite",
+    "Drug-induced liver injury",
+    "Faeces pale",
+    "Fatigue",
+    "Hepatitis cholestatic",
+    "Jaundice",
+    "Portal fibrosis",
+    "Pruritus",
+    "Renal injury",
+    "Weight decreased"
+  ],
+  "date_started": "20150112",
+  "consumer": {
+    "age": "35.76",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRI METHYL XTREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Celery Seed Extract",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Liver Health",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "N-acetyl cysteine",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Proprietary Blend",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

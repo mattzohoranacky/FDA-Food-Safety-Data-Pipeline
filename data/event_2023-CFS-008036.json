@@ -1,0 +1,28 @@
+{
+  "report_number": "2023-CFS-008036",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230608",
+  "reactions": [
+    "Death",
+    "Ovarian cancer",
+    "Pancreatic carcinoma"
+  ],
+  "date_started": "20090926",
+  "consumer": {
+    "age": "64.79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHNSONS POWDER NO UPC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

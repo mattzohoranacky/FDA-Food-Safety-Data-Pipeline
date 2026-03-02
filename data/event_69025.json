@@ -1,0 +1,33 @@
+{
+  "report_number": "69025",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20040517",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "HEART RATE INCREASED",
+    "LOSS OF CONSCIOUSNESS",
+    "NAUSEA"
+  ],
+  "date_started": "20040420",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARNISHIELD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN O",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

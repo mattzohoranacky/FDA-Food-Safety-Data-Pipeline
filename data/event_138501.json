@@ -1,0 +1,31 @@
+{
+  "report_number": "138501",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110228",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CRYING",
+    "DECREASED APPETITE",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "FOOD POISONING",
+    "IRRITABILITY",
+    "NAUSEA"
+  ],
+  "date_started": "20110223",
+  "consumer": {
+    "age": "2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LUCERNE MILK WHOLE",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

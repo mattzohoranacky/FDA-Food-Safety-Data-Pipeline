@@ -1,0 +1,32 @@
+{
+  "report_number": "190546",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20151009",
+  "reactions": [
+    "ASTHENIA",
+    "BLOOD BILIRUBIN INCREASED",
+    "DECREASED APPETITE",
+    "DRUG-INDUCED LIVER INJURY",
+    "HEPATIC ENZYME INCREASED",
+    "JAUNDICE",
+    "LETHARGY",
+    "NAUSEA",
+    "PYREXIA"
+  ],
+  "date_started": "20150915",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

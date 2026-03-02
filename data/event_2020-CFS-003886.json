@@ -1,0 +1,44 @@
+{
+  "report_number": "2020-CFS-003886",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200328",
+  "reactions": [
+    "Dry skin",
+    "Hypersensitivity",
+    "Lacrimation increased",
+    "Nasal congestion",
+    "Rash erythematous",
+    "Rhinorrhoea",
+    "Skin exfoliation",
+    "Swelling"
+  ],
+  "date_started": "20200302",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MIRACLE NOODLE",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Lean 1 powder",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "carnitine",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

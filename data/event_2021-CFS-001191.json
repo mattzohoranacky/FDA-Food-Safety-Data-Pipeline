@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-001191",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210203",
+  "reactions": [
+    "Cellulitis",
+    "Erythema",
+    "Pyrexia",
+    "Rash"
+  ],
+  "date_started": "20210122",
+  "consumer": {
+    "age": "34.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DYNAMIC INK BLACK INK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "dynamic ink",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "146467",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20111201",
+  "reactions": [
+    "Adverse reaction",
+    "PRURITUS",
+    "RASH",
+    "SKIN EXFOLIATION"
+  ],
+  "date_started": "20110901",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHN FRIEDA DAILY SHAMPOO FOR RED HAIR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HEALTHY SEXY HAIR TRI-WHEAT LEAVE-IN CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

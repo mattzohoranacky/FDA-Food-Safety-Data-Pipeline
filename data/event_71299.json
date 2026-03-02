@@ -1,0 +1,28 @@
+{
+  "report_number": "71299",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040811",
+  "reactions": [
+    "DIARRHOEA"
+  ],
+  "date_started": "20040804",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PET MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

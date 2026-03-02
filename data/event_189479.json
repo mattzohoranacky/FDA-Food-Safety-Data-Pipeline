@@ -1,0 +1,29 @@
+{
+  "report_number": "189479",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150904",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "BLOOD PRESSURE DECREASED",
+    "BLOOD PRESSURE INCREASED",
+    "DYSPNOEA",
+    "SYNCOPE"
+  ],
+  "date_started": "20150717",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

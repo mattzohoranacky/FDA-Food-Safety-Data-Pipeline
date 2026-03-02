@@ -1,0 +1,52 @@
+{
+  "report_number": "2017-CFS-001888",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171118",
+  "reactions": [
+    "Cholestasis",
+    "Chromaturia",
+    "Chronic hepatitis",
+    "Drug-induced liver injury",
+    "Jaundice",
+    "Nausea",
+    "Pruritus",
+    "Vomiting",
+    "Weight decreased"
+  ],
+  "date_started": "20131113",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IDEAL PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MACA FORCE VANILLA POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLE MILK CHOCOLATE POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WARRIOR FOOD EXTREME VANILLA PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-012260",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20201126",
+  "reactions": [
+    "Anaphylactic shock",
+    "Dyspnoea",
+    "Pancreatitis acute",
+    "Swollen tongue"
+  ],
+  "date_started": "20200101",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XENADRINE CLEAR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XENADRINE PURE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

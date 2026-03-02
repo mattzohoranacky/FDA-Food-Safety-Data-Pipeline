@@ -1,0 +1,47 @@
+{
+  "report_number": "193594",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160210",
+  "reactions": [
+    "DYSPNOEA",
+    "HEART RATE DECREASED",
+    "OXYGEN SATURATION DECREASED",
+    "PLEURAL EFFUSION",
+    "PRURITUS",
+    "RESPIRATORY ARREST",
+    "RESPIRATORY DISTRESS",
+    "URINARY TRACT INFECTION",
+    "VOMITING"
+  ],
+  "date_started": "20151110",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE GLUCOSAMINE CHONDROITIN COMPLEX RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE NEURO-PS PHOSPHATIDYLSERINE 100MG RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE TURMERIC CURCUMIN 1000 MG RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

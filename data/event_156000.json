@@ -1,0 +1,60 @@
+{
+  "report_number": "156000",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120830",
+  "reactions": [
+    "ANGINA PECTORIS",
+    "BLOOD TRIGLYCERIDES INCREASED",
+    "HEPATIC STEATOSIS",
+    "LABELLED DRUG-DRUG INTERACTION MEDICATION ERROR",
+    "MYOCARDIAL INFARCTION",
+    "STENT MALAPPOSITION",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20120810",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE LIFTOFF ORANGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE FORMULA 1",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE HERBAL ALOE CONCENTRATE MANGO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE HERBAL TEA CONCENTRATE LEMON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PERSONALIZED PROTEIN POWDER",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN DRINK MIX",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

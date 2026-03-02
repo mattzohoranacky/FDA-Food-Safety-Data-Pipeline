@@ -1,0 +1,36 @@
+{
+  "report_number": "147387",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110719",
+  "reactions": [
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "PARAESTHESIA",
+    "SWOLLEN TONGUE",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20110711",
+  "consumer": {
+    "age": "15",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOLLY TIME POPCORN",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KERNEL SEASONS POPCORN SEASONING ALL NATURAL BUTTER FLAVOR",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

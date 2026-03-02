@@ -1,0 +1,39 @@
+{
+  "report_number": "2022-CFS-011190",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220721",
+  "reactions": [
+    "Chills",
+    "Chromaturia",
+    "Decreased appetite",
+    "Dehydration",
+    "Faeces discoloured",
+    "Gastrooesophageal reflux disease",
+    "Headache",
+    "Hyperhidrosis",
+    "Jaundice",
+    "Nausea",
+    "Pruritus"
+  ],
+  "date_started": "20220525",
+  "consumer": {
+    "age": "50.7",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST LENTILS AND LEEK CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

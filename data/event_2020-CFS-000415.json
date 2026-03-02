@@ -1,0 +1,29 @@
+{
+  "report_number": "2020-CFS-000415",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200115",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dizziness",
+    "Hypotension",
+    "Swelling",
+    "Urticaria"
+  ],
+  "date_started": "20191209",
+  "consumer": {
+    "age": "15.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SMITH'S ROSEBUD SALVE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

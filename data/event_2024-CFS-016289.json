@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-016289",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241229",
+  "reactions": [
+    "Diarrhoea",
+    "Food poisoning",
+    "Headache",
+    "Hypersensitivity",
+    "Nausea"
+  ],
+  "date_started": "20241228",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

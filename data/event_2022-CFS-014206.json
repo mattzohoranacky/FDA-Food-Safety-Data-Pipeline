@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-014206",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220919",
+  "reactions": [
+    "Deformity",
+    "Gait disturbance",
+    "Neuropathy peripheral"
+  ],
+  "date_started": "20220517",
+  "consumer": {
+    "age": "48.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTRI KING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Artri King",
+      "industry_code": "52",
+      "industry_name": "Miscellaneous Food Related Items"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-013675",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230810",
+  "reactions": [
+    "Abdominal pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20240804",
+  "consumer": {
+    "age": "19",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRAFT MAC AND CHEESE CHICKEN NUGGETS AND BROCCOLI",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRAFT MAC AND CHEESE MEATBALLS AND CINNAMON APPLE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

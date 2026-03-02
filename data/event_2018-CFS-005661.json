@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-005661",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180410",
+  "reactions": [
+    "Blood pressure increased"
+  ],
+  "date_started": "20180310",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM GINKGO BILOBA EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWANSON PREMIUM RHODIOLA ASHWAGANDHA GINSENG COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

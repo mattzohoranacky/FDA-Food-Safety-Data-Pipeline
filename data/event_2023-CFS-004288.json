@@ -1,0 +1,38 @@
+{
+  "report_number": "2023-CFS-004288",
+  "outcomes": [
+    "Allergic Reaction"
+  ],
+  "date_created": "20230424",
+  "reactions": [
+    "Hypersensitivity",
+    "Infection",
+    "Skin ulcer"
+  ],
+  "date_started": "20230320",
+  "consumer": {
+    "age": "50.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HAIR PRODUCTS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOTIONS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SKIN CREAMS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "2021-CFS-006112",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210629",
+  "reactions": [
+    "Abdominal pain upper",
+    "Cholelithiasis",
+    "Dysphagia"
+  ],
+  "date_started": "20210526",
+  "consumer": {
+    "age": "101",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE RED KRILL OIL 1500MG RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

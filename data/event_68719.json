@@ -1,0 +1,34 @@
+{
+  "report_number": "68719",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20040504",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "PRURITUS",
+    "URTICARIA"
+  ],
+  "date_started": "20040324",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SODIUM BISULFITE",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SODIUM METABISULFITE",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

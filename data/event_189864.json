@@ -1,0 +1,30 @@
+{
+  "report_number": "189864",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150922",
+  "reactions": [
+    "BLOOD LEAD INCREASED"
+  ],
+  "date_started": "20150430",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRUHAT VATA CHINTAMANI RASA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAHAYOGARAJ GUGGULU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

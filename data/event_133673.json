@@ -1,0 +1,32 @@
+{
+  "report_number": "133673",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101220",
+  "reactions": [
+    "CHEST PAIN",
+    "CORONARY ARTERY OCCLUSION",
+    "INTRACARDIAC THROMBUS",
+    "NAUSEA",
+    "SINUS BRADYCARDIA",
+    "TROPONIN INCREASED",
+    "VOMITING"
+  ],
+  "date_started": "20101112",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FEVER STIMULATION BEVERAGE",
+      "industry_code": "32",
+      "industry_name": "Alcoholic Beverage"
+    }
+  ]
+}

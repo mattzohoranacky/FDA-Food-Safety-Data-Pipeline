@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-008352",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250527",
+  "reactions": [
+    "Foreign body in gastrointestinal tract",
+    "Gastroenteritis Escherichia coli",
+    "Malaise",
+    "Staphylococcal infection"
+  ],
+  "date_started": "20231006",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JACK LINKS BEEF JERKY",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

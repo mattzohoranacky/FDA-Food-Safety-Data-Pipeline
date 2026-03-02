@@ -1,0 +1,33 @@
+{
+  "report_number": "89026",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20061025",
+  "reactions": [
+    "BLOOD CHOLESTEROL INCREASED",
+    "DELUSION",
+    "HIGH DENSITY LIPOPROTEIN INCREASED",
+    "INSOMNIA",
+    "LOW DENSITY LIPOPROTEIN INCREASED",
+    "PARANOIA",
+    "SPEECH DISORDER"
+  ],
+  "date_started": "20060721",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARTER REED COMPANY RELACORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

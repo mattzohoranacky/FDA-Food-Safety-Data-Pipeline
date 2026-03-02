@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-001012",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220121",
+  "reactions": [
+    "Botulism"
+  ],
+  "date_started": "20220120",
+  "consumer": {
+    "age": "12",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Similac Advance Infant Formula",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

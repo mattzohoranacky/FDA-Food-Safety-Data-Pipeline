@@ -1,0 +1,38 @@
+{
+  "report_number": "203518",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161027",
+  "reactions": [
+    "DYSGEUSIA",
+    "HYPERSENSITIVITY",
+    "HYPOAESTHESIA",
+    "HYPOAESTHESIA ORAL",
+    "PHARYNGEAL HYPOAESTHESIA",
+    "SWOLLEN TONGUE",
+    "TONGUE DISCOLOURATION"
+  ],
+  "date_started": "20160808",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

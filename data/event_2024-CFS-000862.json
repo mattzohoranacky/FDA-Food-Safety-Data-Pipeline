@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-000862",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230613",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Choking",
+    "Dyspnoea",
+    "Erythema",
+    "Hypersensitivity"
+  ],
+  "date_started": "20230604",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER WHIPPED TOPPING",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    }
+  ]
+}

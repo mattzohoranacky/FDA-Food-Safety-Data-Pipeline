@@ -1,0 +1,32 @@
+{
+  "report_number": "110523",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090203",
+  "reactions": [
+    "DIARRHOEA",
+    "Dehydration",
+    "GASTROENTERITIS SALMONELLA",
+    "Hyponatraemia",
+    "Renal failure"
+  ],
+  "date_started": "20090126",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AUSTIN CHEESE CRACKERS WITH PEANUT BUTTER",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

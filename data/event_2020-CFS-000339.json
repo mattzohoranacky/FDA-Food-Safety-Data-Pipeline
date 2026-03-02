@@ -1,0 +1,39 @@
+{
+  "report_number": "2020-CFS-000339",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200110",
+  "reactions": [
+    "Chills",
+    "Diarrhoea haemorrhagic",
+    "Malaise",
+    "Vomiting"
+  ],
+  "date_started": "20200109",
+  "consumer": {
+    "age": "30.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRE CUT MANGO",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Women's daily multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "fish oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

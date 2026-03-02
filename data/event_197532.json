@@ -1,0 +1,32 @@
+{
+  "report_number": "197532",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160615",
+  "reactions": [
+    "CEREBROVASCULAR ACCIDENT",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "CONVULSION",
+    "CYANOSIS",
+    "FEELING COLD",
+    "HYPOAESTHESIA",
+    "SPEECH DISORDER"
+  ],
+  "date_started": "20151221",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR - M5 RELOADED - 3RD GENERATON CHROME SERIES - FRUIT PUNCH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "133139",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20101203",
+  "reactions": [
+    "ERYTHEMA",
+    "HEADACHE",
+    "LOSS OF CONSCIOUSNESS"
+  ],
+  "date_started": "20101112",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX CLEANSE FOR LIFE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

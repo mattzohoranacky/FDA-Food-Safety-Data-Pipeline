@@ -1,0 +1,33 @@
+{
+  "report_number": "2025-CFS-007481",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20250404",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20241202",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOARS HEAD SLICED OVEN GOLD TURKEY",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOES TZATZIKI",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "report_number": "68861",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20040511",
+  "reactions": [
+    "CONSTIPATION",
+    "DEATH",
+    "DIARRHOEA",
+    "FAECALOMA",
+    "HOSPITALISATION"
+  ],
+  "date_started": "20031101",
+  "consumer": {
+    "age": "92",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENEFIBER DIETARY FIBER SUPPLEMENT SUGAR FREE (NCH) (PARTIALLY HYDROLYZED GUAR GUM) POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS (PANTHENOL, RETINOL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

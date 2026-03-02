@@ -1,0 +1,44 @@
+{
+  "report_number": "112143",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090417",
+  "reactions": [
+    "CONVULSION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FAECAL INCONTINENCE",
+    "HEADACHE",
+    "HYPERSENSITIVITY",
+    "MEDIASTINAL DISORDER",
+    "NAUSEA",
+    "NERVOUS SYSTEM DISORDER",
+    "PAIN",
+    "PALPITATIONS",
+    "PHARYNGITIS",
+    "RESPIRATORY DISORDER",
+    "TENDERNESS",
+    "THROAT TIGHTNESS",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20090406",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

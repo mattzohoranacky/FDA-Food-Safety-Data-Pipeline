@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-006753",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20180505",
+  "reactions": [
+    "Alopecia",
+    "Breast mass",
+    "Breast pain",
+    "Breast tenderness",
+    "Hair texture abnormal",
+    "Hormone level abnormal",
+    "Menorrhagia",
+    "Menstrual disorder",
+    "Pruritus"
+  ],
+  "date_started": "20171231",
+  "consumer": {
+    "age": "28.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-016211",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241227",
+  "reactions": [
+    "Dyspnoea",
+    "Heart rate increased",
+    "Hypersensitivity"
+  ],
+  "date_started": "20241226",
+  "consumer": {
+    "age": "9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GHIRARDELLI MILK CHOCOLATE FLAVOR MELTING WAFERS",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "111083",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090227",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "HAEMATOCHEZIA",
+    "HEADACHE",
+    "LETHARGY",
+    "VOMITING"
+  ],
+  "date_started": "20090213",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CONAGRA FOODS HUNT'S DICED TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "132273",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20101116",
+  "reactions": [
+    "ARTHRALGIA",
+    "DIARRHOEA",
+    "SWELLING",
+    "SYSTEMIC LUPUS ERYTHEMATOSUS"
+  ],
+  "date_started": "20100313",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "14-DAY ACAI BERRY CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ACAI BERRY DIET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

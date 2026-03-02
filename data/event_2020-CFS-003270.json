@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-003270",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200306",
+  "reactions": [
+    "Alopecia",
+    "Hair texture abnormal",
+    "Pruritus"
+  ],
+  "date_started": "20191215",
+  "consumer": {
+    "age": "32.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW POO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

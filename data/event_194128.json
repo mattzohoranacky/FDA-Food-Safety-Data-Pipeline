@@ -1,0 +1,32 @@
+{
+  "report_number": "194128",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160307",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "BLOOD THYROID STIMULATING HORMONE INCREASED",
+    "BURNING SENSATION",
+    "CHEST DISCOMFORT",
+    "HEART RATE INCREASED",
+    "HYPOAESTHESIA",
+    "TACHYCARDIA",
+    "TROPONIN INCREASED"
+  ],
+  "date_started": "20151129",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JACK3D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

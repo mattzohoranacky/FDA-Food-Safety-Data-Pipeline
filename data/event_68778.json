@@ -1,0 +1,36 @@
+{
+  "report_number": "68778",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040506",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CHOLESTEROL INCREASED",
+    "HEPATITIS TOXIC",
+    "JAUNDICE"
+  ],
+  "date_started": "20040130",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "19-NORDECA CYP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "M-ONE-T",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

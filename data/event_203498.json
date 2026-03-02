@@ -1,0 +1,32 @@
+{
+  "report_number": "203498",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161026",
+  "reactions": [
+    "Adverse reaction",
+    "DYSPNOEA",
+    "FOOD ALLERGY",
+    "HYPERSENSITIVITY",
+    "LOCAL SWELLING",
+    "PHARYNGEAL OEDEMA"
+  ],
+  "date_started": "20161014",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADITIONAL SAVORY CHEX MIX SNACK MIX",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

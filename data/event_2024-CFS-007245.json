@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-007245",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210201",
+  "reactions": [
+    "Dizziness",
+    "Dyspnoea",
+    "Headache",
+    "Lethargy",
+    "Malaise",
+    "Pruritus",
+    "Urticaria"
+  ],
+  "date_started": "20210119",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SAN PELLEGRINO SPARKLING MINERAL WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

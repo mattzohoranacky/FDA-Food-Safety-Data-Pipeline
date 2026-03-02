@@ -1,0 +1,40 @@
+{
+  "report_number": "189639",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150908",
+  "reactions": [
+    "ANXIETY",
+    "COELIAC DISEASE",
+    "GASTROINTESTINAL DISORDER",
+    "HYPERSENSITIVITY",
+    "INSOMNIA"
+  ],
+  "date_started": "20150805",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS CHEERIOS HONEY NUT",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS CHEERIOS MULTIGRAIN",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS CHEERIOS REGULAR",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

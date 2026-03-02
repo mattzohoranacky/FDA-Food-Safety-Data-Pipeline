@@ -1,0 +1,47 @@
+{
+  "report_number": "2018-CFS-013737",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181117",
+  "reactions": [
+    "Burning sensation",
+    "Chemical injury",
+    "Erythema",
+    "Pain",
+    "Swelling",
+    "Visual acuity reduced"
+  ],
+  "date_started": "20181115",
+  "consumer": {
+    "age": "59.76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "YUMI LASH LIFT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Os-cal",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "biotin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "report_number": "2024-CFS-001058",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240122",
+  "reactions": [
+    "Asthenia",
+    "Brain fog",
+    "Constipation",
+    "Dizziness",
+    "Dry mouth",
+    "Dry skin",
+    "Dyspnoea",
+    "Eczema",
+    "Hallucination",
+    "Irritable bowel syndrome",
+    "Mood swings",
+    "Myalgia",
+    "Night sweats",
+    "Ocular hyperaemia",
+    "Onychomycosis",
+    "Pain",
+    "Rash",
+    "Speech disorder",
+    "Tinnitus",
+    "Vision blurred"
+  ],
+  "date_started": "20220510",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CBD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TCH EDIBLES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2019-CFS-005092",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190521",
+  "reactions": [
+    "Burning sensation",
+    "Dermatitis contact",
+    "Erythema",
+    "Eyelid skin dryness",
+    "Pruritus",
+    "Rash",
+    "Swelling face",
+    "Urticaria"
+  ],
+  "date_started": "20190520",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAY REGENERIST MICRO-SCULPTING CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One a day multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

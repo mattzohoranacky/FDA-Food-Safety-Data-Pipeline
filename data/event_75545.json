@@ -1,0 +1,43 @@
+{
+  "report_number": "75545",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050120",
+  "reactions": [
+    "BLOOD PRESSURE FLUCTUATION",
+    "CARDIAC FIBRILLATION",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "DYSPEPSIA",
+    "ERUCTATION",
+    "FLUSHING",
+    "HEART RATE ABNORMAL",
+    "HYPERSENSITIVITY",
+    "PAIN",
+    "PALPITATIONS",
+    "PANIC ATTACK",
+    "RASH"
+  ],
+  "date_started": "20041111",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ATKINS PRODUCTS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RUSSELL STOVER CANDIES",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-001536",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210929",
+  "reactions": [
+    "Adverse event",
+    "Colon cancer stage III",
+    "Fallopian tube cancer stage III",
+    "Ovarian cancer stage III"
+  ],
+  "date_started": "20170907",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

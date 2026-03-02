@@ -1,0 +1,31 @@
+{
+  "report_number": "75278",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050105",
+  "reactions": [
+    "IRRITABILITY",
+    "VOMITING"
+  ],
+  "date_started": "20041211",
+  "consumer": {
+    "age": "1",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INFANT FORMULA WITH ARA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "INFANT FORMULA WITH DHA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

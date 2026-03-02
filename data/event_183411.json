@@ -1,0 +1,37 @@
+{
+  "report_number": "183411",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150226",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "BURNING SENSATION",
+    "HYPERSENSITIVITY",
+    "INSOMNIA",
+    "PHARYNGEAL OEDEMA",
+    "PRURITUS",
+    "SENSATION OF FOREIGN BODY",
+    "URTICARIA"
+  ],
+  "date_started": "20150208",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE CHEWABLE VITAMIN C 500 MG CHEWABLE TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

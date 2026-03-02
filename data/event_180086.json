@@ -1,0 +1,44 @@
+{
+  "report_number": "180086",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141016",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "HEPATOTOXICITY",
+    "HIGH DENSITY LIPOPROTEIN DECREASED",
+    "HYPOLIPIDAEMIA",
+    "LIPIDS ABNORMAL",
+    "LIVER INJURY",
+    "TOTAL CHOLESTEROL/HDL RATIO DECREASED"
+  ],
+  "date_started": "20140930",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLYMPUS LABS TR3N",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CYCLE ASSIST (ON CYCLE AND POST CYCLE THERAPY SUPPORT) BY COMPETITIVE EDGE LABS, LLC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EPI-10 BY LGI SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

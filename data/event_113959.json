@@ -1,0 +1,47 @@
+{
+  "report_number": "113959",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090611",
+  "reactions": [
+    "ANGIOPATHY",
+    "BLOOD PRESSURE INCREASED",
+    "DIZZINESS",
+    "EPISTAXIS",
+    "FEELING COLD",
+    "FEELING HOT",
+    "HOT FLUSH",
+    "HYPERHIDROSIS",
+    "HYPOAESTHESIA",
+    "LOSS OF CONSCIOUSNESS",
+    "MUSCULAR WEAKNESS",
+    "NEUROPATHY PERIPHERAL",
+    "PAIN IN EXTREMITY",
+    "PARAESTHESIA",
+    "PRURITUS",
+    "SWELLING"
+  ],
+  "date_started": "20090512",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC NIACIN 500MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

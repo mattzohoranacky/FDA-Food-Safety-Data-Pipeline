@@ -1,0 +1,29 @@
+{
+  "report_number": "2017-CFS-001969",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171114",
+  "reactions": [
+    "Infection",
+    "Oedema peripheral",
+    "Rash erythematous"
+  ],
+  "date_started": "20171113",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "176275",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140506",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "COLITIS",
+    "ERYTHEMA",
+    "GASTROINTESTINAL HAEMORRHAGE",
+    "RECTAL HAEMORRHAGE"
+  ],
+  "date_started": "20140326",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IMAGE (BPI) SPORTS  DEXYFEN DIET STACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

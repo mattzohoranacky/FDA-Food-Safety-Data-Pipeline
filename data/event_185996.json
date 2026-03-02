@@ -1,0 +1,44 @@
+{
+  "report_number": "185996",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20150512",
+  "reactions": [
+    "Death",
+    "INTERSTITIAL LUNG DISEASE",
+    "PULMONARY ARTERIAL HYPERTENSION"
+  ],
+  "date_started": "20150217",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL CHOLECALCIFEROL + CALCIUM CITRATE COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMEN'S 50+ HEALTHY ADVANTAGE MULTIVITAMINS + MINERALS FILM-COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENSURE PLUS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-011340",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220721",
+  "reactions": [
+    "Alopecia"
+  ],
+  "date_started": "20220708",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "L'OREAL REVLON 42 MEDIUM AUBURN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

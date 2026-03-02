@@ -1,0 +1,41 @@
+{
+  "report_number": "2018-CFS-011255",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180910",
+  "reactions": [
+    "Alopecia",
+    "Change in sustained attention",
+    "Cognitive disorder",
+    "Dysgeusia",
+    "Sleep disorder"
+  ],
+  "date_started": "20180907",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAFE LA LLAVE ESPRESSO",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Medique Medi-Lyte electrolytes",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Standard Process Cataplex B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

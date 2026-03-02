@@ -1,0 +1,27 @@
+{
+  "report_number": "2022-CFS-004921",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220407",
+  "reactions": [
+    "Diarrhoea",
+    "Gastroenteritis",
+    "Vomiting"
+  ],
+  "date_started": "20220331",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS LUCKY CHARMS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

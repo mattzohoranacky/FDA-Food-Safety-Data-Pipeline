@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-000127",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240105",
+  "reactions": [
+    "Dizziness",
+    "Gastrointestinal haemorrhage",
+    "Gastrointestinal tract irritation",
+    "Haematemesis",
+    "Malaise",
+    "Nausea"
+  ],
+  "date_started": "20231122",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIQUID IV HYDRATION MULTIPLIER",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

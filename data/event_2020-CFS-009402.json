@@ -1,0 +1,40 @@
+{
+  "report_number": "2020-CFS-009402",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200928",
+  "reactions": [
+    "Chills",
+    "Cholecystitis",
+    "Cholelithiasis",
+    "Death",
+    "Heart rate increased",
+    "Loss of consciousness",
+    "Maternal exposure during pregnancy",
+    "Ovarian cancer stage III",
+    "Polycystic ovaries"
+  ],
+  "date_started": "20141201",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

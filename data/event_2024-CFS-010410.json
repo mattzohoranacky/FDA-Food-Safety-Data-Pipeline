@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-010410",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240805",
+  "reactions": [
+    "Food poisoning",
+    "Malaise"
+  ],
+  "date_started": "20230319",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

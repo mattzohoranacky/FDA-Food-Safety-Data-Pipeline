@@ -1,0 +1,32 @@
+{
+  "report_number": "88524",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20061003",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "BEDRIDDEN",
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "COLD SWEAT",
+    "HEADACHE"
+  ],
+  "date_started": "20060902",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC COMPLETE BODY (7-DAY) CLEANSING PROGRAM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

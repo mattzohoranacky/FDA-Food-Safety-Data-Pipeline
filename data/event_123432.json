@@ -1,0 +1,32 @@
+{
+  "report_number": "123432",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100219",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "CONSTIPATION",
+    "DYSPEPSIA",
+    "FAECES DISCOLOURED"
+  ],
+  "date_started": "20091218",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IRWIN NATURALS GREEN TEA FAT BURNER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PHARMANEX LIFE PAC NANO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

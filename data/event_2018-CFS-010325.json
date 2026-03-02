@@ -1,0 +1,29 @@
+{
+  "report_number": "2018-CFS-010325",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180728",
+  "reactions": [
+    "Haematuria",
+    "Haemoglobin decreased",
+    "International normalised ratio decreased",
+    "International normalised ratio increased",
+    "Thrombosis"
+  ],
+  "date_started": "20180716",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CANNABIS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

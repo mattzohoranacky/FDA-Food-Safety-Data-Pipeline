@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-012460",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220811",
+  "reactions": [
+    "Abdominal pain",
+    "Dizziness",
+    "Heart rate increased",
+    "Nausea"
+  ],
+  "date_started": "20220724",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NAOMI MIGHTY MG BIOACTIVE MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Naomi Mighty Mg",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

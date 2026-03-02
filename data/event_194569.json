@@ -1,0 +1,48 @@
+{
+  "report_number": "194569",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160322",
+  "reactions": [
+    "ALTERED VISUAL DEPTH PERCEPTION",
+    "BALANCE DISORDER",
+    "CEREBROVASCULAR ACCIDENT",
+    "CONVULSION",
+    "HYPERHIDROSIS",
+    "SENSORY LOSS"
+  ],
+  "date_started": "20160225",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL LEAN LIVE LEAN & FIT PAK - MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL LEAN LIVE LEAN & FIT PAK  APPETREX CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL LEAN LIVE LEAN & FIT PAK  BALANCED MOOD SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL LEAN LIVE LEAN & FIT PAK  WATEREX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

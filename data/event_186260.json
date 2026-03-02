@@ -1,0 +1,35 @@
+{
+  "report_number": "186260",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150519",
+  "reactions": [
+    "BURNING SENSATION",
+    "ERYTHEMA",
+    "EXCORIATION",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "SKIN EXFOLIATION"
+  ],
+  "date_started": "20150518",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NYC CURL CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NYC CURL CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

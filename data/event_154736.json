@@ -1,0 +1,62 @@
+{
+  "report_number": "154736",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120725",
+  "reactions": [
+    "ASTHENIA",
+    "CARDIAC ARREST",
+    "CHEST DISCOMFORT",
+    "CHEST PAIN",
+    "DYSPHONIA",
+    "HYPERHIDROSIS",
+    "LOSS OF CONSCIOUSNESS",
+    "MYOCARDIAL INFARCTION",
+    "PERFORMANCE STATUS DECREASED",
+    "VOMITING"
+  ],
+  "date_started": "20120602",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP MEGA MEN POWERED ENDURANCE ENERGY ENHANCER N.O.",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP MEGA MEN POWERED ENDURANCE MEGA MEN SPORT FULL STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP MEGA MEN POWERED ENDURANCE THERMO IGNITER 12X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP MEGA MEN POWERED ENDURANCE VITAPAK PROGRAM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP MEGA MEN POWERED ENDURANCE YOHIMBE 451",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

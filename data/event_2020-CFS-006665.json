@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-006665",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200707",
+  "reactions": [
+    "Abdominal distension",
+    "Gastrointestinal disorder"
+  ],
+  "date_started": "20200703",
+  "consumer": {
+    "age": "36.4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HIDDEN VALLEY BUTTERMILK RANCH",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HIDDEN VALLEY RANCH DIPS",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Unflavored Creatine Monohydrate",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

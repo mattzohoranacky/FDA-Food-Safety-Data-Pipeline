@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-015480",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20221026",
+  "reactions": [
+    "Abdominal pain upper",
+    "Fatigue",
+    "Hepatic enzyme increased",
+    "Muscle spasms",
+    "Pain"
+  ],
+  "date_started": "20220526",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH LENTIL CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

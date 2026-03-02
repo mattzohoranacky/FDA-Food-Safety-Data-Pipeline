@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-001498",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190204",
+  "reactions": [
+    "Chest pain",
+    "Chills",
+    "Dyspnoea",
+    "Hot flush",
+    "Muscle spasms",
+    "Tremor"
+  ],
+  "date_started": "20190203",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXTENZE PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One a Day vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

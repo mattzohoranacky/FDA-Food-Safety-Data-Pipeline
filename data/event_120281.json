@@ -1,0 +1,29 @@
+{
+  "report_number": "120281",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090812",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "DYSPEPSIA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "RETCHING"
+  ],
+  "date_started": "20090804",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEIGHT WATCHERS GOLDEN SPONGE CAKE WITH CREAMY FILLING",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

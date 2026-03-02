@@ -1,0 +1,32 @@
+{
+  "report_number": "173504",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131224",
+  "reactions": [
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "OEDEMA PERIPHERAL",
+    "PAIN",
+    "RASH",
+    "SWELLING",
+    "THROMBOSIS"
+  ],
+  "date_started": "20131119",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEANINGFUL BEAUTY WELLNESS VITAMIN SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

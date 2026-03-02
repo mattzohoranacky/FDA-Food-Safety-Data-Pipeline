@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-011545",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220726",
+  "reactions": [
+    "Dyspnoea",
+    "Hypersensitivity",
+    "Pruritus"
+  ],
+  "date_started": "20220725",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHIQUITA BANANA BREAD MIX",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "166858",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130620",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CONTRACTED BLADDER",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "LEUKOCYTOSIS",
+    "MENSTRUATION IRREGULAR",
+    "PAIN",
+    "PANCREATIC ENZYMES INCREASED",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20130515",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT HARDCORE ELITE CAPSULES (NO PREF. NAME)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CARB BLOCK ULTRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

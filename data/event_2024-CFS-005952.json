@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-005952",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20240612",
+  "reactions": [
+    "Dyspepsia",
+    "Gastritis",
+    "Hypervitaminosis",
+    "Neuropathy peripheral"
+  ],
+  "date_started": "20220408",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN B6",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

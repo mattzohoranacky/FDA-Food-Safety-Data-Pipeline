@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-008049",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230801",
+  "reactions": [
+    "Anxiety",
+    "Eye pain",
+    "Fatigue",
+    "Feeling abnormal",
+    "Muscular weakness",
+    "Nystagmus",
+    "Tension headache",
+    "Visual impairment"
+  ],
+  "date_started": "20230222",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRABIO CREATINE MONOHYDRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

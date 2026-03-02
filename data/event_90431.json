@@ -1,0 +1,36 @@
+{
+  "report_number": "90431",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20070108",
+  "reactions": [
+    "MALAISE"
+  ],
+  "date_started": "20070105",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND CRYSTAL POTASSIUM CHLORIDE SALT SUBSTITUTE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

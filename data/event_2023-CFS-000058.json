@@ -1,0 +1,26 @@
+{
+  "report_number": "2023-CFS-000058",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230103",
+  "reactions": [
+    "Dermatitis allergic"
+  ],
+  "date_started": "20230103",
+  "consumer": {
+    "age": "16",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHNSONS POWDER NO UPC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

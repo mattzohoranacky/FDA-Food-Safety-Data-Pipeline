@@ -1,0 +1,47 @@
+{
+  "report_number": "175827",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140407",
+  "reactions": [
+    "CHEST PAIN",
+    "OESOPHAGEAL OPERATION",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20130621",
+  "consumer": {
+    "age": "49.18",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQUATE CALCIUM CITRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQUATE COMPLETE ULTRA WOMEN'S HEALTH 50+ MULTIVITAMINS, MULTIMINERALS TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SPRING VALLEY CHROMIUM PICOLINATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SPRING VALLEY CO Q 10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

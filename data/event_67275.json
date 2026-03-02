@@ -1,0 +1,31 @@
+{
+  "report_number": "67275",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040311",
+  "reactions": [
+    "ARTHRALGIA",
+    "PHYSICAL EXAMINATION"
+  ],
+  "date_started": "20031115",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRYSTAL LIGHT",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEPSI ONE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-002450",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20240227",
+  "reactions": [
+    "Abdominal pain",
+    "Chills",
+    "Diverticulitis",
+    "Nausea"
+  ],
+  "date_started": "20240112",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AG1 WHOLE FOOD POUCH 360G",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "report_number": "192596",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20160106",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "BLISTER",
+    "BURNING SENSATION",
+    "ERYTHEMA",
+    "MOVEMENT DISORDER",
+    "NAUSEA",
+    "PYREXIA",
+    "RASH PRURITIC",
+    "RASH PUSTULAR",
+    "SEPSIS",
+    "SKIN IRRITATION",
+    "TREMOR",
+    "VOMITING",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20151207",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

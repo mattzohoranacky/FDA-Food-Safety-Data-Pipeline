@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-016023",
+  "outcomes": [
+    "Death",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20221021",
+  "reactions": [
+    "Abdominal pain",
+    "Asthenia",
+    "Coordination abnormal",
+    "Death",
+    "Diarrhoea",
+    "Dysarthria",
+    "Encephalopathy",
+    "Fatigue",
+    "Myalgia",
+    "Paralysis",
+    "Speech disorder"
+  ],
+  "date_started": "20221008",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCALLOPS AND LOBSTER LEGS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

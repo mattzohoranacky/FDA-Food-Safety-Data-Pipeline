@@ -1,0 +1,43 @@
+{
+  "report_number": "200381",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160819",
+  "reactions": [
+    "ALOPECIA",
+    "BODY TEMPERATURE FLUCTUATION",
+    "EPISTAXIS",
+    "HAEMOPTYSIS",
+    "HAIR TEXTURE ABNORMAL",
+    "HEADACHE",
+    "INSOMNIA",
+    "POISONING",
+    "SINUSITIS",
+    "SWEAT GLAND DISORDER",
+    "VERTIGO"
+  ],
+  "date_started": "20140824",
+  "consumer": {
+    "age": "47.94",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLAIROL NATURAL INSTINCTS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HAIR RESTORATION VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

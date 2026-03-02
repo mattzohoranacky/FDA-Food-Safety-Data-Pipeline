@@ -1,0 +1,41 @@
+{
+  "report_number": "2023-CFS-071234",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20231215",
+  "reactions": [
+    "Asthma",
+    "Blood glucose increased",
+    "Diabetes mellitus",
+    "Drug interaction",
+    "Dyspnoea",
+    "Obstructive airways disorder"
+  ],
+  "date_started": "20231129",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE FRUITS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BALANCE OF NATURE WHOLE PRODUCE VEGGIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium Oxide",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

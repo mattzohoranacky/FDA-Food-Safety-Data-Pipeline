@@ -1,0 +1,33 @@
+{
+  "report_number": "159039",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20121115",
+  "reactions": [
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "NASOPHARYNGITIS"
+  ],
+  "date_started": "20121007",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAL BRILLIANCE (NO PREF. NAME)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAL MACA (NO PREF. NAME)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

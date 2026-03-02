@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-002890",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180221",
+  "reactions": [
+    "Choking",
+    "Dyspnoea",
+    "Foreign body",
+    "Oropharyngeal pain"
+  ],
+  "date_started": "20180129",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE TRIPLE FLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

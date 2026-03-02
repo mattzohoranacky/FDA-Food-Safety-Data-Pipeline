@@ -1,0 +1,35 @@
+{
+  "report_number": "173491",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131219",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "DYSPNOEA",
+    "HAEMATOCRIT DECREASED",
+    "MELAENA"
+  ],
+  "date_started": "20131026",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CVS SPECTRAVITE MULTIVIT MINERAL ULTRA WOMEN 50+ GLUTEN-FREE TABS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED IRON INFUSION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

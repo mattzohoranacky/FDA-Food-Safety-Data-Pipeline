@@ -1,0 +1,31 @@
+{
+  "report_number": "69801",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040621",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "FOREIGN BODY TRAUMA",
+    "HOSPITALISATION",
+    "PAIN",
+    "SURGERY",
+    "VOMITING"
+  ],
+  "date_started": "20040530",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIMSPA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

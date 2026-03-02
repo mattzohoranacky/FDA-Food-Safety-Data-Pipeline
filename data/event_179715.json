@@ -1,0 +1,35 @@
+{
+  "report_number": "179715",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140930",
+  "reactions": [
+    "CEREBROVASCULAR ACCIDENT",
+    "MYOCARDIAL INFARCTION",
+    "RENAL DISORDER",
+    "SENSORY LOSS"
+  ],
+  "date_started": "20140301",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE PERFECT PACK TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL SUPPLEMENT (UNSPECIFIED)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

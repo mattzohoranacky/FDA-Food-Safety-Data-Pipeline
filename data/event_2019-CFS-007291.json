@@ -1,0 +1,29 @@
+{
+  "report_number": "2019-CFS-007291",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190718",
+  "reactions": [
+    "Adverse reaction",
+    "Blood pressure increased",
+    "Dizziness",
+    "Muscular weakness",
+    "Nausea"
+  ],
+  "date_started": "20190531",
+  "consumer": {
+    "age": "53.52",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLOOD PRESSURE FACTORS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

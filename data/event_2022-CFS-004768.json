@@ -1,0 +1,53 @@
+{
+  "report_number": "2022-CFS-004768",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20220406",
+  "reactions": [
+    "Abdominal pain upper",
+    "Dermatitis diaper",
+    "Diarrhoea",
+    "Eczema",
+    "Erythema",
+    "Rash"
+  ],
+  "date_started": "20220317",
+  "consumer": {
+    "age": "13",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LUCKY CHARMS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Infants Tylenol as needed",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "a&d ointment",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "children's Benadryl as needed",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "hydrocortisone cream",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

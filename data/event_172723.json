@@ -1,0 +1,44 @@
+{
+  "report_number": "172723",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131204",
+  "reactions": [
+    "DIZZINESS",
+    "DYSPHAGIA",
+    "EYE PRURITUS",
+    "HYPERSENSITIVITY",
+    "LIP SWELLING",
+    "PAIN",
+    "PRURITUS",
+    "RASH PRURITIC",
+    "SWELLING",
+    "SWELLING FACE",
+    "THINKING ABNORMAL",
+    "TYPE I HYPERSENSITIVITY",
+    "URTICARIA"
+  ],
+  "date_started": "20131103",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY HAIR, SKIN AND NAILS WITH 5000 MCG OF BIOTIN RAPID RELEASE LIQUID SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

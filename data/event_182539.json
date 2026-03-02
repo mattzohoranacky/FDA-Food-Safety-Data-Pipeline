@@ -1,0 +1,31 @@
+{
+  "report_number": "182539",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150128",
+  "reactions": [
+    "BLISTER",
+    "CHEMICAL INJURY",
+    "DRY SKIN",
+    "ERYTHEMA",
+    "PAIN",
+    "PARAESTHESIA",
+    "PRURITUS",
+    "THERMAL BURN"
+  ],
+  "date_started": "20150123",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLD SPICE DEODORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

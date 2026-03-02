@@ -1,0 +1,39 @@
+{
+  "report_number": "145791",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20111117",
+  "reactions": [
+    "HALLUCINATION",
+    "PERSONALITY CHANGE"
+  ],
+  "date_started": "20111114",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANO GOLD GOURMET BLACK COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANO GOLD GOURMET CAFE MOCHA",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANO GOLD ORGANIC GREEN TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

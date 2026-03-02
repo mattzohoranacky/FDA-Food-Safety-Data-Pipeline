@@ -1,0 +1,98 @@
+{
+  "report_number": "65755",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20030811",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "AGITATION",
+    "BALANCE DISORDER",
+    "BLOOD PRESSURE INCREASED",
+    "BODY TEMPERATURE INCREASED",
+    "COUGH",
+    "FEELING ABNORMAL",
+    "HEADACHE",
+    "HYPERSOMNIA",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "LOSS OF CONSCIOUSNESS",
+    "NERVOUS SYSTEM DISORDER",
+    "PAIN",
+    "PHYSICAL EXAMINATION",
+    "RED BLOOD CELL COUNT DECREASED",
+    "RIGORS",
+    "VOMITING"
+  ],
+  "date_started": "20030725",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHICKEN OF THE SEA TUNA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "APPLE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BLUEBERRY SHAKE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BROWN RICE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHICKEN BREAST",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DELUXE SHAKE",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FRIED RICE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ROMAINE LETTUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STEAMED VEGETABLES",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHEY PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-009807",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20200930",
+  "reactions": [
+    "Acoustic neuroma",
+    "Cholelithiasis",
+    "Hiatus hernia",
+    "Injury",
+    "Metrorrhagia",
+    "Ovarian cancer",
+    "Ovarian cyst",
+    "Overweight"
+  ],
+  "date_started": "19830101",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

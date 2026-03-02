@@ -1,0 +1,54 @@
+{
+  "report_number": "180248",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20141021",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BILIRUBIN CONJUGATED INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD BILIRUBIN UNCONJUGATED INCREASED",
+    "DEHYDRATION",
+    "DRUG TOXICITY",
+    "DYSPNOEA",
+    "DYSURIA",
+    "HEART RATE INCREASED",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20141008",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUPHORIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ECHINACEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

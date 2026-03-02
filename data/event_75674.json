@@ -1,0 +1,29 @@
+{
+  "report_number": "75674",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20050124",
+  "reactions": [
+    "HEPATIC ENCEPHALOPATHY",
+    "HEPATOTOXICITY",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "TRANSAMINASES INCREASED"
+  ],
+  "date_started": "20050116",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER DIETER'S TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

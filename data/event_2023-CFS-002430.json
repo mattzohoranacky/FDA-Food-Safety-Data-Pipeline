@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-002430",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Allergic Reaction",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230308",
+  "reactions": [
+    "Hypersensitivity",
+    "Pharyngeal swelling",
+    "Urticaria"
+  ],
+  "date_started": "20230305",
+  "consumer": {
+    "age": "24.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GRAINLESS GRANOLA",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "report_number": "2021-CFS-003553",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210420",
+  "reactions": [
+    "Blood pressure abnormal",
+    "Diverticulitis",
+    "Enteritis"
+  ],
+  "date_started": "20210415",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAL PROTEINS - COLLAGEN PEPTIDES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "report_number": "92073",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070308",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "Escherichia infection",
+    "MALAISE",
+    "Salmonellosis",
+    "VOMITING"
+  ],
+  "date_started": "20070228",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CONTESSA CONTESSA SHRIMP 71-90 COUNT",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SLICED FRESH YELLOW BELL PEPPER",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SLICED WHITE MUSHROOMS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WINE SAUCE",
+      "industry_code": "32",
+      "industry_name": "Alcoholic Beverage"
+    }
+  ]
+}

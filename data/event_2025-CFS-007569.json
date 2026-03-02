@@ -1,0 +1,34 @@
+{
+  "report_number": "2025-CFS-007569",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250406",
+  "reactions": [
+    "Crying",
+    "Fatigue",
+    "Flatulence",
+    "Hospitalisation",
+    "Hypersensitivity",
+    "Nausea",
+    "Seizure",
+    "Vomiting"
+  ],
+  "date_started": "20241207",
+  "consumer": {
+    "age": "7",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC ADVANCE MILK-BASED POWDER INFANT FORMULA WITH IRON",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

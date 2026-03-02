@@ -1,0 +1,30 @@
+{
+  "report_number": "2017-CFS-000896",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171006",
+  "reactions": [
+    "Blister",
+    "Dermatitis allergic",
+    "Feeling hot",
+    "Hypersensitivity",
+    "Local swelling",
+    "Pruritus",
+    "Swelling"
+  ],
+  "date_started": "20170930",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRIMER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

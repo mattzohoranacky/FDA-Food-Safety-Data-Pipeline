@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-005323",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230522",
+  "reactions": [
+    "Abdominal pain upper",
+    "Dizziness",
+    "Dyspnoea",
+    "Fatigue",
+    "Psychotic disorder",
+    "Somnolence",
+    "Vomiting"
+  ],
+  "date_started": "20230518",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "D8 GUMMY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

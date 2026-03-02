@@ -1,0 +1,35 @@
+{
+  "report_number": "193307",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160201",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DYSPEPSIA",
+    "PANCREAS INFECTION",
+    "PANCREATITIS"
+  ],
+  "date_started": "20151206",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE CARB BLOCKER 2 90 (DIETARY SUPPLEMENT)TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE SLIMMETRY (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

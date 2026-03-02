@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-003703",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200322",
+  "reactions": [
+    "Burning sensation",
+    "Feeling of body temperature change",
+    "Paraesthesia"
+  ],
+  "date_started": "20200322",
+  "consumer": {
+    "age": "25.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLECHA HENNA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Daily women's multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

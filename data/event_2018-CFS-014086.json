@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-014086",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180912",
+  "reactions": [
+    "Blister",
+    "Burning sensation",
+    "Chemical injury",
+    "Erythema",
+    "Oedema mouth",
+    "Pain",
+    "Paraesthesia",
+    "Tenderness"
+  ],
+  "date_started": "20180823",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLISTEX FRUIT SMOOTHIES STRAWBERRIES & COCONUT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "fruit smoothies strawberries & coconut",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

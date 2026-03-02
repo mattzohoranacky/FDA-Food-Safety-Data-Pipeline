@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-009838",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190925",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain"
+  ],
+  "date_started": "20190909",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLYCERINE FOOD ADDITIVE",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PALM OIL",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    }
+  ]
+}

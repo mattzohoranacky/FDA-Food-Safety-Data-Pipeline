@@ -1,0 +1,40 @@
+{
+  "report_number": "96544",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070221",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "FAECES DISCOLOURED",
+    "MALAISE",
+    "SHIGELLA INFECTION"
+  ],
+  "date_started": "20070130",
+  "consumer": {
+    "age": "17",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE GREENER SELECTION",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH 1 FRESH N EASY GARDEN SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN CREAMY",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-002419",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190307",
+  "reactions": [
+    "Lacrimation increased",
+    "Ocular discomfort",
+    "Vision blurred",
+    "Visual impairment"
+  ],
+  "date_started": "20190123",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AGELESS MALE MAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AGELESS MALE TONIGHT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

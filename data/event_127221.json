@@ -1,0 +1,47 @@
+{
+  "report_number": "127221",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100430",
+  "reactions": [
+    "ANXIETY",
+    "Adverse event",
+    "BALANCE DISORDER",
+    "BOTULISM",
+    "DEHYDRATION",
+    "EYELID DISORDER",
+    "FAECES DISCOLOURED",
+    "FEEDING DISORDER NEONATAL",
+    "GASTROINTESTINAL DISORDER",
+    "HEART RATE ABNORMAL",
+    "HEART RATE INCREASED",
+    "IRRITABILITY",
+    "LETHARGY",
+    "NERVOUS SYSTEM DISORDER",
+    "POOR SUCKING REFLEX"
+  ],
+  "date_started": "20100425",
+  "consumer": {
+    "age": "7",
+    "age_unit": "week(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCE EARLYSHIELD FOR IMMUNE SUPPORT",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHAMOMILE TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

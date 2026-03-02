@@ -1,0 +1,51 @@
+{
+  "report_number": "2022-CFS-009951",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220621",
+  "reactions": [
+    "Asthenia",
+    "Bedridden",
+    "Decreased appetite",
+    "Dizziness",
+    "Euphoric mood",
+    "Headache",
+    "Insomnia",
+    "Nausea",
+    "Tremor",
+    "Vomiting"
+  ],
+  "date_started": "20220618",
+  "consumer": {
+    "age": "72.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEGACY BY SMITH NURSERY  DELTA 8 GUMMY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

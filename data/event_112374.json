@@ -1,0 +1,31 @@
+{
+  "report_number": "112374",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090212",
+  "reactions": [
+    "ABASIA",
+    "BLOOD PRESSURE INCREASED",
+    "GAIT DISTURBANCE",
+    "HYPOAESTHESIA",
+    "LETHARGY",
+    "MALAISE",
+    "PARAESTHESIA"
+  ],
+  "date_started": "20090107",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAVIE ACTIVE BERRY BEVERAGE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

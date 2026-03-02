@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-009556",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220612",
+  "reactions": [
+    "Erythema",
+    "Eye irritation",
+    "Eye swelling"
+  ],
+  "date_started": "20220611",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL ESSENCES RENEW SULFATE FREE AVOCADO ARGAN OIL REPAIR BOTANICALS ZE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Benadryl",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Zyrtec",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "2020-CFS-010897",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20201024",
+  "reactions": [
+    "Dizziness",
+    "Headache",
+    "Sensitivity of teeth",
+    "Sinus headache",
+    "Vomiting"
+  ],
+  "date_started": "20201021",
+  "consumer": {
+    "age": "41.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CIEN LIQUID HANDWASH ALMOND WITH MOISTURIZING PROPERTIES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

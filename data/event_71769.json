@@ -1,0 +1,29 @@
+{
+  "report_number": "71769",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040729",
+  "reactions": [
+    "DIARRHOEA",
+    "MALAISE"
+  ],
+  "date_started": "20040715",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INSTANT POWDERED SKIM MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HOT WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

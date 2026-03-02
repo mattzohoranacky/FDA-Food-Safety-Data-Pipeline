@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-013913",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220912",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Escherichia infection"
+  ],
+  "date_started": "20220731",
+  "consumer": {
+    "age": "56.8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PROTEIN CAFE LATTE AND VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PROTEIN VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

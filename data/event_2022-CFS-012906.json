@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-012906",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20220819",
+  "reactions": [
+    "Hypersensitivity",
+    "Oral mucosal exfoliation",
+    "Oropharyngeal pain",
+    "Pharyngeal oedema",
+    "Swollen tongue"
+  ],
+  "date_started": "20211001",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALU-TOX TINCTURE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

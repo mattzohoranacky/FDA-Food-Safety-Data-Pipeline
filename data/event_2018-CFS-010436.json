@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-010436",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180818",
+  "reactions": [
+    "Blood pressure increased",
+    "Hallucination",
+    "Heart rate increased",
+    "Insomnia"
+  ],
+  "date_started": "20180812",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEATH WISH COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

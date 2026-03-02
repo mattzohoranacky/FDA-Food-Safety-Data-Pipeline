@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-002503",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20240228",
+  "reactions": [
+    "Abdominal discomfort",
+    "Back pain",
+    "Diarrhoea",
+    "Eructation",
+    "Headache",
+    "Malaise",
+    "Nausea",
+    "Pain in extremity",
+    "Vomiting"
+  ],
+  "date_started": "20240222",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLASSIC CUTLET",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    }
+  ]
+}

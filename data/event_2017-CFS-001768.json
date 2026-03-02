@@ -1,0 +1,30 @@
+{
+  "report_number": "2017-CFS-001768",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20171115",
+  "reactions": [
+    "Abdominal pain upper",
+    "Asthenia",
+    "Faeces discoloured",
+    "Hypotension",
+    "Presyncope"
+  ],
+  "date_started": "20171029",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OMEGA Q PLUS RESVERATROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

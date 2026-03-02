@@ -1,0 +1,31 @@
+{
+  "report_number": "124498",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100104",
+  "reactions": [
+    "BACTERIAL INFECTION",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "MALAISE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20100101",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "READY PAC PREWASHED ICEBURG LETTUCE",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

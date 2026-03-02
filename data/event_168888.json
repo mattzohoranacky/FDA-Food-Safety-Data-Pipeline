@@ -1,0 +1,50 @@
+{
+  "report_number": "168888",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130806",
+  "reactions": [
+    "HEART RATE INCREASED",
+    "MALAISE",
+    "NAUSEA"
+  ],
+  "date_started": "20130715",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLIF SHOT BLOCK STRAWBERRY ENERGY CHEW",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP ENDURANCE VITAPAK PROGRAM - ENERGY ENHANCER N.O.",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP ENDURANCE VITAPAK PROGRAM - MEGA MEN® SPORT (FULL STRENGTH)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP ENDURANCE VITAPAK PROGRAM - THERMO IGNITER 12X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PRO PERFORMANCE AMP ENDURANCE VITAPAK PROGRAM - YOHIMBE 451",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

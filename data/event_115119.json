@@ -1,0 +1,31 @@
+{
+  "report_number": "115119",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20080331",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20080322",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CANTALOUPE",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STRAWBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

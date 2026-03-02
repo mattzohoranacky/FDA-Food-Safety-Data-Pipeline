@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-007363",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190719",
+  "reactions": [
+    "Nausea"
+  ],
+  "date_started": "20190717",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CONAGRA SNACK PACK STRAWBERRY REGULAR GELATIN",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Conagra Snack Pack Strawberry regular gelatin",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    }
+  ]
+}

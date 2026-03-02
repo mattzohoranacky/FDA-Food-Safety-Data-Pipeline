@@ -1,0 +1,29 @@
+{
+  "report_number": "181975",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Disability"
+  ],
+  "date_created": "20150114",
+  "reactions": [
+    "DRUG INTERACTION",
+    "DRUG LEVEL INCREASED",
+    "HEPATIC FAILURE"
+  ],
+  "date_started": "20141215",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOLARAY MORINGA OLEIFERA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "report_number": "2018-CFS-005178",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180326",
+  "reactions": [
+    "Hair texture abnormal",
+    "Rash",
+    "Skin lesion",
+    "Trichorrhexis"
+  ],
+  "date_started": "20171209",
+  "consumer": {
+    "age": "39.56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Folic Acid supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Iron Suppliment",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

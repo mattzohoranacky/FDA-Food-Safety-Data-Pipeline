@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-013570",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220901",
+  "reactions": [
+    "Confusional state",
+    "Disorientation",
+    "Dizziness",
+    "Lethargy",
+    "Somnolence"
+  ],
+  "date_started": "20220829",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Peppermint oil",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

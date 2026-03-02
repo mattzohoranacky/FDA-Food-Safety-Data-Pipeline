@@ -1,0 +1,34 @@
+{
+  "report_number": "90797",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20070119",
+  "reactions": [
+    "BLOOD CALCIUM DECREASED",
+    "BLOOD CHLORIDE INCREASED",
+    "BLOOD UREA DECREASED",
+    "CONFUSIONAL STATE",
+    "CONVULSION",
+    "ELECTROENCEPHALOGRAM ABNORMAL",
+    "GRAND MAL CONVULSION",
+    "PROTEIN TOTAL DECREASED",
+    "STATUS EPILEPTICUS",
+    "URINE KETONE BODY PRESENT"
+  ],
+  "date_started": "20070115",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MATOL DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

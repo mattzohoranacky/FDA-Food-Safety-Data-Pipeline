@@ -1,0 +1,32 @@
+{
+  "report_number": "185409",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150423",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "DYSPEPSIA",
+    "GASTRIC DISORDER",
+    "HEART RATE IRREGULAR",
+    "MUSCLE SPASMS",
+    "NAUSEA"
+  ],
+  "date_started": "20150312",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABO379",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

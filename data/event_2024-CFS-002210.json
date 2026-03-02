@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-002210",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240216",
+  "reactions": [
+    "Heart rate increased",
+    "Heart rate irregular",
+    "Syncope"
+  ],
+  "date_started": "20240212",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OSTEO BI-FLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

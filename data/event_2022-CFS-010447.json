@@ -1,0 +1,54 @@
+{
+  "report_number": "2022-CFS-010447",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220629",
+  "reactions": [
+    "Abdominal pain",
+    "Alanine aminotransferase increased",
+    "Cold sweat",
+    "Fatigue",
+    "Feeling abnormal",
+    "Feeling hot",
+    "Headache",
+    "Hepatic enzyme increased",
+    "Hepatitis",
+    "Insomnia",
+    "Myalgia",
+    "Nausea"
+  ],
+  "date_started": "20220616",
+  "consumer": {
+    "age": "35.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST SMOOTIE WITH PROTEIN POWDER",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "whey protein",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

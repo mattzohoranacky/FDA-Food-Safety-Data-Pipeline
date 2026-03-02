@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-001384",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230207",
+  "reactions": [
+    "Hair injury",
+    "Trichorrhexis"
+  ],
+  "date_started": "20220101",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX 5",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

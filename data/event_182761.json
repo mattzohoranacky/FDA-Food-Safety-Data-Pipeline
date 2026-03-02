@@ -1,0 +1,35 @@
+{
+  "report_number": "182761",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150130",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20130120",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET PEPSI",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORBIT GUM",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

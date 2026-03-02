@@ -1,0 +1,33 @@
+{
+  "report_number": "196013",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160229",
+  "reactions": [
+    "AMNESIA",
+    "CONFUSIONAL STATE",
+    "CONVULSION",
+    "DIZZINESS",
+    "GAIT DISTURBANCE",
+    "Hospitalisation",
+    "Seizure"
+  ],
+  "date_started": "20160225",
+  "consumer": {
+    "age": "47.78",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC LEAN & FIT PAK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

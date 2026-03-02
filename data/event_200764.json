@@ -1,0 +1,40 @@
+{
+  "report_number": "200764",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160819",
+  "reactions": [
+    "ANGINA PECTORIS",
+    "ANXIETY",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "INSOMNIA",
+    "NAUSEA",
+    "RESPIRATORY ARREST",
+    "SLEEP APNOEA SYNDROME",
+    "VOMITING"
+  ],
+  "date_started": "20160727",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL PLUS YOHIMBE EXTRACT(DIETARY SUPPLEMENT) CAPSULE, 450MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POTASSIUM CHLORIDE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

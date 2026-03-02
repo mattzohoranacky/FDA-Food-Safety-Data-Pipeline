@@ -1,0 +1,44 @@
+{
+  "report_number": "2020-CFS-003194",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200304",
+  "reactions": [
+    "Alopecia",
+    "Pruritus",
+    "Skin burning sensation"
+  ],
+  "date_started": "20191101",
+  "consumer": {
+    "age": "20.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL B'LEAVE-IN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO POO ORIGINAL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ULTRA DEFINING GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

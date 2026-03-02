@@ -1,0 +1,47 @@
+{
+  "report_number": "138651",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110228",
+  "reactions": [
+    "APTYALISM",
+    "ASTHENIA",
+    "BLOOD PRESSURE DECREASED",
+    "DEHYDRATION",
+    "DISORIENTATION",
+    "DIZZINESS",
+    "DRY MOUTH",
+    "DYSPHAGIA",
+    "DYSPHONIA",
+    "ELECTROCARDIOGRAM ABNORMAL",
+    "FATIGUE",
+    "HYPOTENSION",
+    "INSOMNIA",
+    "MALAISE",
+    "POISONING",
+    "TREMOR"
+  ],
+  "date_started": "20110222",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CEDAR PHOENICIA LUPINS LUPINI BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

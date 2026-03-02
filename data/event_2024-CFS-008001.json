@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-008001",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200102",
+  "reactions": [
+    "Abdominal pain",
+    "Decreased appetite",
+    "Diarrhoea",
+    "Fatigue",
+    "Gastrointestinal pain",
+    "Headache",
+    "Musculoskeletal stiffness",
+    "Nausea",
+    "Pain",
+    "Pyrexia"
+  ],
+  "date_started": "20191116",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER FIESTA STYLE VEGETABLES MEAL READY SIDES",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

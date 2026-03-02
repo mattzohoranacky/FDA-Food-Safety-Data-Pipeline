@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-010878",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240823",
+  "reactions": [
+    "COVID-19",
+    "Diarrhoea",
+    "Diverticulitis",
+    "Pyrexia",
+    "Urinary tract infection"
+  ],
+  "date_started": "20240720",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GAIA HERBS LIVER CLEANSE WITH MILK THISTLE AND BURDOCK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MANY UNSPECIFIED SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

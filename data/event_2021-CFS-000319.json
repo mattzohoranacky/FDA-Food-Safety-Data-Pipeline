@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-000319",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20210111",
+  "reactions": [
+    "Blood iron decreased"
+  ],
+  "date_started": "20200924",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALKALINE HERB SHOP SEAMOSS AND BLADDERWACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "171798",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130925",
+  "reactions": [
+    "ASTHENIA",
+    "FATIGUE",
+    "GASTRIC ULCER",
+    "HAEMATOCHEZIA",
+    "HAEMOGLOBIN DECREASED",
+    "MELAENA",
+    "PALLOR"
+  ],
+  "date_started": "20130906",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY ST. JOHNS WORT 300 MG CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM 600 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D 1000IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

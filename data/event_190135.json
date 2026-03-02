@@ -1,0 +1,33 @@
+{
+  "report_number": "190135",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20150928",
+  "reactions": [
+    "GASTROINTESTINAL DISORDER",
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20150907",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS FROSTED CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GENERAL MILLS MULTI GRAIN CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

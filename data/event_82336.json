@@ -1,0 +1,31 @@
+{
+  "report_number": "82336",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20051206",
+  "reactions": [
+    "CAUSTIC INJURY",
+    "LEUKOCYTOSIS",
+    "MUCOSAL INFLAMMATION",
+    "STRIDOR",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20051205",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRICIDAL 23%GRAPEFRUIT SEED EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

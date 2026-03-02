@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-012223",
+  "outcomes": [
+    "Congenital Anomaly",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201125",
+  "reactions": [
+    "Abortion spontaneous"
+  ],
+  "date_started": "20201109",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARE/OF CALCIUM PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARE/OF FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARE/OF PRENATAL MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

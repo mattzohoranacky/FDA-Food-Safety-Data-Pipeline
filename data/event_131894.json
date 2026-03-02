@@ -1,0 +1,33 @@
+{
+  "report_number": "131894",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20100903",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "FLUSHING",
+    "HEADACHE",
+    "WHEEZING"
+  ],
+  "date_started": "20100831",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "YELLOW FIN TUNA STEAK",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WILD RAW SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

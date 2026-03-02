@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-005064",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180322",
+  "reactions": [
+    "Food allergy",
+    "Lip swelling",
+    "Oropharyngeal pain",
+    "Swollen tongue",
+    "Syncope",
+    "Urticaria"
+  ],
+  "date_started": "20180319",
+  "consumer": {
+    "age": "12.65",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIG COOKIE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

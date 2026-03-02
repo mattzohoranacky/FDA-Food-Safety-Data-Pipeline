@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-005987",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220426",
+  "reactions": [
+    "Hepatic enzyme increased",
+    "Weight gain poor"
+  ],
+  "date_started": "20211111",
+  "consumer": {
+    "age": "6",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT ELECARE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

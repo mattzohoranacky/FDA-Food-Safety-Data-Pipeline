@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-001887",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180129",
+  "reactions": [
+    "Dyspnoea",
+    "Hypersensitivity",
+    "Lip swelling",
+    "Swelling face",
+    "Urticaria"
+  ],
+  "date_started": "20180127",
+  "consumer": {
+    "age": "13",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHANGHAINESE NOODLE",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NovaFerrum Multivitamin with Iron Supplement for Infants and Toddlers",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

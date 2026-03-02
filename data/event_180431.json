@@ -1,0 +1,45 @@
+{
+  "report_number": "180431",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140731",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLISTER",
+    "BURNING SENSATION",
+    "GLOSSITIS",
+    "Glossodynia",
+    "NAUSEA",
+    "PAIN",
+    "PHARYNGEAL ERYTHEMA",
+    "SKIN EXFOLIATION",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20140728",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PIRATE'S BOOTY AGED WHITE CHEDDAR",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

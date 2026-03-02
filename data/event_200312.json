@@ -1,0 +1,42 @@
+{
+  "report_number": "200312",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160816",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "LOCALISED INFECTION",
+    "NEUROPATHY PERIPHERAL",
+    "POOR PERIPHERAL CIRCULATION",
+    "POSTOPERATIVE THORACIC PROCEDURE COMPLICATION",
+    "STAPHYLOCOCCAL INFECTION"
+  ],
+  "date_started": "20160318",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY ESSENTIAL (MULTIVITAMINS) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POTASSIUM GLUCONATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

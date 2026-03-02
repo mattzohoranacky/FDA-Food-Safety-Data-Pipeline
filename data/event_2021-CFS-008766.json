@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-008766",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210823",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Food poisoning",
+    "Migraine",
+    "Musculoskeletal stiffness",
+    "Vomiting"
+  ],
+  "date_started": "20210811",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOSTESS CLASSIC WHITE NEW RECIPE 20OZ LOAF",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOSTESS SOFT WHITE HOT DOG BUNS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

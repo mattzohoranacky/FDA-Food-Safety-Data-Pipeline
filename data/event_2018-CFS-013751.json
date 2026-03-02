@@ -1,0 +1,54 @@
+{
+  "report_number": "2018-CFS-013751",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181120",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Back pain",
+    "Blood glucose increased",
+    "Blood pressure increased",
+    "Bundle branch block left",
+    "Chest pain",
+    "Circulatory collapse",
+    "Dehydration",
+    "Electrocardiogram abnormal",
+    "Fatigue",
+    "Heart rate increased",
+    "Hepatic enzyme increased",
+    "Hepatitis",
+    "Ketoacidosis",
+    "Nephritis",
+    "Paraesthesia",
+    "Proteinuria",
+    "Urine ketone body present"
+  ],
+  "date_started": "20181019",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE CATALYST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE MUSCLE FUEL PRE-WORKOUT DRINK -FRUIT PUNCH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVOCARE O2 GOLD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "188230",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150716",
+  "reactions": [
+    "Blister",
+    "Cough",
+    "Dyspnoea",
+    "Haemoptysis",
+    "Nausea",
+    "Tongue blistering",
+    "Vomiting"
+  ],
+  "date_started": "20150114",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HUNTS SNACK PACK CHOCOLATE PUDDING",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HUNTS SNACK PACK CHOCOLATE PUDDING",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    }
+  ]
+}

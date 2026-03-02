@@ -1,0 +1,30 @@
+{
+  "report_number": "189066",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150818",
+  "reactions": [
+    "DYSPNOEA",
+    "EXTRASYSTOLES",
+    "HEART RATE ABNORMAL",
+    "HEART RATE DECREASED",
+    "HEART RATE INCREASED",
+    "NAUSEA"
+  ],
+  "date_started": "20150724",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR C4 50X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

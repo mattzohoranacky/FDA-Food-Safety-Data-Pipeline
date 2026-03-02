@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-006976",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230417",
+  "reactions": [
+    "Abdominal pain",
+    "Chills",
+    "Jaundice",
+    "Lethargy",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20230410",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE FROZEN ORGANIC STRAWBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

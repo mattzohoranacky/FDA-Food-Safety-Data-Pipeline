@@ -1,0 +1,31 @@
+{
+  "report_number": "112748",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090505",
+  "reactions": [
+    "ANAEMIA",
+    "IMMUNE SYSTEM DISORDER",
+    "MENTAL DISORDER",
+    "RENAL DISORDER"
+  ],
+  "date_started": "20081205",
+  "consumer": {
+    "age": "29.28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

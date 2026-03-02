@@ -1,0 +1,36 @@
+{
+  "report_number": "114713",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090625",
+  "reactions": [
+    "ANXIETY",
+    "DRY MOUTH",
+    "EUPHORIC MOOD",
+    "IRRITABILITY",
+    "PSYCHOMOTOR HYPERACTIVITY",
+    "TREMOR"
+  ],
+  "date_started": "20090623",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIMQUICK POWDER WITH GREEN TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIMQUICK POWDER WITH HOODIA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-000600",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210119",
+  "reactions": [
+    "Abdominal discomfort",
+    "Hypoaesthesia oral"
+  ],
+  "date_started": "20210119",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRONTERA DE SL BERRIES STRAWBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi- vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

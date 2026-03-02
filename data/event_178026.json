@@ -1,0 +1,30 @@
+{
+  "report_number": "178026",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140721",
+  "reactions": [
+    "CHEST PAIN",
+    "CONTUSION",
+    "DIARRHOEA",
+    "DYSPNOEA"
+  ],
+  "date_started": "20140616",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET CELLUCOR'S CLK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

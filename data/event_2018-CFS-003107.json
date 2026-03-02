@@ -1,0 +1,50 @@
+{
+  "report_number": "2018-CFS-003107",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180220",
+  "reactions": [
+    "Alveolitis allergic",
+    "Arthralgia",
+    "Bronchitis",
+    "Chills",
+    "Cough",
+    "Dyspnoea",
+    "Fatigue",
+    "Headache",
+    "Influenza like illness",
+    "Malaise",
+    "Myalgia",
+    "Pneumonia",
+    "Weight decreased"
+  ],
+  "date_started": "20180108",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIMBREL (FLAVOCOXID 500 MG)",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

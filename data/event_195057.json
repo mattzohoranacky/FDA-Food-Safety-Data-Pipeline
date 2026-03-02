@@ -1,0 +1,37 @@
+{
+  "report_number": "195057",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160405",
+  "reactions": [
+    "RASH PRURITIC",
+    "SWELLING FACE"
+  ],
+  "date_started": "20160304",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARNIER SKINACTIVE CLEARLY BRIGHTER FACIAL MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TARGET BRAND (ONE-A- DAY TYPE) WOMEN'S DAILY MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

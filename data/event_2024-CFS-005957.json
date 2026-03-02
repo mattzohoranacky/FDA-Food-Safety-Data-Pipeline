@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-005957",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240612",
+  "reactions": [
+    "Loss of consciousness",
+    "Visual impairment"
+  ],
+  "date_started": "20240109",
+  "consumer": {
+    "age": "30.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND SHRUUMZ",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

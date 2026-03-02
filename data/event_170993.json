@@ -1,0 +1,38 @@
+{
+  "report_number": "170993",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131016",
+  "reactions": [
+    "DRY SKIN",
+    "ERYTHEMA",
+    "EYE SWELLING",
+    "FACE OEDEMA",
+    "HYPERSENSITIVITY",
+    "OEDEMA PERIPHERAL",
+    "PRURITUS",
+    "SKIN WARM"
+  ],
+  "date_started": "20130813",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVEENO POS RADIANT INTENSE NIGHT CREAM 1.7OZ",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVEENO ULTRA CALMING FOAMING CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

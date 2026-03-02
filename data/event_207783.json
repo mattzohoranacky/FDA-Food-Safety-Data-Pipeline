@@ -1,0 +1,49 @@
+{
+  "report_number": "207783",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170120",
+  "reactions": [
+    "BRAIN OEDEMA",
+    "CONVULSION",
+    "CRONOBACTER INFECTION",
+    "MENINGITIS",
+    "RESPIRATORY FAILURE",
+    "SEIZURE LIKE PHENOMENA",
+    "SEPTIC SHOCK"
+  ],
+  "date_started": "20170120",
+  "consumer": {
+    "age": "14",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIQUID PROTEIN FORTIFIER",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC LIQUID FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC POWDER FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SWEET-EASE NATURAL PRESERVATIVE-FREE SUCROSE SOLUTION",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

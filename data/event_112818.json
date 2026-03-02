@@ -1,0 +1,31 @@
+{
+  "report_number": "112818",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20090506",
+  "reactions": [
+    "BLOOD GLUCOSE DECREASED",
+    "LIVER FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20090401",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT CAFFEINE FREE CAP 250MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT HARDCORE LIQUID 912 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

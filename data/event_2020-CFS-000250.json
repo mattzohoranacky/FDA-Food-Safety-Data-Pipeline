@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-000250",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200109",
+  "reactions": [
+    "Dysphonia",
+    "Dyspnoea",
+    "Headache",
+    "Hypersensitivity",
+    "Nasal congestion",
+    "Wheezing"
+  ],
+  "date_started": "20191228",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMENS VITACRAVES GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One A Day Women's 50+ Advantage",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

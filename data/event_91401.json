@@ -1,0 +1,30 @@
+{
+  "report_number": "91401",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070220",
+  "reactions": [
+    "VOMITING"
+  ],
+  "date_started": "20070204",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALBERTSONS HOTDOG BUNS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HOTDOG",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

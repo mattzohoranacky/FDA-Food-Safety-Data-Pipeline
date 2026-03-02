@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-006525",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180428",
+  "reactions": [
+    "Abdominal pain upper",
+    "Weight decreased"
+  ],
+  "date_started": "20171111",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "Xanthan gum in BOLTHOUSE FARM UNSWEETENED MILK",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "Xanthan gum in CANYON BAKEHOUSE BREAD",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

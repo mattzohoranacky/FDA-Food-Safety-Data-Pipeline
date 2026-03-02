@@ -1,0 +1,40 @@
+{
+  "report_number": "110754",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090303",
+  "reactions": [
+    "CHEST PAIN",
+    "HEART RATE INCREASED",
+    "HYPERTENSION",
+    "MYOCARDIAL INFARCTION",
+    "PALLOR",
+    "PANIC ATTACK"
+  ],
+  "date_started": "20090204",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GAKIC HARDCORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEUKIC HARDCORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

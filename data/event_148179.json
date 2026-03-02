@@ -1,0 +1,47 @@
+{
+  "report_number": "148179",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120125",
+  "reactions": [
+    "APHASIA",
+    "BRAIN OEDEMA",
+    "CEREBROVASCULAR ACCIDENT",
+    "LOSS OF CONSCIOUSNESS",
+    "PARALYSIS",
+    "THROMBOSIS"
+  ],
+  "date_started": "20120108",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACIDOPHILUS PEARLS ACTIVE CULTURES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DETOX ACTIVATION CLEANSING FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENZYMATIC WHOLE BODY CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIBER FUSION PLUS DAILY CLEANSING FIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

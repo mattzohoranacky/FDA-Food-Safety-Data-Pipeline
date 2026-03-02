@@ -1,0 +1,35 @@
+{
+  "report_number": "159627",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121130",
+  "reactions": [
+    "LIP SWELLING",
+    "OROPHARYNGEAL SWELLING",
+    "SWELLING",
+    "SWELLING FACE",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20121108",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROOMEGA, 120CT, PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

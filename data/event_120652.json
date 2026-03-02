@@ -1,0 +1,36 @@
+{
+  "report_number": "120652",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091119",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "CARDIAC ARREST",
+    "HAEMOTHORAX",
+    "HYPOTENSION",
+    "ISCHAEMIC STROKE",
+    "PRURITUS",
+    "RASH",
+    "SHOCK",
+    "TACHYCARDIA",
+    "URTICARIA"
+  ],
+  "date_started": "20091101",
+  "consumer": {
+    "age": "12.12",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUAVE NATURALS CONDITONER OCEAN INFUSED WITH SEA ALGAE EXTRACT AND VITAMIN E",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

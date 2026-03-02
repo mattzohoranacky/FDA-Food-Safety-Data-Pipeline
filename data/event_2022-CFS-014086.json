@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-014086",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210310",
+  "reactions": [
+    "Coma",
+    "Hallucination",
+    "auditory",
+    "Headache",
+    "Swelling",
+    "Thrombosis",
+    "Vomiting"
+  ],
+  "date_started": "20210227",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VAMPIRE FACELIFT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "155021",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120801",
+  "reactions": [
+    "BLOOD SODIUM INCREASED",
+    "BODY TEMPERATURE INCREASED",
+    "BRAIN NATRIURETIC PEPTIDE INCREASED",
+    "GASTROINTESTINAL HAEMORRHAGE",
+    "HAEMATOCRIT DECREASED",
+    "HAEMOGLOBIN DECREASED",
+    "HYPOAESTHESIA",
+    "HYPOTENSION",
+    "RECTAL HAEMORRHAGE",
+    "SWELLING",
+    "URINARY TRACT INFECTION",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20120227",
+  "consumer": {
+    "age": "93",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REUMOFAN PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

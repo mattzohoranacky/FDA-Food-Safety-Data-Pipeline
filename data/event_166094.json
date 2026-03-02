@@ -1,0 +1,45 @@
+{
+  "report_number": "166094",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130530",
+  "reactions": [
+    "AMNESIA",
+    "BLOOD CREATININE INCREASED",
+    "CONVULSION",
+    "DRUG SCREEN FALSE POSITIVE",
+    "FATIGUE",
+    "MUSCLE TWITCHING",
+    "SOMNOLENCE",
+    "TREMOR",
+    "UNRESPONSIVE TO STIMULI"
+  ],
+  "date_started": "20130309",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRIVEN SPORTS CRAZE 5.8 GRAMS PER SERVING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CREATININE MONOHYDRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NOW NUTRITION IGF-1 LIPO DEER VELVET ANLTER SPRAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

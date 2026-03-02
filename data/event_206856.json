@@ -1,0 +1,33 @@
+{
+  "report_number": "206856",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170126",
+  "reactions": [
+    "ALLERGY TEST POSITIVE",
+    "ALLERGY TO CHEMICALS",
+    "DERMATITIS ALLERGIC"
+  ],
+  "date_started": "20081007",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOVE DAILY CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOVE DAILY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

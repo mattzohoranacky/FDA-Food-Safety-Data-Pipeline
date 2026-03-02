@@ -1,0 +1,36 @@
+{
+  "report_number": "99772",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20080107",
+  "reactions": [
+    "BLOOD ARSENIC INCREASED",
+    "BLOOD CADMIUM INCREASED",
+    "BLOOD COPPER INCREASED",
+    "BLOOD ZINC INCREASED",
+    "GUILLAIN-BARRE SYNDROME",
+    "HAEMOLYTIC ANAEMIA",
+    "QUADRIPARESIS",
+    "RESPIRATORY FAILURE"
+  ],
+  "date_started": "20071101",
+  "consumer": {
+    "age": "11",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROVIDA FAT FIGHTER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

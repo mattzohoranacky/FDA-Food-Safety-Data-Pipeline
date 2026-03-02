@@ -1,0 +1,38 @@
+{
+  "report_number": "78788",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050607",
+  "reactions": [
+    "CHEST PAIN",
+    "DYSPNOEA",
+    "EYE PRURITUS",
+    "EYE SWELLING",
+    "HEADACHE",
+    "SECRETION DISCHARGE",
+    "SWELLING FACE",
+    "THIRST",
+    "URTICARIA"
+  ],
+  "date_started": "20050605",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEAR SOUP",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COUSCOUS WITH FLAVOURING",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

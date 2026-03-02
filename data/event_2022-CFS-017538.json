@@ -1,0 +1,59 @@
+{
+  "report_number": "2022-CFS-017538",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20221228",
+  "reactions": [
+    "Ageusia",
+    "Hypersensitivity",
+    "Oral discomfort",
+    "Oral lichenoid reaction",
+    "Oral mucosal blistering",
+    "Pain"
+  ],
+  "date_started": "20220928",
+  "consumer": {
+    "age": "40.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNCLE HARRY'S ALKALIZING MINERAL TOOTHPASTE CINNAMON FLAVOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ashwagandha",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "l tyrosine",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vit c",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vit d",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

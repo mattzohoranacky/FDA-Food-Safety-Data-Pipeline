@@ -1,0 +1,47 @@
+{
+  "report_number": "193402",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160205",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "AGITATION",
+    "ANXIETY",
+    "BLOOD PRESSURE INCREASED",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "EARLY SATIETY",
+    "HYPERTENSION",
+    "INSOMNIA",
+    "NAUSEA",
+    "NIGHTMARE"
+  ],
+  "date_started": "20160202",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRAIN BRIGHT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

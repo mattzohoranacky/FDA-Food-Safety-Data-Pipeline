@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-011221",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191108",
+  "reactions": [
+    "Dyspnoea",
+    "Wheezing"
+  ],
+  "date_started": "20191022",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BODYBUILDING SIGNATURE CREATINE MONOHYDRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RSP Nutrition AminoLean",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

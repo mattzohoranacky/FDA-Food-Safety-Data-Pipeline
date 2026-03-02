@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-003491",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220309",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chills",
+    "Hyperhidrosis",
+    "Malaise",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20220308",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LACTAID 2 PERCENT MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

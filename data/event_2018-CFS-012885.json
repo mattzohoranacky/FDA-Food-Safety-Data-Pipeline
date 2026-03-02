@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-012885",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181025",
+  "reactions": [
+    "Dermatitis contact",
+    "Rash"
+  ],
+  "date_started": "20181024",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOVE GO FRESH POMEGRANATE AND LEMON VERBENA SCENT BODY WASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

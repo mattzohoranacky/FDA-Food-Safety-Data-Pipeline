@@ -1,0 +1,32 @@
+{
+  "report_number": "177574",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140627",
+  "reactions": [
+    "CARDIAC ENZYMES INCREASED",
+    "CHEST DISCOMFORT",
+    "DISORIENTATION",
+    "DYSARTHRIA",
+    "FLUID RETENTION",
+    "MUSCULAR WEAKNESS",
+    "SOMNOLENCE"
+  ],
+  "date_started": "20140602",
+  "consumer": {
+    "age": "85",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS 2 FORMULA SOFT GELS (CAPSULE, SOFT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "77729",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050322",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "Food poisoning",
+    "Gastritis",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20050219",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SNAPPLE SNAPPLE A DAY (MANGO LIME FLAVOR)",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

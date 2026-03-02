@@ -1,0 +1,38 @@
+{
+  "report_number": "206376",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170117",
+  "reactions": [
+    "CHEST PAIN",
+    "CHILLS",
+    "EXTRASYSTOLES",
+    "EYE DISORDER",
+    "FACIAL PAIN",
+    "HYPERHIDROSIS",
+    "HYPERSENSITIVITY",
+    "HYPOAESTHESIA ORAL",
+    "TINNITUS"
+  ],
+  "date_started": "20170110",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEPPERIDGE FARMS STUFFING WITH H",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

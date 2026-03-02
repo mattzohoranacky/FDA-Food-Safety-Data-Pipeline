@@ -1,0 +1,36 @@
+{
+  "report_number": "2021-CFS-006899",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210717",
+  "reactions": [
+    "Pulmonary embolism",
+    "Swelling",
+    "Thrombosis"
+  ],
+  "date_started": "20210101",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEVERAGES",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOOD",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOOD ADDITIVES",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

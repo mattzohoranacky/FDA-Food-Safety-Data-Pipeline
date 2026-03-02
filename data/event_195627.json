@@ -1,0 +1,40 @@
+{
+  "report_number": "195627",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160421",
+  "reactions": [
+    "BACK PAIN",
+    "CHROMATURIA",
+    "DECREASED APPETITE",
+    "FATIGUE",
+    "HEPATIC ENZYME INCREASED"
+  ],
+  "date_started": "20160327",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALPHA CRS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MICROPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XEO MEGA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

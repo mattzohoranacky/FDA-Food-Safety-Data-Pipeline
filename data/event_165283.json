@@ -1,0 +1,31 @@
+{
+  "report_number": "165283",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20130507",
+  "reactions": [
+    "CAUSTIC INJURY",
+    "SWELLING"
+  ],
+  "date_started": "20130502",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BETTER VALU BUTTER RINGS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BETTER VALU LEMON SANDWICH COOKIES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

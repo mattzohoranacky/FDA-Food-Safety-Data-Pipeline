@@ -1,0 +1,27 @@
+{
+  "report_number": "212125",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170221",
+  "reactions": [
+    "DIARRHOEA",
+    "NAUSEA",
+    "Product contamination physical",
+    "VOMITING"
+  ],
+  "date_started": "20170117",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHEX MIX INDULGENT TURTLE SNACK MIX",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

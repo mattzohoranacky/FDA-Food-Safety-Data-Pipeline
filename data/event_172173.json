@@ -1,0 +1,32 @@
+{
+  "report_number": "172173",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130625",
+  "reactions": [
+    "Adverse event",
+    "BRADYCARDIA",
+    "HEART RATE ABNORMAL",
+    "LETHARGY",
+    "LOSS OF CONSCIOUSNESS",
+    "MALAISE",
+    "MENTAL STATUS CHANGES",
+    "MUSCLE SPASMS",
+    "VOMITING"
+  ],
+  "date_started": "20130621",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "5-HOUR ENERGY ORANGE FLAVORED LIQUID DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

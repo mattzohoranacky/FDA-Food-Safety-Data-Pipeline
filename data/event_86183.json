@@ -1,0 +1,40 @@
+{
+  "report_number": "86183",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060609",
+  "reactions": [
+    "HYPERKERATOSIS",
+    "SCAB",
+    "SQUAMOUS CELL CARCINOMA"
+  ],
+  "date_started": "20060317",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIOXIN BIONUTRIENT ACTIVES SCALP THERAPY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIOXIN CLEANSER SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIOXIN CYTONUTRIENT ACTIVES SCALP TREATMENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

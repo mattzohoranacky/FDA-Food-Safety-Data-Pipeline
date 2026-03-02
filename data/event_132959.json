@@ -1,0 +1,29 @@
+{
+  "report_number": "132959",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101123",
+  "reactions": [
+    "CARDIOACTIVE DRUG LEVEL INCREASED",
+    "HEART RATE ABNORMAL",
+    "HEART RATE DECREASED",
+    "SYNCOPE"
+  ],
+  "date_started": "20101119",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES THREE BERRIES FROZEN RASPBERRY, BLUEBERRY, MARION BERRY",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

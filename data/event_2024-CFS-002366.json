@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-002366",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240221",
+  "reactions": [
+    "Abdominal pain upper",
+    "Dizziness",
+    "Nausea",
+    "Salmonellosis"
+  ],
+  "date_started": "20240219",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER OATS CHEESE AND JALAPENO GRITS",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER OATS INSTANT OATMEAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

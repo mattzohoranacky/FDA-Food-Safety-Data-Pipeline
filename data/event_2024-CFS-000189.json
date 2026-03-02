@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-000189",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20240108",
+  "reactions": [
+    "Chemical burn",
+    "Rash erythematous",
+    "Sensitive skin"
+  ],
+  "date_started": "20240103",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SKINMEDICA VITAMIN C+E COMPLEX",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multiple vitamin daily",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

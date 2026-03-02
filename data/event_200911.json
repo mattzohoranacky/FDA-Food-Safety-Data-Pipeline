@@ -1,0 +1,32 @@
+{
+  "report_number": "200911",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20160830",
+  "reactions": [
+    "DIARRHOEA",
+    "NAUSEA",
+    "PYREXIA"
+  ],
+  "date_started": "20160825",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETE AND GERRY'S ORGANIC EGG",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

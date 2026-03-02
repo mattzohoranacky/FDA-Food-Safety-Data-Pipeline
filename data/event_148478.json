@@ -1,0 +1,32 @@
+{
+  "report_number": "148478",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120202",
+  "reactions": [
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "Vibrio test positive"
+  ],
+  "date_started": "20110807",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW CLAMS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

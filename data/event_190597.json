@@ -1,0 +1,32 @@
+{
+  "report_number": "190597",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20151013",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "NAUSEA",
+    "PAIN"
+  ],
+  "date_started": "20151003",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUTEN FREE CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

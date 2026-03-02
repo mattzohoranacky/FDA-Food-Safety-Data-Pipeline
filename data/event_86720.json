@@ -1,0 +1,47 @@
+{
+  "report_number": "86720",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050204",
+  "reactions": [
+    "ABASIA",
+    "CHILLS",
+    "COORDINATION ABNORMAL",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "IMPAIRED WORK ABILITY",
+    "VOMITING"
+  ],
+  "date_started": "20050203",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "S AND W WHOLE KERNAL CORN",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BERNSTEIN'S OIL AND VINEGAR SALAD DRESSING",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FROZEN ASPARAGUS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MARINATED BURGUNDY OLIVE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

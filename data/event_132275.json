@@ -1,0 +1,39 @@
+{
+  "report_number": "132275",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101110",
+  "reactions": [
+    "CHEST PAIN",
+    "COUGH",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "EPISTAXIS",
+    "FATIGUE",
+    "HEADACHE",
+    "MALAISE",
+    "NASAL CONGESTION",
+    "NAUSEA",
+    "PALLOR",
+    "RESPIRATORY TRACT CONGESTION",
+    "VERTIGO"
+  ],
+  "date_started": "20101107",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRAZILIAN BLOWOUT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

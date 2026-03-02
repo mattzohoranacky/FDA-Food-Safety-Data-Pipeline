@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-006573",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190307",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain",
+    "Gastrointestinal bacterial overgrowth",
+    "Nausea"
+  ],
+  "date_started": "20180101",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BUMBLE BEE SOLID WHITE ALBACORE IN VEGETABLE OIL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

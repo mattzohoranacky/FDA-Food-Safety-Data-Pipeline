@@ -1,0 +1,37 @@
+{
+  "report_number": "200237",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160802",
+  "reactions": [
+    "CHEST PAIN",
+    "CORONARY ARTERY DISSECTION",
+    "HYPERHIDROSIS",
+    "MYOCARDIAL INFARCTION",
+    "OROPHARYNGEAL PAIN",
+    "PAIN",
+    "STRESS"
+  ],
+  "date_started": "20160630",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARK ENERGY DRINK - VARIETY PACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED MULTI-VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "201827",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160922",
+  "reactions": [
+    "DEHYDRATION",
+    "DYSPEPSIA",
+    "Death",
+    "FOAMING AT MOUTH",
+    "MYOCARDIAL INFARCTION",
+    "NYSTAGMUS",
+    "TREMOR",
+    "UNRESPONSIVE TO STIMULI"
+  ],
+  "date_started": "20160707",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

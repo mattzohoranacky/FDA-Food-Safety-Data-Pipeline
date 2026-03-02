@@ -1,0 +1,37 @@
+{
+  "report_number": "171356",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131030",
+  "reactions": [
+    "BLOOD PRESSURE FLUCTUATION",
+    "DIARRHOEA",
+    "DISORIENTATION",
+    "DIZZINESS",
+    "FOOD ALLERGY",
+    "Food poisoning",
+    "HEADACHE",
+    "Hypersensitivity",
+    "NAUSEA",
+    "PRURITUS",
+    "RASH MACULAR",
+    "SWELLING",
+    "URTICARIA"
+  ],
+  "date_started": "20131025",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENIHANA TUNA GRILLED WITH & TOUCHING FOODS CONSUMED",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

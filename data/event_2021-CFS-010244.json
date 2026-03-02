@@ -1,0 +1,29 @@
+{
+  "report_number": "2021-CFS-010244",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20211007",
+  "reactions": [
+    "Anaemia",
+    "Gastroenteritis",
+    "Gastrointestinal haemorrhage"
+  ],
+  "date_started": "20210910",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY SLEEP 3 10MG MELATONIN TRI-LAYERED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

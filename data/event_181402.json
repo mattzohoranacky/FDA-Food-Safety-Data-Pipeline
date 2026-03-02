@@ -1,0 +1,54 @@
+{
+  "report_number": "181402",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141210",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ANAPHYLACTIC SHOCK",
+    "BLINDNESS",
+    "BLOOD PRESSURE DECREASED",
+    "DEAFNESS",
+    "DIZZINESS",
+    "HYPERSENSITIVITY",
+    "PARAESTHESIA",
+    "SYNCOPE",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20141111",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CATALYST DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARK CANISTER - WATERMELON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PLEXUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "QUEST ENERGY BAR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

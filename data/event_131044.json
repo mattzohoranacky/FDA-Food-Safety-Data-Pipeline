@@ -1,0 +1,32 @@
+{
+  "report_number": "131044",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101005",
+  "reactions": [
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FOOD POISONING",
+    "HEAD INJURY",
+    "HEADACHE",
+    "LOSS OF CONSCIOUSNESS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20100924",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LANCE GOLDEN CHEESE CRACKERS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

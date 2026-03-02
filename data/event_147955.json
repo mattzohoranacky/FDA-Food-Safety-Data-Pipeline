@@ -1,0 +1,32 @@
+{
+  "report_number": "147955",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20111219",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLOOD PRESSURE INCREASED",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "GASTRITIS",
+    "MALAISE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20111214",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POLAND BOTTLED SPRING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

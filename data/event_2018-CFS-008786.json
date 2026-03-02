@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-008786",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180628",
+  "reactions": [
+    "Eye swelling",
+    "Eyelid irritation",
+    "Eyelid oedema",
+    "Hypersensitivity"
+  ],
+  "date_started": "20180626",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE CRAYON CASE EYE GLUE (PRIMER)",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE CRAYON CASE EYE SHADOW (PALLETTE)",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

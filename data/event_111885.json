@@ -1,0 +1,38 @@
+{
+  "report_number": "111885",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090408",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "COMPLICATION OF PREGNANCY",
+    "DIZZINESS",
+    "GENITAL HAEMORRHAGE",
+    "HAEMATOMA",
+    "HAEMORRHAGE",
+    "VAGINAL HAEMORRHAGE"
+  ],
+  "date_started": "20090228",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMEN'S PRENATAL DHA EPA LIQUID GELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONE A DAY WOMEN'S PRENATAL MULTIVITAMIN TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

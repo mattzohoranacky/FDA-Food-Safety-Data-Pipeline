@@ -1,0 +1,31 @@
+{
+  "report_number": "205202",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161213",
+  "reactions": [
+    "ALOPECIA"
+  ],
+  "date_started": "20161201",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN POMEGRANATE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN SWEET ALMOND MINT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

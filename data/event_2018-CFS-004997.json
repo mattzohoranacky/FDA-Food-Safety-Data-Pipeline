@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-004997",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180322",
+  "reactions": [
+    "Dizziness",
+    "Dyspnoea",
+    "Nausea",
+    "Rash",
+    "Urticaria",
+    "Vomiting"
+  ],
+  "date_started": "20180216",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GRAPE SPARK - UNSPECIFIED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARK LIMEADE STICKS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

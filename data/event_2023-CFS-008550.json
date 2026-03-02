@@ -1,0 +1,27 @@
+{
+  "report_number": "2023-CFS-008550",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230814",
+  "reactions": [
+    "Brain abscess",
+    "Listeriosis",
+    "Seizure"
+  ],
+  "date_started": "20230807",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2017-CFS-000551",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171004",
+  "reactions": [
+    "Acute hepatic failure",
+    "Confusional state",
+    "Jaundice",
+    "Malaise",
+    "Nausea",
+    "Weight decreased"
+  ],
+  "date_started": "20170315",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFORMIX SUPER T",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

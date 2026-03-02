@@ -1,0 +1,51 @@
+{
+  "report_number": "2018-CFS-008883",
+  "outcomes": [
+    "Disability",
+    "Congenital Anomaly"
+  ],
+  "date_created": "20180703",
+  "reactions": [
+    "Bone pain",
+    "Discomfort",
+    "Dysuria",
+    "Fungal infection",
+    "Kidney infection",
+    "Malaise",
+    "Metabolic disorder",
+    "Renal disorder",
+    "Typhoid fever"
+  ],
+  "date_started": "20180701",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTHMAX LIVER AID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAX JOINT CARE \nMOVE FREE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAX KIDNEY STRONG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAX ULTRA PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

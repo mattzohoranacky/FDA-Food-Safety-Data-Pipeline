@@ -1,0 +1,32 @@
+{
+  "report_number": "74840",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20041116",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "SKIN DISCOLOURATION",
+    "URTICARIA"
+  ],
+  "date_started": "20041112",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KEEBLER NEW MONSTER SHAPES SCOOBY DOO BAKED CHEDDAR CRACKERS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHITE GRAPE JUICE",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    }
+  ]
+}

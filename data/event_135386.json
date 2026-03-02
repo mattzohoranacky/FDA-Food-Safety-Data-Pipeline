@@ -1,0 +1,43 @@
+{
+  "report_number": "135386",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110125",
+  "reactions": [
+    "CHOKING",
+    "DYSPNOEA",
+    "EYE SWELLING",
+    "GENERALISED ERYTHEMA",
+    "OROPHARYNGEAL SWELLING",
+    "PRURITUS",
+    "RASH",
+    "SKIN IRRITATION",
+    "SWELLING FACE",
+    "THIRST",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20101112",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMERICAN HEALTH CHEWABLE ACIDOPHILUS AND BIFIDUM NATURAL STRAWBERRY FLAVOR WAFERS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GNC PSYLLIUM SEED HUSK 180 CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

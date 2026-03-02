@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-006437",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210707",
+  "reactions": [
+    "Skin irritation"
+  ],
+  "date_started": "20200701",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX NOURISHING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

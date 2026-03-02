@@ -1,0 +1,40 @@
+{
+  "report_number": "2017-CFS-000381",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170928",
+  "reactions": [
+    "Blood cortisol increased",
+    "C-reactive protein increased",
+    "Chills",
+    "Computerised tomogram thorax abnormal",
+    "Effusion",
+    "Headache",
+    "Immunodeficiency",
+    "Lethargy",
+    "Lymphadenopathy",
+    "Lymphocyte count decreased",
+    "Protein total decreased",
+    "Pyrexia",
+    "Red blood cell sedimentation rate increased",
+    "Splenic varices",
+    "White blood cell count increased"
+  ],
+  "date_started": "20170523",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIMBREL",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    }
+  ]
+}

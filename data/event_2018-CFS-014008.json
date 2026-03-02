@@ -1,0 +1,27 @@
+{
+  "report_number": "2018-CFS-014008",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20181128",
+  "reactions": [
+    "Abdominal pain",
+    "Intestinal obstruction"
+  ],
+  "date_started": "20181107",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPM ACTIVE (2018 FORMULA)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

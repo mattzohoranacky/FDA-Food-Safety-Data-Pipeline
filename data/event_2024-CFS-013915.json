@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-013915",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241106",
+  "reactions": [
+    "Diarrhoea",
+    "Hospitalisation",
+    "Loss of consciousness",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20241104",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOUTHWESTERN CHOPPED SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOUTHWESTERN CHOPPED SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

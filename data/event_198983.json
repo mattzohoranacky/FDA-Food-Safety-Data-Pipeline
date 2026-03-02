@@ -1,0 +1,35 @@
+{
+  "report_number": "198983",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160725",
+  "reactions": [
+    "CEREBROVASCULAR ACCIDENT",
+    "DYSPNOEA",
+    "HEADACHE",
+    "HYPERSENSITIVITY",
+    "RASH",
+    "RHINORRHOEA"
+  ],
+  "date_started": "20160721",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL FACTORS LUTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN CENTRUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "189098",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150820",
+  "reactions": [
+    "FATIGUE",
+    "GAIT DISTURBANCE",
+    "PAIN",
+    "SINUS DISORDER",
+    "SLUGGISHNESS"
+  ],
+  "date_started": "20150818",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ASPARTAME",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

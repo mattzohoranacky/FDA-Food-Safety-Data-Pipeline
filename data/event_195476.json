@@ -1,0 +1,51 @@
+{
+  "report_number": "195476",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160331",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "Adverse event",
+    "BURN OESOPHAGEAL",
+    "CHEMICAL INJURY",
+    "DYSPHONIA",
+    "GASTROINTESTINAL DISORDER",
+    "OROPHARYNGEAL PAIN",
+    "SPEECH DISORDER"
+  ],
+  "date_started": "20160329",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KOZY SHACK ORIGINAL RECIPE RICE PUDDING GLUTEN FREE",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BLACK COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOAST",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

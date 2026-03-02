@@ -1,0 +1,34 @@
+{
+  "report_number": "169965",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130219",
+  "reactions": [
+    "ERYTHEMA",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "RASH PAPULAR",
+    "URTICARIA"
+  ],
+  "date_started": "20130214",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUAVE KERATIN INFUSION CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JOHN FRIEDA SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

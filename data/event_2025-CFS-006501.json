@@ -1,0 +1,34 @@
+{
+  "report_number": "2025-CFS-006501",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210924",
+  "reactions": [
+    "Blood immunoglobulin G abnormal",
+    "Burning sensation",
+    "Erythema",
+    "Neuropathy peripheral",
+    "Vitamin B6 increased"
+  ],
+  "date_started": "20210828",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AN UNSPECIFIED KIRKLAND MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE CALCIUM CITRATE MAGNESIUM AND ZINC WITH VITAMIN D3 TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

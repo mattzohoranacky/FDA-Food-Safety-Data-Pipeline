@@ -1,0 +1,42 @@
+{
+  "report_number": "2018-CFS-009631",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180724",
+  "reactions": [
+    "Chemical injury"
+  ],
+  "date_started": "20171117",
+  "consumer": {
+    "age": "52.4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUST FOR MEN BEARD DYE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Foundation by Revlon",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Skin cream",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "makeup",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

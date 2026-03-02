@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-001698",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200206",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Pain of skin"
+  ],
+  "date_started": "20200103",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW-POO CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO CRUNCH LIGHT GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

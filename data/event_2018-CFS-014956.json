@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-014956",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20181223",
+  "reactions": [
+    "Urine odour abnormal"
+  ],
+  "date_started": "20161223",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALBERTSONS CHOCOLATE CHIP COOKIES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOMINOS PEPPERONI PIZZA",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Bladder Active Herbal Powder mix",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

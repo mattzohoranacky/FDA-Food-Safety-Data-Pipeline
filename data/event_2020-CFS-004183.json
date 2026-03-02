@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-004183",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200408",
+  "reactions": [
+    "Chills",
+    "Convulsion",
+    "Dizziness",
+    "Erythema",
+    "Hyperhidrosis",
+    "Infection",
+    "Peripheral vascular disorder",
+    "Pyrexia",
+    "Sepsis",
+    "Swelling",
+    "Tremor",
+    "Wound secretion"
+  ],
+  "date_started": "20100318",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TATTOO INK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

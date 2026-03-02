@@ -1,0 +1,42 @@
+{
+  "report_number": "189624",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150915",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD CREATININE INCREASED",
+    "BLOOD PRESSURE DECREASED",
+    "CHROMATURIA",
+    "CIRCULATORY COLLAPSE",
+    "HEART RATE INCREASED",
+    "HYPERHIDROSIS",
+    "HYPERTHERMIA",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "MENTAL DISORDER",
+    "METABOLIC ACIDOSIS",
+    "PYREXIA",
+    "RENAL FAILURE ACUTE",
+    "RHABDOMYOLYSIS",
+    "SINUS TACHYCARDIA",
+    "URINE OUTPUT DECREASED"
+  ],
+  "date_started": "20150824",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT SX-7",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

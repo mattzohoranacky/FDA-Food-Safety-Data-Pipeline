@@ -1,0 +1,29 @@
+{
+  "report_number": "185464",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150220",
+  "reactions": [
+    "ASTHENIA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "MALAISE",
+    "PAIN",
+    "PYREXIA"
+  ],
+  "date_started": "20150218",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIJI BOTTLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

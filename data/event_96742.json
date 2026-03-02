@@ -1,0 +1,40 @@
+{
+  "report_number": "96742",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070924",
+  "reactions": [
+    "ALOPECIA",
+    "BLOOD CORTICOTROPHIN ABNORMAL",
+    "BLOOD CORTISOL DECREASED",
+    "CONTUSION",
+    "FACE OEDEMA",
+    "FAT REDISTRIBUTION",
+    "FATIGUE",
+    "SECONDARY ADRENOCORTICAL INSUFFICIENCY",
+    "SKIN FRAGILITY",
+    "WEIGHT INCREASED"
+  ],
+  "date_started": "20070718",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALLERGY FIGHTER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ER LONG ZUP CI WAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

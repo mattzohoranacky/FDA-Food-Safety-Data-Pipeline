@@ -1,0 +1,29 @@
+{
+  "report_number": "2025-CFS-004192",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250402",
+  "reactions": [
+    "Hypersensitivity",
+    "Rash",
+    "Vomiting"
+  ],
+  "date_started": "20250308",
+  "consumer": {
+    "age": "15",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARALUZZI'S SEAFOOD BURGER ITALIAN STYLE SEAFOOD BURGERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

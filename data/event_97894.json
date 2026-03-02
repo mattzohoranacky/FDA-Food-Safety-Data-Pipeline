@@ -1,0 +1,29 @@
+{
+  "report_number": "97894",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20071016",
+  "reactions": [
+    "FACE OEDEMA",
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20070901",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WELL-PICT RASPBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

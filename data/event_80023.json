@@ -1,0 +1,31 @@
+{
+  "report_number": "80023",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050526",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "LACERATION",
+    "NAUSEA"
+  ],
+  "date_started": "20050525",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S LIGHTLY BREADED COD STICKS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "119004",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090205",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "VOMITING"
+  ],
+  "date_started": "20090131",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KELLOGG'S SPECIAL K PROTEIN CHOCOLATE PEANUT BAR",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

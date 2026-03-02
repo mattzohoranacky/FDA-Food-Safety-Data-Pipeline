@@ -1,0 +1,47 @@
+{
+  "report_number": "113285",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090518",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "ASTHENIA",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "DECREASED APPETITE",
+    "DRUG INTERACTION",
+    "FATIGUE",
+    "HEART RATE INCREASED",
+    "HEPATIC FUNCTION ABNORMAL",
+    "HEPATITIS",
+    "HYPERTENSION",
+    "INFLUENZA LIKE ILLNESS",
+    "JAUNDICE",
+    "MALAISE",
+    "MULTI-ORGAN DISORDER",
+    "NAUSEA",
+    "PAIN",
+    "PANCREATITIS",
+    "VOMITING",
+    "WEIGHT DECREASED",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20090511",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALPHA DROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

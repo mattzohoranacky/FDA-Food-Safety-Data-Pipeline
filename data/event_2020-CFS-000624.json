@@ -1,0 +1,47 @@
+{
+  "report_number": "2020-CFS-000624",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190412",
+  "reactions": [
+    "Convulsion",
+    "Enterobacter infection",
+    "Feeding disorder neonatal",
+    "Lethargy"
+  ],
+  "date_started": "20190410",
+  "consumer": {
+    "age": "8",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND POWDERED INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRO-ADVANCE READY TO FEED INFANT FORMULA",
+      "industry_code": "40N",
+      "industry_name": "Ready to Serve Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRO-SENSITIVE POWDERED INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Distilled water",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

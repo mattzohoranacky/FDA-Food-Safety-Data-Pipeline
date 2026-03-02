@@ -1,0 +1,34 @@
+{
+  "report_number": "188542",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20150723",
+  "reactions": [
+    "CHOKING",
+    "COUGH",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "OROPHARYNGEAL PAIN"
+  ],
+  "date_started": "20150628",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE B-100 COMPLEX TIMED RELEASE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

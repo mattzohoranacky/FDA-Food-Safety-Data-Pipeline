@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-010076",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201008",
+  "reactions": [
+    "Abdominal adhesions",
+    "Adnexa uteri mass",
+    "Anogenital warts",
+    "Ovarian cancer stage III",
+    "Papilloma viral infection",
+    "Suprapubic pain",
+    "Uterine haemorrhage",
+    "Vaginal haemorrhage"
+  ],
+  "date_started": "19910430",
+  "consumer": {
+    "age": "18",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

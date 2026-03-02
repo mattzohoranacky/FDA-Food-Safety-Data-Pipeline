@@ -1,0 +1,28 @@
+{
+  "report_number": "2017-CFS-003103",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171226",
+  "reactions": [
+    "Cellulitis",
+    "Erythema",
+    "Pain",
+    "Wound drainage"
+  ],
+  "date_started": "20171226",
+  "consumer": {
+    "age": "47.26",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TATTOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

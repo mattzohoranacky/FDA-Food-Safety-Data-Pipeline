@@ -1,0 +1,42 @@
+{
+  "report_number": "198181",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160629",
+  "reactions": [
+    "DIPLOPIA",
+    "EYELID PTOSIS",
+    "HORMONE LEVEL ABNORMAL",
+    "MYASTHENIA GRAVIS",
+    "VISUAL IMPAIRMENT",
+    "VITAMIN B12 INCREASED"
+  ],
+  "date_started": "20160413",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY HIGH POTENCY BCOMPLEX W FOLIC ACID+ VITAMIN C W BIOTIN TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FLAXSEED OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

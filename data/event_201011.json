@@ -1,0 +1,30 @@
+{
+  "report_number": "201011",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160831",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "APHAGIA",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "HEADACHE",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20160520",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLOW-MAG (MAGNESIUM, CALCIUM) GASTRO-RESISTANT TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

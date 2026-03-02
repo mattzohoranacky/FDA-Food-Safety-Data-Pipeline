@@ -1,0 +1,33 @@
+{
+  "report_number": "188612",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150716",
+  "reactions": [
+    "BURNING SENSATION",
+    "PRURITUS",
+    "RASH",
+    "SKIN EXFOLIATION",
+    "SKIN REACTION"
+  ],
+  "date_started": "20150704",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIOXIM CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIOXIM SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-010846",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240822",
+  "reactions": [
+    "Hallucination",
+    "Headache",
+    "Loss of consciousness",
+    "Respiratory depression",
+    "Seizure",
+    "Syncope"
+  ],
+  "date_started": "20240819",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MELLOW FELLOW WELLNESS, ILLUMINATE: THE FOCUS BRAND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

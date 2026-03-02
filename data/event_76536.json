@@ -1,0 +1,40 @@
+{
+  "report_number": "76536",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050302",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CHROMATURIA",
+    "FATIGUE",
+    "HEPATOTOXICITY",
+    "JAUNDICE",
+    "NAUSEA",
+    "POLLAKIURIA",
+    "SOMNOLENCE",
+    "VOMITING"
+  ],
+  "date_started": "20040903",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLETECH HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN A AND D CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

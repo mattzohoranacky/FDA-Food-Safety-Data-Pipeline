@@ -1,0 +1,53 @@
+{
+  "report_number": "2024-CFS-009278",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240615",
+  "reactions": [
+    "Diarrhoea",
+    "Paraesthesia",
+    "Pruritus",
+    "Rash erythematous"
+  ],
+  "date_started": "20240501",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE CLASSEUM CANNABIN COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "THE CLASSEUM BRIGHTENING PEEL GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "THE CLASSEUM CLATOKTOK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "THE CLASSEUM DETO-X",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "THE CLASSEUM EXODERMA BRIGHTENING MELLOW FOAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

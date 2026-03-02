@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-009094",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190829",
+  "reactions": [
+    "Amnesia",
+    "Decreased appetite",
+    "Depression",
+    "Drug withdrawal syndrome",
+    "Hallucination",
+    "Insomnia",
+    "Mood swings",
+    "Muscle twitching",
+    "Psychotic disorder",
+    "Vomiting"
+  ],
+  "date_started": "20190815",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

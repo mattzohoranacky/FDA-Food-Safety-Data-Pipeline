@@ -1,0 +1,34 @@
+{
+  "report_number": "2021-CFS-012057",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20211122",
+  "reactions": [
+    "Burning sensation",
+    "Chemical burns of eye",
+    "Eye swelling",
+    "Hypersensitivity",
+    "Pruritus"
+  ],
+  "date_started": "20211118",
+  "consumer": {
+    "age": "46.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARY KAY TIMEWISE VOLUFIRM EYE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

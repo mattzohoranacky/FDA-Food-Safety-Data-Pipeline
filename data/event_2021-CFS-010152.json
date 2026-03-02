@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-010152",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20211005",
+  "reactions": [
+    "Eczema"
+  ],
+  "date_started": "20211001",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FEILI HOUSE TRADING PTE LTD",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Elomet Oilment",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

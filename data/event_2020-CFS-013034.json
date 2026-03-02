@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-013034",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201227",
+  "reactions": [
+    "Irritability",
+    "Urticaria"
+  ],
+  "date_started": "20201225",
+  "consumer": {
+    "age": "4.4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHUPA CHUPS CREMOSA",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Flintstones vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

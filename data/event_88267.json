@@ -1,0 +1,30 @@
+{
+  "report_number": "88267",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060915",
+  "reactions": [
+    "DIZZINESS",
+    "ESCHERICHIA INFECTION",
+    "HAEMATOCHEZIA"
+  ],
+  "date_started": "20060912",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MINUTE MAID APPLE JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MINUTE MAID BERRY BLEND",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

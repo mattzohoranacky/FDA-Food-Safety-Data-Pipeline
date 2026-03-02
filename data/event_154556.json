@@ -1,0 +1,31 @@
+{
+  "report_number": "154556",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120614",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "MALAISE",
+    "Nausea",
+    "Product contamination microbial",
+    "VOMITING"
+  ],
+  "date_started": "20120611",
+  "consumer": {
+    "age": "55.69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOSTESS FRUIT PIE APPLE",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    }
+  ]
+}

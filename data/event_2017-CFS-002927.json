@@ -1,0 +1,37 @@
+{
+  "report_number": "2017-CFS-002927",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171221",
+  "reactions": [
+    "Cyanosis",
+    "Diarrhoea",
+    "Dyspnoea",
+    "Lip swelling",
+    "Swelling face",
+    "Urticaria",
+    "Vomiting"
+  ],
+  "date_started": "20171217",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED CUPCAKE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

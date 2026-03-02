@@ -1,0 +1,36 @@
+{
+  "report_number": "2024-CFS-015354",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241204",
+  "reactions": [
+    "Asthenia",
+    "Back pain",
+    "Chills",
+    "Fatigue",
+    "Gastrointestinal pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20241202",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENGLISH CUCUMBER",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE MADE PRENATAL MULTIVITAMIN FOLIC ACID AND DHA SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

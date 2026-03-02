@@ -1,0 +1,43 @@
+{
+  "report_number": "147441",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20111227",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CONSTIPATION",
+    "Cronobacter test positive",
+    "ENTEROBACTER INFECTION"
+  ],
+  "date_started": "20111202",
+  "consumer": {
+    "age": "11",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCED BABY FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ALIMENTUM BABY FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SENSITIVE BABY FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

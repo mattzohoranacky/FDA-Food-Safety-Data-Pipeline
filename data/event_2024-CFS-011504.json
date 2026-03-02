@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-011504",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240916",
+  "reactions": [
+    "Diarrhoea",
+    "Headache",
+    "Myalgia"
+  ],
+  "date_started": "20240914",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOSTESS POWDERED MINI DONUTS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

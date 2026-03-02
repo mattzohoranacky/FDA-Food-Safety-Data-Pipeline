@@ -1,0 +1,35 @@
+{
+  "report_number": "2023-CFS-000318",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20230110",
+  "reactions": [
+    "Chemical burn",
+    "Deformity",
+    "Metal poisoning",
+    "Radiation injury",
+    "Rash"
+  ],
+  "date_started": "20230109",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT HAIR EXTENSIONS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTRASONIC 5000",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "113805",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090529",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse reaction",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20090528",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE CLASSIC ROMAINE MIX",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KEN'S STEAKHOUSE LIGHT CAESAR DRESSING",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-009938",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180801",
+  "reactions": [
+    "Abscess",
+    "Erythema",
+    "Infection",
+    "Paraesthesia",
+    "Swelling",
+    "Tenderness"
+  ],
+  "date_started": "20180320",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KISS HAND & NAIL MASK GLOVES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B 12 vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

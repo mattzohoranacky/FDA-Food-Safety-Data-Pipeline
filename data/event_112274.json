@@ -1,0 +1,32 @@
+{
+  "report_number": "112274",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090421",
+  "reactions": [
+    "DYSPNOEA",
+    "FLUSHING",
+    "Food allergy",
+    "HYPERSENSITIVITY",
+    "OROPHARYNGEAL SWELLING",
+    "URTICARIA"
+  ],
+  "date_started": "20061204",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRENCH'S MUSTARD",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

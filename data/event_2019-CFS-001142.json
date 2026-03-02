@@ -1,0 +1,43 @@
+{
+  "report_number": "2019-CFS-001142",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190206",
+  "reactions": [
+    "Cough",
+    "Fatigue",
+    "Nasal congestion",
+    "Night sweats",
+    "Oropharyngeal pain",
+    "Pain",
+    "Pyrexia",
+    "Sneezing"
+  ],
+  "date_started": "20190101",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROGRESSO TRADITIONAL CHICKEN AND WILD RICE SOUP GLUTEN FREE",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROGRESSO VEGETABLE CLASSICS HEARTY TOMATO SOUP GLUTEN FREE VEGETARIAN",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALIGN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

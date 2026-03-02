@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-001113",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220125",
+  "reactions": [
+    "Coeliac disease"
+  ],
+  "date_started": "20220121",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TWO BROTHERS PRAIRIE PATH GOLDEN ALE",
+      "industry_code": "32",
+      "industry_name": "Alcoholic Beverage"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin supplements",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

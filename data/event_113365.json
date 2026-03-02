@@ -1,0 +1,45 @@
+{
+  "report_number": "113365",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090520",
+  "reactions": [
+    "DIVERTICULITIS",
+    "RECTAL HAEMORRHAGE"
+  ],
+  "date_started": "20090126",
+  "consumer": {
+    "age": "89",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABS DAILY NUTRIENT PROGRAM MULTI-NUTRIENT COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABS DAILY NUTRIENT PROGRAM NORWEGIAN FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABS OMEGA Q PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY NUTRIENT PROGRAM IMMUNE-SHIELD PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-010006",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180607",
+  "reactions": [
+    "Blood test abnormal",
+    "Diarrhoea",
+    "Haemoptysis",
+    "Pain"
+  ],
+  "date_started": "20180514",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TATTOO KIT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Tattoo Kit",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

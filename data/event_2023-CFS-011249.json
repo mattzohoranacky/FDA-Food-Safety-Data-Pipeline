@@ -1,0 +1,39 @@
+{
+  "report_number": "2023-CFS-011249",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231017",
+  "reactions": [
+    "Amnesia",
+    "Anxiety",
+    "Arthritis",
+    "Behcet's syndrome",
+    "Brain fog",
+    "Crohn's disease",
+    "Depression",
+    "Heart rate increased",
+    "Hypertension",
+    "Parkinson's disease",
+    "Seizure",
+    "Tendonitis",
+    "Tremor"
+  ],
+  "date_started": "20131019",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GATORADE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

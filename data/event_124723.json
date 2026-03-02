@@ -1,0 +1,31 @@
+{
+  "report_number": "124723",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100326",
+  "reactions": [
+    "RASH",
+    "URTICARIA"
+  ],
+  "date_started": "20091201",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITALITY TOTAL ESSENTIALS + HEART + BODY, NUTRITION FOR MEN 50+ AM PACKETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITALITY TOTAL ESSENTIALS + HEART + BODY, NUTRITION FOR MEN 50+ PM PACKETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

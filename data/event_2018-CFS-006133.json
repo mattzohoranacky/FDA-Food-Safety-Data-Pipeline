@@ -1,0 +1,27 @@
+{
+  "report_number": "2018-CFS-006133",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180420",
+  "reactions": [
+    "Abdominal pain",
+    "Escherichia infection",
+    "Groin pain"
+  ],
+  "date_started": "20180407",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROMAINE LETTUCE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

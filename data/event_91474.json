@@ -1,0 +1,29 @@
+{
+  "report_number": "91474",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20070222",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "IMPAIRED WORK ABILITY",
+    "NAUSEA",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20061215",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-013203",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220825",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Cough",
+    "Dyspnoea",
+    "Eye swelling",
+    "Heart rate increased",
+    "Increased viscosity of nasal secretion",
+    "Lip swelling",
+    "Swollen tongue",
+    "Urticaria",
+    "Vomiting"
+  ],
+  "date_started": "20220821",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL ENSPIRE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

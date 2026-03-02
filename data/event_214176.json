@@ -1,0 +1,38 @@
+{
+  "report_number": "214176",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170608",
+  "reactions": [
+    "Bradycardia",
+    "Cardiopulmonary failure",
+    "Lactobacillus infection"
+  ],
+  "date_started": "20170501",
+  "consumer": {
+    "age": "8",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALIGN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CULTURELLE HEALTH & WELLNESS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SPECIAL CARE 20",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

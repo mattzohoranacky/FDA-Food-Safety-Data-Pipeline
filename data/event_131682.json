@@ -1,0 +1,29 @@
+{
+  "report_number": "131682",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20101028",
+  "reactions": [
+    "MALAISE",
+    "PANCREATITIS"
+  ],
+  "date_started": "20100927",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRALIFE SAME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE MADE SAM-E 400MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

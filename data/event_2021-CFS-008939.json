@@ -1,0 +1,29 @@
+{
+  "report_number": "2021-CFS-008939",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210831",
+  "reactions": [
+    "Nasal congestion",
+    "Pharyngeal oedema",
+    "Pruritus",
+    "Sneezing",
+    "Swollen tongue"
+  ],
+  "date_started": "20210828",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKETSIDE ASIAN CHOPPED SALAD KIT",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

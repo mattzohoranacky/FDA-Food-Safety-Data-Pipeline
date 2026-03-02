@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-005270",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190528",
+  "reactions": [
+    "Head titubation",
+    "Muscle twitching",
+    "Myoclonus"
+  ],
+  "date_started": "20190528",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BASKIN ROBBINS CHOCOLATE CHIP ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ICE CREAM CAKE",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

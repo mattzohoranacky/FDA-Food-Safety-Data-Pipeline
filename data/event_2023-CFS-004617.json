@@ -1,0 +1,43 @@
+{
+  "report_number": "2023-CFS-004617",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20230505",
+  "reactions": [
+    "Aggression",
+    "Agitation"
+  ],
+  "date_started": "20230504",
+  "consumer": {
+    "age": "337",
+    "age_unit": "month(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KAVA SHACK GRIT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KAVA SHACK K -TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KAVA SHACK KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KAVA SHACK KRATOM BREW",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

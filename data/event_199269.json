@@ -1,0 +1,31 @@
+{
+  "report_number": "199269",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160729",
+  "reactions": [
+    "CRYING",
+    "DIARRHOEA"
+  ],
+  "date_started": "20160728",
+  "consumer": {
+    "age": "11",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NUTRAMIGEN",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FAMILY GOURMET BOTTLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

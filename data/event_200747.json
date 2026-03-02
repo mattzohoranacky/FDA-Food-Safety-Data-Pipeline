@@ -1,0 +1,38 @@
+{
+  "report_number": "200747",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160725",
+  "reactions": [
+    "BACTERIAL INFECTION",
+    "DRY SKIN",
+    "FUNGAL INFECTION",
+    "INFECTION",
+    "RASH",
+    "SKIN DISORDER",
+    "WOUND DRAINAGE"
+  ],
+  "date_started": "20160628",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

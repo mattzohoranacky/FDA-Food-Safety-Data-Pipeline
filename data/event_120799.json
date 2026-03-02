@@ -1,0 +1,29 @@
+{
+  "report_number": "120799",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091124",
+  "reactions": [
+    "BLOOD PRESSURE FLUCTUATION",
+    "DIZZINESS",
+    "FOOD POISONING",
+    "MALAISE",
+    "NAUSEA"
+  ],
+  "date_started": "20090928",
+  "consumer": {
+    "age": "18",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POST CINNAMON TOAST CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

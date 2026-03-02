@@ -1,0 +1,44 @@
+{
+  "report_number": "2024-CFS-005054",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240511",
+  "reactions": [
+    "Atrial tachycardia",
+    "Blood pressure abnormal",
+    "Blood pressure decreased",
+    "Blood pressure diastolic increased",
+    "Blood pressure systolic increased",
+    "Cardiac fibrillation",
+    "Cardiogenic shock",
+    "Cardiotoxicity",
+    "Dizziness",
+    "Hypertensive crisis",
+    "Hypotension"
+  ],
+  "date_started": "20240507",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL CODE LABS ULTRA PURE SPIRULINA CHLORELLA PLANT-BASED SUPERFOOD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL CODE LABS ULTRA PURE SPIRULINA CHLORELLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

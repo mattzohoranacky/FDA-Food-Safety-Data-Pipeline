@@ -1,0 +1,46 @@
+{
+  "report_number": "171839",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131107",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "PANCREATITIS",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20131003",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA MENOPAUSE - EVENING PRIMROSE OIL 1300",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA MENOPAUSE- FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA MENOPAUSE- MENOPAUSE FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMENS ULTRA MEGA MENOPAUSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

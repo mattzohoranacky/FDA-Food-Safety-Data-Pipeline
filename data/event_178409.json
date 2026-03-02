@@ -1,0 +1,54 @@
+{
+  "report_number": "178409",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20140806",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANOREXIA",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD AMYLASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CERULOPLASMIN INCREASED",
+    "CHROMATURIA",
+    "FAECES DISCOLOURED",
+    "FATIGUE",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "NAUSEA",
+    "PRURITUS",
+    "RASH",
+    "TRANSFERRIN INCREASED"
+  ],
+  "date_started": "20130101",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR P6 EXTREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENETECH PHARMA LABS METHYL-TREN 550",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENETECH PHARMA LABS TESTPLEX 450",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

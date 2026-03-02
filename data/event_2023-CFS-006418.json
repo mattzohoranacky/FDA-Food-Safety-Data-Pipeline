@@ -1,0 +1,42 @@
+{
+  "report_number": "2023-CFS-006418",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230622",
+  "reactions": [
+    "Abdominal distension",
+    "Discomfort",
+    "Fatigue",
+    "Headache",
+    "Nausea",
+    "Pain",
+    "Pyrexia"
+  ],
+  "date_started": "20230613",
+  "consumer": {
+    "age": "30.9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE MIXED FRUIT",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURES BOUNTY HAIR, SKIN AND NAILS GUMMIES WITH COLLAGEN AND BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OLLY WOMENS MULTI DAILY VITAMIN ULTRA STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

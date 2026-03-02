@@ -1,0 +1,40 @@
+{
+  "report_number": "2024-CFS-001684",
+  "outcomes": [
+    "Death",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240205",
+  "reactions": [
+    "Death",
+    "Lethargy",
+    "Listeriosis",
+    "Malaise"
+  ],
+  "date_started": "20231013",
+  "consumer": {
+    "age": "72.9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "APPLE SAUCE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH FRUITS",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

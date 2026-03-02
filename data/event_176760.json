@@ -1,0 +1,56 @@
+{
+  "report_number": "176760",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140528",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ANAEMIA",
+    "ASCITES",
+    "ASTHENIA",
+    "CONFUSIONAL STATE",
+    "Death",
+    "FATIGUE",
+    "GASTROINTESTINAL HAEMORRHAGE",
+    "HEART RATE INCREASED",
+    "HEPATIC STEATOSIS",
+    "HYPERTENSION",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "MENTAL STATUS CHANGES",
+    "NAUSEA",
+    "NEUTROPHIL COUNT",
+    "OVERWEIGHT",
+    "VOMITING"
+  ],
+  "date_started": "20110608",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAT BURNER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT START",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STACKER 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

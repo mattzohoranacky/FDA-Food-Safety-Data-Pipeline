@@ -1,0 +1,30 @@
+{
+  "report_number": "78322",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050510",
+  "reactions": [
+    "DIARRHOEA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20050505",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COCA COLA COKE CLASSIC",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HALF PEPPERONI AND HALF HAMBURGER PIZZA",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

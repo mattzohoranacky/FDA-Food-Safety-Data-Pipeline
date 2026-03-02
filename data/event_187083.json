@@ -1,0 +1,32 @@
+{
+  "report_number": "187083",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150602",
+  "reactions": [
+    "Diarrhoea",
+    "Food poisoning",
+    "Headache",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20150514",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHITE SHRIMP, FROZEN, BOILED EASY PEEL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHITE SHRIMP, FROZEN, BOILED EASY PEEL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

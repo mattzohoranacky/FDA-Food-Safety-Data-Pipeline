@@ -1,0 +1,36 @@
+{
+  "report_number": "2020-CFS-008469",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200831",
+  "reactions": [
+    "Cervical cyst",
+    "Cervicitis cystic",
+    "Endometrial adenocarcinoma",
+    "Large intestine polyp",
+    "Ovarian cancer stage I",
+    "Ovarian cyst"
+  ],
+  "date_started": "20050630",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

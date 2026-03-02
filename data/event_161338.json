@@ -1,0 +1,44 @@
+{
+  "report_number": "161338",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130116",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ANOREXIA",
+    "BODY TEMPERATURE INCREASED",
+    "CHROMATURIA",
+    "FATIGUE",
+    "JAUNDICE",
+    "NAUSEA",
+    "PRURITUS"
+  ],
+  "date_started": "20110429",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIONHEART SPR-20 XTREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HYDROXYZINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SILYBUM MARIANUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

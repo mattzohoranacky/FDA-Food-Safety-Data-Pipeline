@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-011492",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220722",
+  "reactions": [
+    "Abdominal distension",
+    "Insomnia",
+    "Lethargy"
+  ],
+  "date_started": "20220213",
+  "consumer": {
+    "age": "50.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTRI AJO KING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Estro cream",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "2020-CFS-005247",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200515",
+  "reactions": [
+    "Burning sensation",
+    "Erythema",
+    "Feeling hot",
+    "Skin reaction",
+    "Swelling"
+  ],
+  "date_started": "20200515",
+  "consumer": {
+    "age": "17.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIORE ROSE QUARTZ AND CHARCOAL DAILY PURIFYING CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

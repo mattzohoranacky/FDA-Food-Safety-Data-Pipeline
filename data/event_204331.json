@@ -1,0 +1,40 @@
+{
+  "report_number": "204331",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20161117",
+  "reactions": [
+    "COUGH",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FLUSHING",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "SKIN DISCOLOURATION",
+    "SWELLING",
+    "SWELLING FACE",
+    "URTICARIA"
+  ],
+  "date_started": "20161030",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

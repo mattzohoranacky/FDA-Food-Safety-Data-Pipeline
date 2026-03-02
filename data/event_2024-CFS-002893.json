@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-002893",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240314",
+  "reactions": [
+    "Abdominal pain",
+    "Decreased appetite",
+    "Dehydration",
+    "Diarrhoea",
+    "Dizziness",
+    "Fatigue",
+    "Nausea",
+    "Weight decreased"
+  ],
+  "date_started": "20240311",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TEJOCOTE ROOT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

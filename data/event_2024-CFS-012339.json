@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-012339",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241010",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Headache",
+    "Nausea"
+  ],
+  "date_started": "20241009",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER WAFFLE CONES",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

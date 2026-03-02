@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-015973",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20221105",
+  "reactions": [
+    "Abdominal pain upper",
+    "Dehydration",
+    "Diarrhoea",
+    "Dyspepsia",
+    "Eructation",
+    "Nausea"
+  ],
+  "date_started": "20220613",
+  "consumer": {
+    "age": "25.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

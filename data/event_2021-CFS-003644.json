@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-003644",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210421",
+  "reactions": [
+    "Hypersensitivity",
+    "Pruritus",
+    "Urticaria"
+  ],
+  "date_started": "20210326",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY SHAKEOLOGY BARISTA VEGAN COMBO PACK - CAFE LATTE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY SHAKEOLOGY BARISTA VEGAN COMBO PACK - VANILLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODYSHAKEOLOGY BARISTA VEGAN COMBO PACK - CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

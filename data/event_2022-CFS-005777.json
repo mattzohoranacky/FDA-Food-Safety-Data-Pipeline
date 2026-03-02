@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-005777",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220420",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Eye swelling",
+    "Oropharyngeal pain",
+    "Pharyngeal oedema",
+    "Pruritus"
+  ],
+  "date_started": "20220402",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODERE BURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MODERE TRIM CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

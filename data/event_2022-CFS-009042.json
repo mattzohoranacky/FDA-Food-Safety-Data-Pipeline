@@ -1,0 +1,27 @@
+{
+  "report_number": "2022-CFS-009042",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220530",
+  "reactions": [
+    "Diarrhoea",
+    "Salmonellosis",
+    "Vomiting"
+  ],
+  "date_started": "20220521",
+  "consumer": {
+    "age": "36.8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

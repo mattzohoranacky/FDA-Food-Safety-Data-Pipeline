@@ -1,0 +1,40 @@
+{
+  "report_number": "192473",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151231",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "BURNING SENSATION",
+    "CHILLS",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20151229",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CEDARS SUNDRIED TOMATO & BASIL HUMMUS",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLATE ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

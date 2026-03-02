@@ -1,0 +1,52 @@
+{
+  "report_number": "177340",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140620",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "COLITIS ULCERATIVE",
+    "DYSARTHRIA",
+    "HEART RATE INCREASED",
+    "NAUSEA",
+    "RECTAL HAEMORRHAGE"
+  ],
+  "date_started": "20140501",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL CLEANSE - PEACHES & CREAM FIBER DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL CLEANSE DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OMEGAPIEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROBIOTIC RESTORE ULTRA DIETARY PROBIOTIC SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPARK ENERGY DRINK 14CT MANDARIN ORANGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

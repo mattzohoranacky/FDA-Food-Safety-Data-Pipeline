@@ -1,0 +1,56 @@
+{
+  "report_number": "2022-CFS-014021",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20220913",
+  "reactions": [
+    "Blood pressure increased",
+    "Diarrhoea",
+    "Dyspnoea",
+    "Erythema",
+    "Feeling abnormal",
+    "Feeling hot",
+    "Hypersensitivity",
+    "Joint swelling",
+    "Local swelling",
+    "Pruritus",
+    "Psychomotor hyperactivity",
+    "Weight decreased"
+  ],
+  "date_started": "20220722",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSHROOM WISDOM MAITAKE D FRACTION PRO 4X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSHROOM WISDOM SX-FRACTION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin d",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

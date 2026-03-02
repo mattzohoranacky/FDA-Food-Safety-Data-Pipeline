@@ -1,0 +1,28 @@
+{
+  "report_number": "2020-CFS-000662",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200120",
+  "reactions": [
+    "Hemiparesis",
+    "Ischaemic stroke"
+  ],
+  "date_started": "20200119",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLACK RHINO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

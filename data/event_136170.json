@@ -1,0 +1,36 @@
+{
+  "report_number": "136170",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110207",
+  "reactions": [
+    "EPISTAXIS",
+    "HAEMORRHAGE",
+    "TRANSFUSION"
+  ],
+  "date_started": "20110112",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BIO-CURCUMIN 400 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DIGEST RC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

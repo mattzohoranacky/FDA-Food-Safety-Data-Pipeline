@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-006581",
+  "outcomes": [
+    "Death",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200705",
+  "reactions": [
+    "Death",
+    "Diabetes mellitus",
+    "Exposure to toxic agent",
+    "Hypertension",
+    "Lung neoplasm malignant"
+  ],
+  "date_started": "20180101",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

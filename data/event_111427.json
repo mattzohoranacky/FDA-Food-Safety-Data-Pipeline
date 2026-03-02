@@ -1,0 +1,29 @@
+{
+  "report_number": "111427",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090210",
+  "reactions": [
+    "DIARRHOEA",
+    "MALAISE"
+  ],
+  "date_started": "20090206",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOURMET SELECT TRAIL MIX CAJUN VARIETY",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SALTY ROLL",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

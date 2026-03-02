@@ -1,0 +1,36 @@
+{
+  "report_number": "207930",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170221",
+  "reactions": [
+    "BURNING SENSATION",
+    "ERYTHEMA",
+    "PAIN",
+    "PRURITUS",
+    "SWELLING",
+    "SWELLING FACE"
+  ],
+  "date_started": "20170216",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VISSIONAIRE FACIAL MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PREG-VIT VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

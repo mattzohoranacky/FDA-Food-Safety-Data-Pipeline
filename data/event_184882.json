@@ -1,0 +1,32 @@
+{
+  "report_number": "184882",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150413",
+  "reactions": [
+    "BACTERIAL FOOD POISONING",
+    "CEREBROVASCULAR ACCIDENT",
+    "GASTRIC DISORDER",
+    "VOMITING"
+  ],
+  "date_started": "20150206",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALOHA PROTEIN CHOCOLATE POUCH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALOHA PROTEIN VANILLA POUCH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

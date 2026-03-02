@@ -1,0 +1,51 @@
+{
+  "report_number": "195592",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20160420",
+  "reactions": [
+    "COUGH",
+    "DYSPNOEA",
+    "FEAR",
+    "FOREIGN BODY"
+  ],
+  "date_started": "20160327",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REXALL SUNDOWN OSTEO BI-FLEX TRIPLE STRENGTH TWO PER DAY MSM FORMULA COATED TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HAWTHORNE BERRY 525MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LIFE EXTENSION ADRENAL HEALTH CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "METAMUCIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SENIOR COMPLETE MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

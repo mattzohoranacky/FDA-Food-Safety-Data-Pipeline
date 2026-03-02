@@ -1,0 +1,33 @@
+{
+  "report_number": "129925",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20100914",
+  "reactions": [
+    "ANOREXIA",
+    "CHEST DISCOMFORT",
+    "DYSPNOEA",
+    "FATIGUE"
+  ],
+  "date_started": "20100706",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COQ 10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "D3 2000 IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

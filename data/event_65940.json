@@ -1,0 +1,39 @@
+{
+  "report_number": "65940",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040116",
+  "reactions": [
+    "DRUG SCREEN POSITIVE",
+    "EYE DISORDER",
+    "FEELING ABNORMAL",
+    "HOSPITALISATION",
+    "MYDRIASIS"
+  ],
+  "date_started": "20040114",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SNAPPLE PEACH JUICE DRINK",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ORANGE JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRETZELS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

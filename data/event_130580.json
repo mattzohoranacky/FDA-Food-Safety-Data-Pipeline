@@ -1,0 +1,29 @@
+{
+  "report_number": "130580",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20100511",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "NAUSEA"
+  ],
+  "date_started": "20100510",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BORDEN 2% MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HAMBURGER HELPER MEAL",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

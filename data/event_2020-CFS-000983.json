@@ -1,0 +1,29 @@
+{
+  "report_number": "2020-CFS-000983",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20200130",
+  "reactions": [
+    "Nipple swelling",
+    "Rash"
+  ],
+  "date_started": "20200116",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "8 WEEKSOUT LIPOGENX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "8 WEEKSOUT TESTOGEN X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

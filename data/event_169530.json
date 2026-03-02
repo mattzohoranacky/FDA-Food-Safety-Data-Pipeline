@@ -1,0 +1,44 @@
+{
+  "report_number": "169530",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130829",
+  "reactions": [
+    "ANXIETY",
+    "CHEST DISCOMFORT",
+    "DEPRESSION SUICIDAL",
+    "HEART RATE INCREASED",
+    "INSOMNIA",
+    "PANIC ATTACK",
+    "PSYCHIATRIC SYMPTOM",
+    "RESPIRATORY RATE INCREASED"
+  ],
+  "date_started": "20130716",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE SAM-E S-ADENOSYLMETHIONINE 400 MG ENTERIC COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WOMEN'S MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

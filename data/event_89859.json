@@ -1,0 +1,31 @@
+{
+  "report_number": "89859",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20061027",
+  "reactions": [
+    "Adverse event",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "DIARRHOEA HAEMORRHAGIC",
+    "IRRITABILITY",
+    "SALMONELLOSIS"
+  ],
+  "date_started": "20061012",
+  "consumer": {
+    "age": "2",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NUTRAMIGEN LIPIL POWDERED FORMULA 16 OZ",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

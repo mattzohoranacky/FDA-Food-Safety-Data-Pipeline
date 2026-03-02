@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-006152",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180422",
+  "reactions": [
+    "Abdominal pain upper",
+    "Asthenia",
+    "Diarrhoea",
+    "Fatigue",
+    "Headache",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20180420",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One a Day Adult Multi Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

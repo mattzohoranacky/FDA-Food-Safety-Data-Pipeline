@@ -1,0 +1,39 @@
+{
+  "report_number": "209412",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170317",
+  "reactions": [
+    "BRONCHITIS",
+    "CHEST X-RAY ABNORMAL",
+    "COUGH",
+    "PLEURAL EFFUSION",
+    "PNEUMONIA"
+  ],
+  "date_started": "20170131",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOURCE NATURALS GUARANA ENERGIZER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ST. JOHN'S WORT 300MG RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VALERIAN ROOT 450MG RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

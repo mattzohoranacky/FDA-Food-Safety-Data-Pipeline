@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-009196",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20180711",
+  "reactions": [
+    "Cardiac arrest",
+    "Cardiac valve disease",
+    "Cardiovascular disorder",
+    "Death"
+  ],
+  "date_started": "20180619",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUBIOTICS WITH IMMUNE SUPPORT ADVANTAGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SODIUM CITRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

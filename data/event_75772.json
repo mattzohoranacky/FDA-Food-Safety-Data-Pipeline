@@ -1,0 +1,49 @@
+{
+  "report_number": "75772",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050201",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "NAUSEA"
+  ],
+  "date_started": "20050131",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HI-C ORANGE DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MCDONALD'S CHEESEBURGER",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MCDONALD'S FRENCH FRIES",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MCDONALD'S KETCHUP",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MCDONALD'S YOGURT FRUIT CUP",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

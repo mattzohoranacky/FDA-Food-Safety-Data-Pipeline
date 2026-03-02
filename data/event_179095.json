@@ -1,0 +1,29 @@
+{
+  "report_number": "179095",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140822",
+  "reactions": [
+    "DECREASED APPETITE",
+    "ENTEROBACTER INFECTION",
+    "ESCHERICHIA BACTERAEMIA",
+    "PYREXIA"
+  ],
+  "date_started": "20140813",
+  "consumer": {
+    "age": "6",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCED DRY FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

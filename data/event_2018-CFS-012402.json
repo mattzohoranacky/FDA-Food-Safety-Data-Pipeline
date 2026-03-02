@@ -1,0 +1,52 @@
+{
+  "report_number": "2018-CFS-012402",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20181011",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain upper",
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Chest discomfort",
+    "Chest pain",
+    "Dysgeusia",
+    "Dyspepsia",
+    "Epigastric discomfort",
+    "Eructation",
+    "Flatulence",
+    "Gastrointestinal sounds abnormal",
+    "Headache",
+    "Malaise",
+    "Muscle spasms",
+    "Myalgia",
+    "Pain in extremity"
+  ],
+  "date_started": "20180801",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING VALLEY RED YEAST RICE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B Complex",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Omega 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

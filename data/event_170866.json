@@ -1,0 +1,32 @@
+{
+  "report_number": "170866",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20131018",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "HAEMATOCHEZIA"
+  ],
+  "date_started": "20130616",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COOKED CRAB",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

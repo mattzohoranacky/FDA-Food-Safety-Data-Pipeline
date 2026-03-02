@@ -1,0 +1,37 @@
+{
+  "report_number": "122551",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100115",
+  "reactions": [
+    "LYMPHADENOPATHY",
+    "RASH"
+  ],
+  "date_started": "20090801",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MANNABEARS SNACKS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEW AND IMPROVED ADVANCED AMBROTOSE POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED CACTUS SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

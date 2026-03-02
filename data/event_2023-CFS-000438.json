@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-000438",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230117",
+  "reactions": [
+    "Attention deficit hyperactivity disorder",
+    "Burning sensation",
+    "Condition aggravated"
+  ],
+  "date_started": "20190108",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED DYE 40",
+      "industry_code": "50",
+      "industry_name": "Color Additiv Food/Drug/Cosmetic"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YELLOW 5",
+      "industry_code": "50",
+      "industry_name": "Color Additiv Food/Drug/Cosmetic"
+    }
+  ]
+}

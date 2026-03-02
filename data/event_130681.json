@@ -1,0 +1,35 @@
+{
+  "report_number": "130681",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100929",
+  "reactions": [
+    "BLOOD PRESSURE FLUCTUATION",
+    "BLOOD PRESSURE INCREASED",
+    "BLOOD URINE PRESENT",
+    "BURNING SENSATION",
+    "Bladder disorder",
+    "DIZZINESS",
+    "HEART RATE ABNORMAL",
+    "HEART RATE INCREASED",
+    "HYPOAESTHESIA",
+    "NERVOUS SYSTEM DISORDER",
+    "UROGENITAL DISORDER"
+  ],
+  "date_started": "20100923",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHASTA DIET COLA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

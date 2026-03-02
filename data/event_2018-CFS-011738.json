@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-011738",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20180924",
+  "reactions": [
+    "Diarrhoea"
+  ],
+  "date_started": "20170905",
+  "consumer": {
+    "age": "28.76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FROZEN SEAFOOD",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Arctic Surf Clams",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

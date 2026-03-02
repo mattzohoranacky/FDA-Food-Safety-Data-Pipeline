@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-015804",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20221102",
+  "reactions": [
+    "Haemorrhage",
+    "Scab",
+    "Wound"
+  ],
+  "date_started": "20220907",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOVE CARE BETWEEN WASHES VOLUME AND FULLNESS DRY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ibuprofen prn",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

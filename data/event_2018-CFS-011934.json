@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-011934",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180927",
+  "reactions": [
+    "Back pain",
+    "Cyanopsia",
+    "Headache",
+    "Hepatic pain"
+  ],
+  "date_started": "20180921",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JET BLACK 68000 7 DAYS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JET BLUE 68000",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

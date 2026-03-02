@@ -1,0 +1,42 @@
+{
+  "report_number": "2023-CFS-013013",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20231119",
+  "reactions": [
+    "Abdominal pain",
+    "Burning sensation",
+    "Diarrhoea",
+    "Dizziness",
+    "Dyspnoea",
+    "Fatigue",
+    "Food poisoning",
+    "Headache",
+    "Malaise",
+    "Nausea",
+    "Pain",
+    "Pruritus",
+    "Rash",
+    "Swelling",
+    "Viral infection",
+    "Vision blurred",
+    "Vomiting"
+  ],
+  "date_started": "20231103",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KINGFISH SIERRA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "report_number": "2020-CFS-001911",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200211",
+  "reactions": [
+    "Alopecia",
+    "Dry skin",
+    "Menstruation irregular",
+    "Onychoclasis",
+    "Pruritus"
+  ],
+  "date_started": "20190725",
+  "consumer": {
+    "age": "33.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL DEVAFRESH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL LT DEFINE GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL SHARETHE SUPER CURLY LOVE KIT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL STYLING CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVA CURL WAVE MAKER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

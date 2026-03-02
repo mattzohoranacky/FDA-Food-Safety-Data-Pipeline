@@ -1,0 +1,31 @@
+{
+  "report_number": "122070",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091217",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "DYSPHAGIA",
+    "ERYTHEMA",
+    "RASH",
+    "RASH PAPULAR",
+    "SWOLLEN TONGUE",
+    "VOMITING"
+  ],
+  "date_started": "20091108",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MILKY WAY FUN SIZE CANDY BAR",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "2020-CFS-001467",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200204",
+  "reactions": [
+    "Pain"
+  ],
+  "date_started": "20200204",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARAZO NUTRITION JOINT SUPPORT - ADVANCED FORMULATION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Calcium with vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One-A-Day",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-003546",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210420",
+  "reactions": [
+    "Abdominal pain",
+    "Bilirubin conjugated increased",
+    "Blood lactate dehydrogenase increased",
+    "Jaundice",
+    "Transaminases increased",
+    "Vomiting"
+  ],
+  "date_started": "20210401",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE NUTRITION FORMULA 1 HEALTHY MEAL NUTRITIONAL SHAKE MIX",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

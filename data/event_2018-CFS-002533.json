@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-002533",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180215",
+  "reactions": [
+    "Atrial fibrillation",
+    "Blood pressure increased",
+    "Erythema",
+    "Heart rate increased",
+    "Paraesthesia"
+  ],
+  "date_started": "20180105",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR P6 CHROME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR P6 PM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "2021-CFS-010350",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20211012",
+  "reactions": [
+    "Agitation",
+    "Anxiety",
+    "Asthenia",
+    "Constipation",
+    "Dehydration",
+    "Electrocardiogram abnormal",
+    "Insomnia",
+    "Myalgia",
+    "Palpitations",
+    "Panic attack",
+    "Restless legs syndrome",
+    "Syncope",
+    "Weight decreased"
+  ],
+  "date_started": "20190901",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN METHYL PROTECT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Probiotics",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

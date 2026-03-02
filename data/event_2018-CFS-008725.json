@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-008725",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180627",
+  "reactions": [
+    "Blood glucose decreased",
+    "Exposure during breast feeding",
+    "Foetal distress syndrome",
+    "Jaundice",
+    "Maternal exposure during pregnancy",
+    "Metabolic disorder",
+    "Weight gain poor"
+  ],
+  "date_started": "20170401",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRONUTRIENTS OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

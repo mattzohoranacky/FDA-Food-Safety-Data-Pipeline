@@ -1,0 +1,50 @@
+{
+  "report_number": "182682",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20150129",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL PAIN",
+    "CHEST DISCOMFORT",
+    "CHEST PAIN",
+    "COUGH",
+    "DIARRHOEA",
+    "DYSPNOEA",
+    "FOOD ALLERGY",
+    "Recalled product"
+  ],
+  "date_started": "20141120",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WICK FOWLER CHILLI MIX",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BUSHES BAKED CHILI BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WEGAMAN'S ORGANIC TOMATO SAUCE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

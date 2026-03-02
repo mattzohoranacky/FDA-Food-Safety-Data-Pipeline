@@ -1,0 +1,35 @@
+{
+  "report_number": "216637",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20170816",
+  "reactions": [
+    "Abdominal discomfort",
+    "Burning sensation",
+    "Dyspnoea",
+    "Nausea",
+    "Oropharyngeal pain",
+    "Regurgitation"
+  ],
+  "date_started": "20170815",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLA TONALIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Omega-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

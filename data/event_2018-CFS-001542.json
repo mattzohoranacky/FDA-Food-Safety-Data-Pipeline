@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-001542",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180118",
+  "reactions": [
+    "Burning sensation",
+    "Hypersensitivity",
+    "Pruritus",
+    "Rash",
+    "Skin reaction"
+  ],
+  "date_started": "20170614",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUST FOR MEN MUSTACHE AND BEARD COLOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Omega 3 Supplements",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "report_number": "2025-CFS-005955",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210101",
+  "reactions": [
+    "Abdominal pain",
+    "Asthenia",
+    "Blood arsenic increased",
+    "Chest pain",
+    "Chills",
+    "Contusion",
+    "Diarrhoea",
+    "Dyspnoea",
+    "Erythema",
+    "Fatigue",
+    "Haemorrhage",
+    "Heart rate abnormal",
+    "Hospitalisation",
+    "Malaise",
+    "Muscle spasms",
+    "Nausea",
+    "Pallor",
+    "Palpitations",
+    "Paraesthesia",
+    "Peripheral swelling",
+    "Pyrexia",
+    "Skin lesion",
+    "Skin papilloma",
+    "Skin swelling",
+    "Syncope",
+    "Tachypnoea",
+    "Vomiting",
+    "Weight increased",
+    "Wheezing"
+  ],
+  "date_started": "20191020",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENDO-MET LABORATORIES G-B3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENDO-MET LABORATORIES LINCOMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENDO-MET LABORATORIES PARAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENDO-MET LABORATORIES RENAMIDE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENDO-MET LABORATORIES SELENIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENDO-MET LABORATORIES TAURINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENDO-MET LABORATORIES ALL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

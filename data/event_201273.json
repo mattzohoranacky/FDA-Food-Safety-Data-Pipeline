@@ -1,0 +1,46 @@
+{
+  "report_number": "201273",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160909",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "BLOOD URINE PRESENT",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "DIARRHOEA HAEMORRHAGIC",
+    "GASTROINTESTINAL TRACT IRRITATION",
+    "HYPERHIDROSIS",
+    "URINARY TRACT INFECTION",
+    "VOMITING"
+  ],
+  "date_started": "20160816",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CRANBERRY STANDARDIZED 60 TABS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

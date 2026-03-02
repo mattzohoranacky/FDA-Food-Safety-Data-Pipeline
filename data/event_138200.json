@@ -1,0 +1,43 @@
+{
+  "report_number": "138200",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110421",
+  "reactions": [
+    "DISTURBANCE IN ATTENTION",
+    "GAIT DISTURBANCE"
+  ],
+  "date_started": "20110329",
+  "consumer": {
+    "age": "51.34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARCTIC WONDER KRILL OIL CAPSULE SOFT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GARLIC ALLIUM SATIVUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

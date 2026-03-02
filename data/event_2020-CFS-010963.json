@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-010963",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20201028",
+  "reactions": [
+    "Anxiety",
+    "Hallucination",
+    "Increased upper airway secretion",
+    "Pyrexia",
+    "Respiratory arrest",
+    "Tachycardia",
+    "Tremor",
+    "Withdrawal syndrome"
+  ],
+  "date_started": "20191231",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GROUNDED ORGANICS ALL NATURAL MAENG DA PREMIUM TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

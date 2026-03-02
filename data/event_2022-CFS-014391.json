@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-014391",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220926",
+  "reactions": [
+    "Alopecia"
+  ],
+  "date_started": "20220903",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX QUENCHING COCONUT CURLS CONDITIONER WITH COCONUT OIL CITRUS OIL AND",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX QUENCHING COCONUT CURLS SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Womens daily rainbow multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

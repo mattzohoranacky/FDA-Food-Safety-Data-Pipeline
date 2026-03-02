@@ -1,0 +1,52 @@
+{
+  "report_number": "2018-CFS-012699",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181019",
+  "reactions": [
+    "Dermatitis",
+    "Menstruation irregular",
+    "Pruritus",
+    "Seborrhoea",
+    "Skin haemorrhage"
+  ],
+  "date_started": "20170811",
+  "consumer": {
+    "age": "28.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT MEN'S BLACK 2in1",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW/REVIVE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REVIVE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT THE CHAMP DRY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

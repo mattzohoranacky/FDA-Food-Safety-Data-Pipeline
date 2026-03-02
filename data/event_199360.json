@@ -1,0 +1,31 @@
+{
+  "report_number": "199360",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160729",
+  "reactions": [
+    "ALOPECIA",
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20160701",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN HAIR CARE PRODUCTS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE A DAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

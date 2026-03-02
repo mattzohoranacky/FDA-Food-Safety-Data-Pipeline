@@ -1,0 +1,30 @@
+{
+  "report_number": "88456",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060928",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CONFUSIONAL STATE",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS VIBRIO",
+    "MYALGIA",
+    "SEPSIS SYNDROME"
+  ],
+  "date_started": "20060826",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BROCATO'S SEAFOOD RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

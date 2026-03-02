@@ -1,0 +1,38 @@
+{
+  "report_number": "161852",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130205",
+  "reactions": [
+    "DIARRHOEA",
+    "PSYCHOMOTOR HYPERACTIVITY",
+    "SLEEP DISORDER"
+  ],
+  "date_started": "20130129",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTHS BEST ORGANIC SENSITIVE FORMULAS",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER GOOD START GENTLE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ORGANIC",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "2020-CFS-009003",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200918",
+  "reactions": [
+    "Abdominal distension",
+    "Ascites",
+    "Death",
+    "Decreased appetite",
+    "Early satiety",
+    "Nausea",
+    "Ovarian cancer",
+    "Pleural effusion",
+    "Weight decreased"
+  ],
+  "date_started": "20140109",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

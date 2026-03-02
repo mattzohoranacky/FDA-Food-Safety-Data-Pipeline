@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-015102",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20221010",
+  "reactions": [
+    "Nausea",
+    "Oral allergy syndrome",
+    "Vomiting"
+  ],
+  "date_started": "20221007",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POLAR BLACK CHERRY SELTZER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

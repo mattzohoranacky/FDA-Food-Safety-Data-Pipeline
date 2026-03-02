@@ -1,0 +1,49 @@
+{
+  "report_number": "2024-CFS-001189",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240125",
+  "reactions": [
+    "Blood corticotrophin abnormal",
+    "Nausea",
+    "Pain in extremity",
+    "Ulcer",
+    "Vomiting",
+    "Weight decreased"
+  ],
+  "date_started": "20230711",
+  "consumer": {
+    "age": "34.5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BARE PERFORMANCE NUTRITION WHEY PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CREATINE MONOHYDRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "G1M SPORTS SLIGHT STRONG GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HYDROCORTISONE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

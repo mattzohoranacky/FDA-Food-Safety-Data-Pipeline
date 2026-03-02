@@ -1,0 +1,55 @@
+{
+  "report_number": "2022-CFS-010457",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220630",
+  "reactions": [
+    "Swollen tongue",
+    "Urticaria"
+  ],
+  "date_started": "20220609",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERSONA NUTRITION APPETITE SUPPORT VEGETARIAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERSONA NUTRITION FOUNDATIONAL MULTIVITAMIN VEGAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERSONA NUTRITION PEPPERMINT PLUS VEGETARIAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERSONA NUTRITION VEGAN DHA (AS LIFE'S DHA DOCOSAHEXAENOIC ACID) (FROM MICROALGAE OIL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Seed Prebiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

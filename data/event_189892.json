@@ -1,0 +1,33 @@
+{
+  "report_number": "189892",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20150923",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20150905",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS GLUTEN FREE CHEERIOS CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

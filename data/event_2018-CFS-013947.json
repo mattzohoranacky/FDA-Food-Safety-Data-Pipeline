@@ -1,0 +1,40 @@
+{
+  "report_number": "2018-CFS-013947",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20181127",
+  "reactions": [
+    "Adverse event",
+    "Alopecia",
+    "Anxiety",
+    "CSF test abnormal",
+    "Deafness",
+    "Depression",
+    "Headache",
+    "Musculoskeletal pain",
+    "Neck pain",
+    "Pain",
+    "Red blood cell sedimentation rate increased",
+    "Temporal arteritis",
+    "Tinnitus",
+    "Visual field defect",
+    "Weight increased"
+  ],
+  "date_started": "20171101",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY SUPER B-COMPLEX WITH FOLIC ACID PLUS VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

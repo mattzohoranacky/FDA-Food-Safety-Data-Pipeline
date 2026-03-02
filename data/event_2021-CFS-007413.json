@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-007413",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210729",
+  "reactions": [
+    "Diarrhoea",
+    "Gastrointestinal pain"
+  ],
+  "date_started": "20210718",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEB MOZZARELLA STICKS",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANGBURN OF TEXAS MILLIONAIRE BIG BITE CANDY (PECANS & HONEY CARAMEL)",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

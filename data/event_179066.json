@@ -1,0 +1,43 @@
+{
+  "report_number": "179066",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140904",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALBUMIN DECREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CERULOPLASMIN INCREASED",
+    "CHOLESTATIC LIVER INJURY",
+    "GYNAECOMASTIA",
+    "HEPATOCELLULAR INJURY",
+    "JAUNDICE",
+    "LIPASE INCREASED",
+    "LIVER INJURY",
+    "LYMPHOCYTE COUNT DECREASED",
+    "NEUTROPHIL COUNT DECREASED",
+    "PRURITUS",
+    "SERUM FERRITIN INCREASED",
+    "TRANSFERRIN DECREASED",
+    "YELLOW SKIN"
+  ],
+  "date_started": "20130515",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EPISTANE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

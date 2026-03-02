@@ -1,0 +1,37 @@
+{
+  "report_number": "173295",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20140116",
+  "reactions": [
+    "ANXIETY",
+    "FEAR",
+    "HEART RATE INCREASED",
+    "HOT FLUSH",
+    "HYPERHIDROSIS",
+    "NIGHTMARE"
+  ],
+  "date_started": "20131219",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RISING:VITAMIN D2 ERGO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

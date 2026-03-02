@@ -1,0 +1,34 @@
+{
+  "report_number": "2021-CFS-001414",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210211",
+  "reactions": [
+    "Burning sensation",
+    "Chemical injury",
+    "Erythema",
+    "Skin exfoliation",
+    "Skin sensitisation"
+  ],
+  "date_started": "20210205",
+  "consumer": {
+    "age": "26.3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLD SPICE TROPICS WITH CITRUS ZEST DEODORANT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VitaFusion Men's Multi Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

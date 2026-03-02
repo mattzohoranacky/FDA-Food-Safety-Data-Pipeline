@@ -1,0 +1,33 @@
+{
+  "report_number": "139530",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110527",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "HAEMATOCHEZIA",
+    "NECROTISING COLITIS",
+    "SEPSIS"
+  ],
+  "date_started": "20100822",
+  "consumer": {
+    "age": "80",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLY THICK",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NEOSURE 22",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "113615",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090401",
+  "reactions": [
+    "DIZZINESS",
+    "MALAISE",
+    "SKIN WARM",
+    "VOMITING"
+  ],
+  "date_started": "20090401",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLANTERS MIXED NUTS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHEATIES CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

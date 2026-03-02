@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-008692",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220524",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Incontinence",
+    "Nausea"
+  ],
+  "date_started": "20220523",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BANG SUPER CREATINE POTENT BRAIN AND BODY WHOLE LOTTA CHOCOLATE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Bang",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

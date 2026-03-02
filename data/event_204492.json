@@ -1,0 +1,36 @@
+{
+  "report_number": "204492",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161129",
+  "reactions": [
+    "COLONOSCOPY ABNORMAL",
+    "DYSPHAGIA",
+    "FLATULENCE",
+    "POLYP",
+    "SALIVARY HYPERSECRETION"
+  ],
+  "date_started": "20161016",
+  "consumer": {
+    "age": "58.32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY SAM-E 400MG COATED TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12 LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

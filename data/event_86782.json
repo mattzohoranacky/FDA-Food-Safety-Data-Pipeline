@@ -1,0 +1,37 @@
+{
+  "report_number": "86782",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060711",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ALOPECIA",
+    "HAIR GROWTH ABNORMAL",
+    "HAIR TEXTURE ABNORMAL",
+    "PRURITUS",
+    "RASH PAPULAR",
+    "WEIGHT INCREASED"
+  ],
+  "date_started": "20060325",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAINBOW RESEARCH HENNA RAINBOW HENNA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVLON DARK BROWN HAIR DYE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

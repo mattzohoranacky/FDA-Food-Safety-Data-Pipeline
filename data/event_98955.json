@@ -1,0 +1,36 @@
+{
+  "report_number": "98955",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20071217",
+  "reactions": [
+    "BLOOD KETONE BODY",
+    "DECREASED APPETITE",
+    "LETHARGY",
+    "LIVEDO RETICULARIS",
+    "MALAISE",
+    "PALLOR",
+    "PH URINE INCREASED"
+  ],
+  "date_started": "20071210",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VIVONEX PEDIATRIC",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "POLYCAL",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

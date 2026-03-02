@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-012072",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20211123",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Malaise",
+    "Vomiting"
+  ],
+  "date_started": "20211117",
+  "consumer": {
+    "age": "7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED SEEDLESS GRAPES PLU 4635",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SMARTY PANTS VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

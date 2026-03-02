@@ -1,0 +1,48 @@
+{
+  "report_number": "2022-CFS-000916",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220120",
+  "reactions": [
+    "Swelling"
+  ],
+  "date_started": "20211015",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE FEELFIT PEA PROTEIN SHAKE COFFEE FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DermResults Daily Radiance Peel Pads with 2% Caviar Lime",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DermResults Illuminating Skin Therapy Concentrate with 15% Vitamin C-2% Bakuchiol-1% Ferulic Acid",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Gut Connect 365",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Speak Volumes Mascara",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

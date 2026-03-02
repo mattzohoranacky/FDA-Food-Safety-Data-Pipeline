@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-004004",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220318",
+  "reactions": [
+    "Abdominal pain",
+    "Thrombosis"
+  ],
+  "date_started": "20220214",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEORAFIT BLOCK PLUS BALANCE PRE AND PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEORAFIT CLEANSE PLUS CALM NIGHTLY GENTLE CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEORAFIT SLIM PLUS SKIN COLLAGEN POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

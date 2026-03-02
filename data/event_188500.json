@@ -1,0 +1,34 @@
+{
+  "report_number": "188500",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150805",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD CALCIUM INCREASED",
+    "BLOOD IRON INCREASED",
+    "BLOOD LACTATE DEHYDROGENASE INCREASED",
+    "BLOOD PHOSPHORUS INCREASED",
+    "HEPATIC ENZYME INCREASED",
+    "LIVER INJURY",
+    "SERUM FERRITIN INCREASED"
+  ],
+  "date_started": "20150616",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRITIONAL INSURANCE ATHLETIC GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

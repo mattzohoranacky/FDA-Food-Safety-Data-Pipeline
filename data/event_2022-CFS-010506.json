@@ -1,0 +1,42 @@
+{
+  "report_number": "2022-CFS-010506",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20220701",
+  "reactions": [
+    "Decreased appetite",
+    "Gastrointestinal pain",
+    "Hypersensitivity",
+    "Nausea",
+    "Pruritus",
+    "Sinus congestion",
+    "Weight decreased"
+  ],
+  "date_started": "20220602",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST CARROT SMOOTHIE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST COLD BREW",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH THYME AND LEEK CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

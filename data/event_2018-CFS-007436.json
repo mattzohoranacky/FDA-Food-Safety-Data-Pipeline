@@ -1,0 +1,40 @@
+{
+  "report_number": "2018-CFS-007436",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180523",
+  "reactions": [
+    "Balance disorder",
+    "Burning sensation",
+    "Chemical injury",
+    "Confusional state",
+    "Dysgeusia",
+    "Dyspnoea",
+    "Fatigue",
+    "Mental impairment",
+    "Nausea",
+    "Skin disorder",
+    "Skin infection"
+  ],
+  "date_started": "20160601",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MIA'S SPECIAL INGREDIENT NAIL GEL RESIN GLUE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

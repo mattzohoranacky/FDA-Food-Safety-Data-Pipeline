@@ -1,0 +1,62 @@
+{
+  "report_number": "162640",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130225",
+  "reactions": [
+    "ADVERSE DRUG REACTION",
+    "ANAPHYLACTIC REACTION",
+    "ANAPHYLACTIC SHOCK",
+    "BLOOD PRESSURE INCREASED",
+    "BURNING SENSATION",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FLUSHING",
+    "HYPERSENSITIVITY",
+    "SOMNOLENCE",
+    "TREMOR",
+    "URTICARIA"
+  ],
+  "date_started": "20130212",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY NIACIN 250 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

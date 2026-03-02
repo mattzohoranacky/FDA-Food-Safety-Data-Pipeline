@@ -1,0 +1,80 @@
+{
+  "report_number": "135522",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110202",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "PANCREATITIS",
+    "VOMITING"
+  ],
+  "date_started": "20101114",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING PROGRAM GASTRO FORMULA  AM PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING PROGRAM GASTRO FORMULA BLOOD CIRCULATION  PM PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING PROGRAM GASTRO FORMULA ENZYME BLEND  PM PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING PROGRAM GASTRO FORMULA FIBER AND PREBIOTIC BLEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING PROGRAM GASTRO FORMULA KIDNEY HEALTH  PM PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING PROGRAM GASTRO FORMULA LIVER CLEANSER  PM PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING PROGRAM GASTRO FORMULA PROBIOTIC  ACIDOPHILUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC PREVENTIVE NUTRITION COMPLETE BODY CLEANSING PROGRAM GASTRO FORMULA TOTAL CLEANSER  AM PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNCPREVENTIVE NUTRITION COMPLETE BODY CLEANSING PROGRAM GASTRO FORMULA ENZYME BLEND  AM PACKET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TRIPLE STRENGTH FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "190453",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20151007",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER"
+  ],
+  "date_started": "20150803",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUTEN FREE HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "report_number": "83468",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060130",
+  "reactions": [
+    "AGITATION",
+    "CONFUSIONAL STATE",
+    "DEHYDRATION",
+    "DEPRESSION",
+    "HALLUCINATION",
+    "AUDITORY",
+    "HYPERACUSIS",
+    "IRRITABILITY",
+    "MOOD ALTERED",
+    "PARANOIA",
+    "PSYCHOTIC DISORDER",
+    "SLEEP DISORDER"
+  ],
+  "date_started": "20060112",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIO THYRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOTHYROID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLON CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIVER DETOX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "Y.P.D. SUPPORT FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

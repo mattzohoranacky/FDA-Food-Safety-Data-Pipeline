@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-004505",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220401",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Drooling",
+    "Fatigue",
+    "Throat tightness",
+    "Urticaria",
+    "Vomiting"
+  ],
+  "date_started": "20220311",
+  "consumer": {
+    "age": "3.1",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WILD FRIENDS CHOCOLATE ALMOND BUTTER",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

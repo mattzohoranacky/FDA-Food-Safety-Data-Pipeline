@@ -1,0 +1,31 @@
+{
+  "report_number": "120325",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20091116",
+  "reactions": [
+    "FLUSHING",
+    "RASH"
+  ],
+  "date_started": "20090119",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE FLUSH FREE NIACIN 1000MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE FLUSH FREE NIACIN 500MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

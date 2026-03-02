@@ -1,0 +1,49 @@
+{
+  "report_number": "214172",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170608",
+  "reactions": [
+    "Acidosis",
+    "Apnoea",
+    "Blood pH decreased",
+    "Body temperature fluctuation",
+    "Disseminated intravascular coagulation",
+    "Heart rate decreased",
+    "Lactobacillus test positive",
+    "Listeriosis",
+    "Livedo reticularis",
+    "Oxygen saturation decreased",
+    "Pallor",
+    "Sluggishness"
+  ],
+  "date_started": "20170827",
+  "consumer": {
+    "age": "6",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALIGN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CULTURELLE HEALTH & WELLNESS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SPECIAL CARE 20",
+      "industry_code": "40M",
+      "industry_name": "Formula Raw Material"
+    }
+  ]
+}

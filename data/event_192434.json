@@ -1,0 +1,44 @@
+{
+  "report_number": "192434",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20151230",
+  "reactions": [
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20151229",
+  "consumer": {
+    "age": "85",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARBON MONOXIDE TREATED SALMON",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARBON MONOXIDE TREATED TUNA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARBON MONOXIDETREATED MEATS",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OCCUVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

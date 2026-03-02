@@ -1,0 +1,35 @@
+{
+  "report_number": "2023-CFS-006603",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20230628",
+  "reactions": [
+    "Dyspnoea",
+    "Hyperhidrosis",
+    "Hyperventilation",
+    "Loss of consciousness",
+    "Syncope",
+    "Vomiting"
+  ],
+  "date_started": "20230623",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAST ACTING NANO D8 GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Prenatal vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

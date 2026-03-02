@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-010480",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20240804",
+  "reactions": [
+    "Amnesia",
+    "Angina pectoris",
+    "Confusional state",
+    "Decreased appetite",
+    "Disorientation",
+    "Insomnia",
+    "Paranoia",
+    "Speech disorder",
+    "Urine ketone body present"
+  ],
+  "date_started": "20240720",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FUSION CAPN CRUNCH",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

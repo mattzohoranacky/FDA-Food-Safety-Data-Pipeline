@@ -1,0 +1,49 @@
+{
+  "report_number": "181480",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20141218",
+  "reactions": [
+    "ACTIVATED PARTIAL THROMBOPLASTIN TIME PROLONGED",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BILIRUBIN CONJUGATED INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD IMMUNOGLOBULIN M DECREASED",
+    "BLOOD IRON INCREASED",
+    "BLOOD LACTATE DEHYDROGENASE INCREASED",
+    "DRUG-INDUCED LIVER INJURY",
+    "GAMMA-GLUTAMYLTRANSFERASE INCREASED",
+    "HAEMOGLOBIN INCREASED",
+    "INTERNATIONAL NORMALISED RATIO DECREASED",
+    "JAUNDICE",
+    "PARVOVIRUS INFECTION",
+    "PLASMA CELL DISORDER",
+    "PROTHROMBIN TIME SHORTENED",
+    "TRANSFERRIN SATURATION INCREASED",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20141211",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GAIA ADRENAL HEALTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TURMERIC SPICE",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

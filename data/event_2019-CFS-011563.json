@@ -1,0 +1,35 @@
+{
+  "report_number": "2019-CFS-011563",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191121",
+  "reactions": [
+    "Asthenia",
+    "Discomfort",
+    "Dizziness",
+    "Feeling hot",
+    "Headache",
+    "Hyperhidrosis"
+  ],
+  "date_started": "20191120",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "L'OREAL HAIR DYE BLACK COLOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Move free of Schiff",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

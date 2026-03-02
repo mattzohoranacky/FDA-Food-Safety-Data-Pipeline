@@ -1,0 +1,28 @@
+{
+  "report_number": "169164",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130815",
+  "reactions": [
+    "AMMONIA INCREASED",
+    "HEPATOTOXICITY",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "MENTAL STATUS CHANGES"
+  ],
+  "date_started": "20130812",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STRESS-EZ",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

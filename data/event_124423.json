@@ -1,0 +1,33 @@
+{
+  "report_number": "124423",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20091223",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20091222",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NESTLE TOLLHOUSE COOKIE DOUGH",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SPAGHETTI",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    }
+  ]
+}

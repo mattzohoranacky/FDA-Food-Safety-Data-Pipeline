@@ -1,0 +1,43 @@
+{
+  "report_number": "2018-CFS-005514",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180404",
+  "reactions": [
+    "Dry mouth",
+    "Dysphagia",
+    "Eye irritation",
+    "Hypoaesthesia",
+    "Palpitations",
+    "Paraesthesia"
+  ],
+  "date_started": "20180404",
+  "consumer": {
+    "age": "69.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLD PEAK SWEET TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIBBY'S ALL NATURAL100% PINEAPPLE JUICE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SANTA CRUZ ORGANIC MANGO JUICE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

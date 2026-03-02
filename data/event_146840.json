@@ -1,0 +1,32 @@
+{
+  "report_number": "146840",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20111216",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD POTASSIUM DECREASED",
+    "CARDIAC DISORDER",
+    "LOSS OF CONSCIOUSNESS",
+    "TROPONIN INCREASED",
+    "VENTRICULAR FIBRILLATION"
+  ],
+  "date_started": "20111120",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYSTIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

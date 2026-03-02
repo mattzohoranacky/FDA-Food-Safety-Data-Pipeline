@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-015778",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241214",
+  "reactions": [
+    "Hypersensitivity",
+    "Pain",
+    "Pharyngitis streptococcal",
+    "Pyrexia"
+  ],
+  "date_started": "20241213",
+  "consumer": {
+    "age": "1",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

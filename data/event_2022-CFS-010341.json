@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-010341",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220628",
+  "reactions": [
+    "Chromaturia",
+    "Influenza like illness",
+    "Lethargy",
+    "Pain",
+    "Pruritus",
+    "Pyrexia"
+  ],
+  "date_started": "20220610",
+  "consumer": {
+    "age": "41.8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH LENTIL + LEEK CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

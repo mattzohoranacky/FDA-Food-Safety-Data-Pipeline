@@ -1,0 +1,36 @@
+{
+  "report_number": "188004",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150709",
+  "reactions": [
+    "CHEST X-RAY ABNORMAL",
+    "Dyspnoea",
+    "Hypoxia",
+    "Ovarian cancer",
+    "ULTRASOUND SCAN ABNORMAL"
+  ],
+  "date_started": "20111101",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

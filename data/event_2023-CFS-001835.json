@@ -1,0 +1,27 @@
+{
+  "report_number": "2023-CFS-001835",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230220",
+  "reactions": [
+    "Death",
+    "Hallucination"
+  ],
+  "date_started": "20230206",
+  "consumer": {
+    "age": "48.3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE HERBS RED VEIN MAENGA DA KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

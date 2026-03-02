@@ -1,0 +1,29 @@
+{
+  "report_number": "86248",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060504",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "IRRITABILITY",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20060428",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEAD GENTLEASE WITH LIPIL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

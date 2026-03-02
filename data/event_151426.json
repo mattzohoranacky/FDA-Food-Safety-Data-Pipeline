@@ -1,0 +1,48 @@
+{
+  "report_number": "151426",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120419",
+  "reactions": [
+    "CHOLECYSTITIS",
+    "CHOLELITHIASIS",
+    "EPIGASTRIC DISCOMFORT",
+    "HAEMANGIOMA",
+    "JAUNDICE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "NAUSEA"
+  ],
+  "date_started": "20070531",
+  "consumer": {
+    "age": "45",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE CELL ACTIVATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE FORMULA 1 NUTRITIONAL SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE HERBAL TEA CONCENTRATE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE JOINT SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

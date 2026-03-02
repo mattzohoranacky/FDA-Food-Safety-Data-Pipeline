@@ -1,0 +1,32 @@
+{
+  "report_number": "97446",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20071022",
+  "reactions": [
+    "DEEP VEIN THROMBOSIS",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "PROTHROMBIN TIME PROLONGED"
+  ],
+  "date_started": "20071002",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKLEE VITA-LEA DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

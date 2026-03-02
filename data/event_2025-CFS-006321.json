@@ -1,0 +1,39 @@
+{
+  "report_number": "2025-CFS-006321",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250425",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Anxiety",
+    "Hypersensitivity",
+    "Injection site nerve damage",
+    "Lip pruritus",
+    "Mouth swelling",
+    "Oral pruritus",
+    "Pain",
+    "Pain in extremity",
+    "Swelling",
+    "Throat irritation",
+    "Tremor",
+    "Vision blurred"
+  ],
+  "date_started": "20250417",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROTEIN ONE CHOCOLATE FUDGE PROTEIN BARS",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

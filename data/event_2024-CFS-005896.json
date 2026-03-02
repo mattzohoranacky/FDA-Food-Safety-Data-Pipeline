@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-005896",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240611",
+  "reactions": [
+    "Loss of consciousness",
+    "Mental disorder",
+    "Myoclonus",
+    "Overdose",
+    "Tachycardia"
+  ],
+  "date_started": "20240520",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND SHRUUMZ FRUITY CEREAL CHOCOLATE BAR",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "2017-CFS-001303",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20171021",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20171020",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BHA",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BHT",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TBHQ",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

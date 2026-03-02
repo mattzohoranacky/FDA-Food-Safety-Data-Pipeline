@@ -1,0 +1,35 @@
+{
+  "report_number": "164777",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130422",
+  "reactions": [
+    "ANXIETY",
+    "DEPRESSED MOOD",
+    "FEELING ABNORMAL",
+    "HEADACHE",
+    "SOMNOLENCE",
+    "SUICIDAL IDEATION"
+  ],
+  "date_started": "20130401",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING VALLEY MELATONIN 3 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12 SUPPLEMENT 5000 MCG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "140466",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101013",
+  "reactions": [
+    "HEPATIC ENZYME INCREASED",
+    "LIVER INJURY"
+  ],
+  "date_started": "20080616",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLACK POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CREATINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHEY PROTEIN SHAKE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

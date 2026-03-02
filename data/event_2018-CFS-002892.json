@@ -1,0 +1,41 @@
+{
+  "report_number": "2018-CFS-002892",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180222",
+  "reactions": [
+    "Atrial fibrillation",
+    "Blood pressure decreased",
+    "Cold sweat",
+    "Diarrhoea",
+    "Dizziness",
+    "Headache",
+    "Heart rate increased",
+    "Nausea",
+    "Palpitations",
+    "Vomiting"
+  ],
+  "date_started": "20180119",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFORMIX WOMEN'S 8HR TIME-RELEASE MULTI PERFORMANCE MULTIVITAMIN WITH FISH OIL + BEAUTY COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Unspecified vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "report_number": "198457",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160714",
+  "reactions": [
+    "ALLERGY TO CHEMICALS",
+    "ANXIETY",
+    "CHEST DISCOMFORT",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "URTICARIA"
+  ],
+  "date_started": "20140201",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE DYE",
+      "industry_code": "50",
+      "industry_name": "Color Additiv Food/Drug/Cosmetic"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED DYE",
+      "industry_code": "50",
+      "industry_name": "Color Additiv Food/Drug/Cosmetic"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

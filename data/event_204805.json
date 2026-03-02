@@ -1,0 +1,40 @@
+{
+  "report_number": "204805",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20161126",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ANXIETY",
+    "DEPENDENCE",
+    "DEPRESSION",
+    "DIARRHOEA",
+    "DRUG WITHDRAWAL SYNDROME",
+    "HOT FLUSH",
+    "HYPERHIDROSIS",
+    "INSOMNIA",
+    "NAUSEA",
+    "RESTLESS LEGS SYNDROME"
+  ],
+  "date_started": "20161124",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MELATONIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "207401",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170210",
+  "reactions": [
+    "ANXIETY",
+    "HAIR DISORDER",
+    "RASH"
+  ],
+  "date_started": "20170131",
+  "consumer": {
+    "age": "30.22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN HAIR PRODUCTS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COVERGIRL MAKE UP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JOHNSON & JOHNSON BABY LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "205178",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161213",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BIOPSY BREAST ABNORMAL",
+    "BIOPSY LYMPH GLAND ABNORMAL",
+    "BREAST CANCER",
+    "METRORRHAGIA",
+    "OVARIAN NEOPLASM",
+    "PELVIC MASS",
+    "SEROUS CYSTADENOCARCINOMA OVARY",
+    "ULTRASOUND BREAST ABNORMAL",
+    "ULTRASOUND PELVIS ABNORMAL",
+    "UTERINE LEIOMYOMA"
+  ],
+  "date_started": "20160301",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

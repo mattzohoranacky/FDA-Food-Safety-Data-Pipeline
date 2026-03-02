@@ -1,0 +1,31 @@
+{
+  "report_number": "73369",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20040819",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "MYALGIA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20040818",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STEAMED HARD CLAMS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STEAMED MUSSELS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

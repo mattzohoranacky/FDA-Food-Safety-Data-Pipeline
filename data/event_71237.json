@@ -1,0 +1,33 @@
+{
+  "report_number": "71237",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040730",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "EMERGENCY CARE EXAMINATION",
+    "HEADACHE",
+    "NAUSEA",
+    "VENTRICULAR EXTRASYSTOLES",
+    "VOMITING"
+  ],
+  "date_started": "20040706",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RELACORE DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

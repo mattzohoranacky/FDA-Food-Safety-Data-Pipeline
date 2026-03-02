@@ -1,0 +1,36 @@
+{
+  "report_number": "186086",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150515",
+  "reactions": [
+    "ALLERGY TEST POSITIVE",
+    "ALLERGY TO CHEMICALS",
+    "DERMATITIS",
+    "EYE OEDEMA",
+    "LACRIMATION INCREASED",
+    "PRURITUS",
+    "RASH ERYTHEMATOUS"
+  ],
+  "date_started": "20150303",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISOTHIAZOLIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

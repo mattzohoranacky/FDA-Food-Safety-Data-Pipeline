@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-008612",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180624",
+  "reactions": [
+    "Abdominal discomfort"
+  ],
+  "date_started": "20180523",
+  "consumer": {
+    "age": "30.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE NUTRITION EXPRESS MEAL BAR FORMULA 1",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE PRODUCTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

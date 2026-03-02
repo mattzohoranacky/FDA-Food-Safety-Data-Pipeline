@@ -1,0 +1,52 @@
+{
+  "report_number": "2022-CFS-010761",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220711",
+  "reactions": [
+    "Abdominal pain",
+    "Chills",
+    "Decreased appetite",
+    "Fatigue",
+    "Gastrointestinal disorder",
+    "Jaundice",
+    "Joint swelling",
+    "Lethargy",
+    "Nausea",
+    "Pyrexia"
+  ],
+  "date_started": "20220603",
+  "consumer": {
+    "age": "55.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST CRUMBLES FRENCH LENTIL AND LEEK",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "centrum women's +50",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "citracal",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "fish oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

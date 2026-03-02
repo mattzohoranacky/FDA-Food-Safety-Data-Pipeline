@@ -1,0 +1,29 @@
+{
+  "report_number": "194007",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160226",
+  "reactions": [
+    "DIVERTICULITIS",
+    "HAEMORRHAGE",
+    "RECTAL HAEMORRHAGE"
+  ],
+  "date_started": "20160129",
+  "consumer": {
+    "age": "90",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

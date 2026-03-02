@@ -1,0 +1,37 @@
+{
+  "report_number": "195390",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160411",
+  "reactions": [
+    "ALOPECIA",
+    "BLISTER",
+    "CHEMICAL BURN OF SKIN",
+    "ERYTHEMA",
+    "PAIN OF SKIN",
+    "RASH",
+    "TRICHORRHEXIS"
+  ],
+  "date_started": "20150725",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VERO K-PAK COLOR VEROXIDE 30 VOLUME",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VERO K-PAK CREME LIGHTENER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-011778",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20220728",
+  "reactions": [
+    "Cough",
+    "Hypersensitivity",
+    "Pruritus",
+    "Urticaria",
+    "Wheezing"
+  ],
+  "date_started": "20220726",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE FOODS MARKET MINESTRONE SOUP",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    }
+  ]
+}

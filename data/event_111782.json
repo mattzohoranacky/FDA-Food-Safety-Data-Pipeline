@@ -1,0 +1,35 @@
+{
+  "report_number": "111782",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090212",
+  "reactions": [
+    "Eczema",
+    "Erythema",
+    "Hypersensitivity",
+    "Rash",
+    "Urticaria"
+  ],
+  "date_started": "20090104",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBERS SINGLE GRAIN CEREALS (OATMEAL AND RICE)",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GERBERS SINGLE GRAIN CEREALS (OATMEAL AND RICE)",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "68524",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040422",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "EMERGENCY CARE EXAMINATION",
+    "FOOD POISONING",
+    "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "HOSPITALISATION",
+    "HYPERHIDROSIS",
+    "MALAISE",
+    "NAUSEA",
+    "NERVOUSNESS",
+    "VOMITING"
+  ],
+  "date_started": "20040317",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLORIDA'S NATURAL PREMIUM SQUEEZED FROM FRESH FL AND CA ORANGES 100% PURE ORANGE JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "113128",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090508",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CERULOPLASMIN INCREASED",
+    "DECREASED APPETITE",
+    "FATIGUE",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATITIS ACUTE",
+    "INTERNATIONAL NORMALISED RATIO INCREASED"
+  ],
+  "date_started": "20090501",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

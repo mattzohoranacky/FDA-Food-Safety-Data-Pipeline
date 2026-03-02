@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-011085",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20201028",
+  "reactions": [
+    "Drug interaction",
+    "Liver transplant rejection",
+    "Urticaria"
+  ],
+  "date_started": "20141105",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METAMUCIL CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "URSODIOL URSODEOXYCHOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

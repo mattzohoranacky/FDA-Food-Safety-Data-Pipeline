@@ -1,0 +1,29 @@
+{
+  "report_number": "2020-CFS-008117",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200820",
+  "reactions": [
+    "Abdominal pain",
+    "Dehydration",
+    "Diarrhoea",
+    "Migraine"
+  ],
+  "date_started": "20200808",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED ONION",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "report_number": "2024-CFS-000905",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240119",
+  "reactions": [
+    "Abdominal pain",
+    "Dehydration",
+    "Diarrhoea",
+    "Dry skin",
+    "Fatigue",
+    "Flushing",
+    "Gastrointestinal pain",
+    "Vomiting projectile"
+  ],
+  "date_started": "20231207",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S WAY CALCIUM AND MAGNESIUM MINERAL COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Levothyroxine daily",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

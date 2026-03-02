@@ -1,0 +1,40 @@
+{
+  "report_number": "135897",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110218",
+  "reactions": [
+    "ANTISOCIAL BEHAVIOUR",
+    "ASTHENIA",
+    "DECREASED APPETITE",
+    "HALLUCINATION",
+    "HYPOTRICHOSIS",
+    "INSOMNIA",
+    "MEMORY IMPAIRMENT",
+    "MIGRAINE",
+    "NERVOUSNESS",
+    "PALPITATIONS"
+  ],
+  "date_started": "20050106",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC NATURAL BRAND KELP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

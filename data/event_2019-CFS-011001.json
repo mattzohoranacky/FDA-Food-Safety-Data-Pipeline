@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-011001",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20191103",
+  "reactions": [
+    "Emotional distress",
+    "Psychotic disorder",
+    "Sensory loss"
+  ],
+  "date_started": "20100507",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JARROW FORMULA METHYL B-12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Jarrow Formulas Methyl B-12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

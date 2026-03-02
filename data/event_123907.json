@@ -1,0 +1,46 @@
+{
+  "report_number": "123907",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100301",
+  "reactions": [
+    "ABASIA",
+    "ACTIVITIES OF DAILY LIVING IMPAIRED",
+    "ANAL FISSURE",
+    "CHEST PAIN",
+    "DIARRHOEA",
+    "HAEMATOCHEZIA",
+    "HAEMORRHAGE",
+    "HAEMORRHOIDS",
+    "MUSCULAR WEAKNESS",
+    "OVARIAN CYST RUPTURED"
+  ],
+  "date_started": "20100124",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "14-DAY ACAI BERRY CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B-COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

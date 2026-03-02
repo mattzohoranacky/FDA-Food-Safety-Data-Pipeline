@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-005530",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180404",
+  "reactions": [
+    "Feeling abnormal",
+    "Muscle spasms",
+    "Musculoskeletal pain"
+  ],
+  "date_started": "20180214",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALTRATE MINIS 600 + D3 PLUS MINERAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER WOMEN'S 50+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "173538",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140114",
+  "reactions": [
+    "CONFUSIONAL STATE",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "OXYGEN SATURATION DECREASED"
+  ],
+  "date_started": "20131231",
+  "consumer": {
+    "age": "87.98",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REISHI EXTRACT MUSHROOM COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

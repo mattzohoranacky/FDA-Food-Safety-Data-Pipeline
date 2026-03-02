@@ -1,0 +1,32 @@
+{
+  "report_number": "144439",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110921",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BACK PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS VIBRIO",
+    "HEADACHE",
+    "MYALGIA",
+    "NAUSEA"
+  ],
+  "date_started": "20110820",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

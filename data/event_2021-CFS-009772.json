@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-009772",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20210919",
+  "reactions": [
+    "Hypersensitivity",
+    "Pharyngeal oedema",
+    "Urticaria"
+  ],
+  "date_started": "20210916",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "APC ALL PURPOSE 5% CYSTEAMINE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "APH HYDROQUINONE CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

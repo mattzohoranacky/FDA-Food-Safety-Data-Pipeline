@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-002806",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220225",
+  "reactions": [
+    "Abdominal pain upper",
+    "Discomfort",
+    "Feeding disorder neonatal",
+    "Vomiting"
+  ],
+  "date_started": "20211130",
+  "consumer": {
+    "age": "6",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC ADVANCE FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC ALIMENTUM",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

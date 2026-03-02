@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-010775",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20220711",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chest pain",
+    "Chromaturia",
+    "Faeces discoloured",
+    "Hepatic enzyme increased",
+    "Liver injury",
+    "Malaise",
+    "Rash pruritic",
+    "Yellow skin"
+  ],
+  "date_started": "20220512",
+  "consumer": {
+    "age": "58.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST LENTIL CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

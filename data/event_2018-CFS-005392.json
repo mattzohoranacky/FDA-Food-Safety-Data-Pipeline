@@ -1,0 +1,29 @@
+{
+  "report_number": "2018-CFS-005392",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180329",
+  "reactions": [
+    "Dizziness",
+    "Dysgeusia",
+    "Headache",
+    "Hyperhidrosis",
+    "Nausea"
+  ],
+  "date_started": "20180314",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S NATURAL SPRING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

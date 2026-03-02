@@ -1,0 +1,37 @@
+{
+  "report_number": "188051",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150709",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BURNING SENSATION",
+    "DIARRHOEA",
+    "GLOSSODYNIA",
+    "HEADACHE",
+    "NAUSEA",
+    "OROPHARYNGEAL PAIN",
+    "STOMATITIS"
+  ],
+  "date_started": "20150707",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FROSTED MINI WHEATS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARELICK WHOLE MILK FORTIFIED WITH VITAMIN D",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

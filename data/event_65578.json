@@ -1,0 +1,29 @@
+{
+  "report_number": "65578",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20030320",
+  "reactions": [
+    "BLISTER",
+    "BURNS SECOND DEGREE",
+    "ERYTHEMA",
+    "PHYSICAL EXAMINATION",
+    "SKIN BLEEDING",
+    "SKIN BURNING SENSATION"
+  ],
+  "date_started": "20030101",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SALLY HANSEN BRUSH-ON BIKINI HAIR REMOVER CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

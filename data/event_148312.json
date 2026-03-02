@@ -1,0 +1,51 @@
+{
+  "report_number": "148312",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120126",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "CHOLELITHIASIS",
+    "GENERAL PHYSICAL HEALTH DETERIORATION",
+    "HEPATIC FUNCTION ABNORMAL",
+    "HEPATOCELLULAR INJURY",
+    "HYPERSENSITIVITY",
+    "PANCREATIC DISORDER",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20111128",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHYSIOLOGICS 7 KETO DHEA 25 MG EACH SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHYSIOLOGICS DIM BIOAVAILABLE DIINDOLYLMETHANE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHYSIOLOGICS MENOLOGICS FORMULA COATED TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHYSIOLOGICS PREGNENOLONE 50 MG CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "110561",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090218",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CONVULSION",
+    "DIARRHOEA",
+    "TYPHOID FEVER",
+    "VOMITING"
+  ],
+  "date_started": "20090207",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NABISCO NUTTER BUTTER COOKIES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

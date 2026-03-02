@@ -1,0 +1,32 @@
+{
+  "report_number": "130583",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20100928",
+  "reactions": [
+    "DIARRHOEA",
+    "LETHARGY",
+    "VOMITING"
+  ],
+  "date_started": "20100917",
+  "consumer": {
+    "age": "8",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCED",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SENSITIVE REGULAR",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

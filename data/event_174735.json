@@ -1,0 +1,37 @@
+{
+  "report_number": "174735",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140320",
+  "reactions": [
+    "BIOPSY LIVER",
+    "HEPATIC CIRRHOSIS",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATITIS",
+    "LIVER DISORDER",
+    "MALAISE",
+    "PAIN"
+  ],
+  "date_started": "20140301",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATROL INC BIOTIN FOR HAIR & NAILS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATROL BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

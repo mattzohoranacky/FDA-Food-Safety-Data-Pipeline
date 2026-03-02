@@ -1,0 +1,35 @@
+{
+  "report_number": "139476",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110505",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN UPPER",
+    "EPISTAXIS",
+    "FLATULENCE",
+    "HEADACHE",
+    "PHARYNGITIS",
+    "PYREXIA",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20110224",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOGUARD DAILY IMMUNE SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

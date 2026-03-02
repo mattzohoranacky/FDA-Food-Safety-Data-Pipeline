@@ -1,0 +1,57 @@
+{
+  "report_number": "181376",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20141212",
+  "reactions": [
+    "ANGER",
+    "ANXIETY",
+    "BLOOD TESTOSTERONE DECREASED",
+    "COMPLETED SUICIDE",
+    "Death",
+    "HALLUCINATION",
+    "INSOMNIA",
+    "PROSTATOMEGALY",
+    "SCROTAL SWELLING",
+    "SUICIDAL IDEATION"
+  ],
+  "date_started": "20140625",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIBULUS TERRESTRIS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "D ASPARTIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ELECTROLYTE RECOVERY DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OPTIMEN MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN SHAKES",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

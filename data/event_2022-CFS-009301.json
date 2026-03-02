@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-009301",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220605",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Fatigue",
+    "Myalgia",
+    "Nausea"
+  ],
+  "date_started": "20220603",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Lemon Ginger herbal tea with probiotics",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

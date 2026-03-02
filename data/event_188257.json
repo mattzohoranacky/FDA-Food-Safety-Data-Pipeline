@@ -1,0 +1,27 @@
+{
+  "report_number": "188257",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150727",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED",
+    "DYSURIA",
+    "PYREXIA"
+  ],
+  "date_started": "20150718",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-013944",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20250827",
+  "reactions": [
+    "Blood pressure increased",
+    "Bronchitis",
+    "Cough",
+    "Dyspnoea",
+    "Laryngeal dyskinesia"
+  ],
+  "date_started": "20250629",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMNIO BLEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

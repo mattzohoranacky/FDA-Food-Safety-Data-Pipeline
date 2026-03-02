@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-010767",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20211024",
+  "reactions": [
+    "Burning sensation",
+    "Colitis",
+    "Nausea"
+  ],
+  "date_started": "20211024",
+  "consumer": {
+    "age": "26.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEST NATURALS NAC (N-ACETYL CYSTEINE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

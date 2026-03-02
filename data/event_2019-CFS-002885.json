@@ -1,0 +1,44 @@
+{
+  "report_number": "2019-CFS-002885",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20190320",
+  "reactions": [
+    "Abdominal distension",
+    "Diarrhoea",
+    "Flatulence"
+  ],
+  "date_started": "20190307",
+  "consumer": {
+    "age": "15",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHEERIOS PUMPKIN SPICE",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER OATS",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

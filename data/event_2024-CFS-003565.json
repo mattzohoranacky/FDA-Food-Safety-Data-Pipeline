@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-003565",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240406",
+  "reactions": [
+    "Atrial fibrillation",
+    "Dizziness",
+    "Palpitations",
+    "Troponin increased"
+  ],
+  "date_started": "20240307",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRAFOL WOMENS BALANCE HAIR GROWTH NUTRACEUTICAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

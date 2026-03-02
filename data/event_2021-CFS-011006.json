@@ -1,0 +1,36 @@
+{
+  "report_number": "2021-CFS-011006",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20211102",
+  "reactions": [
+    "Rash erythematous"
+  ],
+  "date_started": "20211031",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TARTE MANEATER LIP PLUMPING GLOSS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

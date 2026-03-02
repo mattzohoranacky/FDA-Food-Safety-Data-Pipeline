@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-005602",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220418",
+  "reactions": [
+    "Acute psychosis",
+    "Delusion",
+    "Hallucination",
+    "Panic attack",
+    "Tachycardia"
+  ],
+  "date_started": "20220414",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ELITE HEMP PRODUCTS FULL SPECTRUM GUMMIES X1000 STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HC8 HIGHLY CONCENTRATED 5000 FULL SPECTRUM HEMP EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

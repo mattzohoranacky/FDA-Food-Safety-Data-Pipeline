@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-009658",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220614",
+  "reactions": [
+    "Food poisoning",
+    "Vomiting"
+  ],
+  "date_started": "20220612",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LINDT AND SPRUNGLI CHOCOLATE",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LITEHOUSE CHOCOLATE FLAVORED DIP",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

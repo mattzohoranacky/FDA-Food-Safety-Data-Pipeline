@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-014800",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241124",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea",
+    "Fatigue",
+    "Nausea",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20241018",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAL ORGANIC BABY CARROTS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEGMANS ORGANIC BABY CARROTS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

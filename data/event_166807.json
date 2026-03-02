@@ -1,0 +1,44 @@
+{
+  "report_number": "166807",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130619",
+  "reactions": [
+    "ARTERIOSCLEROSIS CORONARY ARTERY",
+    "ATAXIA",
+    "CARDIAC ENZYMES INCREASED",
+    "DIZZINESS",
+    "GASTRIC DISORDER",
+    "JAW DISORDER",
+    "LUNG DISORDER"
+  ],
+  "date_started": "20130305",
+  "consumer": {
+    "age": "84",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ACETYL L-CARNITINE 1000 MG RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE GINKGO BILOBA 120 MG RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ATKINS COMPOUNDS WHICH ARE MADE OF 30-40 SUPPLEMENTS.",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

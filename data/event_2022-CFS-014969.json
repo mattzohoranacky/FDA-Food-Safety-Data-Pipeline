@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-014969",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20221011",
+  "reactions": [
+    "Pain",
+    "White blood cell count increased"
+  ],
+  "date_started": "20221003",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTHIKING",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Folic acid",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "report_number": "2023-CFS-071293",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20231218",
+  "reactions": [
+    "Anxiety",
+    "Chest pain",
+    "Confusional state",
+    "Dehydration",
+    "Depersonalisation/derealisation disorder",
+    "Derealisation",
+    "Dizziness",
+    "Dyspnoea",
+    "Headache",
+    "Heart rate increased",
+    "Hypoaesthesia",
+    "Panic attack",
+    "Paranoia",
+    "Psychotic disorder",
+    "Tremor",
+    "Vision blurred"
+  ],
+  "date_started": "20230815",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLOUD 8 GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DELTA 8 GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "report_number": "136029",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110218",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "Death",
+    "GASTROINTESTINAL DISORDER",
+    "INFECTION",
+    "JAUNDICE",
+    "MULTI-ORGAN FAILURE",
+    "RENAL FAILURE ACUTE",
+    "RESPIRATORY DISORDER",
+    "SEPTIC SHOCK",
+    "UROGENITAL DISORDER"
+  ],
+  "date_started": "20100518",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVERGREEN ARTEMISIA YINCHENHAO DECOCTION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVERGREEN BUPLEURUM POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVERGREEN RESTRAIN LIVER POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

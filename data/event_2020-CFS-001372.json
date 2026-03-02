@@ -1,0 +1,39 @@
+{
+  "report_number": "2020-CFS-001372",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200204",
+  "reactions": [
+    "Alopecia",
+    "Dry skin",
+    "Pruritus",
+    "Scab"
+  ],
+  "date_started": "20190101",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL CURLING GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL FOAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL SPRITZ",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

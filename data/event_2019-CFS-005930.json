@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-005930",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190611",
+  "reactions": [
+    "Chest discomfort",
+    "Cough",
+    "Dyspnoea",
+    "Respiratory tract congestion"
+  ],
+  "date_started": "20190607",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JACLYN HILL COSMETICS SO RICH LIPSTICK AMAZEBALLS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JACLYN HILL COSMETICS SO RICH LIPSTICK SOFIA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JACLYN HILL COSMETICS SO RICH LIPSTICK THAT GIRL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

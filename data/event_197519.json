@@ -1,0 +1,59 @@
+{
+  "report_number": "197519",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160614",
+  "reactions": [
+    "BLADDER DISORDER",
+    "BLOOD PRESSURE INCREASED",
+    "CEREBRAL HAEMORRHAGE",
+    "CEREBROVASCULAR ACCIDENT",
+    "CONVULSION",
+    "HEADACHE",
+    "RENAL DISORDER",
+    "TRAUMATIC INTRACRANIAL HAEMORRHAGE",
+    "URETERIC OBSTRUCTION",
+    "URINARY TRACT OBSTRUCTION"
+  ],
+  "date_started": "20160330",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE GRAPESEED EXTRACT 100 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE ABC PLUS SENIOR MULTI COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE CALCIUM 600 MG PLUS VITAMIN D3 COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE L-ARGININE 1000 MG RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE OMEGA 3 FISH OIL 1000 MG RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

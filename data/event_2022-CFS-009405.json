@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-009405",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220607",
+  "reactions": [
+    "Back pain",
+    "Blood potassium abnormal",
+    "Blood sodium decreased",
+    "Chest pain",
+    "Electrocardiogram abnormal",
+    "Fatigue",
+    "Heart rate increased",
+    "Pollakiuria"
+  ],
+  "date_started": "20220501",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

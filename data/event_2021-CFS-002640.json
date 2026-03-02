@@ -1,0 +1,31 @@
+{
+  "report_number": "2021-CFS-002640",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210321",
+  "reactions": [
+    "Blood bilirubin increased",
+    "Decreased appetite",
+    "Fatigue",
+    "Hepatic enzyme increased",
+    "Muscle spasms",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20201027",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REAL WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

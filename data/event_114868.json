@@ -1,0 +1,36 @@
+{
+  "report_number": "114868",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090608",
+  "reactions": [
+    "Adverse event",
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "DIARRHOEA",
+    "HYPERHIDROSIS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20090607",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ODWALLA SUPERFOOD MICRONUTRIENT FRUIT JUICE DRINK",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LASAGNA",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

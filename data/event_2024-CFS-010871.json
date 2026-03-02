@@ -1,0 +1,25 @@
+{
+  "report_number": "2024-CFS-010871",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240822",
+  "reactions": [
+    "Metal poisoning"
+  ],
+  "date_started": "20240429",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MORTON IODIZED TABLE SALT",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

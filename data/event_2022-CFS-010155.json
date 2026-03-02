@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-010155",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220624",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Flatulence",
+    "Malaise",
+    "Vomiting projectile"
+  ],
+  "date_started": "20220614",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

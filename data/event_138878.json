@@ -1,0 +1,32 @@
+{
+  "report_number": "138878",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110503",
+  "reactions": [
+    "DRY MOUTH",
+    "ERYTHEMA MULTIFORME",
+    "LIP DRY",
+    "NERVE ROOT LESION",
+    "SKIN EXFOLIATION"
+  ],
+  "date_started": "20110401",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AGELOC VITALITY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

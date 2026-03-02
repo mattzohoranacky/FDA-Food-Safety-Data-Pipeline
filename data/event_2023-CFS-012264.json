@@ -1,0 +1,39 @@
+{
+  "report_number": "2023-CFS-012264",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20231107",
+  "reactions": [
+    "Asthenia",
+    "Decreased appetite",
+    "Feeding disorder",
+    "Hepatic failure",
+    "International normalised ratio increased",
+    "Oedema",
+    "Somnolence",
+    "Vomiting"
+  ],
+  "date_started": "20230201",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METAKIDS BABY PROBIOTIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin K injection",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

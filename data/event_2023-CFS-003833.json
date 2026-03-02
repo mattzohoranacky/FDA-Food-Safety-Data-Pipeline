@@ -1,0 +1,38 @@
+{
+  "report_number": "2023-CFS-003833",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20230410",
+  "reactions": [
+    "Lip swelling",
+    "Rash erythematous",
+    "Swelling face"
+  ],
+  "date_started": "20230405",
+  "consumer": {
+    "age": "77.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUROPAWAY AM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUROPAWAY GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUROPAWAY PM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "report_number": "193192",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160201",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "CHANGE OF BOWEL HABIT",
+    "DISCOMFORT",
+    "DYSPEPSIA",
+    "FLATULENCE",
+    "GASTROINTESTINAL DISORDER",
+    "HYPERSENSITIVITY",
+    "MALABSORPTION",
+    "MUSCULAR WEAKNESS",
+    "NAUSEA",
+    "PAIN",
+    "PRURITUS"
+  ],
+  "date_started": "20151015",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER GLUTEN-FREE INSTANT OATMEAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE'S BOUNTY SUBLINGUAL LIQUID B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NORDIC NATURALS ALGAE OMEGA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NORDIC NATURALS LIQUID VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RAINBOW LIGHT BUSY BRAIN RELEASE MENTAL CALM B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RAINBOW LIGHT CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RAINBOW LIGHT COMPLETE IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RAINBOW LIGHT SUPER C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-008039",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20180611",
+  "reactions": [
+    "Food poisoning"
+  ],
+  "date_started": "20180611",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GRAETER'S SMORES ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOMEMADE CHOCOLATE CHIP ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

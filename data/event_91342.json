@@ -1,0 +1,31 @@
+{
+  "report_number": "91342",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070213",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "PALLOR",
+    "PARAESTHESIA",
+    "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20070210",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOBS RED MILL OLD FASHIONED STONE GROUND BUCKWHEAT PANCAKE AND WAFFLE MIX",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

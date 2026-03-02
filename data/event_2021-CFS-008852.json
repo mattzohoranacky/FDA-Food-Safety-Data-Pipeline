@@ -1,0 +1,35 @@
+{
+  "report_number": "2021-CFS-008852",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210825",
+  "reactions": [
+    "Alopecia",
+    "Dermatitis",
+    "Hair texture abnormal",
+    "Skin burning sensation",
+    "Tenderness",
+    "Trichorrhexis"
+  ],
+  "date_started": "20210825",
+  "consumer": {
+    "age": "40.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEXXUS HUMECTRESS ULTIMATE MOISTURE CONDITIONER PROTEINFUSION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "women's one-a-day multi vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "report_number": "2018-CFS-002943",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180214",
+  "reactions": [
+    "Adverse event",
+    "Blood testosterone decreased",
+    "Cognitive disorder",
+    "Cyst",
+    "Depression",
+    "Emotional distress",
+    "Hepatic pain",
+    "Learning disorder",
+    "Neuralgia",
+    "Skin lesion",
+    "Stress",
+    "Thyroid disorder",
+    "Weight increased"
+  ],
+  "date_started": "20160801",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRAIN-ECM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DHZC-2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIDE HEAD REGULATOR TT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SURTHRIVAL COLOSTRUM - IMMUNITY QUEST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Genuine Health omega+3 joy",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Life Extension Mix – multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Surthrival-brand Colostrum",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "high-EPA fish oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

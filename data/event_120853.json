@@ -1,0 +1,40 @@
+{
+  "report_number": "120853",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20091202",
+  "reactions": [
+    "CATARACT",
+    "CORNEAL ABRASION",
+    "LENS DISORDER",
+    "VISION BLURRED",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20091008",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL PETITES (CALCIUM CARBONATE WITH COLECACIFEROL)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-004931",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230512",
+  "reactions": [
+    "Emotional distress",
+    "Vomiting"
+  ],
+  "date_started": "20230430",
+  "consumer": {
+    "age": "8",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOBBIE ORGANIC INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTIC DROPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

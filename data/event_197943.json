@@ -1,0 +1,33 @@
+{
+  "report_number": "197943",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160609",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ANAPHYLACTIC REACTION",
+    "Adverse event",
+    "DYSPNOEA",
+    "LETHARGY",
+    "SKIN DISCOLOURATION",
+    "VOMITING",
+    "WHEEZING"
+  ],
+  "date_started": "20160525",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PILLSBURY TOASTER STRUDEL PASTRIES, BLUEBERRY",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

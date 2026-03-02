@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-000087",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180102",
+  "reactions": [
+    "Abdominal pain",
+    "Asthma",
+    "Blood pressure increased",
+    "Chest pain",
+    "Chronic obstructive pulmonary disease",
+    "Dyspnoea",
+    "Fatigue",
+    "Malaise"
+  ],
+  "date_started": "20171202",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURALIST PROBIOTIC ACIDOPHILUS W/CITRUS PECTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

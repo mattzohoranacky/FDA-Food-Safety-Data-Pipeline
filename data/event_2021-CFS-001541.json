@@ -1,0 +1,29 @@
+{
+  "report_number": "2021-CFS-001541",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210215",
+  "reactions": [
+    "Decreased appetite",
+    "Drug-induced liver injury",
+    "Dyspepsia",
+    "Fatigue",
+    "Hepatitis cholestatic",
+    "Malaise"
+  ],
+  "date_started": "20210206",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BROOKLYN KAVA TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

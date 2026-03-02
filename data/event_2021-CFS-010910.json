@@ -1,0 +1,38 @@
+{
+  "report_number": "2021-CFS-010910",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20211029",
+  "reactions": [
+    "Asthenia",
+    "Blood pressure decreased",
+    "Gait disturbance"
+  ],
+  "date_started": "20211009",
+  "consumer": {
+    "age": "83",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ORGANIC HERBAL SLEEP COMPLEX TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "blueberry eye bright",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "herbal laxative",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

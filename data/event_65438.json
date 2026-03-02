@@ -1,0 +1,68 @@
+{
+  "report_number": "65438",
+  "outcomes": [
+    "Life Threatening",
+    "Disability"
+  ],
+  "date_created": "20040106",
+  "reactions": [
+    "ARRHYTHMIA",
+    "BALANCE DISORDER",
+    "BLOOD PRESSURE INCREASED",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "EAR",
+    "NOSE AND THROAT EXAMINATION",
+    "EXTRASYSTOLES",
+    "HOSPITALISATION",
+    "HYPERSENSITIVITY",
+    "ORTHOSTATIC HYPOTENSION",
+    "PALPITATIONS",
+    "PARAESTHESIA",
+    "PHYSICAL EXAMINATION",
+    "TINNITUS",
+    "VENTRICULAR EXTRASYSTOLES"
+  ],
+  "date_started": "20031101",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET CAFFEINE FREE COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JAMS",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRASWEET",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PUDDINGS",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    }
+  ]
+}

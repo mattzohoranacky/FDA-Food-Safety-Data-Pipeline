@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-008352",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220524",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chills",
+    "Dehydration",
+    "Diarrhoea",
+    "Gastroenteritis salmonella",
+    "Headache",
+    "Nausea",
+    "Pyrexia"
+  ],
+  "date_started": "20220517",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin d",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

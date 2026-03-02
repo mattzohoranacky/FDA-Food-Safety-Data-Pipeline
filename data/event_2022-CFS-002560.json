@@ -1,0 +1,44 @@
+{
+  "report_number": "2022-CFS-002560",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220222",
+  "reactions": [
+    "Acute respiratory failure",
+    "Apnoea",
+    "Crying",
+    "Decreased appetite",
+    "Diarrhoea",
+    "Irritability",
+    "Meningitis salmonella",
+    "Pyrexia",
+    "Respiratory arrest",
+    "Septic shock",
+    "Tachycardia"
+  ],
+  "date_started": "20211021",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT ELECARE INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Alimentum",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

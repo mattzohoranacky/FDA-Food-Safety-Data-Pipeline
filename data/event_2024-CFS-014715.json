@@ -1,0 +1,42 @@
+{
+  "report_number": "2024-CFS-014715",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241122",
+  "reactions": [
+    "Chest pain",
+    "Heart rate increased",
+    "Hypersensitivity",
+    "Nausea",
+    "Throat irritation",
+    "Vomiting"
+  ],
+  "date_started": "20241120",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED PEPPER PESTO",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BROCCOLI",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PARMESAN CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

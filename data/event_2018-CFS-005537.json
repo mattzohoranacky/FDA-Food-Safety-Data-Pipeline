@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-005537",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180405",
+  "reactions": [
+    "Erythema",
+    "Hypersensitivity",
+    "Pruritus",
+    "Rash",
+    "Rash macular",
+    "Urticaria"
+  ],
+  "date_started": "20180210",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR C4 RIPPED - CHERRY LIMEADE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

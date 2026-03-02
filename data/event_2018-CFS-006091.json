@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-006091",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180418",
+  "reactions": [
+    "Dizziness",
+    "Dyspnoea",
+    "Headache",
+    "Hypersensitivity",
+    "Hypoaesthesia",
+    "Malaise",
+    "Wheezing"
+  ],
+  "date_started": "20171002",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANY PERFUME OR COLOGNE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

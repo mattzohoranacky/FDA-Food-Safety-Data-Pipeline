@@ -1,0 +1,39 @@
+{
+  "report_number": "198430",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160707",
+  "reactions": [
+    "ATRIAL FIBRILLATION",
+    "BLOOD PRESSURE INCREASED",
+    "HEART RATE INCREASED",
+    "THYROID FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20160521",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE 7-KETO DHEA 25MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE POLICOSANOL 20MG RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE SEAKELP 150MCG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

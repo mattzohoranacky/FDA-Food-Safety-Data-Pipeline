@@ -1,0 +1,36 @@
+{
+  "report_number": "152297",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20120511",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "HEPATITIS",
+    "JAUNDICE",
+    "NAUSEA",
+    "PRURITUS"
+  ],
+  "date_started": "20120224",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIMQUICK  RAZOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIMQUICK FAT BURNER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

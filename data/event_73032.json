@@ -1,0 +1,30 @@
+{
+  "report_number": "73032",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20041018",
+  "reactions": [
+    "BLOOD CREATININE INCREASED",
+    "EOSINOPHILIA",
+    "NEPHRITIS",
+    "PYURIA"
+  ],
+  "date_started": "20040323",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIINDOLYMETHANE DIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

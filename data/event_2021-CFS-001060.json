@@ -1,0 +1,35 @@
+{
+  "report_number": "2021-CFS-001060",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20210131",
+  "reactions": [
+    "Abdominal distension",
+    "Chills",
+    "Feeling abnormal",
+    "Headache",
+    "Pruritus",
+    "Somnolence"
+  ],
+  "date_started": "20210128",
+  "consumer": {
+    "age": "44.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOES RIPPLE POTATO CHIPS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

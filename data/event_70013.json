@@ -1,0 +1,35 @@
+{
+  "report_number": "70013",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20031120",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLOOD CREATINE INCREASED",
+    "DEATH",
+    "DYSPNOEA",
+    "HOSPITALISATION",
+    "METABOLIC ACIDOSIS",
+    "NAUSEA",
+    "RENAL IMPAIRMENT",
+    "TRANSAMINASES INCREASED"
+  ],
+  "date_started": "20030715",
+  "consumer": {
+    "age": "64.22",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BUSH'S BAKED BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

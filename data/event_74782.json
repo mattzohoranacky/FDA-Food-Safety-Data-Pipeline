@@ -1,0 +1,35 @@
+{
+  "report_number": "74782",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20040610",
+  "reactions": [
+    "ASTHENIA",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "FEELING ABNORMAL",
+    "VISUAL DISTURBANCE",
+    "VOMITING"
+  ],
+  "date_started": "20040609",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GATORADE GLACIER FROST FREEZE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COSTCO CATTLE DRIVE CHILLI",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

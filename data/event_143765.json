@@ -1,0 +1,31 @@
+{
+  "report_number": "143765",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100308",
+  "reactions": [
+    "BLOOD PRESSURE FLUCTUATION",
+    "CHILLS",
+    "DIARRHOEA",
+    "NAUSEA"
+  ],
+  "date_started": "20100302",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALE 8 SOFT DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PEPSI",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

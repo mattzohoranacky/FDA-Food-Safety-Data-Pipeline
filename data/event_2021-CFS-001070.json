@@ -1,0 +1,41 @@
+{
+  "report_number": "2021-CFS-001070",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210201",
+  "reactions": [
+    "Breast pain",
+    "Headache",
+    "Menstruation irregular",
+    "Pruritus",
+    "Skin ulcer",
+    "Weight increased"
+  ],
+  "date_started": "20210117",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT CLARIFYING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT SMOOTHING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

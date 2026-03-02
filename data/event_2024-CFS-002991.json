@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-002991",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240318",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chills",
+    "Gastritis",
+    "Gastrointestinal disorder",
+    "Hiatus hernia",
+    "Pyrexia",
+    "Rheumatoid arthritis",
+    "Vomiting"
+  ],
+  "date_started": "20230624",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAPE COD KETTLE COOKED POTATO CHIPS LOW FAT",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

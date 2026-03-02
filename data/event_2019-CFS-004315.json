@@ -1,0 +1,46 @@
+{
+  "report_number": "2019-CFS-004315",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190429",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase increased",
+    "Blood albumin decreased",
+    "Cardiac arrest",
+    "Circulatory collapse",
+    "Drug screen positive",
+    "Dyspnoea",
+    "Electrocardiogram abnormal",
+    "Heart injury",
+    "Myocardial ischaemia",
+    "Respiratory distress",
+    "Troponin increased",
+    "Unresponsive to stimuli",
+    "Ventricular fibrillation"
+  ],
+  "date_started": "20180101",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "310 METABOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT HARDCORE NEXT GEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

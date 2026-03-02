@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-015486",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20221026",
+  "reactions": [
+    "Acne",
+    "Basal cell carcinoma"
+  ],
+  "date_started": "20200112",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOVE DRY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEXXUS DRY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRESSMME DRY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

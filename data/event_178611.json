@@ -1,0 +1,35 @@
+{
+  "report_number": "178611",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140813",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLOOD GLUCOSE ABNORMAL",
+    "BLOOD SODIUM DECREASED",
+    "DIVERTICULITIS",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20140629",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEST HEALTH NUTRITIONALS PROBIOTIC PERFORMANCE PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

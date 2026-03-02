@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-010392",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240806",
+  "reactions": [
+    "Coeliac disease",
+    "Diarrhoea",
+    "Fatigue",
+    "Gastrointestinal injury",
+    "Gastrointestinal pain",
+    "Vomiting"
+  ],
+  "date_started": "20240801",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RX BAR",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

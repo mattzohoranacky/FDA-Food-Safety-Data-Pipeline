@@ -1,0 +1,42 @@
+{
+  "report_number": "137075",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110314",
+  "reactions": [
+    "BLOOD CREATININE INCREASED",
+    "GALACTORRHOEA",
+    "GYNAECOMASTIA",
+    "HYPOTRICHOSIS",
+    "LIVER FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20100601",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "1-T XTREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGAPLEXX QUAD STACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TEST2 - PRO-TESTOSTERONE COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

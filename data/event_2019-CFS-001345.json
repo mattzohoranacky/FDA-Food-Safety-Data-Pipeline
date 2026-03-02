@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-001345",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20190211",
+  "reactions": [
+    "Fatigue",
+    "Osteoarthritis"
+  ],
+  "date_started": "20180805",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED SUPPLEMENTS CONTAINING MOLYBDENUM GLYCINATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Moly-B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

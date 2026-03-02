@@ -1,0 +1,36 @@
+{
+  "report_number": "196564",
+  "outcomes": [
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160427",
+  "reactions": [
+    "BIOPSY SITE UNSPECIFIED ABNORMAL",
+    "BLOOD PRESSURE INCREASED",
+    "HYPERSENSITIVITY",
+    "PAIN",
+    "RASH",
+    "SKIN CANCER",
+    "WOUND",
+    "WOUND SECRETION"
+  ],
+  "date_started": "20100105",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EUCERIN CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HUGGIES BABYWIPES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

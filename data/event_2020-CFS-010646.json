@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-010646",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201018",
+  "reactions": [
+    "Gastrointestinal tract irritation",
+    "Headache",
+    "Hypoaesthesia",
+    "Oedema mouth"
+  ],
+  "date_started": "20201015",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEZZETTA DELI SLICED HOT JALAPENO PEPPERS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Cal D K",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Iron",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

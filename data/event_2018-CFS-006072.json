@@ -1,0 +1,43 @@
+{
+  "report_number": "2018-CFS-006072",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180419",
+  "reactions": [
+    "Euphoric mood",
+    "Heart rate increased",
+    "Hyperventilation",
+    "Insomnia",
+    "Oropharyngeal pain",
+    "Palpitations",
+    "Panic reaction"
+  ],
+  "date_started": "20180324",
+  "consumer": {
+    "age": "59.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOLGERS MOUNTAIN GROWN COUNTRY ROAST MILD GROUND COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL COLON CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE SOURCE HAIR SKIN AND NAILS MULTIPLE VITAMINS WITH BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

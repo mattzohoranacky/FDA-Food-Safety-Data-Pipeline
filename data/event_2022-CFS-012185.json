@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-012185",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20220805",
+  "reactions": [
+    "Death",
+    "Toxicity to various agents",
+    "Unresponsive to stimuli"
+  ],
+  "date_started": "20220531",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN VEIN MAENG DA KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BENADRYL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-001360",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180129",
+  "reactions": [
+    "Hypokalaemia",
+    "Hyponatraemia"
+  ],
+  "date_started": "20180112",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE FOR LIFE NATURAL RICH BERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

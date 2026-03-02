@@ -1,0 +1,31 @@
+{
+  "report_number": "136282",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101116",
+  "reactions": [
+    "BLOOD PRESSURE FLUCTUATION",
+    "DIARRHOEA",
+    "HEADACHE",
+    "MENSTRUAL DISORDER",
+    "NAUSEA",
+    "Product contamination physical",
+    "VOMITING"
+  ],
+  "date_started": "20101108",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHELBYS GROVE FRUIT COCKTAIL IN HEAVY SYRUP",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

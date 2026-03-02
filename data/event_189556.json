@@ -1,0 +1,46 @@
+{
+  "report_number": "189556",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150911",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANTINUCLEAR ANTIBODY POSITIVE",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "CHOLESTASIS",
+    "DECREASED APPETITE",
+    "DIABETES MELLITUS",
+    "HEPATIC ENZYME INCREASED",
+    "HYPERTENSION",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "PALPITATIONS",
+    "PRURITUS",
+    "TRANSAMINASES INCREASED",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20140304",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SYNGEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TANK MASS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "183768",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150313",
+  "reactions": [
+    "DYSPNOEA",
+    "PERIORBITAL OEDEMA"
+  ],
+  "date_started": "20150101",
+  "consumer": {
+    "age": "18",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1 HEALTHY MEAL NUTRITIONAL SHAKE MIX",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

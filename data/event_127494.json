@@ -1,0 +1,40 @@
+{
+  "report_number": "127494",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100622",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "BRONCHIAL IRRITATION",
+    "CHILLS",
+    "DYSPNOEA",
+    "HEADACHE",
+    "LUNG DISORDER",
+    "PAIN",
+    "PNEUMONITIS",
+    "PRODUCTIVE COUGH"
+  ],
+  "date_started": "20100326",
+  "consumer": {
+    "age": "64.91",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY FLEXAMIN TRIPLE STRENGTH WITH UNIVESTIN PLUS VITAMIN D 200 IU AND MSM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

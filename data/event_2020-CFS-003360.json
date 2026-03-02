@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-003360",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200310",
+  "reactions": [
+    "Blood pressure increased",
+    "Dizziness",
+    "Dyspnoea",
+    "Hypersensitivity",
+    "Malaise",
+    "Skin tightness"
+  ],
+  "date_started": "20200204",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SODA KOLA CHAMPAGNE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

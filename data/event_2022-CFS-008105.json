@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-008105",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220523",
+  "reactions": [
+    "Hypertension"
+  ],
+  "date_started": "20210701",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOGI BEDTIME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOGI EGYPTIAN LICORICE MINT WARMING AND NATURALLY SPICY-SWEET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YOGI EGYPTIAN LICORICE WARMING AND NATURALLY SPICY-SWEET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

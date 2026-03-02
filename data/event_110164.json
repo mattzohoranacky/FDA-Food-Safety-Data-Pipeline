@@ -1,0 +1,59 @@
+{
+  "report_number": "110164",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090212",
+  "reactions": [
+    "AMNESIA",
+    "DIZZINESS",
+    "FEELING ABNORMAL",
+    "HYPOGLYCAEMIA",
+    "LOSS OF CONSCIOUSNESS",
+    "PAIN",
+    "TONGUE BITING",
+    "TONGUE HAEMORRHAGE"
+  ],
+  "date_started": "20090108",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE AND SHINE HERBAL NUTRITION 475MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE AND SHINE HERBAL PRODUCTS CHOMPER 470MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE AND SHINE HERBAL PRODUCTS FLORA GROW 350MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE AND SHINE HERBAL PRODUCTS HYDRATED BENTONITE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARISE AND SHINE HERBAL PRODUCTS PSYLLIUM HUSK POWDER 7000MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

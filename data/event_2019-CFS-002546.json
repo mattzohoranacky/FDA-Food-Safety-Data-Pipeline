@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-002546",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190308",
+  "reactions": [
+    "Vomiting"
+  ],
+  "date_started": "20190304",
+  "consumer": {
+    "age": "16",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER WHOLE MILK VITAMIN D",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRAIRIE FARMS REDUCED FAT 2%",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

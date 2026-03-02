@@ -1,0 +1,38 @@
+{
+  "report_number": "176363",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20140508",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "HYPERTENSION",
+    "STOMACH DISCOMFORT"
+  ],
+  "date_started": "20140129",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NANOWELL PRO ARTHMAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER ARTHGOLD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KYANI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

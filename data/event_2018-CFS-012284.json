@@ -1,0 +1,44 @@
+{
+  "report_number": "2018-CFS-012284",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20181009",
+  "reactions": [
+    "Alopecia",
+    "Arrhythmia",
+    "Cardiomegaly",
+    "Carotid artery disease",
+    "Liver disorder",
+    "Malaise",
+    "Nervousness",
+    "Skin discolouration",
+    "Syncope"
+  ],
+  "date_started": "20180511",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTICHOKE STANDARDIZED EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Centrum 50+ One a Day",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish Oil 720",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

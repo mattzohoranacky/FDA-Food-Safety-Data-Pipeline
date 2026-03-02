@@ -1,0 +1,49 @@
+{
+  "report_number": "2017-CFS-001401",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20171027",
+  "reactions": [
+    "Abasia",
+    "Aphasia",
+    "Chills",
+    "Depressed level of consciousness",
+    "Dyspnoea",
+    "Feeling abnormal",
+    "Heart rate increased",
+    "Night sweats",
+    "Pain",
+    "Palpitations",
+    "Paraesthesia",
+    "Syncope"
+  ],
+  "date_started": "20171022",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURELO WHOLE FOOD MULTIVITAMIN FOR WOMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Apple Cider Vinegar",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Naturemade Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

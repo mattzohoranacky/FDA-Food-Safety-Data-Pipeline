@@ -1,0 +1,30 @@
+{
+  "report_number": "123391",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100218",
+  "reactions": [
+    "ANAEMIA"
+  ],
+  "date_started": "20091222",
+  "consumer": {
+    "age": "238",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FER-IN-SOL 15MG 1ML",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FERROUS SULFATE DROPS 15MG 0.6 ML",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

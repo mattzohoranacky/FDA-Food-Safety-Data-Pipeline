@@ -1,0 +1,29 @@
+{
+  "report_number": "177235",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140528",
+  "reactions": [
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FLUSHING",
+    "OROPHARYNGEAL SWELLING"
+  ],
+  "date_started": "20140501",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COCA-COLA FUZE GREEN TEA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

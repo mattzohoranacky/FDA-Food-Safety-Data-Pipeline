@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-016032",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20221109",
+  "reactions": [
+    "Aneurysm",
+    "Chest pain",
+    "Disorientation",
+    "Flushing",
+    "Headache",
+    "Syncope"
+  ],
+  "date_started": "20221109",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIMO FULL THROTTLE SOUR BELTS STRAWBERRY PREMIUM DELTA 8 THC",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Dimo Delta 8 hemp",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-013270",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20211221",
+  "reactions": [
+    "Chest discomfort",
+    "Circumoral oedema",
+    "Dyspnoea",
+    "Heart rate increased",
+    "Hypersensitivity",
+    "Rash pruritic",
+    "Urticaria"
+  ],
+  "date_started": "20211208",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE SPARKLING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-010221",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180807",
+  "reactions": [
+    "Circulatory collapse",
+    "Dehydration",
+    "Diarrhoea",
+    "Syncope"
+  ],
+  "date_started": "20180601",
+  "consumer": {
+    "age": "86",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCHIFF GLUCOSAMINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

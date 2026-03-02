@@ -1,0 +1,38 @@
+{
+  "report_number": "2023-CFS-009040",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230822",
+  "reactions": [
+    "Ear infection",
+    "Lethargy",
+    "Vomiting"
+  ],
+  "date_started": "20230628",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CULLIGAN WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTH'S BEST ORGANIC OATMEAL CEREAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL GENTLEASE PIF",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

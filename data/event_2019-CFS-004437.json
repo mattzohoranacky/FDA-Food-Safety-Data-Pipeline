@@ -1,0 +1,35 @@
+{
+  "report_number": "2019-CFS-004437",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190502",
+  "reactions": [
+    "Heart injury",
+    "Heart rate increased",
+    "Nausea",
+    "Palpitations",
+    "Vomiting"
+  ],
+  "date_started": "20190411",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIGEST 4 LIFE SUPER DETOX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIGEST 4 LIFE TEA4LIFE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

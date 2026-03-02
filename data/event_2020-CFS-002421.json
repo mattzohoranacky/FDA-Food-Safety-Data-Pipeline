@@ -1,0 +1,40 @@
+{
+  "report_number": "2020-CFS-002421",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200220",
+  "reactions": [
+    "Arthralgia",
+    "Cardiac disorder",
+    "Cardiac flutter",
+    "Dizziness",
+    "Fatigue",
+    "Migraine",
+    "Muscle fatigue",
+    "Pain",
+    "Pigmentation disorder",
+    "Speech disorder"
+  ],
+  "date_started": "20190916",
+  "consumer": {
+    "age": "32.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLLAGEN PEPTIDES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Rainbow light women's all in one vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

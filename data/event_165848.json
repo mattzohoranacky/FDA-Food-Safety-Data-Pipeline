@@ -1,0 +1,36 @@
+{
+  "report_number": "165848",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130522",
+  "reactions": [
+    "BACK PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "FLUSHING",
+    "HEART RATE INCREASED",
+    "NAUSEA",
+    "SWELLING"
+  ],
+  "date_started": "20130430",
+  "consumer": {
+    "age": "35",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE SUPER-POTENCY VITAMINS D3 200 IU RAPID RELEASE LIQUID SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHEWABLE GARLIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

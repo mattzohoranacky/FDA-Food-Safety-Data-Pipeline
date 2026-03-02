@@ -1,0 +1,27 @@
+{
+  "report_number": "2020-CFS-003594",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200317",
+  "reactions": [
+    "Diarrhoea",
+    "Gastroenteritis viral",
+    "Vomiting"
+  ],
+  "date_started": "20200306",
+  "consumer": {
+    "age": "21.1",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WINCO FOODS FRUIT MEDLEY",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "127732",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100629",
+  "reactions": [
+    "MOUTH HAEMORRHAGE"
+  ],
+  "date_started": "20100619",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALCOHOL (ETHANOL)",
+      "industry_code": "32",
+      "industry_name": "Alcoholic Beverage"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM MULTIVITAMIN MULTIMINERAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

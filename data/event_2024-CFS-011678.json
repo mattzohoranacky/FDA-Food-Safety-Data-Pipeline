@@ -1,0 +1,37 @@
+{
+  "report_number": "2024-CFS-011678",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240922",
+  "reactions": [
+    "Cholelithiasis",
+    "Cholestatic liver injury",
+    "Chromaturia",
+    "Decreased appetite",
+    "Early satiety",
+    "Fatigue",
+    "Hepatic steatosis"
+  ],
+  "date_started": "20240703",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GI MICROB-X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WORMWOOD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

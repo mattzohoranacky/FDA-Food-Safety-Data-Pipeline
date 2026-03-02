@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-003049",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20240319",
+  "reactions": [
+    "Dehydration",
+    "Palpitations",
+    "Peripheral swelling"
+  ],
+  "date_started": "20240101",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROUNDHOUSE PROVISIONS MORNING KICK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

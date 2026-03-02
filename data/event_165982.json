@@ -1,0 +1,44 @@
+{
+  "report_number": "165982",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130524",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ANAEMIA",
+    "ASTHENIA",
+    "BLOOD PRESSURE DECREASED",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "NAUSEA",
+    "NERVOUSNESS",
+    "RENAL FAILURE"
+  ],
+  "date_started": "20130424",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NU-IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

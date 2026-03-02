@@ -1,0 +1,41 @@
+{
+  "report_number": "199146",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160527",
+  "reactions": [
+    "DIARRHOEA",
+    "DIARRHOEA HAEMORRHAGIC",
+    "FOOD ALLERGY",
+    "SALMONELLA TEST POSITIVE",
+    "SALMONELLOSIS"
+  ],
+  "date_started": "20160519",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER OATMEAL AND PEACH APPLE CEREAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER OATMEAL CEREAL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GERBER GENTLE FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

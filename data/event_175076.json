@@ -1,0 +1,42 @@
+{
+  "report_number": "175076",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140328",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "GALLBLADDER DISORDER",
+    "JAUNDICE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20140308",
+  "consumer": {
+    "age": "44.01",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXTRA STRENGHT 5-HOUR ENERGY GRAPE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXTRA STRENGTH 5-HOUR ENERGY SOUR APPLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

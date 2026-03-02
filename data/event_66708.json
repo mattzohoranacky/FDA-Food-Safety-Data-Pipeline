@@ -1,0 +1,44 @@
+{
+  "report_number": "66708",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040218",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "CONFUSIONAL STATE",
+    "DIZZINESS",
+    "ELECTROCARDIOGRAM ABNORMAL",
+    "EMERGENCY CARE EXAMINATION",
+    "IMPAIRED WORK ABILITY",
+    "PAIN IN EXTREMITY"
+  ],
+  "date_started": "20040122",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC ESTER-C 1000",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC NATURAL MEGA ACIDOPHILUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WOMEN'S ULTRA MEGA DIETARY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

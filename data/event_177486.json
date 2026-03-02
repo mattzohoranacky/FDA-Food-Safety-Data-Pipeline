@@ -1,0 +1,32 @@
+{
+  "report_number": "177486",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140626",
+  "reactions": [
+    "SWELLING",
+    "URTICARIA"
+  ],
+  "date_started": "20140602",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROCTER & GAMBLE AUSSIE FAMILY AUSSOMELY CLEAN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROCTER & GAMBLE IVORY CLEAN & SIMPLE LIQUID SOAP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

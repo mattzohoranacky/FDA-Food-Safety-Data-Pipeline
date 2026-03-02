@@ -1,0 +1,32 @@
+{
+  "report_number": "2025-CFS-012920",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20250809",
+  "reactions": [
+    "Dyskinesia",
+    "Headache",
+    "Hypersensitivity"
+  ],
+  "date_started": "20250809",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFECT CRAB WILD CAUGHT-HAND PICKED LUMP BLEND CRABMEAT",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PERFECT CRAB WILD CAUGHT-HANDPICKED LUMP BLEND FULLY COOKED-READY TO EAT 100% NATURAL CRABMEAT",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

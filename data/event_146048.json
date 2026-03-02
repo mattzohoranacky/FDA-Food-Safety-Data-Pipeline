@@ -1,0 +1,29 @@
+{
+  "report_number": "146048",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20101117",
+  "reactions": [
+    "BLOOD CREATININE INCREASED",
+    "CONVULSION",
+    "TROPONIN INCREASED",
+    "VENTRICULAR FIBRILLATION"
+  ],
+  "date_started": "20101103",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

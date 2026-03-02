@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-009950",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220621",
+  "reactions": [
+    "Abdominal pain upper",
+    "Blood bilirubin increased",
+    "Chills",
+    "Pyrexia"
+  ],
+  "date_started": "20220605",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST LENTIL AND LEEK CRUMBLE",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

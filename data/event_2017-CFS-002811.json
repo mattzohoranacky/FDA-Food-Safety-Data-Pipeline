@@ -1,0 +1,30 @@
+{
+  "report_number": "2017-CFS-002811",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20171220",
+  "reactions": [
+    "Hypoglycaemia"
+  ],
+  "date_started": "20171214",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "Le-Vel premium lifestyle capsule Thrive-W\nLe-Vel premium nutrition Thrive Premium Lefestyle Mix",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

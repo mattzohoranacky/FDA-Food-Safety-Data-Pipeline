@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-012970",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20201223",
+  "reactions": [
+    "Erythema",
+    "Local swelling",
+    "Skin exfoliation"
+  ],
+  "date_started": "20201218",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SKINCEUTICALS LOREALS TRIPEPTIDE-R NECK REPAIR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

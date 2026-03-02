@@ -1,0 +1,27 @@
+{
+  "report_number": "2022-CFS-005297",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220413",
+  "reactions": [
+    "Blood pressure decreased",
+    "Heart rate increased"
+  ],
+  "date_started": "20220408",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DELTA 8 GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

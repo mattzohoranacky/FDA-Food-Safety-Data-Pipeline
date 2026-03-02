@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-002751",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230315",
+  "reactions": [
+    "Diarrhoea",
+    "Malaise",
+    "Vomiting"
+  ],
+  "date_started": "20230312",
+  "consumer": {
+    "age": "11",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPROUTS BABY FOOD POUCH",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PEDIALYTE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

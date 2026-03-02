@@ -1,0 +1,37 @@
+{
+  "report_number": "2025-CFS-013826",
+  "outcomes": [
+    "Hospitalization",
+    "Injury",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250825",
+  "reactions": [
+    "Fatigue",
+    "Headache",
+    "Hypersensitivity",
+    "Pain",
+    "Rash",
+    "Vomiting"
+  ],
+  "date_started": "20250825",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POWERADE SPORTS DRINK ZERO SUGAR GRAPE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "POWERADE SPORTS DRINK ZERO SUGAR GRAPE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

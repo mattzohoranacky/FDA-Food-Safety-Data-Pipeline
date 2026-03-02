@@ -1,0 +1,42 @@
+{
+  "report_number": "2018-CFS-013442",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181113",
+  "reactions": [
+    "Blood thyroid stimulating hormone decreased",
+    "Generalised oedema",
+    "Oedema",
+    "Thyroid function test abnormal",
+    "Thyroxine increased",
+    "Tri-iodothyronine increased"
+  ],
+  "date_started": "20171115",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRI-MEDS BOVINE THYROID HEALTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Iodine",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

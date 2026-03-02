@@ -1,0 +1,30 @@
+{
+  "report_number": "203506",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160908",
+  "reactions": [
+    "ABASIA",
+    "INFECTION PARASITIC",
+    "NEUROMYOPATHY",
+    "PARALYSIS",
+    "POISONING"
+  ],
+  "date_started": "20160824",
+  "consumer": {
+    "age": "89",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT HEALTH WORKS OMEGA 3  OMEGA XL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-013768",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181120",
+  "reactions": [
+    "Abdominal pain",
+    "Coeliac disease",
+    "Colitis",
+    "Deafness",
+    "Diarrhoea",
+    "Dizziness",
+    "Feeling hot",
+    "Haematochezia",
+    "Hypersensitivity",
+    "Nausea",
+    "Presyncope",
+    "Tunnel vision"
+  ],
+  "date_started": "20181106",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

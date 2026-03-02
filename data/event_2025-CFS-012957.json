@@ -1,0 +1,33 @@
+{
+  "report_number": "2025-CFS-012957",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Injury"
+  ],
+  "date_created": "20250810",
+  "reactions": [
+    "Injury",
+    "Pain",
+    "Skin laceration"
+  ],
+  "date_started": "20250810",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE PETITE DICED TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "80% LEAN/20 PERCENT FAT GROUND BEEF",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

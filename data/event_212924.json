@@ -1,0 +1,37 @@
+{
+  "report_number": "212924",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170605",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DYSPNOEA",
+    "INSOMNIA",
+    "MALAISE",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20170602",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED ROBIN GARLIC FRIES",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S BBQ CHICKEN SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "114207",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090615",
+  "reactions": [
+    "HEART RATE INCREASED",
+    "HEART RATE IRREGULAR"
+  ],
+  "date_started": "20090516",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JULIAN WHITAKER, M.D. FORWARD PLUS DAILY REGIMEN - FORWARD MULTI-NUTRIENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JULIAN WHITAKER, M.D. FORWARD PLUS DAILY REGIMEN - O-3 ESSENTIALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JULIAN WHITAKER, M.D. FORWARD PLUS DAILY REGIMEN - PHYTONUTRIENT ESSENTIALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

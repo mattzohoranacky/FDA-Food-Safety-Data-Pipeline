@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-001776",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200209",
+  "reactions": [
+    "Alopecia",
+    "Seborrhoeic dermatitis"
+  ],
+  "date_started": "20190605",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL LOW POO DELIGHT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL WAVEMAKER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

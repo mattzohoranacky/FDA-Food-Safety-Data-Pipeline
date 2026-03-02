@@ -1,0 +1,40 @@
+{
+  "report_number": "2020-CFS-005004",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200507",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Insomnia",
+    "Pollakiuria"
+  ],
+  "date_started": "20200419",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY HAIR, SKIN & NAILS WITH BIOTIN 2500 MCG STRAWBERRY FLAVORED GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One A Day Women's Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Unspecified Soap",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

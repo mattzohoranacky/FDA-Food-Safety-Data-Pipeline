@@ -1,0 +1,32 @@
+{
+  "report_number": "69135",
+  "outcomes": [
+    "Death",
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20040521",
+  "reactions": [
+    "Blood alkaline phosphatase increased",
+    "Blood bilirubin increased",
+    "Death",
+    "Encephalopathy",
+    "Gamma-glutamyltransferase increased",
+    "Hepatitis cholestatic"
+  ],
+  "date_started": "19970101",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

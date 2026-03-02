@@ -1,0 +1,43 @@
+{
+  "report_number": "2020-CFS-007657",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200801",
+  "reactions": [
+    "Burning sensation",
+    "Erythema"
+  ],
+  "date_started": "20200729",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXPOSED SKINCARE ACNE TREATMENT SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXPOSED SKINCARE CLEAR PORE SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXPOSED SKINCARE CLEARING TONIC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXPOSED SKINCARE FACIAL CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

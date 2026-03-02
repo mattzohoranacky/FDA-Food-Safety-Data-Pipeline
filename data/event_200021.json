@@ -1,0 +1,32 @@
+{
+  "report_number": "200021",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160809",
+  "reactions": [
+    "HEPATIC ENZYME ABNORMAL",
+    "PSORIASIS",
+    "RASH"
+  ],
+  "date_started": "20160719",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLEANSE FOR LIFE POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

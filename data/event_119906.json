@@ -1,0 +1,37 @@
+{
+  "report_number": "119906",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090209",
+  "reactions": [
+    "Chills",
+    "Feeling of body temperature change",
+    "Flushing",
+    "Food poisoning",
+    "Headache",
+    "Heart rate irregular",
+    "Hypersensitivity",
+    "Skin discolouration"
+  ],
+  "date_started": "20090206",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANDALAS FROZEN YELLOW FIN TUNA CHUNKS, PACKED 2 X 10#, 1.1# BAGS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ANDALAS FROZEN YELLOW FIN TUNA CHUNKS, PACKED 2 X 10#, 1.1# BAGS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

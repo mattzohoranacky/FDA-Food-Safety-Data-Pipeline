@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-011403",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220722",
+  "reactions": [
+    "Abdominal pain upper",
+    "Blood urine present",
+    "Diarrhoea"
+  ],
+  "date_started": "20220720",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S GOODNESS 100% POMEGRANATE JUICE",
+      "industry_code": "22",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

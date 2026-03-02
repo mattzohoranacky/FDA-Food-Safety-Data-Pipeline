@@ -1,0 +1,31 @@
+{
+  "report_number": "164342",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130403",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "DYSPNOEA",
+    "PHARYNGITIS",
+    "RESPIRATORY DISORDER",
+    "URTICARIA"
+  ],
+  "date_started": "20130327",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE BANANA",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

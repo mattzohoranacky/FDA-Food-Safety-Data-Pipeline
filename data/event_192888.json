@@ -1,0 +1,37 @@
+{
+  "report_number": "192888",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160119",
+  "reactions": [
+    "CHEST PAIN",
+    "CONFUSIONAL STATE",
+    "COORDINATION ABNORMAL",
+    "FATIGUE",
+    "HYPOAESTHESIA",
+    "NAUSEA",
+    "PALPITATIONS",
+    "PRURITUS GENERALISED"
+  ],
+  "date_started": "20151209",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THRIVE PREMIUM LIFESTYLE CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "THRIVE PREMIUM NUTRITION SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

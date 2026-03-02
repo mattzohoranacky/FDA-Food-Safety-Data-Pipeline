@@ -1,0 +1,36 @@
+{
+  "report_number": "2024-CFS-014796",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Injury"
+  ],
+  "date_created": "20241124",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Headache",
+    "Hospitalisation",
+    "Injury",
+    "Malaise",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20241120",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH GOURMET TORTILLA STRIPS SANTA FE STYLE",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

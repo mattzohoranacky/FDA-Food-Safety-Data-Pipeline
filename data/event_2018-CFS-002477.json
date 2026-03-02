@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-002477",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180212",
+  "reactions": [
+    "Hormone level abnormal",
+    "Menorrhagia",
+    "Menstrual disorder",
+    "Muscle spasms",
+    "Pain",
+    "Premenstrual syndrome"
+  ],
+  "date_started": "20170904",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GOODIE POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

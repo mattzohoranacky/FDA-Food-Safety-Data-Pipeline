@@ -1,0 +1,39 @@
+{
+  "report_number": "85256",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060427",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD LACTATE DEHYDROGENASE INCREASED",
+    "C-REACTIVE PROTEIN INCREASED",
+    "HEPATIC ENZYME INCREASED",
+    "LYMPHOCYTE COUNT INCREASED",
+    "NAUSEA",
+    "NEUTROPHIL COUNT INCREASED",
+    "PYREXIA",
+    "SERUM FERRITIN INCREASED",
+    "SPLEEN SCAN ABNORMAL"
+  ],
+  "date_started": "20060401",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IOVATE HEALTH SMARTBURN WITH HOODIA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

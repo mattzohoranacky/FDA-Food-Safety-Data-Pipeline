@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-001973",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240211",
+  "reactions": [
+    "Diarrhoea",
+    "Nausea"
+  ],
+  "date_started": "20240207",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIC SPINACH & SPRING MIX",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TAYLOR FARMS SWEET KALE CHOPPED SALAD KIT",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

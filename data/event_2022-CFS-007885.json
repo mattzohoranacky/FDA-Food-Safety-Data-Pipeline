@@ -1,0 +1,27 @@
+{
+  "report_number": "2022-CFS-007885",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220523",
+  "reactions": [
+    "Abdominal pain",
+    "Vomiting"
+  ],
+  "date_started": "20210501",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF TO GO CRUNCHY",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "131459",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20101022",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CHROMATURIA",
+    "DEHYDRATION",
+    "DYSURIA",
+    "HYPERHIDROSIS",
+    "MUSCLE ENZYME INCREASED",
+    "MYALGIA",
+    "RENAL FAILURE"
+  ],
+  "date_started": "20100921",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIPLE STRENGTH L-CARNITINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNIVERSAL NUTRITION ANIMAL CUTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

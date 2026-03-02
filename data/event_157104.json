@@ -1,0 +1,28 @@
+{
+  "report_number": "157104",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120626",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "LOCALISED OEDEMA",
+    "WHEEZING"
+  ],
+  "date_started": "20120621",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MILLVILLE COCOA SPHERES CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

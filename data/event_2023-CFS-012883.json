@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-012883",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20231121",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Burning sensation",
+    "Hypersensitivity",
+    "Obstructive airways disorder",
+    "Respiratory tract oedema",
+    "Urticaria"
+  ],
+  "date_started": "20231119",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE BEEF TAQUITOS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

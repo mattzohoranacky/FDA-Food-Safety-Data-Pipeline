@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-009546",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200929",
+  "reactions": [
+    "Kidney infection",
+    "Oedema",
+    "Urinary incontinence",
+    "Weight increased"
+  ],
+  "date_started": "20200829",
+  "consumer": {
+    "age": "45.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

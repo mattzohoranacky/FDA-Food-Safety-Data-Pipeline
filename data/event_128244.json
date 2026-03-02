@@ -1,0 +1,30 @@
+{
+  "report_number": "128244",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100715",
+  "reactions": [
+    "CONSTIPATION"
+  ],
+  "date_started": "20100603",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS FIBER ONE",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEPSI DIET POP",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

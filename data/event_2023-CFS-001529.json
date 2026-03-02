@@ -1,0 +1,39 @@
+{
+  "report_number": "2023-CFS-001529",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230210",
+  "reactions": [
+    "Fatigue",
+    "Headache",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20230128",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST SMOOTHIE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Iron complex",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "zinc +copper",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

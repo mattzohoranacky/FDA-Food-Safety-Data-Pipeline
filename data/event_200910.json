@@ -1,0 +1,39 @@
+{
+  "report_number": "200910",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160830",
+  "reactions": [
+    "ALOPECIA",
+    "BURNING SENSATION",
+    "PAIN",
+    "PRURITUS"
+  ],
+  "date_started": "20140708",
+  "consumer": {
+    "age": "56.81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN SWEET ALMOND CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE A DAY WOMAN'S VITAMS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

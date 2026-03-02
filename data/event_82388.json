@@ -1,0 +1,30 @@
+{
+  "report_number": "82388",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20051118",
+  "reactions": [
+    "COUGH",
+    "DROOLING",
+    "MALAISE",
+    "ORAL SOFT TISSUE DISORDER",
+    "RETCHING",
+    "SALIVARY GLAND DISORDER"
+  ],
+  "date_started": "20051115",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BATMAN FRUIT DRINK CHEEKY CHERRY BELLY WASHER DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

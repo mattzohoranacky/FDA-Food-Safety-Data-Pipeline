@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-013516",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20231205",
+  "reactions": [
+    "Diarrhoea",
+    "Food poisoning",
+    "Headache",
+    "Vomiting"
+  ],
+  "date_started": "20231204",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOOD CULTURE WHOLE MILK CLASSIC COTTAGE CHEESE",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

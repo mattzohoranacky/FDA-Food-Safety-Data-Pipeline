@@ -1,0 +1,28 @@
+{
+  "report_number": "79230",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040312",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "Listeriosis",
+    "VOMITING"
+  ],
+  "date_started": "20040305",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAMBI-CHEESE WHITE SOFT CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

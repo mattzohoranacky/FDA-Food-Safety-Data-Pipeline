@@ -1,0 +1,41 @@
+{
+  "report_number": "190806",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151021",
+  "reactions": [
+    "ALOPECIA"
+  ],
+  "date_started": "20151006",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN SWEET ALMOND MINT CLEANSING",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MEGAFOOD MULTI VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SHAKLEE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHOLE FOODS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

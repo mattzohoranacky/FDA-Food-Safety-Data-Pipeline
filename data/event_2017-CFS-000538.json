@@ -1,0 +1,61 @@
+{
+  "report_number": "2017-CFS-000538",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20171003",
+  "reactions": [
+    "Dermatitis contact",
+    "Dyshidrotic eczema",
+    "Erythema",
+    "Hypersensitivity",
+    "Inflammation",
+    "Pruritus",
+    "Rash",
+    "Skin disorder"
+  ],
+  "date_started": "20170509",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "A MIDSUMMER NIGHT'S CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLISS SPA LEMON + SAGE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IRIS HAND SOAP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Gold Bond Extra Strength Medicated Body Lotion",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Now Foods Adam",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "99769",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20080118",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABSCESS INTESTINAL",
+    "CONSTIPATION",
+    "DIARRHOEA",
+    "DIVERTICULITIS"
+  ],
+  "date_started": "20071220",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY FISH OIL 1000MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

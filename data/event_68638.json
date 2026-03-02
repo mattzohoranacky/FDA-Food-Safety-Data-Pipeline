@@ -1,0 +1,29 @@
+{
+  "report_number": "68638",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040225",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "EMERGENCY CARE EXAMINATION",
+    "HOSPITALISATION",
+    "VOMITING"
+  ],
+  "date_started": "20040223",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WINCHESTER CHEESE COMPANY GARDEN HERB GOUDA",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

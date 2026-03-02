@@ -1,0 +1,38 @@
+{
+  "report_number": "2018-CFS-006012",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180417",
+  "reactions": [
+    "Chest pain",
+    "Confusional state",
+    "Dyspnoea",
+    "Fatigue",
+    "Feeling abnormal",
+    "Loss of consciousness",
+    "Palpitations",
+    "Panic attack",
+    "Tremor"
+  ],
+  "date_started": "20180326",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S MULTIVITAMIN WITH COLLAGEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN BOOST DRINK",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

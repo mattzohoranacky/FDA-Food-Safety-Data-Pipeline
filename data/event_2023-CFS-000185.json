@@ -1,0 +1,28 @@
+{
+  "report_number": "2023-CFS-000185",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230110",
+  "reactions": [
+    "Abdominal pain upper",
+    "Constipation",
+    "Rash",
+    "Skin reaction"
+  ],
+  "date_started": "20221101",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE KIDS COMPLETE IMMUNITY FAST-MELT POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

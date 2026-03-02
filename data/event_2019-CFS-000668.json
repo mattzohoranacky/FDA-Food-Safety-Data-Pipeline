@@ -1,0 +1,34 @@
+{
+  "report_number": "2019-CFS-000668",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190123",
+  "reactions": [
+    "Chest pain",
+    "Dyspnoea",
+    "Eye swelling",
+    "Lip swelling",
+    "Pruritus",
+    "Rash erythematous",
+    "Skin swelling",
+    "Swollen tongue",
+    "Urticaria"
+  ],
+  "date_started": "20190121",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE ESSENTIALS DIGESTION PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

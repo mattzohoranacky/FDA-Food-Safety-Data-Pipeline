@@ -1,0 +1,31 @@
+{
+  "report_number": "205306",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20161215",
+  "reactions": [
+    "DYSPNOEA",
+    "EXTRASYSTOLES"
+  ],
+  "date_started": "20161128",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INTELLERAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SENIOR VIT SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

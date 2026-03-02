@@ -1,0 +1,70 @@
+{
+  "report_number": "188534",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150806",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL DISTENSION",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "BLOOD POTASSIUM INCREASED",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "DRUG-INDUCED LIVER INJURY",
+    "DYSURIA",
+    "GENERALISED OEDEMA",
+    "HEPATITIS B",
+    "HEPATITIS B DNA ASSAY POSITIVE",
+    "HEPATITIS B SURFACE ANTIGEN",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "JAUNDICE",
+    "ULTRASOUND LIVER ABNORMAL"
+  ],
+  "date_started": "20131203",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC RAVAGE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC WHOLE BODY VITAMIN PACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "IOVATE HEALTH HYDROXY CUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLE TECH IOVATE HEALTH SCIENCES CREATINE ELITE SERIES X3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "USP LABS OXY-ELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

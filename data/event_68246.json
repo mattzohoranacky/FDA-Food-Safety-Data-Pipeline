@@ -1,0 +1,33 @@
+{
+  "report_number": "68246",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040413",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "EMERGENCY CARE EXAMINATION",
+    "FEELING ABNORMAL",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HYPERSOMNIA",
+    "IRRITABILITY",
+    "PHYSICAL EXAMINATION",
+    "VOMITING"
+  ],
+  "date_started": "20040408",
+  "consumer": {
+    "age": "1",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ALIMENTUM PROTEIN HYDROLYSATE FORMULA WITH IRON POWDER",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

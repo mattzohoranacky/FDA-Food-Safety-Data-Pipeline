@@ -1,0 +1,30 @@
+{
+  "report_number": "2017-CFS-000598",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171003",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20170915",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ELECARE JUNIOR UNFLAVORED",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Neocate unflavored",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

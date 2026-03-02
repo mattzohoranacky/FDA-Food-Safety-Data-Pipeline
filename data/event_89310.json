@@ -1,0 +1,40 @@
+{
+  "report_number": "89310",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060925",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FAECAL OCCULT BLOOD POSITIVE",
+    "GASTROINTESTINAL DISORDER",
+    "HAEMATOCHEZIA",
+    "HAEMOPTYSIS",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20060826",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH EXPRESS HYDROJET WASHED READY-TO-EAT SPINACH",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMELET",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    }
+  ]
+}

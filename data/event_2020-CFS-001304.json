@@ -1,0 +1,39 @@
+{
+  "report_number": "2020-CFS-001304",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200203",
+  "reactions": [
+    "Pruritus",
+    "Scab",
+    "Skin tightness",
+    "Skin ulcer"
+  ],
+  "date_started": "20190203",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION DELIGHT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL WAVE MAKER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

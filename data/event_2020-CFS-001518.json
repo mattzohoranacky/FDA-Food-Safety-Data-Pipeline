@@ -1,0 +1,50 @@
+{
+  "report_number": "2020-CFS-001518",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200205",
+  "reactions": [
+    "Acne",
+    "Alopecia",
+    "Skin irritation"
+  ],
+  "date_started": "20190301",
+  "consumer": {
+    "age": "20.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL WAVY HAIR TRANSFORMATION KIT - BLEAVE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL WAVY HAIR TRANSFORMATION KIT - CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL WAVY HAIR TRANSFORMATION KIT - FOAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL WAVY HAIR TRANSFORMATION KIT - GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL WAVY HAIR TRANSFORMATION KIT - SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

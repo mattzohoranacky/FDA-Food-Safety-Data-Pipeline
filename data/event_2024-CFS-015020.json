@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-015020",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Injury",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241127",
+  "reactions": [
+    "Hypersensitivity",
+    "Irritability",
+    "Nervousness",
+    "Rash",
+    "Restlessness"
+  ],
+  "date_started": "20241112",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAL PROTEINS UNFLAVORED COLLAGEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

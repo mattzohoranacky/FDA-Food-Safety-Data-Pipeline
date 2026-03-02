@@ -1,0 +1,37 @@
+{
+  "report_number": "193312",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160201",
+  "reactions": [
+    "EYE PRURITUS",
+    "EYE SWELLING",
+    "ORAL ALLERGY SYNDROME",
+    "PRURITUS",
+    "SWELLING",
+    "SWELLING FACE",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20160108",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RENEWAL GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOY MILK",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    }
+  ]
+}

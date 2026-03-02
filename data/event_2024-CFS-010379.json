@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-010379",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230222",
+  "reactions": [
+    "Abdominal pain",
+    "Fatigue",
+    "Vomiting"
+  ],
+  "date_started": "20230214",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KELLOGG'S EGGO EGGOJI HOMESTYLE WAFFLES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

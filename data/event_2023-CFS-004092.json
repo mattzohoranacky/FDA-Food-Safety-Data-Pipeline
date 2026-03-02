@@ -1,0 +1,34 @@
+{
+  "report_number": "2023-CFS-004092",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20230417",
+  "reactions": [
+    "Headache",
+    "Insomnia",
+    "Oropharyngeal pain",
+    "Pyrexia",
+    "Rhinorrhoea"
+  ],
+  "date_started": "20220414",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIPLE DOUBLE JUICE ALLEY OOP",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIPLE DOUBLE JUICE JORDAN",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

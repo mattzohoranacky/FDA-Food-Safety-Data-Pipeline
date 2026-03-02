@@ -1,0 +1,38 @@
+{
+  "report_number": "181759",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20150106",
+  "reactions": [
+    "BLOOD CORTISOL DECREASED",
+    "BLOOD CREATININE INCREASED",
+    "ENCEPHALOPATHY",
+    "GRAND MAL CONVULSION",
+    "HYPONATRAEMIA",
+    "MENTAL DISORDER",
+    "RHABDOMYOLYSIS"
+  ],
+  "date_started": "20141221",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNIVERSAL NUTRITION ANIMAL CUTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

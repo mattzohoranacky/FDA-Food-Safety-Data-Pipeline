@@ -1,0 +1,58 @@
+{
+  "report_number": "152619",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120522",
+  "reactions": [
+    "CHOKING SENSATION",
+    "CONTUSION",
+    "COUGH",
+    "DYSPNOEA",
+    "FEAR",
+    "FOREIGN BODY TRAUMA",
+    "HAEMOPTYSIS",
+    "OROPHARYNGEAL PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20120417",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN PERFORMANCE AND VITALITY DOUBLE STRENGTH FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN PERFORMANCE AND VITALITY L-ARGININE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN PERFORMANCE AND VITALITY MEGA MEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN PERFORMANCE AND VITALITY PROSTATE FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN PERFORMANCE AND VITALITY STAMINOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-011789",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220729",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chromaturia",
+    "Gallbladder operation",
+    "Malaise",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20220416",
+  "consumer": {
+    "age": "40.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVIVE SUPERFOODS PINEAPPLE MANGO SMOOTHIE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

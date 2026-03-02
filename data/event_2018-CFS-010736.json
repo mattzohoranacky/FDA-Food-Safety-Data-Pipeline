@@ -1,0 +1,42 @@
+{
+  "report_number": "2018-CFS-010736",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180826",
+  "reactions": [
+    "Alopecia",
+    "Asthenopia",
+    "Confusional state",
+    "Dizziness",
+    "Dry eye",
+    "Erythema",
+    "Eye pain",
+    "Intraocular pressure increased",
+    "Memory impairment",
+    "Milia",
+    "Rash",
+    "Thermal burn",
+    "Vertigo"
+  ],
+  "date_started": "20180201",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RODAN AND FIELDS LASH BOOST",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RODAN AND FIELDS REVERSE BRIGHTENING REGIMEN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

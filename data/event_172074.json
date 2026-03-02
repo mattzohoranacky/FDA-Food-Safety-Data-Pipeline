@@ -1,0 +1,31 @@
+{
+  "report_number": "172074",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131108",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "BACK PAIN",
+    "DECREASED APPETITE",
+    "HEPATIC ENZYME INCREASED",
+    "PANCREATITIS",
+    "VOMITING"
+  ],
+  "date_started": "20131007",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACCERA, INC. AXONA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

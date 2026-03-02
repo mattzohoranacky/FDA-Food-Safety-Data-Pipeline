@@ -1,0 +1,35 @@
+{
+  "report_number": "2023-CFS-005632",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230531",
+  "reactions": [
+    "Allodynia",
+    "Burning sensation",
+    "Chapped lips",
+    "Erythema",
+    "Eye swelling",
+    "Pruritus"
+  ],
+  "date_started": "20230505",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TIME REVOLUTION THE FIRST ESSENCE ENRICHED",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Claritin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

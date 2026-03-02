@@ -1,0 +1,57 @@
+{
+  "report_number": "2017-CFS-000301",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170926",
+  "reactions": [
+    "Atrial fibrillation",
+    "Insomnia",
+    "Palpitations",
+    "Prehypertension"
+  ],
+  "date_started": "20170831",
+  "consumer": {
+    "age": "92",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RESTFUL SLEEP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Serenia",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Trilane Confident Control",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Trilane Harmony",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Trilane Hyaluronic Acid Serum",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Trilane Squalane Anti-Aging Moisturizer",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

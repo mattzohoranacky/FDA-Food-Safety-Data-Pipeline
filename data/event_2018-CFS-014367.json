@@ -1,0 +1,40 @@
+{
+  "report_number": "2018-CFS-014367",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181210",
+  "reactions": [
+    "Burning sensation",
+    "Erythema",
+    "Hypersensitivity",
+    "Rash pruritic",
+    "Swelling"
+  ],
+  "date_started": "20181114",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

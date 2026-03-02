@@ -1,0 +1,39 @@
+{
+  "report_number": "2020-CFS-001184",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200201",
+  "reactions": [
+    "Burning sensation",
+    "Dizziness",
+    "Dyspnoea",
+    "Headache",
+    "Lethargy"
+  ],
+  "date_started": "20200127",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALISTOGA SPRINGS WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MINUTE MAID LEMONADE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

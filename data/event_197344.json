@@ -1,0 +1,40 @@
+{
+  "report_number": "197344",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20160614",
+  "reactions": [
+    "Death",
+    "FAECES DISCOLOURED",
+    "LOW BIRTH WEIGHT BABY",
+    "NECROTISING ENTEROCOLITIS NEONATAL",
+    "PREMATURE BABY"
+  ],
+  "date_started": "20160529",
+  "consumer": {
+    "age": "1",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "POLY-VI-SOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROLACTA FORTIFIER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

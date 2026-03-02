@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-016797",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20221202",
+  "reactions": [
+    "Diarrhoea",
+    "Nausea"
+  ],
+  "date_started": "20221201",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOOD LION WATER PURIFIED",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

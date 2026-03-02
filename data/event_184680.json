@@ -1,0 +1,33 @@
+{
+  "report_number": "184680",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150409",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ASTHENIA",
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20150407",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SABRA ROASTED GARLIC HUMMUS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NON-SALTED CRAKERS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

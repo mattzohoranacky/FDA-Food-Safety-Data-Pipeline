@@ -1,0 +1,50 @@
+{
+  "report_number": "155638",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20120821",
+  "reactions": [
+    "CARDIAC ARREST",
+    "COMA",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "GAZE PALSY",
+    "GRAND MAL CONVULSION",
+    "HYPOCALCAEMIA",
+    "HYPOMAGNESAEMIA",
+    "LOSS OF CONSCIOUSNESS",
+    "MULTI-ORGAN DISORDER",
+    "RESPIRATORY FAILURE",
+    "SYNCOPE",
+    "TRAUMATIC BRAIN INJURY",
+    "TREMOR",
+    "VENTRICULAR FIBRILLATION"
+  ],
+  "date_started": "20120625",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPEED XTREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KARBOLYN CARBOHYDRATE SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROTEIN SHAKES",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

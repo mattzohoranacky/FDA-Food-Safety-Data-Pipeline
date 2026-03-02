@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-013248",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181105",
+  "reactions": [
+    "Dry mouth",
+    "Hair texture abnormal",
+    "Lip dry"
+  ],
+  "date_started": "20181104",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KERATIN SMOOTHING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KERATIN SMOOTHING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

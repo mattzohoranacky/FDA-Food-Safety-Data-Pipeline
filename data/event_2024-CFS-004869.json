@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-004869",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20231017",
+  "reactions": [
+    "Asthenia",
+    "Diarrhoea",
+    "Fatigue",
+    "Rash"
+  ],
+  "date_started": "20231015",
+  "consumer": {
+    "age": "93",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRO TOTAL COMFORT POWDER INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

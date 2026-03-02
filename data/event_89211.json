@@ -1,0 +1,30 @@
+{
+  "report_number": "89211",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060925",
+  "reactions": [
+    "Adverse reaction",
+    "DIARRHOEA",
+    "URTICARIA"
+  ],
+  "date_started": "20060918",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE SPINACH CELLO",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING MIX VEGETABLES",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "report_number": "2020-CFS-002542",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20200220",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Appendicitis",
+    "Cardiac stress test abnormal",
+    "Diarrhoea",
+    "Dyspepsia",
+    "Dyspnoea",
+    "Fatigue",
+    "Flatulence",
+    "Gangrene",
+    "Heart rate increased",
+    "Malabsorption"
+  ],
+  "date_started": "20191205",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LABRADA LEAN BODY PROTEIN SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Potassium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

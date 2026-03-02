@@ -1,0 +1,33 @@
+{
+  "report_number": "2017-CFS-002090",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171125",
+  "reactions": [
+    "Abdominal distension",
+    "Ascites",
+    "Constipation",
+    "Flatulence"
+  ],
+  "date_started": "20171124",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEWMAN'S OWN PEPPERMING MINTS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

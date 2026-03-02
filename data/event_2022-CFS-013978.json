@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-013978",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220913",
+  "reactions": [
+    "Abdominal pain",
+    "Abdominal pain upper",
+    "Faeces discoloured",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20220907",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS HONEY COMB CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS LUCKY CHARMS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

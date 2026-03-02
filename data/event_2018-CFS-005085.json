@@ -1,0 +1,46 @@
+{
+  "report_number": "2018-CFS-005085",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180324",
+  "reactions": [
+    "Breast pain",
+    "Cyst rupture",
+    "Hormone level abnormal",
+    "Menstrual disorder",
+    "Skin ulcer"
+  ],
+  "date_started": "20171207",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT DRY SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT IRT SHAMPOO AND CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT LEAVE IN CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT MASQUES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

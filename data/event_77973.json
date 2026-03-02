@@ -1,0 +1,32 @@
+{
+  "report_number": "77973",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050104",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "DYSPEPSIA",
+    "FAECAL INCONTINENCE",
+    "NAUSEA"
+  ],
+  "date_started": "20050103",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PUMPKIN PIE MADE WITH SPLENDA",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

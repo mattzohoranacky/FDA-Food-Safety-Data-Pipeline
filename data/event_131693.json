@@ -1,0 +1,37 @@
+{
+  "report_number": "131693",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101028",
+  "reactions": [
+    "BLOOD CAFFEINE INCREASED",
+    "BLOOD POTASSIUM DECREASED",
+    "DEHYDRATION",
+    "FEELING JITTERY",
+    "MUSCLE CONTRACTIONS INVOLUNTARY",
+    "PARALYSIS",
+    "TREMOR"
+  ],
+  "date_started": "20101010",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "5 HOUR ENERGY EXTRA STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "5 HOUR ENERGY LEMON LIME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

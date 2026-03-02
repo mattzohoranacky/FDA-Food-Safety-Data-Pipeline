@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-013151",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20181102",
+  "reactions": [
+    "Dizziness",
+    "Paraesthesia",
+    "Vision blurred"
+  ],
+  "date_started": "20181101",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEPPERMINT COBALT 5 CHEWING GUM",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

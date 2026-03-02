@@ -1,0 +1,42 @@
+{
+  "report_number": "148560",
+  "outcomes": [
+    "Death",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120130",
+  "reactions": [
+    "CARDIAC ARREST",
+    "CARDIOMYOPATHY",
+    "Death",
+    "LOSS OF CONSCIOUSNESS",
+    "PULSE ABSENT"
+  ],
+  "date_started": "20111217",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANIMAL STAK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JACK3D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCIFIT ZMA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

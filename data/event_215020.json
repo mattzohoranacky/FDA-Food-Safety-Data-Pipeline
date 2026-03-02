@@ -1,0 +1,40 @@
+{
+  "report_number": "215020",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170630",
+  "reactions": [
+    "Adrenal disorder",
+    "Adrenal neoplasm",
+    "Adrenocortical insufficiency acute",
+    "Hyponatraemia",
+    "Vomiting"
+  ],
+  "date_started": "20170531",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IONIX SUPREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISA FLUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

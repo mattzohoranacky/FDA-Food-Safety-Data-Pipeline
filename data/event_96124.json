@@ -1,0 +1,40 @@
+{
+  "report_number": "96124",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070907",
+  "reactions": [
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD FOLLICLE STIMULATING HORMONE DECREASED",
+    "BLOOD TESTOSTERONE DECREASED",
+    "BLOOD THYROID STIMULATING HORMONE DECREASED",
+    "CHOLESTASIS",
+    "DECREASED APPETITE",
+    "DIZZINESS",
+    "HEPATIC ENZYME INCREASED",
+    "JAUNDICE",
+    "NIGHT SWEATS",
+    "PRURITUS",
+    "PYREXIA",
+    "RENAL FAILURE ACUTE",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20070615",
+  "consumer": {
+    "age": "33.11",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANEVOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

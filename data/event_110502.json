@@ -1,0 +1,30 @@
+{
+  "report_number": "110502",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090121",
+  "reactions": [
+    "DIARRHOEA",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20090120",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KEEBLER SOFT BATCH PEANUT BUTTER COOKIES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MCKEE FOODS NUTTY BUDDY BAR",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

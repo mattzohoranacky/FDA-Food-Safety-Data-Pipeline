@@ -1,0 +1,35 @@
+{
+  "report_number": "217425",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20170901",
+  "reactions": [
+    "Balance disorder",
+    "Confusional state",
+    "Coordination abnormal",
+    "Fatigue",
+    "Nausea",
+    "Somnolence"
+  ],
+  "date_started": "20170825",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "L-METHOFOLATE",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multi vitamin - Centrum Silver",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

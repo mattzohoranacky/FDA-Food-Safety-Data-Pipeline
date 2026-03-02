@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-009871",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20201001",
+  "reactions": [
+    "Abdominal pain",
+    "Frequent bowel movements",
+    "Haematochezia"
+  ],
+  "date_started": "20200501",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALIVE! MAX3 DAILY MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Kirkland Organic Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "trunature Women's Daily Probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

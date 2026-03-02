@@ -1,0 +1,39 @@
+{
+  "report_number": "2022-CFS-013786",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220908",
+  "reactions": [
+    "Alopecia",
+    "Burning sensation",
+    "Pain",
+    "Pruritus"
+  ],
+  "date_started": "20220401",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX NO. 4 BOND MAINTENANCE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX NO. 5 BOND MAINTENANCE CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX NO. 8 INTENSE MOISTURE MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

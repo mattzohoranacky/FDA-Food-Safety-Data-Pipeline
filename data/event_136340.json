@@ -1,0 +1,47 @@
+{
+  "report_number": "136340",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110215",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ANXIETY",
+    "AUTOIMMUNE HEPATITIS",
+    "CHROMATURIA",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "EMOTIONAL DISTRESS",
+    "FAECES PALE",
+    "FLANK PAIN",
+    "HEADACHE",
+    "INJURY",
+    "JAUNDICE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "NAUSEA",
+    "PAIN",
+    "QUALITY OF LIFE DECREASED",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20080128",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT CAFFEINE-FREE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT REGULAR RAPID RELEASE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

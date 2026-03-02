@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-006557",
+  "outcomes": [
+    "Death",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220504",
+  "reactions": [
+    "Death",
+    "Dyspnoea",
+    "Laryngeal oedema",
+    "Swelling face"
+  ],
+  "date_started": "20211206",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUCERNA HUNGER SMART SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

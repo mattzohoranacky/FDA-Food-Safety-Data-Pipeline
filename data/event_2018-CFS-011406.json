@@ -1,0 +1,31 @@
+{
+  "report_number": "2018-CFS-011406",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180913",
+  "reactions": [
+    "Blood pressure increased",
+    "Body temperature increased",
+    "Cold sweat",
+    "Feeling abnormal",
+    "Hyperhidrosis",
+    "Peripheral coldness",
+    "Pyrexia",
+    "Tremor"
+  ],
+  "date_started": "20180101",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCHIFF MOVE FREE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

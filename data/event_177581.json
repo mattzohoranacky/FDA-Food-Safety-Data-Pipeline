@@ -1,0 +1,34 @@
+{
+  "report_number": "177581",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140627",
+  "reactions": [
+    "HAEMATEMESIS",
+    "OESOPHAGEAL HAEMORRHAGE",
+    "OESOPHAGEAL INJURY",
+    "PAIN"
+  ],
+  "date_started": "20140521",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALCIUM 600MG W VIT D 800 IU 9T1AB (VITAMIN D NOS 800 IU, CALCIUM 600 MG) TABLET, REGIMEN# 1",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALCIUM 600MG W VIT D 800 IU 9T1AB (VITAMIN D NOS 800 IU, CALCIUM 600 MG) TABLET, REGIMEN# 2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

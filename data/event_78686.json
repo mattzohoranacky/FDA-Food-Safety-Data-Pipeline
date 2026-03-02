@@ -1,0 +1,49 @@
+{
+  "report_number": "78686",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050531",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DEPRESSION",
+    "DIARRHOEA",
+    "DYSLIPIDAEMIA",
+    "HEPATIC FAILURE",
+    "HYPERLIPIDAEMIA",
+    "IRRITABLE BOWEL SYNDROME",
+    "LETHARGY",
+    "OBESITY",
+    "RENAL INSUFFICIENCY"
+  ],
+  "date_started": "20050514",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEPSI JUICE DRINKS",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEPSI SODAS",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUAKER OATS QUAKES",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPECIAL K CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

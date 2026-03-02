@@ -1,0 +1,34 @@
+{
+  "report_number": "185502",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150428",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "NAUSEA",
+    "RECTAL HAEMORRHAGE",
+    "RECTAL ULCER"
+  ],
+  "date_started": "20150402",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BELLYTRIM XP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRO X-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

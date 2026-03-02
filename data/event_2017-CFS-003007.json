@@ -1,0 +1,30 @@
+{
+  "report_number": "2017-CFS-003007",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20171222",
+  "reactions": [
+    "Urticaria"
+  ],
+  "date_started": "20171121",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIC APPLES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIC PEARS",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "114915",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090701",
+  "reactions": [
+    "ARTERIAL DISORDER",
+    "BIOPSY BLOOD VESSEL ABNORMAL",
+    "CEREBROVASCULAR ACCIDENT",
+    "INFARCTION"
+  ],
+  "date_started": "20090424",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROCKSTAR ENERGY DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MUI SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "2020-CFS-008597",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200828",
+  "reactions": [
+    "Diarrhoea",
+    "Gastroenteritis salmonella",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20200701",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WAWONA PEACHES",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "200009",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160617",
+  "reactions": [
+    "ANXIETY",
+    "Adverse event",
+    "BLOOD PRESSURE FLUCTUATION",
+    "BLOOD PRESSURE INCREASED",
+    "BURNING SENSATION",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "HEART RATE INCREASED",
+    "HEART RATE IRREGULAR",
+    "PALPITATIONS",
+    "Product contamination physical"
+  ],
+  "date_started": "20160607",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAD'S OLD FASHIONED/ROOT BEER BARREL CANDIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

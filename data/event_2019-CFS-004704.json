@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-004704",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20190509",
+  "reactions": [
+    "Angina pectoris",
+    "Burning sensation",
+    "Dizziness",
+    "Hyperhidrosis",
+    "Pain in jaw",
+    "Paraesthesia",
+    "Tremor"
+  ],
+  "date_started": "20190503",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREVAGEN EXTRA STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

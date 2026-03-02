@@ -1,0 +1,35 @@
+{
+  "report_number": "184865",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150409",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "CHILLS",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HEADACHE",
+    "LISTERIOSIS",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20150405",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE BELL HOMEMADE VANILLA ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SABRA OLIVE TAPENADE HUMMUS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

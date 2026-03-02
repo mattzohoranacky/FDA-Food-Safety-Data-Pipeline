@@ -1,0 +1,35 @@
+{
+  "report_number": "2019-CFS-006536",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190624",
+  "reactions": [
+    "Blood iron decreased",
+    "Diarrhoea",
+    "Dyspnoea",
+    "Fatigue",
+    "Haemoglobin decreased"
+  ],
+  "date_started": "20190301",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY D3 125MCG RAPID RELEASE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY D3 25MCG RAPID RELEASE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

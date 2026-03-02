@@ -1,0 +1,40 @@
+{
+  "report_number": "122543",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Disability"
+  ],
+  "date_created": "20100113",
+  "reactions": [
+    "ANXIETY",
+    "EMOTIONAL DISTRESS",
+    "HEPATIC FAILURE",
+    "HYPERSENSITIVITY",
+    "INJURY",
+    "MYALGIA",
+    "PAIN",
+    "PORTAL VEIN THROMBOSIS",
+    "STRESS"
+  ],
+  "date_started": "20090411",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT REGULAR DRINK MIX SACHETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT REGULAR RAPID RELEASE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

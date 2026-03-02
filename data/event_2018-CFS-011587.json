@@ -1,0 +1,34 @@
+{
+  "report_number": "2018-CFS-011587",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180919",
+  "reactions": [
+    "Cellulitis",
+    "Headache",
+    "Wound secretion"
+  ],
+  "date_started": "20180807",
+  "consumer": {
+    "age": "63.72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLDEN FLOW WHOLE MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL TEAS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

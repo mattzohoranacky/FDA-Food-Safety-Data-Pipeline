@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-005127",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220411",
+  "reactions": [
+    "Abdominal discomfort",
+    "Appendicitis",
+    "Malaise"
+  ],
+  "date_started": "20220330",
+  "consumer": {
+    "age": "16.4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LUCKY CHARMS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

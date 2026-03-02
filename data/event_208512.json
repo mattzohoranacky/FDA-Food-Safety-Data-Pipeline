@@ -1,0 +1,29 @@
+{
+  "report_number": "208512",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170305",
+  "reactions": [
+    "ARRHYTHMIA",
+    "CHEST PAIN",
+    "HEART RATE INCREASED",
+    "PAIN",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20170222",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NINGXIA ZYNG",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

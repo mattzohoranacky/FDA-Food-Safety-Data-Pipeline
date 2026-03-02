@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-003365",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200310",
+  "reactions": [
+    "Feeling jittery",
+    "Vomiting"
+  ],
+  "date_started": "20190329",
+  "consumer": {
+    "age": "55.7",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BELIVE KETO MOON BURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "fusion multivitmen",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

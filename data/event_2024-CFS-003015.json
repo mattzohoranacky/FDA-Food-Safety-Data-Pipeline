@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-003015",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230712",
+  "reactions": [
+    "Infection",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20230118",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NEUROPRO INFANT FORMULA, MILK-BASED WITH IRON READY TO EAT",
+      "industry_code": "40N",
+      "industry_name": "Ready to Serve Formula"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-009602",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240704",
+  "reactions": [
+    "Mental disorder"
+  ],
+  "date_started": "20240703",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLOAT SHROOMBERRY DELTA-8 THC",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLOAT TRIPS AHOY",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "156073",
+  "outcomes": [
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120831",
+  "reactions": [
+    "COUGH",
+    "DYSPNOEA",
+    "INSOMNIA",
+    "PULMONARY CONGESTION",
+    "RESPIRATORY TRACT INFECTION",
+    "SUFFOCATION FEELING"
+  ],
+  "date_started": "20120805",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC MEGA MEN ENERGY AND METABOLISM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "METHOXY BURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

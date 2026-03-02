@@ -1,0 +1,43 @@
+{
+  "report_number": "209750",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170329",
+  "reactions": [
+    "LUNG DISORDER",
+    "NASOPHARYNGITIS"
+  ],
+  "date_started": "20170122",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALCIUM CARBONATE, CHOLECALCIFEROL (CALCIUM CARBONATE, CHOLECALCIFEROL) UNKNOWN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOLIC ACID (FOLIC ACID) UNKNOWN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCHLOROQUINE SULFATE(HYDROXYCHLOROQUINE SULFATE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XELJANZ (TOFACITINIB CITRATE) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

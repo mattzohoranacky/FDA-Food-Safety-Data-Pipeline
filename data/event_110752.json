@@ -1,0 +1,38 @@
+{
+  "report_number": "110752",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090303",
+  "reactions": [
+    "BLOOD PRESSURE DECREASED",
+    "DYSPNOEA",
+    "FLUSHING",
+    "HYPERSENSITIVITY",
+    "LOSS OF CONSCIOUSNESS",
+    "NAUSEA",
+    "RASH",
+    "VISION BLURRED"
+  ],
+  "date_started": "20090206",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE NIACIN 250MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COMPLETE ONE MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "69802",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040621",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "HOSPITALISATION",
+    "INTENSIVE CARE",
+    "RASH GENERALISED"
+  ],
+  "date_started": "20040523",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATACHEW (NATAFORT) CHEWABLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

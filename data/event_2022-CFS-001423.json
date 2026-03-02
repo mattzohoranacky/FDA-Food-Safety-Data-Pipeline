@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-001423",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220128",
+  "reactions": [
+    "Chest discomfort",
+    "Cough",
+    "Dyspnoea",
+    "Nausea",
+    "Neck pain"
+  ],
+  "date_started": "20220113",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AZO CRANBERRY GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

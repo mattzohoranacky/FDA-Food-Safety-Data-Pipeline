@@ -1,0 +1,85 @@
+{
+  "report_number": "2018-CFS-012138",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181002",
+  "reactions": [
+    "Anxiety",
+    "Arthralgia",
+    "Balance disorder",
+    "Cataract",
+    "Chills",
+    "Depression",
+    "Dizziness",
+    "Dry skin",
+    "Dysphagia",
+    "Dysphonia",
+    "Fear",
+    "Feeling hot",
+    "Gait disturbance",
+    "Mastication disorder",
+    "Musculoskeletal stiffness",
+    "Panic attack",
+    "Rash",
+    "Restless legs syndrome",
+    "Schizophrenia",
+    "Somnolence",
+    "Thyroid cyst",
+    "Thyroid neoplasm",
+    "Uterine leiomyoma",
+    "Vision blurred"
+  ],
+  "date_started": "20180501",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE VIT C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WELL CALCIUM + D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Calcium 600mg + Vit D3 800 IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Zinc",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamin (womens)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vit D2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

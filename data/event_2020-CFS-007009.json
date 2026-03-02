@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-007009",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200721",
+  "reactions": [
+    "Burning sensation",
+    "Chromaturia",
+    "Urethral spasm"
+  ],
+  "date_started": "20200520",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ASTRAGALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "mvi's w/essential minerals",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

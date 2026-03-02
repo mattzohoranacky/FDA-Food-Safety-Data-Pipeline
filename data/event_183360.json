@@ -1,0 +1,42 @@
+{
+  "report_number": "183360",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150225",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "CHEST PAIN",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "OROPHARYNGEAL PAIN",
+    "PHARYNGEAL OEDEMA"
+  ],
+  "date_started": "20150204",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIX STAR PRO NUTRITION WHEY PROTEIN PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED VITAMIN FOR JOINTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-000620",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240115",
+  "reactions": [
+    "Anxiety",
+    "Decreased appetite",
+    "Dependence",
+    "Depression",
+    "Dyspepsia",
+    "Fear",
+    "Paranoia",
+    "Tremor",
+    "Weight decreased"
+  ],
+  "date_started": "20240101",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

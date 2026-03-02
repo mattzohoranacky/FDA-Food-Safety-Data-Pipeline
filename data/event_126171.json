@@ -1,0 +1,58 @@
+{
+  "report_number": "126171",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100503",
+  "reactions": [
+    "ASTHENIA",
+    "DECREASED APPETITE",
+    "DEHYDRATION",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "HEADACHE",
+    "HYPERHIDROSIS",
+    "PAIN",
+    "THIRST",
+    "WEIGHT DECREASED",
+    "YELLOW SKIN"
+  ],
+  "date_started": "20100323",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE BEST DEFENSE-ORANGE BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE FORMULA 1 WILDBERRY",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE HERBAL ALOE CONCENTRATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBALIFE NATURE'S RAW GUARANA TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBALIFE FORMULA 1 CHOCOLATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

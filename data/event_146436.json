@@ -1,0 +1,46 @@
+{
+  "report_number": "146436",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20111206",
+  "reactions": [
+    "BODY HEIGHT DECREASED",
+    "CHOKING",
+    "FEAR",
+    "RETCHING",
+    "WEIGHT FLUCTUATION"
+  ],
+  "date_started": "20111201",
+  "consumer": {
+    "age": "83",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM SILVER ULTRA WOMENS MULTIMINERAL MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OCUVITE LUTEIN ASCORBIC ACID COPPER XANTHOPHYLL ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C ASCORBIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN E TOCOPHEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "217383",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170824",
+  "reactions": [
+    "Abdominal discomfort",
+    "Gastrooesophageal reflux disease",
+    "Hyperhidrosis",
+    "Malaise",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20170321",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM ADULTS UNDER 50",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

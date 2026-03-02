@@ -1,0 +1,34 @@
+{
+  "report_number": "158001",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20121019",
+  "reactions": [
+    "ANXIETY",
+    "BLOOD PRESSURE INCREASED",
+    "CHEST DISCOMFORT",
+    "DRUG SCREEN POSITIVE",
+    "FLUSHING",
+    "HEADACHE",
+    "HYPERTENSIVE CRISIS",
+    "NAUSEA",
+    "PALPITATIONS",
+    "TREMOR"
+  ],
+  "date_started": "20121017",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

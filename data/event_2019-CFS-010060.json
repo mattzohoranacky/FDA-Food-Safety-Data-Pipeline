@@ -1,0 +1,34 @@
+{
+  "report_number": "2019-CFS-010060",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191001",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Disorientation",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20190910",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VEGA PROTEIN & ENERGY",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Almond Milk mixed with product",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

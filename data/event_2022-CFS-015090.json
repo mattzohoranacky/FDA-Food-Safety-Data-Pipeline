@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-015090",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20221017",
+  "reactions": [
+    "Diarrhoea",
+    "Haematochezia",
+    "Pyrexia",
+    "Salmonellosis"
+  ],
+  "date_started": "20221011",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCE OPTIGRO",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

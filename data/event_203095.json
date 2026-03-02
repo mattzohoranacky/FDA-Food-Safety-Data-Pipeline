@@ -1,0 +1,38 @@
+{
+  "report_number": "203095",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161017",
+  "reactions": [
+    "ALOPECIA",
+    "BODY TEMPERATURE INCREASED",
+    "CYST",
+    "HAIR DISORDER",
+    "HEADACHE",
+    "PAIN",
+    "SECRETION DISCHARGE",
+    "SWELLING"
+  ],
+  "date_started": "20160604",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE A DAY GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

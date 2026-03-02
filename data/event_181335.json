@@ -1,0 +1,71 @@
+{
+  "report_number": "181335",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141210",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED",
+    "CONDITION AGGRAVATED",
+    "COUGH",
+    "CROUP INFECTIOUS",
+    "DYSPNOEA",
+    "EPIGLOTTITIS",
+    "GLUCOSE TOLERANCE IMPAIRED",
+    "HEART RATE INCREASED",
+    "HYPOTHYROIDISM",
+    "LARYNGITIS",
+    "LARYNGOSPASM",
+    "LEFT VENTRICULAR DYSFUNCTION",
+    "LEFT VENTRICULAR HYPERTROPHY",
+    "LYMPHOCYTE COUNT DECREASED",
+    "MEAN PLATELET VOLUME DECREASED",
+    "MONOCYTE COUNT DECREASED",
+    "NEUTROPHIL COUNT ABNORMAL",
+    "NEUTROPHIL COUNT INCREASED",
+    "OXYGEN SATURATION DECREASED",
+    "PHARYNGEAL OEDEMA",
+    "RESPIRATORY ARREST",
+    "RESPIRATORY DISTRESS",
+    "SPASMODIC DYSPHONIA",
+    "SPEECH DISORDER",
+    "THROAT TIGHTNESS",
+    "VOCAL CORD DISORDER",
+    "VOCAL CORD INFLAMMATION",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20140805",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE SAM-E 400 MG TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

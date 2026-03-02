@@ -1,0 +1,78 @@
+{
+  "report_number": "179504",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140918",
+  "reactions": [
+    "ARTHRALGIA",
+    "ASTHENIA",
+    "ATRIOVENTRICULAR BLOCK",
+    "ATRIOVENTRICULAR BLOCK COMPLETE",
+    "BALANCE DISORDER",
+    "BLOOD ALBUMIN DECREASED",
+    "BLOOD ALBUMIN INCREASED",
+    "BLOOD IMMUNOGLOBULIN G INCREASED",
+    "BRADYCARDIA",
+    "BRAIN MASS",
+    "CSF IMMUNOGLOBULIN INCREASED",
+    "CSF TEST ABNORMAL",
+    "DELIRIUM",
+    "DIARRHOEA",
+    "DYSARTHRIA",
+    "Death",
+    "ENCEPHALITIS",
+    "ENCEPHALOMALACIA",
+    "ENCEPHALOPATHY",
+    "ENZYME LEVEL INCREASED",
+    "FALL",
+    "GLIOBLASTOMA",
+    "HELICOBACTER INFECTION",
+    "HEMIANOPIA HOMONYMOUS",
+    "HYPERKALAEMIA",
+    "HYPOMAGNESAEMIA",
+    "IRRITABILITY",
+    "MENTAL DISORDER",
+    "MYOCLONUS",
+    "NEOPLASM",
+    "NERVOUS SYSTEM DISORDER",
+    "NERVOUSNESS",
+    "OROPHARYNGEAL PAIN",
+    "OSTEOARTHRITIS",
+    "PROTEIN TOTAL INCREASED",
+    "PULMONARY HYPERTENSION",
+    "RED BLOOD CELL SEDIMENTATION RATE INCREASED",
+    "SLEEP APNOEA SYNDROME",
+    "VASOGENIC CEREBRAL OEDEMA",
+    "VISUAL IMPAIRMENT",
+    "VITAMIN B12 INCREASED"
+  ],
+  "date_started": "20140601",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE FLUSH FREE NIACIN 500 MG RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE SAW PALMETTO 450 MG RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRI SOURCE OMEGA-3 PLUS VITAMIN D3 RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

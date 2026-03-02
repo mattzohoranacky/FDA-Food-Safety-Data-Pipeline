@@ -1,0 +1,30 @@
+{
+  "report_number": "123718",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100208",
+  "reactions": [
+    "Adverse event",
+    "BLOOD CREATINE INCREASED",
+    "LYMPHATIC DISORDER",
+    "RENAL FAILURE"
+  ],
+  "date_started": "20100125",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STOP AND SHOP GROUND CINNAMON POWDER",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

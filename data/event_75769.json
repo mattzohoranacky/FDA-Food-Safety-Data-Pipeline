@@ -1,0 +1,53 @@
+{
+  "report_number": "75769",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050126",
+  "reactions": [
+    "CYANOSIS",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "HOSPITALISATION",
+    "HYPERSENSITIVITY",
+    "PAIN",
+    "SHOCK",
+    "SWELLING",
+    "SYNCOPE"
+  ],
+  "date_started": "20050103",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "L'OREAL SUPER BLONDE CREME LIGHTENING KIT CONDITIONING SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "L'OREAL SUPER BLONDE CREME LIGHTENING KIT DEVELOPING CREME",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "L'OREAL SUPER BLONDE CREME LIGHTENING KIT LIGHTENING CREME",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "L'OREAL SUPER BLONDE CREME LIGHTENING KIT LIGHTENING POWDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

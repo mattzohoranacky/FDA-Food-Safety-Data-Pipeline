@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-013494",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20181105",
+  "reactions": [
+    "Body temperature increased",
+    "Diarrhoea",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20181009",
+  "consumer": {
+    "age": "5",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC PRO-ADVANCE OPTIGRO",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SENSITIVE OPTIGRO",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

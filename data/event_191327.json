@@ -1,0 +1,33 @@
+{
+  "report_number": "191327",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20151109",
+  "reactions": [
+    "BLISTER",
+    "SCAR",
+    "SECRETION DISCHARGE",
+    "THERMAL BURN"
+  ],
+  "date_started": "20151104",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CANDY CANE CHAPSTICK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NORMAL FACE BRONZING POWDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

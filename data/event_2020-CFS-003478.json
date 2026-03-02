@@ -1,0 +1,34 @@
+{
+  "report_number": "2020-CFS-003478",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200312",
+  "reactions": [
+    "Alopecia",
+    "Convulsion",
+    "Dysarthria",
+    "Headache",
+    "Malaise"
+  ],
+  "date_started": "20200215",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE CALM TABS EASY TO SWALLOW COATED TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE PASSION FLOWER EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

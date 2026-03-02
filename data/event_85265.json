@@ -1,0 +1,27 @@
+{
+  "report_number": "85265",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050223",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "HYPERSENSITIVITY"
+  ],
+  "date_started": "20050212",
+  "consumer": {
+    "age": "9",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COUNTRYSIDE APPLE CINNAMON RASPBERRY WALNUT RUGULA",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

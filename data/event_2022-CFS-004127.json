@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-004127",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220322",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea",
+    "Dizziness",
+    "Nausea",
+    "Vomiting",
+    "White blood cell count increased"
+  ],
+  "date_started": "20220217",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY SHAKEOLOGY BOOST GREENS POWER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY SHAKEOLOGY VANILLA VEGAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

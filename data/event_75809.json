@@ -1,0 +1,32 @@
+{
+  "report_number": "75809",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20041209",
+  "reactions": [
+    "CHOKING",
+    "CYANOSIS",
+    "EMERGENCY CARE EXAMINATION",
+    "INJURY ASPHYXIATION",
+    "VASCULAR INJURY"
+  ],
+  "date_started": "20041208",
+  "consumer": {
+    "age": "5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MINUTE MAID ALL NATURAL FRUIT PUNCH",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    }
+  ]
+}

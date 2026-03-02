@@ -1,0 +1,35 @@
+{
+  "report_number": "95695",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070821",
+  "reactions": [
+    "HEADACHE",
+    "NAUSEA"
+  ],
+  "date_started": "20070820",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POM X POMEGRANATE PILL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOOD",
+      "industry_code": "52",
+      "industry_name": "Miscellaneous Food Related Items"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

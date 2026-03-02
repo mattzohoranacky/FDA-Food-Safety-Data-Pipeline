@@ -1,0 +1,31 @@
+{
+  "report_number": "214917",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170324",
+  "reactions": [
+    "BLOOD CREATININE INCREASED",
+    "DIZZINESS",
+    "FLUSHING",
+    "NAUSEA",
+    "PYREXIA",
+    "RENAL FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20150315",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER WILDBERRY ENERGY MIX",
+      "industry_code": "30",
+      "industry_name": "Beverage Bases/Conc/Nectar"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GNC MEGA MEN MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

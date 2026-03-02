@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-005891",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180416",
+  "reactions": [
+    "Dysuria",
+    "Gout",
+    "Heart rate abnormal",
+    "Palpitations",
+    "Urinary tract infection",
+    "Urine output decreased"
+  ],
+  "date_started": "20180307",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REAL ADVANTAGE NUTRIENTS INCONTROL24",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "191921",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20151204",
+  "reactions": [
+    "Adverse reaction",
+    "DIARRHOEA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20151130",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH EXPRESS GREEN & CRISP SALAD (ICEBERG, ROMAINE, LETTUCES, CARROTS, RED CABBAGE)",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH EXPRESS SWEET & CRUNCHY SALAD  (GREEN AND RED BUTTER LETTUCE)",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SALAD DRESSING",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

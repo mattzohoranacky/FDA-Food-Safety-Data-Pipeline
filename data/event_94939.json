@@ -1,0 +1,33 @@
+{
+  "report_number": "94939",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070221",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "RASH",
+    "RASH PAPULAR"
+  ],
+  "date_started": "20070214",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TOAST",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

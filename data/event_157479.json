@@ -1,0 +1,47 @@
+{
+  "report_number": "157479",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20121002",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BLOOD AMYLASE INCREASED",
+    "FATIGUE",
+    "LIPASE INCREASED",
+    "PANCREATITIS",
+    "PANCREATITIS ACUTE"
+  ],
+  "date_started": "20120929",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANIMAL PAK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENTERIC COATED FISH OIL SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLD STANDARD 100% CASEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XTEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

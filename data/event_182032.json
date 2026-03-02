@@ -1,0 +1,33 @@
+{
+  "report_number": "182032",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150115",
+  "reactions": [
+    "EXPOSURE TO TOXIC AGENT",
+    "EYE IRRITATION",
+    "HEADACHE",
+    "IMPAIRED HEALING"
+  ],
+  "date_started": "20150106",
+  "consumer": {
+    "age": "5",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEY MAID LOW FAT GRAHAM CRACKERS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "1 A DAY VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

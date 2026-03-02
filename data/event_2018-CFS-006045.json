@@ -1,0 +1,56 @@
+{
+  "report_number": "2018-CFS-006045",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180418",
+  "reactions": [
+    "Burning sensation",
+    "Dermatitis",
+    "Dry skin",
+    "Eczema",
+    "Erythema",
+    "Pruritus",
+    "Skin exfoliation",
+    "Thermal burn",
+    "Urticaria"
+  ],
+  "date_started": "20180414",
+  "consumer": {
+    "age": "48.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN PEEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN PEEL CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN PEEL CREAM MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN PEEL TINT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI-VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

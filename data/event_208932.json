@@ -1,0 +1,29 @@
+{
+  "report_number": "208932",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20161229",
+  "reactions": [
+    "LACTOSE INTOLERANCE",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20160831",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IRON SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LACTAID",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

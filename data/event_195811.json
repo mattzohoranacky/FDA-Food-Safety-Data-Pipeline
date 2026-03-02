@@ -1,0 +1,44 @@
+{
+  "report_number": "195811",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160427",
+  "reactions": [
+    "ABDOMINAL ABSCESS",
+    "CLOSTRIDIUM DIFFICILE INFECTION",
+    "COLONOSCOPY ABNORMAL",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "GASTRIC DISORDER",
+    "RECTAL HAEMORRHAGE",
+    "SEPSIS",
+    "SWELLING"
+  ],
+  "date_started": "20160222",
+  "consumer": {
+    "age": "86",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALL DAY ENERGY GREENS FRUITY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALL DAY ENERGY GREENS SOY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GO, RUBY, GO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

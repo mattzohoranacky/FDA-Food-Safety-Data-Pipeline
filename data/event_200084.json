@@ -1,0 +1,27 @@
+{
+  "report_number": "200084",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20160812",
+  "reactions": [
+    "BACTERIAL TEST POSITIVE",
+    "BURKHOLDERIA CEPACIA COMPLEX INFECTION",
+    "PSEUDOMONAS INFECTION"
+  ],
+  "date_started": "20160731",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ASCORBIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

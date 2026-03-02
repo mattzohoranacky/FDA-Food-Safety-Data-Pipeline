@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-012021",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201122",
+  "reactions": [
+    "Choking",
+    "Foreign body",
+    "Laceration"
+  ],
+  "date_started": "20201122",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HAAGEN DAZ VANILLA MILK CHOCOLATE ALMOND ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Women's Multi-Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

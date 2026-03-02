@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-013553",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220901",
+  "reactions": [
+    "Back pain",
+    "Blood urine present",
+    "Kidney infection",
+    "Ocular icterus"
+  ],
+  "date_started": "20220625",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST LEEK AND LENTIL CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

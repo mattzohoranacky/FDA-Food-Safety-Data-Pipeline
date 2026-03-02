@@ -1,0 +1,34 @@
+{
+  "report_number": "181194",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141204",
+  "reactions": [
+    "FEELING ABNORMAL",
+    "LUNG NEOPLASM",
+    "NECK MASS",
+    "THYROID CANCER"
+  ],
+  "date_started": "20091210",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XI TANG BEE POLLEN PILLS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

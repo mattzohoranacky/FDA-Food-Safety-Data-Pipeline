@@ -1,0 +1,31 @@
+{
+  "report_number": "180152",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20141017",
+  "reactions": [
+    "ALOPECIA",
+    "DANDRUFF",
+    "HYPERSENSITIVITY",
+    "PRURITUS"
+  ],
+  "date_started": "20141016",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOREAL ELVIVE FIBROLOGY SHAMPOO AND CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

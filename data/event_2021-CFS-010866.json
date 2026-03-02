@@ -1,0 +1,36 @@
+{
+  "report_number": "2021-CFS-010866",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20211026",
+  "reactions": [
+    "Feeling hot",
+    "Hypersensitivity",
+    "Insomnia",
+    "Lip swelling",
+    "Pruritus",
+    "Rash"
+  ],
+  "date_started": "20210101",
+  "consumer": {
+    "age": "37.18",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEYOND RAW CHEMISTRY LABS CREATINE HCL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEYOND RAW CHEMISTRY LABS D-ASPARTIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

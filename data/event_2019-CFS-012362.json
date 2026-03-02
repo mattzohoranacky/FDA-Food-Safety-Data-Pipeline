@@ -1,0 +1,29 @@
+{
+  "report_number": "2019-CFS-012362",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20191126",
+  "reactions": [
+    "Diarrhoea",
+    "Erythema",
+    "Flushing",
+    "Food poisoning",
+    "Pruritus"
+  ],
+  "date_started": "20191123",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TUNA KING WILD-CAUGHT YELLOWFIN TUNA MEDALLIONS FROZEN",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

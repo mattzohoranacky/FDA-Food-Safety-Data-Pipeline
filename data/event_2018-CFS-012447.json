@@ -1,0 +1,28 @@
+{
+  "report_number": "2018-CFS-012447",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181013",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Hypersensitivity"
+  ],
+  "date_started": "20170615",
+  "consumer": {
+    "age": "284",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

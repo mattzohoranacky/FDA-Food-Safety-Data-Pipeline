@@ -1,0 +1,37 @@
+{
+  "report_number": "111110",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090129",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "APPETITE DISORDER",
+    "Adverse event",
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HAEMATOCHEZIA",
+    "NAUSEA",
+    "SALMONELLOSIS",
+    "VOMITING"
+  ],
+  "date_started": "20090114",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NUTRAMIGEN INFANT FORMULA POWDER, IRON FORTIFIED",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

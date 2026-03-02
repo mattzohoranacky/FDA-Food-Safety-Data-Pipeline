@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-000852",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190129",
+  "reactions": [
+    "Chemical injury",
+    "Erythema",
+    "Excoriation",
+    "Skin irritation"
+  ],
+  "date_started": "20190127",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRICKELL MEN'S PRODUCTS SAMPLER KIT - EYE BALM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRICKELL MEN'S PRODUCTS SAMPLER KIT -ANTI AGING CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

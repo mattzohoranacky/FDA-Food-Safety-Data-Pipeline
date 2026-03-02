@@ -1,0 +1,27 @@
+{
+  "report_number": "2019-CFS-001963",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190222",
+  "reactions": [
+    "Ammonia increased",
+    "Blood potassium decreased",
+    "Dehydration"
+  ],
+  "date_started": "20181122",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TIAO HE CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

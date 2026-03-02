@@ -1,0 +1,52 @@
+{
+  "report_number": "197834",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160623",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "BLOOD TEST ABNORMAL",
+    "HEADACHE",
+    "HEPATIC ENZYME INCREASED",
+    "LETHARGY",
+    "PROTEINURIA",
+    "RENAL FAILURE CHRONIC",
+    "RENAL PAIN",
+    "ULTRASOUND LIVER ABNORMAL",
+    "URINE ANALYSIS ABNORMAL"
+  ],
+  "date_started": "20160511",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY HIGH POTENCY CINNAMON 2000MG PLUS CHROMIUM CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY MEGA CHROMIUM PICOLINATE 800 MCG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-004770",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220406",
+  "reactions": [
+    "Hypersensitivity",
+    "Inflammation",
+    "Pruritus",
+    "Rash"
+  ],
+  "date_started": "20220308",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JERGENS OIL INFUSED ENRICHING SHEA BUTTER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Benadryl",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

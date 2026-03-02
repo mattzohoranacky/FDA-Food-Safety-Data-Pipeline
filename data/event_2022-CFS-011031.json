@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-011031",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220714",
+  "reactions": [
+    "Abdominal pain",
+    "Blood bilirubin increased",
+    "Decreased appetite",
+    "Hepatic enzyme increased",
+    "Hepatitis",
+    "Jaundice",
+    "Nausea"
+  ],
+  "date_started": "20220711",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REVIVE SUPERFOODS SMOOTHIE PINEAPPLE MANGO",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

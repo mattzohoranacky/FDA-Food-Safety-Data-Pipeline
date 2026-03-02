@@ -1,0 +1,45 @@
+{
+  "report_number": "215800",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170724",
+  "reactions": [
+    "Abdominal pain",
+    "Activities of daily living impaired",
+    "Depression",
+    "Flank pain",
+    "Food poisoning",
+    "Headache",
+    "Mood swings",
+    "Muscle spasms",
+    "Pain",
+    "Sleep disorder"
+  ],
+  "date_started": "20120627",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

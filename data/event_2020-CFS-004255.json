@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-004255",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200412",
+  "reactions": [
+    "Breast cancer stage II",
+    "Drug hypersensitivity",
+    "Fallopian tube cancer stage III",
+    "Ovarian cancer",
+    "Rash",
+    "Thrombocytopenia",
+    "Uterine leiomyoma",
+    "Vaginal haemorrhage"
+  ],
+  "date_started": "20110526",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

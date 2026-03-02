@@ -1,0 +1,55 @@
+{
+  "report_number": "2024-CFS-002642",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240304",
+  "reactions": [
+    "Asthenia",
+    "Depression",
+    "Dizziness",
+    "Fatigue",
+    "Gait disturbance",
+    "Hypoaesthesia",
+    "Malaise",
+    "Neurodermatitis",
+    "Oedema peripheral",
+    "Pain",
+    "Paraesthesia",
+    "Polyneuropathy",
+    "Pruritus"
+  ],
+  "date_started": "20221213",
+  "consumer": {
+    "age": "60.2",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN B6",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B 12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

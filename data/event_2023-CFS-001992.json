@@ -1,0 +1,40 @@
+{
+  "report_number": "2023-CFS-001992",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230227",
+  "reactions": [
+    "Abdominal pain",
+    "Brain oedema",
+    "Cough",
+    "Cronobacter infection",
+    "Crying",
+    "Diarrhoea",
+    "Pyrexia",
+    "Rash",
+    "Streptococcal infection"
+  ],
+  "date_started": "20230202",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL PRO SOBEE PLANT-BASED",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Iron supplements",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-009238",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220603",
+  "reactions": [
+    "Abdominal distension",
+    "Diarrhoea",
+    "Discomfort",
+    "Malaise",
+    "Muscle spasms",
+    "Pyrexia"
+  ],
+  "date_started": "20220508",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF NATURAL CRUNCHY PEANUT BUTTER SPREAD",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

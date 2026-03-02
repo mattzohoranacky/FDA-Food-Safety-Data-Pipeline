@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-011091",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20191105",
+  "reactions": [
+    "Diarrhoea"
+  ],
+  "date_started": "20190611",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HATHI WHEAT FLOUR DEEP MILLET (BAJRI) FLOUR, DEEP SORGHUM (JOWAR)",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

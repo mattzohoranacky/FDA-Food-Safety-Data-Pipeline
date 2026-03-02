@@ -1,0 +1,39 @@
+{
+  "report_number": "150449",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120323",
+  "reactions": [
+    "HEPATITIS ACUTE",
+    "JAUNDICE",
+    "PRURITUS",
+    "RASH"
+  ],
+  "date_started": "20101104",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARDEN OF LIFE HERBAL MIXTURE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KAVA KAVA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFES BASIC PLANT PROTEIN MIXTURE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

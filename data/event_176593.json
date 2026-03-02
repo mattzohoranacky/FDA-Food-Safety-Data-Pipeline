@@ -1,0 +1,32 @@
+{
+  "report_number": "176593",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140514",
+  "reactions": [
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20140514",
+  "consumer": {
+    "age": "2",
+    "age_unit": "week(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL AR",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WALMART BRAND DISTILLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

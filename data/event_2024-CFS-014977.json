@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-014977",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241127",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Food poisoning",
+    "Headache",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20241124",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTINO'S PIZZA ROLLS COMBINATION",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

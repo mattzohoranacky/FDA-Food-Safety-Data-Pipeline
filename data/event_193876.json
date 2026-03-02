@@ -1,0 +1,30 @@
+{
+  "report_number": "193876",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160224",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "CONSTIPATION",
+    "GASTROINTESTINAL OEDEMA",
+    "INFANTILE SPITTING UP",
+    "LACTOSE INTOLERANCE",
+    "SWELLING"
+  ],
+  "date_started": "20160130",
+  "consumer": {
+    "age": "1",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

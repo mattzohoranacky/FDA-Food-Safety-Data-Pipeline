@@ -1,0 +1,37 @@
+{
+  "report_number": "2024-CFS-015218",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241202",
+  "reactions": [
+    "Anosmia",
+    "Diarrhoea",
+    "Emergency care",
+    "Fatigue",
+    "Haematochezia",
+    "Hospitalisation",
+    "Malaise",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Salmonellosis",
+    "Vomiting"
+  ],
+  "date_started": "20241112",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COSTCO LONG CUCUMBER",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

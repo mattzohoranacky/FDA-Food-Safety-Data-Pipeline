@@ -1,0 +1,37 @@
+{
+  "report_number": "2023-CFS-004572",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230503",
+  "reactions": [
+    "Diarrhoea",
+    "Nausea"
+  ],
+  "date_started": "20230420",
+  "consumer": {
+    "age": "42.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAIR LIFE NUTRITION PLAN CHOCOLATE PROTEIN SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

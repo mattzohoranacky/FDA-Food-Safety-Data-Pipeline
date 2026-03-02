@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-005595",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220418",
+  "reactions": [
+    "Adverse event",
+    "Anxiety",
+    "Disorientation",
+    "Dizziness",
+    "Dry mouth",
+    "Dysarthria",
+    "Hypoaesthesia",
+    "Hypotension",
+    "Migraine",
+    "Paraesthesia",
+    "Tremor"
+  ],
+  "date_started": "20220412",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIBERTY BRAND HEMP VEGAN D8 GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "2021-CFS-013423",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20211228",
+  "reactions": [
+    "Swelling face"
+  ],
+  "date_started": "20211012",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIEHL'S ULTRA FACE WASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIEHL'S ULTRA FACIAL CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIEHL'S ULTRAFACE SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

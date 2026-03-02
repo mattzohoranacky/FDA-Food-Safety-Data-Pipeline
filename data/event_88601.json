@@ -1,0 +1,35 @@
+{
+  "report_number": "88601",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20060425",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20060424",
+  "consumer": {},
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHITE ROSE REAL MAYONAISE",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ARNOLD GERMAN DARK WHEAT BREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHICKEN OF THE SEA CHUNK LITE TUNA IN OIL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

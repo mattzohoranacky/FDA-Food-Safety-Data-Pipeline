@@ -1,0 +1,33 @@
+{
+  "report_number": "122685",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20100108",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "BLOOD SODIUM INCREASED",
+    "DIARRHOEA",
+    "OEDEMA PERIPHERAL"
+  ],
+  "date_started": "20091209",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FERMENT LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIQUID MAG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

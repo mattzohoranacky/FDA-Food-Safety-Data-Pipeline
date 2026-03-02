@@ -1,0 +1,34 @@
+{
+  "report_number": "184827",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150413",
+  "reactions": [
+    "CHILLS",
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20150403",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HAMBURGER",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

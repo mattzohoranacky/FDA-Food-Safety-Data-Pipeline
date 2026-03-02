@@ -1,0 +1,56 @@
+{
+  "report_number": "90160",
+  "outcomes": [
+    "Death",
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20061221",
+  "reactions": [
+    "CARDIAC ENZYMES INCREASED",
+    "CARDIOMYOPATHY",
+    "CHEST DISCOMFORT",
+    "COMA",
+    "DYSPNOEA",
+    "Death",
+    "EJECTION FRACTION DECREASED",
+    "HYPOTENSION",
+    "LOSS OF CONSCIOUSNESS",
+    "NASOPHARYNGITIS",
+    "POSTURING",
+    "PULSE PRESSURE DECREASED",
+    "TROPONIN INCREASED",
+    "VENTRICULAR ARRHYTHMIA",
+    "VENTRICULAR FIBRILLATION"
+  ],
+  "date_started": "20061214",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLACK ICE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FAHRENHEIT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "204001",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161107",
+  "reactions": [
+    "BLOOD THYROID STIMULATING HORMONE DECREASED",
+    "HYPOTHYROIDISM",
+    "THYROXINE ABNORMAL",
+    "TREMOR",
+    "TRI-IODOTHYRONINE INCREASED"
+  ],
+  "date_started": "20161104",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THYRO-GOLD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

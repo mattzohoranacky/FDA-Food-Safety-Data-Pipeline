@@ -1,0 +1,62 @@
+{
+  "report_number": "72438",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040924",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CONFUSIONAL STATE",
+    "DEPRESSED MOOD",
+    "DEPRESSION",
+    "DIZZINESS",
+    "DRY SKIN",
+    "DYSPNOEA",
+    "FATIGUE",
+    "FEELING HOT",
+    "FLUID RETENTION",
+    "HAIR TEXTURE ABNORMAL",
+    "HEADACHE",
+    "HYPERHIDROSIS",
+    "HYPERSOMNIA",
+    "MEMORY IMPAIRMENT",
+    "NAUSEA",
+    "OEDEMA PERIPHERAL",
+    "PHYSICAL EXAMINATION",
+    "PRURITUS",
+    "SIMPLE PARTIAL SEIZURES",
+    "SOMNOLENCE",
+    "THROAT IRRITATION",
+    "VISION BLURRED",
+    "VISUAL FIELD DEFECT",
+    "WALKING AID USER",
+    "WEIGHT INCREASED"
+  ],
+  "date_started": "19980101",
+  "consumer": {
+    "age": "50.81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQUAL",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUGAR FREE MEAL BARS",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

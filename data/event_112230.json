@@ -1,0 +1,32 @@
+{
+  "report_number": "112230",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20081216",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ANAPHYLACTIC REACTION",
+    "NASAL CONGESTION",
+    "RASH GENERALISED",
+    "THROAT IRRITATION",
+    "VOMITING",
+    "WHEEZING"
+  ],
+  "date_started": "20081209",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLDEN CHOCOLATE BRIGHTON BEACH CANDY",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

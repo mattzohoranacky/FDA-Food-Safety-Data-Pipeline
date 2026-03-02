@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-003824",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190412",
+  "reactions": [
+    "Anxiety",
+    "Chest pain",
+    "Chills",
+    "Dyspnoea",
+    "Heart rate increased",
+    "Lip dry",
+    "Malaise",
+    "Palpitations",
+    "Vomiting"
+  ],
+  "date_started": "20190314",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEACHBODY PERFORMANCE ENGERGIZE LEMON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY CHOCOLATE BAG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

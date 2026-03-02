@@ -1,0 +1,35 @@
+{
+  "report_number": "190334",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20151005",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "CHOKING",
+    "EYE SWELLING",
+    "HYPERSENSITIVITY",
+    "OROPHARYNGEAL SWELLING",
+    "SWELLING FACE"
+  ],
+  "date_started": "20151004",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLIVOS ORGANIC EXTRA VIRGIN OLIVE OIL",
+      "industry_code": "26",
+      "industry_name": "Vegetable Oils"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN OVER 50",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

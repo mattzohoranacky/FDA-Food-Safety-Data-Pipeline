@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-004748",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240501",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea",
+    "Frequent bowel movements",
+    "Gastroenteritis salmonella",
+    "Haematochezia"
+  ],
+  "date_started": "20240407",
+  "consumer": {
+    "age": "9",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NEURO PRO GENTLEASE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

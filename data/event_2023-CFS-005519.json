@@ -1,0 +1,27 @@
+{
+  "report_number": "2023-CFS-005519",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230525",
+  "reactions": [
+    "Abdominal pain upper",
+    "Gastric ulcer",
+    "Vomiting"
+  ],
+  "date_started": "20230507",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFEVANTAGE PROTRAMDIN NRF2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

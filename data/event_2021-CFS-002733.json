@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-002733",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210323",
+  "reactions": [
+    "Erythema",
+    "Pruritus",
+    "Skin warm",
+    "Urticaria"
+  ],
+  "date_started": "20210322",
+  "consumer": {
+    "age": "6.5",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EUCERIN ORIGINAL HEALING LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Children's multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-005830",
+  "outcomes": [
+    "Allergic Reaction"
+  ],
+  "date_created": "20220421",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20110320",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JERGENS LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One a day prenatal vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

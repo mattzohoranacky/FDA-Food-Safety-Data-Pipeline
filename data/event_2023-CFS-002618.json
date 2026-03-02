@@ -1,0 +1,34 @@
+{
+  "report_number": "2023-CFS-002618",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230310",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chills",
+    "Hyperhidrosis",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20230309",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE TERIYAKI PINEAPPLE CHOPPED KIT",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "warm ginger tea",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

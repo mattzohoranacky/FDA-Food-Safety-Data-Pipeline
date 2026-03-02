@@ -1,0 +1,31 @@
+{
+  "report_number": "88477",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060928",
+  "reactions": [
+    "DIARRHOEA",
+    "NAUSEA",
+    "RENAL DISORDER",
+    "VOMITING"
+  ],
+  "date_started": "20060726",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH EXPRESS BABY SPICY SPINACH",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHICKEN",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

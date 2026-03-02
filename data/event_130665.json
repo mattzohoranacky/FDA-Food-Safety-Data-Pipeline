@@ -1,0 +1,28 @@
+{
+  "report_number": "130665",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100929",
+  "reactions": [
+    "DIARRHOEA",
+    "Food poisoning",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20100913",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALBERTSONS BLENDED STRAWBERRY LOW FAT YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

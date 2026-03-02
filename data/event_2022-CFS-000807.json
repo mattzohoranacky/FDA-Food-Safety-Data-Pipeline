@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-000807",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20220118",
+  "reactions": [
+    "Diarrhoea"
+  ],
+  "date_started": "20220117",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRESH EXPRESS  CRUNCHY BLENDS ITALIAN  CRUNCHY ROMAINE LETTUCE, RED CA",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B Complex 1 Tablet daily",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D 1000 units daily",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

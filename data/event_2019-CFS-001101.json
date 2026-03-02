@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-001101",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190205",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Anaphylactic shock",
+    "Dyspnoea",
+    "Erythema",
+    "Pruritus"
+  ],
+  "date_started": "20190203",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EAT ME GUILT FREE TUXEDO COOKIE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

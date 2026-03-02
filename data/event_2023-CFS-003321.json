@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-003321",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230328",
+  "reactions": [
+    "Alopecia"
+  ],
+  "date_started": "20230320",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "L'OREAL PARIS EXCELLENCE CREME HAIR COLOR EXTRA LIGHT NATURAL BLONDE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOREAL PARIS BLONDE DYE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

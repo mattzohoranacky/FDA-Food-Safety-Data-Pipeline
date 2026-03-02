@@ -1,0 +1,44 @@
+{
+  "report_number": "123917",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100222",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ADENOMA BENIGN",
+    "CHANGE OF BOWEL HABIT",
+    "COLITIS ISCHAEMIC",
+    "DIARRHOEA",
+    "LARGE INTESTINE PERFORATION",
+    "PERITONITIS",
+    "PNEUMATOSIS"
+  ],
+  "date_started": "20100210",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WRIGLEY'S EXTRA POLAR ICE GUM",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CANDIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MOUTHWASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "2020-CFS-002157",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200217",
+  "reactions": [
+    "Alopecia",
+    "Pruritus"
+  ],
+  "date_started": "20181114",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ARCANGEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO POO ORIGINAL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

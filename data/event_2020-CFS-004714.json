@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-004714",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20200427",
+  "reactions": [
+    "Back pain",
+    "Bone disorder",
+    "Headache",
+    "Heart rate increased",
+    "Hepatic pain",
+    "Renal pain",
+    "Thrombosis"
+  ],
+  "date_started": "20200423",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LA BANDERITA TORTILLA",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WALMART EQUATE BLACK ELDERBERRY GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

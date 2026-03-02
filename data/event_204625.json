@@ -1,0 +1,36 @@
+{
+  "report_number": "204625",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20161127",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "BOWEL MOVEMENT IRREGULARITY",
+    "INTESTINAL OBSTRUCTION",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20160817",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "20 DAY FIBROID CLEANSE AND REGIMEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

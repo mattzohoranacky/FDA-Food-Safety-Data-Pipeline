@@ -1,0 +1,31 @@
+{
+  "report_number": "185604",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150420",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "AMNESIA",
+    "CLOSTRIDIUM DIFFICILE COLITIS",
+    "DELIRIUM",
+    "PNEUMONIA",
+    "SPEECH DISORDER"
+  ],
+  "date_started": "20150404",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE BELL PINEAPPLE SHERBET, NATURALLY LOW FAT",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

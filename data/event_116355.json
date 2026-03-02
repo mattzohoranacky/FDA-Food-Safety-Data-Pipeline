@@ -1,0 +1,31 @@
+{
+  "report_number": "116355",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090727",
+  "reactions": [
+    "DIARRHOEA",
+    "FLATULENCE",
+    "GASTROINTESTINAL DISORDER",
+    "MALAISE"
+  ],
+  "date_started": "20090725",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RANIER FRESH CHERRIES",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

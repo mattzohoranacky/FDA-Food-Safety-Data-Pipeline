@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-009843",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20201002",
+  "reactions": [
+    "Chest pain",
+    "Dyspnoea",
+    "Musculoskeletal pain"
+  ],
+  "date_started": "20200827",
+  "consumer": {
+    "age": "46.99",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVISION TRU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVISION VY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "92309",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070205",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20070202",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE BABY LETTUCE MIX",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WATERCRESS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TORTILLINI PASTA",
+      "industry_code": "4",
+      "industry_name": "Macaroni/Noodle Prod"
+    }
+  ]
+}

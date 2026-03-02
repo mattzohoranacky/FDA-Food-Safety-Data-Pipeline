@@ -1,0 +1,35 @@
+{
+  "report_number": "115592",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090305",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse event",
+    "BODY TEMPERATURE INCREASED",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS SALMONELLA",
+    "NAUSEA",
+    "PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20090224",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S PATH ENVIROKIDZ ORGANIC LEAPIN' LEMURS PEANUT BUTTER AND CHOCOLATE CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

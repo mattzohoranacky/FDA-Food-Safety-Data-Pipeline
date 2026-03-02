@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-007430",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210729",
+  "reactions": [
+    "Botulism"
+  ],
+  "date_started": "20070718",
+  "consumer": {
+    "age": "57.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CASTLEBERRYS HOT DOG CHILI SAUCE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOOD CONTAMINATED",
+      "industry_code": "52",
+      "industry_name": "Miscellaneous Food Related Items"
+    }
+  ]
+}

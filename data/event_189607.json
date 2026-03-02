@@ -1,0 +1,38 @@
+{
+  "report_number": "189607",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150914",
+  "reactions": [
+    "ALOPECIA",
+    "BENIGN INTRACRANIAL HYPERTENSION",
+    "BLINDNESS",
+    "HAEMOGLOBIN DECREASED",
+    "HEADACHE",
+    "PAPILLOEDEMA",
+    "SEBORRHOEA"
+  ],
+  "date_started": "20150708",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANTENE FEMALE HAIR CONDITIONER ANTI BREAKAGE ANTI BREAKAGE ALL FORMS RINSE OFF",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANTENE FEMALE SHAMPOO BASE ANTI BREAKAGE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

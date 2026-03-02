@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-012154",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20211129",
+  "reactions": [
+    "Asthma",
+    "Burning sensation",
+    "Rash"
+  ],
+  "date_started": "20211127",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COCONUT MILK CONDITIONER LOVE OGX",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Tesco multivitamin plus iron 1 per day",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

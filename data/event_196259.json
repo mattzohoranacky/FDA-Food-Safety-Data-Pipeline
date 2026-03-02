@@ -1,0 +1,32 @@
+{
+  "report_number": "196259",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160512",
+  "reactions": [
+    "ANAEMIA",
+    "BLOOD TEST ABNORMAL",
+    "GASTROINTESTINAL HAEMORRHAGE",
+    "MUSCULAR WEAKNESS"
+  ],
+  "date_started": "20160429",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARDIORELAX AO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MYOCOR BALANCE-VM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

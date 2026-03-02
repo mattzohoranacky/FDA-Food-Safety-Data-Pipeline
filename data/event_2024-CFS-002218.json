@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-002218",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240216",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chills",
+    "Decreased appetite",
+    "Listeriosis",
+    "Nausea",
+    "Pain"
+  ],
+  "date_started": "20240208",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COTIJA CHEESE",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

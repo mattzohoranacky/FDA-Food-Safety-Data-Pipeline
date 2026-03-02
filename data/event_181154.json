@@ -1,0 +1,37 @@
+{
+  "report_number": "181154",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141201",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "CHILLS",
+    "CLOSTRIDIAL INFECTION",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "HYPERSENSITIVITY",
+    "VOMITING"
+  ],
+  "date_started": "20140911",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQ PROBIOTICS 4X 42CT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FIBER SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

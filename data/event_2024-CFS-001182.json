@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-001182",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240125",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Flatulence",
+    "Malaise"
+  ],
+  "date_started": "20240117",
+  "consumer": {
+    "age": "62",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUCRALOSE",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    }
+  ]
+}

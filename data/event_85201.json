@@ -1,0 +1,36 @@
+{
+  "report_number": "85201",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20060425",
+  "reactions": [
+    "Body temperature increased",
+    "Cronobacter infection",
+    "Death",
+    "Heart rate abnormal",
+    "Lethargy",
+    "Septic shock"
+  ],
+  "date_started": "20060404",
+  "consumer": {
+    "age": "28",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC NEOSURE READY TO FEED FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SPECIAL CARE READY TO FEED FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

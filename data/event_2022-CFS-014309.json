@@ -1,0 +1,38 @@
+{
+  "report_number": "2022-CFS-014309",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220921",
+  "reactions": [
+    "Blister",
+    "Keratosis pilaris",
+    "Rash"
+  ],
+  "date_started": "20220919",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BANANAN BOAT SUMMER COLOR LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Calcium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

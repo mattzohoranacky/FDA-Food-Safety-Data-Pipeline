@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-015741",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241213",
+  "reactions": [
+    "Abdominal pain upper",
+    "Hospitalisation",
+    "Nausea",
+    "Pain",
+    "Pyrexia"
+  ],
+  "date_started": "20240914",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIC BABY CARROTS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

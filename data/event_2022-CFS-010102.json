@@ -1,0 +1,34 @@
+{
+  "report_number": "2022-CFS-010102",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20220623",
+  "reactions": [
+    "Abdominal pain",
+    "Back pain",
+    "Fatigue",
+    "Hepatic enzyme increased",
+    "Nausea"
+  ],
+  "date_started": "20220616",
+  "consumer": {
+    "age": "36.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Prenatal vitamin (rarely)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

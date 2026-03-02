@@ -1,0 +1,30 @@
+{
+  "report_number": "90307",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20061220",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "CARDIAC FIBRILLATION",
+    "HEART RATE ABNORMAL",
+    "HEART RATE INCREASED",
+    "LETHARGY",
+    "PALPITATIONS"
+  ],
+  "date_started": "20061219",
+  "consumer": {
+    "age": "12",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOST ENERGY DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

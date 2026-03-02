@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-004677",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240429",
+  "reactions": [
+    "Delirium",
+    "Mental status changes",
+    "Pain",
+    "Seizure",
+    "Sleep deficit",
+    "Withdrawal syndrome"
+  ],
+  "date_started": "20240125",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

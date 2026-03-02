@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-071557",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20231222",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain",
+    "Diarrhoea",
+    "Gastric dilatation",
+    "Vomiting"
+  ],
+  "date_started": "20231104",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AG1 WHOLE FOOD DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

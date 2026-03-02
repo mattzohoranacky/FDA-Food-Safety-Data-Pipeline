@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-004737",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190512",
+  "reactions": [
+    "Abdominal discomfort",
+    "Chromaturia",
+    "Decreased appetite",
+    "Hepatitis",
+    "Jaundice",
+    "Liver function test abnormal",
+    "Nausea",
+    "Yellow skin"
+  ],
+  "date_started": "20190130",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREPARED HE-SHOU-WU (WILD HARVESTED)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Prepared He-Shou-Wu",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

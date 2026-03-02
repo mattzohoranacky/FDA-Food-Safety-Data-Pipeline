@@ -1,0 +1,37 @@
+{
+  "report_number": "2019-CFS-005004",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190518",
+  "reactions": [
+    "Pruritus",
+    "Rash"
+  ],
+  "date_started": "20190513",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TATTOO INK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Sugarbear hair",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Swanson lactobacillus gasseri",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

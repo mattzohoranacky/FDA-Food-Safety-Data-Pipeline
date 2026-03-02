@@ -1,0 +1,40 @@
+{
+  "report_number": "2018-CFS-013360",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181106",
+  "reactions": [
+    "Chills",
+    "Feeling hot",
+    "Movement disorder",
+    "Pain",
+    "Tremor"
+  ],
+  "date_started": "20181105",
+  "consumer": {
+    "age": "51.8",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RHINO 11",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One A Day",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

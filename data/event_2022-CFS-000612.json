@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-000612",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220113",
+  "reactions": [
+    "Blood pressure increased",
+    "Dry mouth",
+    "Feeling hot",
+    "Heart rate increased",
+    "Vision blurred"
+  ],
+  "date_started": "20220110",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DELTA 8 GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Naturelo Whole Food Mult vitamin for men",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

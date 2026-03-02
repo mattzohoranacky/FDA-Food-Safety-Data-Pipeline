@@ -1,0 +1,36 @@
+{
+  "report_number": "177438",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140625",
+  "reactions": [
+    "SMALL INTESTINAL OBSTRUCTION"
+  ],
+  "date_started": "20140429",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FERGON (FERROUS GLUCONATE) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHROMIUM (CHROMIUM)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CINNAMON (CINNAMOMUM VERUM)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

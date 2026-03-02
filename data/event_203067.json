@@ -1,0 +1,45 @@
+{
+  "report_number": "203067",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20161018",
+  "reactions": [
+    "CEREBROVASCULAR ACCIDENT",
+    "DYSARTHRIA",
+    "DYSGEUSIA",
+    "DYSPHAGIA",
+    "FOAMING AT MOUTH",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "MEDICAL DEVICE COMPLICATION",
+    "MEMORY IMPAIRMENT",
+    "MYDRIASIS",
+    "NAUSEA",
+    "PAIN",
+    "SALIVARY HYPERSECRETION",
+    "THROMBOSIS",
+    "VIITH NERVE PARALYSIS"
+  ],
+  "date_started": "20160917",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

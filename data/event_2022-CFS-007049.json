@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-007049",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220512",
+  "reactions": [
+    "Dermatitis",
+    "Hypersensitivity",
+    "Urticaria"
+  ],
+  "date_started": "20211130",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOVE BEAUTY AND PLANET BLACK TEA KOMBUCHA RED GINGER CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOVE BEAUTY AND PLANET BLACK TEA KOMBUCHA RED GINGER SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

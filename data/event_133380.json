@@ -1,0 +1,32 @@
+{
+  "report_number": "133380",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101213",
+  "reactions": [
+    "CHEMICAL POISONING",
+    "COUGH",
+    "DIZZINESS",
+    "HYPERSENSITIVITY",
+    "INFLAMMATION",
+    "MALAISE",
+    "THROAT IRRITATION",
+    "TREMOR"
+  ],
+  "date_started": "20101102",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SELECT BRAND ZOOPALS + EXTRA C, CHEWABLE TABLETS, 60CT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "201724",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160916",
+  "reactions": [
+    "DELUSION",
+    "HALLUCINATION",
+    "PARANOIA",
+    "SUICIDAL IDEATION"
+  ],
+  "date_started": "20160823",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SAVI FLOURISH PEA PROTEIN SHAKE VANILLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SAVI SLIM THERMOGENIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SAVI SYNC TRIPLE FIBER CHOCOLATE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

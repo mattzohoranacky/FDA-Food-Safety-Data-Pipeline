@@ -1,0 +1,39 @@
+{
+  "report_number": "77384",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050406",
+  "reactions": [
+    "FEELING ABNORMAL",
+    "HOARSENESS",
+    "OROPHARYNGEAL SWELLING",
+    "POSTNASAL DRIP"
+  ],
+  "date_started": "20050404",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LUETIN AND BILBERRY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION WITH LUETIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2020-CFS-004283",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200411",
+  "reactions": [
+    "Chemical injury"
+  ],
+  "date_started": "20200406",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UP&UP NAIL POLISH REMOVER NON-ACETONE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "b12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

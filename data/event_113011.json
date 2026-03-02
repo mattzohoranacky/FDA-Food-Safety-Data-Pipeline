@@ -1,0 +1,30 @@
+{
+  "report_number": "113011",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090511",
+  "reactions": [
+    "CHROMATURIA",
+    "DYSPNOEA",
+    "FATIGUE",
+    "HYPERBILIRUBINAEMIA",
+    "JAUNDICE",
+    "TRANSAMINASES INCREASED"
+  ],
+  "date_started": "20070607",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "2018-CFS-001895",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180130",
+  "reactions": [
+    "Alopecia",
+    "Menorrhagia",
+    "Trichorrhexis"
+  ],
+  "date_started": "20171030",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT RENEW SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT REVITALIZE CONDITIONER AND BLOW OUT CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HAIR SKIN NAIL VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

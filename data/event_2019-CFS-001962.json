@@ -1,0 +1,35 @@
+{
+  "report_number": "2019-CFS-001962",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20190222",
+  "reactions": [
+    "Crying",
+    "Diarrhoea",
+    "Feeding disorder of infancy or early childhood",
+    "Irritability",
+    "Lethargy",
+    "Vomiting"
+  ],
+  "date_started": "20190208",
+  "consumer": {
+    "age": "10",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NEUROPRO GENTLEASE READY TO USE BOTTLES",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "134200",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101026",
+  "reactions": [
+    "ARRHYTHMIA",
+    "CHILLS",
+    "DIARRHOEA",
+    "DYSPEPSIA",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FEELING HOT",
+    "FLUSHING",
+    "FOOD ALLERGY",
+    "Food poisoning",
+    "HEADACHE",
+    "LETHARGY",
+    "OCULAR HYPERAEMIA"
+  ],
+  "date_started": "20101023",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OMAHA STEAKS FROZEN AHI TUNA STEAKS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

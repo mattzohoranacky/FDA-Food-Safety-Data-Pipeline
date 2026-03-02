@@ -1,0 +1,32 @@
+{
+  "report_number": "2017-CFS-001150",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20171020",
+  "reactions": [
+    "Asthenia",
+    "Dehydration",
+    "Dizziness",
+    "Fatigue",
+    "Hyperglycaemia",
+    "Hypokalaemia",
+    "Hyponatraemia",
+    "Urine output increased"
+  ],
+  "date_started": "20171018",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

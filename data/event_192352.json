@@ -1,0 +1,53 @@
+{
+  "report_number": "192352",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151228",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ALOPECIA",
+    "AMINO ACID LEVEL INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "DRUG-INDUCED LIVER INJURY",
+    "FATIGUE",
+    "GASTROINTESTINAL OEDEMA",
+    "JAUNDICE",
+    "LIPASE INCREASED",
+    "NAUSEA",
+    "PLATELET COUNT DECREASED",
+    "PLATELET MORPHOLOGY ABNORMAL",
+    "PROTEIN TOTAL DECREASED",
+    "SOMNOLENCE",
+    "ULTRASOUND LIVER ABNORMAL"
+  ],
+  "date_started": "20151209",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SEROVITAL-HIGH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OILS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

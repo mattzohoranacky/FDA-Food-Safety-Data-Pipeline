@@ -1,0 +1,33 @@
+{
+  "report_number": "134943",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090123",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL PAIN",
+    "APPETITE DISORDER",
+    "DECREASED APPETITE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20090114",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOES ORGANIC BABY SPINACH",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TRADER JOES GODDESS DRESSING",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    }
+  ]
+}

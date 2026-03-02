@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-011372",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20180911",
+  "reactions": [
+    "Body height decreased",
+    "Dysphagia",
+    "Posture abnormal"
+  ],
+  "date_started": "19940801",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CENTRUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Viactiv (Calcium)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

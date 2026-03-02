@@ -1,0 +1,41 @@
+{
+  "report_number": "137803",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20110412",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse reaction",
+    "CHILLS",
+    "DIARRHOEA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20110410",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DELMONTE FRUIT NATURALS BLUEBERRIES CUP",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIMMY JOHN S CLUB STYLE SUB SANDWICH",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ODWALLA ORIGINAL SUPER PROTEIN FRUIT SMOOTHIE BLEND",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-012721",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20231116",
+  "reactions": [
+    "Blepharitis",
+    "Corneal abrasion"
+  ],
+  "date_started": "20231027",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMAZING LASH STUDIO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

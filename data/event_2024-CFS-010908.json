@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-010908",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240825",
+  "reactions": [
+    "Abdominal pain upper",
+    "Chills",
+    "Diarrhoea",
+    "Drug withdrawal syndrome",
+    "Feeling of body temperature change",
+    "Irritability",
+    "Mood swings",
+    "Nausea",
+    "Pain",
+    "Tremor"
+  ],
+  "date_started": "20240515",
+  "consumer": {
+    "age": "22.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM PILLS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

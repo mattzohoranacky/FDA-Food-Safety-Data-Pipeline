@@ -1,0 +1,32 @@
+{
+  "report_number": "2017-CFS-000847",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20171011",
+  "reactions": [
+    "Conjunctivitis",
+    "Diarrhoea",
+    "Gastrooesophageal reflux disease",
+    "Hypersensitivity",
+    "Infantile colic",
+    "Infection",
+    "Staphylococcal infection",
+    "Viral test positive",
+    "Vomiting"
+  ],
+  "date_started": "20170909",
+  "consumer": {
+    "age": "16",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL D-VI-SOL LIQUID VITAMIN D SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

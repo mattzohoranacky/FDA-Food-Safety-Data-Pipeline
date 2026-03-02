@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-012011",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220802",
+  "reactions": [
+    "Decreased appetite",
+    "Hypotension",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20220801",
+  "consumer": {
+    "age": "20",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OATLY THE ORIGINAL",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    }
+  ]
+}

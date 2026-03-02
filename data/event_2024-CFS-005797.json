@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-005797",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240604",
+  "reactions": [
+    "Agitation",
+    "Altered state of consciousness",
+    "Endotracheal intubation",
+    "Hallucination",
+    "Muscle rigidity",
+    "Seizure",
+    "Vomiting"
+  ],
+  "date_started": "20240601",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND SHRUUMZ PREMIUM MICRODOSE CHOCOLATE- DARK CHOCOLATE BAR",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

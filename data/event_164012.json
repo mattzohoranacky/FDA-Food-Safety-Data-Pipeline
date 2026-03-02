@@ -1,0 +1,31 @@
+{
+  "report_number": "164012",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130329",
+  "reactions": [
+    "ACCIDENTAL DRUG INTAKE BY CHILD",
+    "WRONG DRUG ADMINISTERED"
+  ],
+  "date_started": "20130321",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLINTSTONES WITH IRON CHEWABLE MULTIVITAMINS + IRON CHEWABLE TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NOVAFERRUM IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

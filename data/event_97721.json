@@ -1,0 +1,37 @@
+{
+  "report_number": "97721",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20071009",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "NAUSEA",
+    "RETCHING",
+    "VOMITING"
+  ],
+  "date_started": "20071007",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRAFT CREAMY HORSERADISH SAUCE",
+      "industry_code": "27",
+      "industry_name": "Dressing/Condiment"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KROGER SLICED TURKERY",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHITE BREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

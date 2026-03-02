@@ -1,0 +1,31 @@
+{
+  "report_number": "90063",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20061208",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "MALAISE",
+    "RASH",
+    "SKIN BURNING SENSATION",
+    "VOMITING"
+  ],
+  "date_started": "20060211",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENSURE DIETARY SUPPLEMENT DRINK",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

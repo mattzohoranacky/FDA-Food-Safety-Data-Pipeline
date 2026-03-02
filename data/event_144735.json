@@ -1,0 +1,60 @@
+{
+  "report_number": "144735",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20111020",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20111018",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIERRA MIST SOFT DRINK",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BANQUET FROZEN TURKEY DINNER",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHICKEN FRIED STEAK",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FRIED CHICKEN",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "RANCH BRAND CANNED BAKED BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SALT AND VINEGAR POTATO CHIPS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SCALLOPED POTATOES FROM PACKAGED DRY MIX",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

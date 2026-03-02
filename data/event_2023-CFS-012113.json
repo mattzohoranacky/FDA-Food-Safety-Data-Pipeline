@@ -1,0 +1,29 @@
+{
+  "report_number": "2023-CFS-012113",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20231031",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Vomiting"
+  ],
+  "date_started": "20231004",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SNACK PACK STRAWBERRY GELATIN",
+      "industry_code": "35",
+      "industry_name": "Gelatin/Rennet/Pudding Mix/Pie Filling"
+    }
+  ]
+}

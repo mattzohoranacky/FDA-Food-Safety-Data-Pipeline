@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-007923",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20210322",
+  "reactions": [
+    "Anaphylactic shock",
+    "Dyspnoea"
+  ],
+  "date_started": "20210320",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S JUMBO CINNAMON ROLLS WITH VANILLA ICING",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

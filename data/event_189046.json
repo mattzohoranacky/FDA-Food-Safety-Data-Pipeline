@@ -1,0 +1,32 @@
+{
+  "report_number": "189046",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150820",
+  "reactions": [
+    "BLOOD TRIGLYCERIDES INCREASED",
+    "VITAMIN D DECREASED"
+  ],
+  "date_started": "20150206",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NATURALS HIGH POTENCY VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE'S MEASURE VITAMIN D3 1,000 IU'S SOFT GELS SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "report_number": "2023-CFS-002065",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230228",
+  "reactions": [
+    "Hypersensitivity",
+    "Pharyngeal swelling",
+    "Swelling face"
+  ],
+  "date_started": "20230123",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHOENIX FORMULATIONS KIDS MOOD PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

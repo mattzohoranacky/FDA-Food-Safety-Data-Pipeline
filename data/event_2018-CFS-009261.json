@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-009261",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180712",
+  "reactions": [
+    "Ankle fracture",
+    "Balance disorder",
+    "Dysphagia",
+    "Fall",
+    "Gait disturbance",
+    "Neuralgia",
+    "Walking aid user",
+    "Wheelchair user"
+  ],
+  "date_started": "20180707",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE 3X STRENGTH JOINT SOOTHER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DETOX SHA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

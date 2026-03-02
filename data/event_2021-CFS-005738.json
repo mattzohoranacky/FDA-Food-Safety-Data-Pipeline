@@ -1,0 +1,26 @@
+{
+  "report_number": "2021-CFS-005738",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210616",
+  "reactions": [
+    "Bacterial infection",
+    "Nephrolithiasis"
+  ],
+  "date_started": "20210405",
+  "consumer": {
+    "age": "89",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY D3 50MCG (2,000 IU) RAPID RELEASE SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

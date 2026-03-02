@@ -1,0 +1,29 @@
+{
+  "report_number": "86613",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060330",
+  "reactions": [
+    "FOOD POISONING",
+    "GASTROENTERITIS",
+    "HYPERSENSITIVITY",
+    "SEPSIS",
+    "SHIGELLA INFECTION"
+  ],
+  "date_started": "20060228",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHICKEN OF THE SEA OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

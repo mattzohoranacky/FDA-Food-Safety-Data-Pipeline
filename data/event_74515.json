@@ -1,0 +1,33 @@
+{
+  "report_number": "74515",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20041116",
+  "reactions": [
+    "ENTEROBACTER INFECTION",
+    "HOSPITALISATION",
+    "MENINGITIS"
+  ],
+  "date_started": "20041111",
+  "consumer": {
+    "age": "3",
+    "age_unit": "week(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEAD JOHNSON BABY FORMULAS",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROSS BABY FORMULAS",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

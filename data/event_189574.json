@@ -1,0 +1,42 @@
+{
+  "report_number": "189574",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150810",
+  "reactions": [
+    "Body temperature fluctuation",
+    "Crying",
+    "Enterobacter infection",
+    "Enterobacter test positive",
+    "Erythema",
+    "Generalised anxiety disorder",
+    "Lethargy",
+    "Pain",
+    "Pyrexia"
+  ],
+  "date_started": "20150805",
+  "consumer": {
+    "age": "2",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC ADVANCE OPTIGROW POWDERED INFANT FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BOTTLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

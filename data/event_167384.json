@@ -1,0 +1,35 @@
+{
+  "report_number": "167384",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130628",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DRY MOUTH",
+    "HEADACHE",
+    "NAUSEA",
+    "PALPITATIONS",
+    "VOMITING"
+  ],
+  "date_started": "20130606",
+  "consumer": {
+    "age": "26",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IONIX SUPREME ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL ACCELERATOR ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

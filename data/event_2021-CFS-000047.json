@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-000047",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20210101",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20210101",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHINESE FOOD",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCALLOPS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

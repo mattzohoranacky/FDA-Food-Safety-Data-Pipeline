@@ -1,0 +1,38 @@
+{
+  "report_number": "2018-CFS-005309",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180402",
+  "reactions": [
+    "Burning sensation",
+    "Chromaturia",
+    "Dermatitis allergic",
+    "Insomnia",
+    "Local swelling",
+    "Pruritus",
+    "Rash generalised",
+    "Urticaria"
+  ],
+  "date_started": "20180225",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENESIS TODAY DETOX GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Calcium citrate magnesium and zinc with vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

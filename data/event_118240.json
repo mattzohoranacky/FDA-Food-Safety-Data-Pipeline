@@ -1,0 +1,27 @@
+{
+  "report_number": "118240",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20090924",
+  "reactions": [
+    "DIARRHOEA",
+    "DIARRHOEA HAEMORRHAGIC"
+  ],
+  "date_started": "20090701",
+  "consumer": {
+    "age": "1",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NESTLE GOOD START DHA AND ARA FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

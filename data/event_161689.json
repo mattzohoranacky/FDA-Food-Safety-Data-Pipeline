@@ -1,0 +1,29 @@
+{
+  "report_number": "161689",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121212",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DYSPEPSIA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "INFLUENZA LIKE ILLNESS",
+    "NAUSEA",
+    "PHARYNGITIS"
+  ],
+  "date_started": "20121201",
+  "consumer": {
+    "age": "1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL PREMIUM INFANT FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

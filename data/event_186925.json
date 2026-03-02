@@ -1,0 +1,47 @@
+{
+  "report_number": "186925",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20150611",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "MUSCLE SPASMS",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20150515",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX - CLEANSE FOR LIFE - LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX - IONIX SUPREME LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX - ISAFLUSH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX - NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

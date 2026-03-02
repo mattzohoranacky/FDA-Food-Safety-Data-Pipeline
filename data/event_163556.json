@@ -1,0 +1,33 @@
+{
+  "report_number": "163556",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130319",
+  "reactions": [
+    "HYPERHIDROSIS",
+    "INCONTINENCE",
+    "MUSCLE SPASMS",
+    "VOMITING"
+  ],
+  "date_started": "20130220",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX CLEANSE FOR LIFE NATURAL RICH BERRY LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX NATURAL ACCELERATOR ARIZONA NUTRITIONAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

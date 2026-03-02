@@ -1,0 +1,33 @@
+{
+  "report_number": "2023-CFS-009188",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230830",
+  "reactions": [
+    "Hypotension",
+    "Mental status changes",
+    "Psychomotor hyperactivity",
+    "Vomiting"
+  ],
+  "date_started": "20230830",
+  "consumer": {
+    "age": "19",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAINBOW CANNA  BANANA ROPE",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "tylenol",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

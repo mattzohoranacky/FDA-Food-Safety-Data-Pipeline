@@ -1,0 +1,34 @@
+{
+  "report_number": "2020-CFS-006440",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20200626",
+  "reactions": [
+    "Alopecia",
+    "Folliculitis",
+    "Staphylococcal infection",
+    "Swelling"
+  ],
+  "date_started": "20180306",
+  "consumer": {
+    "age": "26.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LAFOLIE HAIR THERAPY GROWTH SERUM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LAFOLIE HAIR THERAPY vitablend",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "report_number": "207010",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170130",
+  "reactions": [
+    "DIARRHOEA",
+    "DYSPNOEA",
+    "HAEMATEMESIS",
+    "HEADACHE",
+    "NAUSEA",
+    "NECK PAIN",
+    "PAIN",
+    "PYREXIA",
+    "URTICARIA",
+    "VISUAL ACUITY REDUCED"
+  ],
+  "date_started": "20161205",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL JIF CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

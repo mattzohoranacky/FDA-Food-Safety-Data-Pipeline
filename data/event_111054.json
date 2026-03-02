@@ -1,0 +1,40 @@
+{
+  "report_number": "111054",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20090312",
+  "reactions": [
+    "ABASIA",
+    "ANXIETY",
+    "DISCOMFORT",
+    "DIZZINESS",
+    "EUPHORIC MOOD",
+    "FEELING ABNORMAL",
+    "GAIT DISTURBANCE",
+    "IMPAIRED WORK ABILITY",
+    "MALAISE",
+    "MUSCULAR WEAKNESS",
+    "MYDRIASIS"
+  ],
+  "date_started": "20090310",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REZV (RESVERITROL) 100 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

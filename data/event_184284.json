@@ -1,0 +1,27 @@
+{
+  "report_number": "184284",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150305",
+  "reactions": [
+    "COUGH",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "INCREASED UPPER AIRWAY SECRETION",
+    "LETHARGY",
+    "PYREXIA"
+  ],
+  "date_started": "20150226",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOLGERS GROUND COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

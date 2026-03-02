@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-006600",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230828",
+  "reactions": [
+    "Abdominal pain upper",
+    "Asthenia",
+    "Diarrhoea",
+    "Fatigue",
+    "Musculoskeletal stiffness",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20230824",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE BELL COOKIES AND CREAM ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

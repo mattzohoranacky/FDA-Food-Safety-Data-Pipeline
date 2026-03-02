@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-001486",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization"
+  ],
+  "date_created": "20220131",
+  "reactions": [
+    "Abdominal pain",
+    "Back pain",
+    "Chest pain",
+    "Diarrhoea",
+    "Headache",
+    "Myocardial infarction",
+    "Nausea"
+  ],
+  "date_started": "20220131",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARTRI KING ORTIGA OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

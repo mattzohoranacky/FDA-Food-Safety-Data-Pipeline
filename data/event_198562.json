@@ -1,0 +1,35 @@
+{
+  "report_number": "198562",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160718",
+  "reactions": [
+    "COLONOSCOPY ABNORMAL",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "ENDOSCOPY ABNORMAL",
+    "HEADACHE",
+    "NAUSEA",
+    "PARASITE TISSUE SPECIMEN TEST POSITIVE",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20160624",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRISCOLL'S RASPBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

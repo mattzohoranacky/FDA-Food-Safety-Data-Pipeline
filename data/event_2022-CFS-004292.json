@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-004292",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220324",
+  "reactions": [
+    "Haemorrhage",
+    "Nail bed disorder",
+    "Nail discolouration",
+    "Pain",
+    "Skin exfoliation",
+    "Skin infection",
+    "Skin injury"
+  ],
+  "date_started": "20211101",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JERGENS ULTRA HEALING REPAIRS AND HEALS EXTRA DRY SKIN WITH VIT C, E",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Daily vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

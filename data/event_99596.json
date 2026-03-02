@@ -1,0 +1,32 @@
+{
+  "report_number": "99596",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20080111",
+  "reactions": [
+    "HEPATOCELLULAR DAMAGE",
+    "HYPERVITAMINOSIS"
+  ],
+  "date_started": "20071031",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENZYMATIC THERAPY INC. FATIGUED TO FANTASTIC ENERGY REVITALIZATION SYSTEM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULITVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

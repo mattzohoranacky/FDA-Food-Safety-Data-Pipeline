@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-005859",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180415",
+  "reactions": [
+    "Asthenia",
+    "Diarrhoea",
+    "Headache",
+    "Pyrexia"
+  ],
+  "date_started": "20180413",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOOD LION LARGE EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Food lion  large eggs",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    }
+  ]
+}

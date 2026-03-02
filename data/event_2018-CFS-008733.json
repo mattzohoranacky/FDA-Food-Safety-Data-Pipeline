@@ -1,0 +1,32 @@
+{
+  "report_number": "2018-CFS-008733",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180628",
+  "reactions": [
+    "Blood pressure increased",
+    "Brain stem thrombosis",
+    "Cerebrovascular accident",
+    "Computerised tomogram abnormal",
+    "Drug screen positive",
+    "Fatigue",
+    "Headache",
+    "Nuclear magnetic resonance imaging brain abnormal"
+  ],
+  "date_started": "20180404",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CELLUCOR - C4 ORIGINAL - THE ORIGINAL EXPLOSIVE PRE-WORKOUT WILD FRUIT BLAST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

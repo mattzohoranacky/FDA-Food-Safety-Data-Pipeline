@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-011032",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20191103",
+  "reactions": [
+    "Diarrhoea",
+    "Muscle spasms",
+    "Vomiting"
+  ],
+  "date_started": "20191101",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLANT BASED VEGA PLANT NUTRITION SHAKE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi vitamin daily",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

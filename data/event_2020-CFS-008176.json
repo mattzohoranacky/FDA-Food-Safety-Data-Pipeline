@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-008176",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200824",
+  "reactions": [
+    "Erythema",
+    "Papule",
+    "Paraesthesia oral",
+    "Pruritus",
+    "Tongue pruritus",
+    "Urticaria"
+  ],
+  "date_started": "20200501",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEYOND RAW LIT POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC TOTAL LEAN LEAN SHAKE + SLIMVANCE NON STIM",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

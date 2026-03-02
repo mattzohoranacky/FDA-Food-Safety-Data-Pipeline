@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-017540",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20221228",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea"
+  ],
+  "date_started": "20221228",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S A COMPLETE SALAD KIT CAESAR STYLE",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Differin Gel, .1%; retinol face lotion",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

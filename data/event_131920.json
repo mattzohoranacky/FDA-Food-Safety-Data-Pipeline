@@ -1,0 +1,29 @@
+{
+  "report_number": "131920",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101025",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse event",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "VOMITING"
+  ],
+  "date_started": "20101020",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCHWAN'S SUPER SWEET CORN",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

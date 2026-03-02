@@ -1,0 +1,40 @@
+{
+  "report_number": "2019-CFS-008403",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20190815",
+  "reactions": [
+    "Abdominal distension",
+    "Diarrhoea",
+    "Flatulence",
+    "Headache",
+    "Muscle spasms"
+  ],
+  "date_started": "20190814",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SO DELICIOUS DAIRY FREE MINT CHIP COCONUT NON-DAIRY FROZEN DESSERT",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B Vits",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fish Oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

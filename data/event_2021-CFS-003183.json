@@ -1,0 +1,32 @@
+{
+  "report_number": "2021-CFS-003183",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20210408",
+  "reactions": [
+    "Abortion spontaneous",
+    "Body temperature increased",
+    "Diarrhoea",
+    "Dizziness",
+    "Headache",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20210318",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAFUSION PRENATAL DHA & FOLIC ACID GUMMY VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "187474",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150628",
+  "reactions": [
+    "DIZZINESS",
+    "HYPERSENSITIVITY",
+    "RASH"
+  ],
+  "date_started": "20150623",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THRIVE PREMIUM LIFESTYLE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THRIVE PREMIUM LIFESTYLE MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THRIVE PREMIUM LIFESTYLE PATCH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

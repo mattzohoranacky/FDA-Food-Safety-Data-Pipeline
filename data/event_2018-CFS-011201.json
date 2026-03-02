@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-011201",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180909",
+  "reactions": [
+    "Angina pectoris",
+    "Chest pain",
+    "Food intolerance",
+    "Heart rate irregular",
+    "Insomnia",
+    "Vomiting"
+  ],
+  "date_started": "20180828",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CYPROHEPTADINE LYSINE AND VITAMINS SYRUP - APETAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

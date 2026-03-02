@@ -1,0 +1,31 @@
+{
+  "report_number": "170003",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20130913",
+  "reactions": [
+    "DIARRHOEA",
+    "STOMACH DISCOMFORT"
+  ],
+  "date_started": "20130904",
+  "consumer": {
+    "age": "3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI CHAMPION YOGURT TUBES",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI YOGURT CUP",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-011669",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20191123",
+  "reactions": [
+    "Headache"
+  ],
+  "date_started": "20170115",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MISSION YELLOW CORN TORTILLAS EXTRA THIN PREMIUM QUALITY",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLE XTREME WELLNESS HIGH FIBER LOW CARB TORTILLA WRAPS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "various multivitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "212038",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170517",
+  "reactions": [
+    "Asthma",
+    "Blood glucose increased",
+    "Oropharyngeal pain",
+    "Palpitations",
+    "Pneumonia",
+    "Pruritus",
+    "Sepsis",
+    "Urticaria"
+  ],
+  "date_started": "20170421",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE GARCINA CAMBOGIA 1000MG RAPID RELEASE VEGETABLE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

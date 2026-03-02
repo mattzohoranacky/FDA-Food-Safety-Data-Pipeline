@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-004963",
+  "outcomes": [
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20240508",
+  "reactions": [
+    "Abdominal pain upper",
+    "Bronchitis",
+    "Cough",
+    "Illness"
+  ],
+  "date_started": "20240503",
+  "consumer": {
+    "age": "6.8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIDSCENTS MIGHTYPRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FIRST DAY KIDS DAILY MULTIVITAMIN GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

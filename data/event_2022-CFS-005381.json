@@ -1,0 +1,31 @@
+{
+  "report_number": "2022-CFS-005381",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220414",
+  "reactions": [
+    "Swollen tongue"
+  ],
+  "date_started": "20220321",
+  "consumer": {
+    "age": "64.62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEIGNS FOR HEALTH COQNOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DESIGNS FOR HEALTH ADK EVAIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-003947",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230412",
+  "reactions": [
+    "Diabetic retinopathy"
+  ],
+  "date_started": "20230324",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE EYE GUARD PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Supplements",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

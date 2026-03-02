@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-001963",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240211",
+  "reactions": [
+    "Abdominal pain",
+    "Blood glucose increased",
+    "Diarrhoea",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20240119",
+  "consumer": {
+    "age": "13.4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUORN MEATLESS VEGAN CHICKEN",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    }
+  ]
+}

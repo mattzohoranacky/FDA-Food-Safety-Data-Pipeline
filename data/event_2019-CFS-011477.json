@@ -1,0 +1,37 @@
+{
+  "report_number": "2019-CFS-011477",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191120",
+  "reactions": [
+    "Dermatitis allergic",
+    "Rash"
+  ],
+  "date_started": "20191116",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JERGENS NATURAL GLOW",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MVI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

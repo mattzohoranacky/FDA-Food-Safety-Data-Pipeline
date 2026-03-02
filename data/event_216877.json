@@ -1,0 +1,56 @@
+{
+  "report_number": "216877",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170823",
+  "reactions": [
+    "ABDOMINAL INJURY",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANTINUCLEAR ANTIBODY POSITIVE",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BIOPSY LIVER ABNORMAL",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHOLESTASIS",
+    "CHOLESTATIC LIVER INJURY",
+    "CHROMATURIA",
+    "COMPUTERISED TOMOGRAM ABDOMEN ABNORMAL",
+    "DRUG-INDUCED LIVER INJURY",
+    "FAECES DISCOLOURED",
+    "FAECES PALE",
+    "HEPATOBILIARY SCAN ABNORMAL",
+    "INFLAMMATION",
+    "JAUNDICE",
+    "LIPASE INCREASED",
+    "MIXED LIVER INJURY",
+    "PRURITUS",
+    "ULTRASOUND LIVER ABNORMAL"
+  ],
+  "date_started": "20141023",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CYCLE CONTROL X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HALO X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYPERSHRED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

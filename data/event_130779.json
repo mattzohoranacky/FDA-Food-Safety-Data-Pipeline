@@ -1,0 +1,32 @@
+{
+  "report_number": "130779",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100903",
+  "reactions": [
+    "BLOOD BILIRUBIN INCREASED",
+    "CONFUSIONAL STATE",
+    "HEADACHE",
+    "HEPATIC ENZYME INCREASED",
+    "PRURITUS",
+    "SKIN DISCOLOURATION",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20100616",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRICYCLINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

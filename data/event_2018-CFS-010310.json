@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-010310",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180813",
+  "reactions": [
+    "Food allergy",
+    "Hypersensitivity",
+    "Nausea",
+    "Throat irritation",
+    "Throat tightness",
+    "Tongue pruritus",
+    "Urticaria",
+    "Vomiting"
+  ],
+  "date_started": "20180812",
+  "consumer": {
+    "age": "27.12",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENJOY LIFE CHOCOLATE CHIP COOKIES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

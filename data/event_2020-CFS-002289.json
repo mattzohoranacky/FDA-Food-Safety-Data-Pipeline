@@ -1,0 +1,46 @@
+{
+  "report_number": "2020-CFS-002289",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20200218",
+  "reactions": [
+    "Asthenia",
+    "Depression",
+    "Gastrointestinal pain",
+    "Mood swings",
+    "Pain"
+  ],
+  "date_started": "20200126",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE VALLEY SWEET & SALTY DARK CHOCOLATE PEANUT & ALMOND GRANOLA BAR",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Histamine Shield",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Magnesium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "172967",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131022",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "VOMITING"
+  ],
+  "date_started": "20131018",
+  "consumer": {
+    "age": "4",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIC CHOCOLATE SOY MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIC VANILLA SOY MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

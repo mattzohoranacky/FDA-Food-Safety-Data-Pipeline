@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-004457",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180313",
+  "reactions": [
+    "Agitation",
+    "Blood triglycerides increased",
+    "Cerebrovascular accident",
+    "Confusional state",
+    "Dysarthria",
+    "Feeling abnormal",
+    "Memory impairment",
+    "Transient ischaemic attack"
+  ],
+  "date_started": "20180212",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY ULTRA STRENGTH PROBIOTIC 10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "unspecified krill oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

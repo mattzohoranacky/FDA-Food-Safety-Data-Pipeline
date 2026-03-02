@@ -1,0 +1,38 @@
+{
+  "report_number": "209887",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170403",
+  "reactions": [
+    "CHAPPED LIPS",
+    "CHEILITIS",
+    "ERYTHEMA",
+    "LIP DRY",
+    "LIP SWELLING",
+    "OROPHARYNGEAL PAIN",
+    "PARAESTHESIA ORAL",
+    "STOMATITIS",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20170304",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURES BOUNTY VITAMIN B12 5000 MCG QUICK DISOLVESUBLINGUAL TABLETS (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

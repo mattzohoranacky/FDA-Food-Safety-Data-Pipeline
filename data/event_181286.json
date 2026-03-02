@@ -1,0 +1,44 @@
+{
+  "report_number": "181286",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20141205",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "DIARRHOEA",
+    "EYE PRURITUS",
+    "EYE SWELLING",
+    "PRURITUS",
+    "THROAT TIGHTNESS",
+    "VOMITING",
+    "WHEEZING"
+  ],
+  "date_started": "20141030",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIGESTOMORE ULTRA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NORWEGIAN GOLD SUPER CRITICAL OMEGA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTIMATE FLORA CRITICAL CARE 50 BILLION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

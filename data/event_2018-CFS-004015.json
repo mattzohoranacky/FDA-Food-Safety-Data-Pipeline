@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-004015",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20180308",
+  "reactions": [
+    "Anxiety",
+    "Blood pressure increased",
+    "Confusional state",
+    "Convulsion",
+    "Dependence",
+    "Panic attack"
+  ],
+  "date_started": "20160801",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

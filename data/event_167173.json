@@ -1,0 +1,34 @@
+{
+  "report_number": "167173",
+  "outcomes": [
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130625",
+  "reactions": [
+    "BLOOD CHOLESTEROL ABNORMAL",
+    "HEPATIC ENZYME ABNORMAL",
+    "HORMONE LEVEL ABNORMAL"
+  ],
+  "date_started": "20121201",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTHY LIFE CHEMISTRY PURITY FIRST B 50 SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTHY LIFE CHEMISTRY PURITY FIRST MULTIMINERAL DIETARY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

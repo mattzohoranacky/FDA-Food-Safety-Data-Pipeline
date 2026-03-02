@@ -1,0 +1,27 @@
+{
+  "report_number": "131313",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100706",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "VOMITING"
+  ],
+  "date_started": "20100701",
+  "consumer": {
+    "age": "6",
+    "age_unit": "month(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ADVANCED COMPLETE NUTRITION WITH EARLY SHIELD",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

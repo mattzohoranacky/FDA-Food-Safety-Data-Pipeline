@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-002920",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20210330",
+  "reactions": [
+    "Death"
+  ],
+  "date_started": "20210206",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZA ZA RED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Kratom",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "140918",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110629",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "COLITIS ISCHAEMIC"
+  ],
+  "date_started": "20110526",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTH RESOURCES ADVANCED COLON CARE II 60 CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTH RESOURCES ADVANCED DIGESTION SOLUTION 90 CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

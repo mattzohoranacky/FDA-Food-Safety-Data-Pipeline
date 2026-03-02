@@ -1,0 +1,35 @@
+{
+  "report_number": "202784",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20161011",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "HEADACHE",
+    "PRURITUS",
+    "RASH ERYTHEMATOUS",
+    "SENSATION OF FOREIGN BODY",
+    "SWELLING"
+  ],
+  "date_started": "20160902",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOINT TENDON LIGAMENT I",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOINT TENDON LIGAMENT II",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

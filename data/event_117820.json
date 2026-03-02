@@ -1,0 +1,37 @@
+{
+  "report_number": "117820",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20090916",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "DISORIENTATION",
+    "EYE SWELLING",
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20080926",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S LIVING GREEN LIQUID-GEL MULTI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUBLINGUAL B DROPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

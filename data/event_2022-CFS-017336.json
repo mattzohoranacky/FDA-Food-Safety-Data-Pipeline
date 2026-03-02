@@ -1,0 +1,30 @@
+{
+  "report_number": "2022-CFS-017336",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20221219",
+  "reactions": [
+    "Amnesia",
+    "Aphasia",
+    "Hypoaesthesia",
+    "Migraine",
+    "Paraesthesia"
+  ],
+  "date_started": "20220914",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AJINOMOTO MSG",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "report_number": "197629",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160321",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse reaction",
+    "DIARRHOEA",
+    "MUSCLE SPASMS",
+    "NAUSEA",
+    "SALMONELLOSIS",
+    "VOMITING"
+  ],
+  "date_started": "20160308",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARDEN OF LIFE ORGANIC CHOCOLATE SHAKE & MEAL REPLACEMENT",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TWIN LABS PROTEIN SHAKE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

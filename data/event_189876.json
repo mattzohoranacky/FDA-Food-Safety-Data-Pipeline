@@ -1,0 +1,39 @@
+{
+  "report_number": "189876",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150922",
+  "reactions": [
+    "DIZZINESS",
+    "ECZEMA",
+    "FAECES DISCOLOURED",
+    "FATIGUE",
+    "GASTRIC DISORDER",
+    "HALLUCINATION",
+    "HEPATIC PAIN",
+    "HYPERSENSITIVITY",
+    "MIGRAINE WITHOUT AURA",
+    "MOOD SWINGS"
+  ],
+  "date_started": "20150831",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS GLUTEN FREE APPLE CINNAMON CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GENERAL MILLS GLUTEN FREE HONEY NUT CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

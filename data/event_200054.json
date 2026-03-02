@@ -1,0 +1,56 @@
+{
+  "report_number": "200054",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160811",
+  "reactions": [
+    "ALOPECIA",
+    "HAIR DISORDER",
+    "TRICHORRHEXIS"
+  ],
+  "date_started": "20150101",
+  "consumer": {
+    "age": "35.32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN CLEANSING CONDITIONER HONEY LILAC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN CLEANSING CONDITIONER LAVENDAR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN CLEANSING CONDITIONER POMEGRANATE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN CLEANSING CONDITIONER SIX THIRTEEN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN CLEANSING CONDITIONER SWEET ALMOND",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

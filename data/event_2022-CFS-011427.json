@@ -1,0 +1,29 @@
+{
+  "report_number": "2022-CFS-011427",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220722",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Blood pressure decreased",
+    "Loss of consciousness",
+    "Pruritus",
+    "Swelling"
+  ],
+  "date_started": "20220706",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEAUTY AVENUES GENTLE FOAMING HAND SOAP RAINBOW WAVES",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

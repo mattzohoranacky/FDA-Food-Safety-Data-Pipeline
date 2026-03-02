@@ -1,0 +1,30 @@
+{
+  "report_number": "144874",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20111025",
+  "reactions": [
+    "ASTHENIA",
+    "COUGH",
+    "DYSPNOEA",
+    "FATIGUE",
+    "PNEUMONITIS",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20110913",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRIMUS PHARMA LIMBREL500",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "report_number": "2025-CFS-014114",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20250829",
+  "reactions": [
+    "Hepatic failure",
+    "Hospitalisation",
+    "Renal failure"
+  ],
+  "date_started": "20250814",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLORASTOR SACCHAROMYCES BOULARDII",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "125865",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20100429",
+  "reactions": [
+    "DIARRHOEA",
+    "INTESTINAL OBSTRUCTION",
+    "VOMITING"
+  ],
+  "date_started": "20100331",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIBER FUSION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER MILK THISTLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE BODY CLEANSE LAXATIVE FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

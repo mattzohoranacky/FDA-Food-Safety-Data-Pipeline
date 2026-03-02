@@ -1,0 +1,35 @@
+{
+  "report_number": "153877",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120618",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ARTHRALGIA",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA HAEMORRHAGIC",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HAEMATOCHEZIA",
+    "HEADACHE",
+    "MYALGIA",
+    "NAUSEA",
+    "SALMONELLOSIS"
+  ],
+  "date_started": "20120519",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNKNOWN DIETARY SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

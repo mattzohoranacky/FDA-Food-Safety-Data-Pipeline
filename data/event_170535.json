@@ -1,0 +1,30 @@
+{
+  "report_number": "170535",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130807",
+  "reactions": [
+    "BLISTER",
+    "BODY TEMPERATURE INCREASED",
+    "CELLULITIS",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "LYMPHATIC DISORDER",
+    "MALAISE",
+    "SEPSIS"
+  ],
+  "date_started": "20130807",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

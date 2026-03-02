@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-010826",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240405",
+  "reactions": [
+    "Abdominal pain",
+    "Choking",
+    "Diarrhoea",
+    "Vomiting"
+  ],
+  "date_started": "20240312",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LITTLE DEBBIE SWISS ROLL",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

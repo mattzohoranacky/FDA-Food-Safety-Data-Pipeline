@@ -1,0 +1,40 @@
+{
+  "report_number": "216876",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170823",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANTINUCLEAR ANTIBODY POSITIVE",
+    "ARTHRALGIA",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "ASTHENIA",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD IRON INCREASED",
+    "DRUG-INDUCED LIVER INJURY",
+    "FATIGUE",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "JAUNDICE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "NAUSEA",
+    "SERUM FERRITIN INCREASED"
+  ],
+  "date_started": "20150524",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DELGA-SLIT PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

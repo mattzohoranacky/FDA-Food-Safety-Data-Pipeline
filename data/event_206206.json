@@ -1,0 +1,37 @@
+{
+  "report_number": "206206",
+  "outcomes": [
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170109",
+  "reactions": [
+    "BLOOD POTASSIUM DECREASED",
+    "DIARRHOEA",
+    "FATIGUE",
+    "LETHARGY",
+    "MALAISE",
+    "MUSCLE SPASMS",
+    "PYREXIA"
+  ],
+  "date_started": "20161015",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GLUTATHIONE 250 MG - 60 VEG CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN B-100",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

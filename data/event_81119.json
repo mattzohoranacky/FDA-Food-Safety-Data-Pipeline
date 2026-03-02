@@ -1,0 +1,34 @@
+{
+  "report_number": "81119",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20050930",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "DEATH",
+    "DIARRHOEA",
+    "GASTROENTERITIS VIBRIO",
+    "HEADACHE",
+    "MYALGIA",
+    "NAUSEA",
+    "VOMITING",
+    "Vibrio test positive"
+  ],
+  "date_started": "20050828",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLAMS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

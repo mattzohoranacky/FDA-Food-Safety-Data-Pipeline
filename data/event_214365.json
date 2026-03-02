@@ -1,0 +1,33 @@
+{
+  "report_number": "214365",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170627",
+  "reactions": [
+    "EYE SWELLING",
+    "SWELLING FACE",
+    "URTICARIA"
+  ],
+  "date_started": "20170108",
+  "consumer": {
+    "age": "72.13",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ANTI-AGING NIGHT CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ONE A DAY VITAMIN EYE VITES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

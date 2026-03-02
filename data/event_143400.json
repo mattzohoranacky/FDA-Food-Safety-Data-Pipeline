@@ -1,0 +1,36 @@
+{
+  "report_number": "143400",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110908",
+  "reactions": [
+    "LIVER FUNCTION TEST ABNORMAL"
+  ],
+  "date_started": "20110714",
+  "consumer": {
+    "age": "53.98",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VEMMA PM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VERVE ENERGY DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

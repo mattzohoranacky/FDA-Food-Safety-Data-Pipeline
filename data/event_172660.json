@@ -1,0 +1,35 @@
+{
+  "report_number": "172660",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20131216",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse event",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "GASTROINTESTINAL DISORDER",
+    "HYPERSENSITIVITY",
+    "MALAISE",
+    "VOMITING"
+  ],
+  "date_started": "20131212",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "D-PLUS NATURAL YEAST CHEESE BREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

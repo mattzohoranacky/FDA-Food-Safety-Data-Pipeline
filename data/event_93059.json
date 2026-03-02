@@ -1,0 +1,72 @@
+{
+  "report_number": "93059",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20070516",
+  "reactions": [
+    "BALANCE DISORDER",
+    "BLOOD CALCIUM INCREASED",
+    "CALCIUM INTOXICATION",
+    "DIFFICULTY IN WALKING",
+    "DRY MOUTH",
+    "DYSARTHRIA",
+    "DYSGEUSIA",
+    "DYSPNOEA",
+    "FEELING ABNORMAL",
+    "FEELING COLD",
+    "GAIT DISTURBANCE",
+    "HYPERVITAMINOSIS D",
+    "MALAISE",
+    "MUSCULAR WEAKNESS",
+    "OVERDOSE",
+    "RENAL IMPAIRMENT",
+    "TREMOR",
+    "VITAMIN D INCREASED"
+  ],
+  "date_started": "20070503",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OS CAL 500 PLUS EXTRA D (CALCIUM CARBONATE PLUS VITAMIN D)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OS CAL 600 PLUS (CALCIUM CARBONATE PLUS VITAMIN D)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CINNAMON (CINNAMON BARK)",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MAGNESIUM OXIDE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

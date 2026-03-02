@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-013723",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241102",
+  "reactions": [
+    "Diarrhoea",
+    "Dizziness",
+    "Fatigue",
+    "Headache",
+    "Listeriosis",
+    "Nausea",
+    "Renal colic"
+  ],
+  "date_started": "20241028",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER BUTTERMILK WAFFLES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

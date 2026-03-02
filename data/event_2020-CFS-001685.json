@@ -1,0 +1,46 @@
+{
+  "report_number": "2020-CFS-001685",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200206",
+  "reactions": [
+    "Alopecia",
+    "Ear discomfort",
+    "Hair texture abnormal",
+    "Pruritus",
+    "Skin burning sensation"
+  ],
+  "date_started": "20200205",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL FRIZZ-FREE VOLUMIZING FOAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL WAVE MAKER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

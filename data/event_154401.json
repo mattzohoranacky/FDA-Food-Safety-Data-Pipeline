@@ -1,0 +1,49 @@
+{
+  "report_number": "154401",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120626",
+  "reactions": [
+    "ARTHRALGIA",
+    "BLOOD PRESSURE FLUCTUATION",
+    "BLOOD PRESSURE INCREASED",
+    "BLOOD UREA INCREASED",
+    "HAEMATOCRIT DECREASED",
+    "HAEMOGLOBIN DECREASED",
+    "HEPATOTOXICITY",
+    "MYALGIA",
+    "MYOSITIS",
+    "OEDEMA",
+    "PALPITATIONS",
+    "RED BLOOD CELL COUNT DECREASED",
+    "SWELLING",
+    "TENDERNESS"
+  ],
+  "date_started": "20120622",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TWIZZLERS TWISTS, BLACK LICORICE CANDY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHROMIUM PICOLINATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

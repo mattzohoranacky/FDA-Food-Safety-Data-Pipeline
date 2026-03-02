@@ -1,0 +1,41 @@
+{
+  "report_number": "2022-CFS-003399",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220308",
+  "reactions": [
+    "Hypersensitivity"
+  ],
+  "date_started": "20220306",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHA SHU BUN STEAMED BUN WITH A PORK FILLING",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Benadryl",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Melatonin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Zoloft",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

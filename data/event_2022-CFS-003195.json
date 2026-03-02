@@ -1,0 +1,39 @@
+{
+  "report_number": "2022-CFS-003195",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220306",
+  "reactions": [
+    "Chills",
+    "Dehydration",
+    "Diarrhoea",
+    "Vomiting"
+  ],
+  "date_started": "20220222",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARB BURN ADVANCED INSULIN & BLOOD SUGAR SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LEANBELLY 3X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "METABOLIC 6  FAT METABOLIZING SUPPORT FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

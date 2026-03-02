@@ -1,0 +1,40 @@
+{
+  "report_number": "153588",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120619",
+  "reactions": [
+    "IRRITABLE BOWEL SYNDROME",
+    "LOSS OF CONSCIOUSNESS",
+    "MALAISE",
+    "SYNCOPE",
+    "SYNCOPE VASOVAGAL"
+  ],
+  "date_started": "20120414",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COROMEGA ORANGE 90 COUNT  SQUEEZE 650MG OMEGA-3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COQ10 SUPPLEMENT, 100MG - UNKNOWN BRAND.",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

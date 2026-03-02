@@ -1,0 +1,30 @@
+{
+  "report_number": "2023-CFS-003320",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230327",
+  "reactions": [
+    "Migraine"
+  ],
+  "date_started": "20230326",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PERFUME",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vit. D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

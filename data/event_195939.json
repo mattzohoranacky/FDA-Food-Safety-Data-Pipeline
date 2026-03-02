@@ -1,0 +1,30 @@
+{
+  "report_number": "195939",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160503",
+  "reactions": [
+    "ERYTHEMA",
+    "INFECTION",
+    "LOCAL SWELLING",
+    "SKIN SENSITISATION"
+  ],
+  "date_started": "20160407",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALOE VESTA BODY WASH & SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

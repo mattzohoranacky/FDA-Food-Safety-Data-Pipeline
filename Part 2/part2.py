@@ -14,9 +14,9 @@ from typing import Tuple, Optional
 
 # Configuration
 SCRIPT_DIR = Path(__file__).parent
-DATA_DIR = SCRIPT_DIR / "data"
+DATA_DIR = SCRIPT_DIR / "../data"
 
-# If data directory doesn't exist in Part 2, look in Part 1
+# If data directory doesn't exist in Part 2, look in Part 1 (where I previously saved data)
 if not DATA_DIR.exists():
     part1_data = SCRIPT_DIR.parent / "Part 1" / "data"
     if part1_data.exists():

@@ -1,0 +1,51 @@
+{
+  "report_number": "2022-CFS-002090",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220211",
+  "reactions": [
+    "Abdominal discomfort",
+    "Chest discomfort",
+    "Eructation",
+    "Feeling hot",
+    "Flatulence",
+    "Frequent bowel movements",
+    "Gastrointestinal sounds abnormal",
+    "Gastrooesophageal reflux disease",
+    "Malaise"
+  ],
+  "date_started": "20210213",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE BODY CLEANSE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE DIGESTION PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE GINSENG FIZZ STICKS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ARBONNE HERBAL TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

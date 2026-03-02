@@ -1,0 +1,28 @@
+{
+  "report_number": "163547",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130301",
+  "reactions": [
+    "GASTROINTESTINAL HAEMORRHAGE",
+    "HAEMORRHAGE",
+    "LACERATION",
+    "MOUTH INJURY",
+    "ULCER"
+  ],
+  "date_started": "20130222",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPECIAL K CEREAL",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "report_number": "2020-CFS-007728",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200811",
+  "reactions": [
+    "Adverse drug reaction",
+    "Angioedema",
+    "Chest pain",
+    "Dermatitis contact",
+    "Dyspnoea",
+    "Erythema",
+    "Erythema multiforme",
+    "Palpitations",
+    "Stevens-Johnson syndrome",
+    "Swelling face",
+    "Tachycardia",
+    "Toxic epidermal necrolysis",
+    "Tremor",
+    "Urticaria"
+  ],
+  "date_started": "20200618",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIACIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Centrum",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

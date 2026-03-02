@@ -1,0 +1,33 @@
+{
+  "report_number": "196274",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160516",
+  "reactions": [
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "CROHN'S DISEASE",
+    "INTESTINAL OBSTRUCTION"
+  ],
+  "date_started": "20160502",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

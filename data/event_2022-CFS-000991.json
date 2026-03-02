@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-000991",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220120",
+  "reactions": [
+    "Anaphylactic shock",
+    "Burning sensation",
+    "Eye swelling"
+  ],
+  "date_started": "20220116",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COUNTERTIME TETRAPEPTIDE SUPREME CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

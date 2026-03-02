@@ -1,0 +1,40 @@
+{
+  "report_number": "2023-CFS-006669",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230628",
+  "reactions": [
+    "Burning sensation",
+    "Erythema",
+    "Pruritus",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20230627",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GOLD BOND DIABETIC'S DRY SKIN RELIEF BODY LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATUREMADE MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUPER KRILL B OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "report_number": "195288",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160409",
+  "reactions": [
+    "ARRHYTHMIA",
+    "CLOSTRIDIUM DIFFICILE COLITIS",
+    "CLOSTRIDIUM DIFFICILE INFECTION",
+    "COLITIS",
+    "COLITIS ULCERATIVE",
+    "DEHYDRATION",
+    "TACHYARRHYTHMIA",
+    "VERTIGO"
+  ],
+  "date_started": "20150923",
+  "consumer": {
+    "age": "44",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS MEGA X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS SLIM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLEXUS TRIPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

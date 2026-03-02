@@ -1,0 +1,47 @@
+{
+  "report_number": "185976",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150511",
+  "reactions": [
+    "ABNORMAL BEHAVIOUR",
+    "DYSPHEMIA",
+    "DYSPNOEA",
+    "FATIGUE",
+    "HAEMATOCHEZIA",
+    "INSOMNIA",
+    "LOGORRHOEA",
+    "MENTAL DISORDER",
+    "NERVOUSNESS",
+    "SPEECH DISORDER",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20150328",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ACTIVEMIND COATED CAPLETS DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GREEN TEA PRODUCT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA PRODUCT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "190004",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150921",
+  "reactions": [
+    "ASTHENIA",
+    "HYPERSENSITIVITY",
+    "INFLUENZA LIKE ILLNESS",
+    "LIP SWELLING",
+    "PRURITUS",
+    "URTICARIA"
+  ],
+  "date_started": "20150822",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE MADE FIBER ADULT GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

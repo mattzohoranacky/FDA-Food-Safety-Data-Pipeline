@@ -1,0 +1,43 @@
+{
+  "report_number": "181736",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20150105",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "DECREASED APPETITE",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HEADACHE",
+    "PHOTOPHOBIA",
+    "VISION BLURRED",
+    "VOMITING"
+  ],
+  "date_started": "20150102",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUNOL - LIQUID COQ10 ORANGE PINEAPPLE FLAVOR 100 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ORGANIC FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SOLAR FENUGREEK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "report_number": "192087",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151215",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANTINUCLEAR ANTIBODY INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "AUTOIMMUNE HEPATITIS",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHROMATURIA",
+    "COMPUTERISED TOMOGRAM ABDOMEN ABNORMAL",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "DRUG-INDUCED LIVER INJURY",
+    "FATIGUE",
+    "HEPATITIS ACUTE",
+    "NEUTROPHIL COUNT INCREASED",
+    "SLUGGISHNESS",
+    "SMOOTH MUSCLE ANTIBODY POSITIVE",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20140317",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARCINIA COMBOGIA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SLIMEXPRESS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBLIFE PRODUCT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

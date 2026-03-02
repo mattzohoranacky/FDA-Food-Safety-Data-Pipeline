@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-000469",
+  "outcomes": [
+    "Allergic Reaction"
+  ],
+  "date_created": "20240111",
+  "reactions": [
+    "Blister",
+    "Eczema",
+    "Hypersensitivity",
+    "Pruritus"
+  ],
+  "date_started": "20240110",
+  "consumer": {
+    "age": "11",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "METHYLISOTHIAZOLINONE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

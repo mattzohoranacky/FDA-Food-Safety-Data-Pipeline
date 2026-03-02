@@ -1,0 +1,29 @@
+{
+  "report_number": "196978",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160602",
+  "reactions": [
+    "ALLERGY TEST POSITIVE",
+    "ALLERGY TO CHEMICALS",
+    "DERMATITIS CONTACT",
+    "ECZEMA"
+  ],
+  "date_started": "20160404",
+  "consumer": {
+    "age": "9",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOVE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

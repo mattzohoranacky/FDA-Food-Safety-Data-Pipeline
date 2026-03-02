@@ -1,0 +1,38 @@
+{
+  "report_number": "179129",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140905",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ACUTE HEPATIC FAILURE",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "COAGULOPATHY",
+    "ENCEPHALOPATHY",
+    "HEPATIC NECROSIS",
+    "JAUNDICE",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20140615",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN TEA EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

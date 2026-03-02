@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-009350",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20220605",
+  "reactions": [
+    "Abdominal pain upper",
+    "Decreased appetite",
+    "Diarrhoea"
+  ],
+  "date_started": "20220531",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF HONEY CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "New chapter multi vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

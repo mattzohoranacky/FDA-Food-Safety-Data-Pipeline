@@ -1,0 +1,30 @@
+{
+  "report_number": "171145",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131023",
+  "reactions": [
+    "BLOOD POTASSIUM DECREASED",
+    "CARDIAC ENZYMES INCREASED",
+    "CHEST PAIN",
+    "HYPERTENSION",
+    "MYOCARDIAL INFARCTION"
+  ],
+  "date_started": "20131021",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIPLE POWERZEN GOLD 1200MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

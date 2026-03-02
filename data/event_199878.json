@@ -1,0 +1,35 @@
+{
+  "report_number": "199878",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20151213",
+  "reactions": [
+    "APHONIA",
+    "BLISTER",
+    "DYSPHAGIA",
+    "EYE IRRITATION",
+    "EYE PRURITUS",
+    "FACE OEDEMA",
+    "HYPERSENSITIVITY",
+    "LOCAL SWELLING",
+    "SWELLING FACE",
+    "THROAT TIGHTNESS",
+    "TREMOR"
+  ],
+  "date_started": "20151118",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENSURE ACTIVE NUTRITION SHAKE HIGH PROTEIN, VANILLA",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

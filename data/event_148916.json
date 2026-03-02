@@ -1,0 +1,33 @@
+{
+  "report_number": "148916",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120214",
+  "reactions": [
+    "ASTHENIA",
+    "BLOOD CREATININE INCREASED",
+    "BLOOD POTASSIUM INCREASED",
+    "BLOOD UREA INCREASED",
+    "DIARRHOEA",
+    "HYPERKALAEMIA",
+    "NAUSEA",
+    "RENAL FAILURE ACUTE",
+    "SYNCOPE"
+  ],
+  "date_started": "20120127",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIPOZENE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

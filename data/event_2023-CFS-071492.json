@@ -1,0 +1,41 @@
+{
+  "report_number": "2023-CFS-071492",
+  "outcomes": [
+    "Death",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231221",
+  "reactions": [
+    "Abdominal pain",
+    "Death",
+    "Diarrhoea",
+    "Nausea"
+  ],
+  "date_started": "20220901",
+  "consumer": {
+    "age": "82",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NECTARINES",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PEACHES",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PLUMS",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

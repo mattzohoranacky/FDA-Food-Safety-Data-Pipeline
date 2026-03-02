@@ -1,0 +1,30 @@
+{
+  "report_number": "170116",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20130911",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "HEPATITIS ACUTE",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "SERUM FERRITIN INCREASED"
+  ],
+  "date_started": "20130910",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "APPLIED NUTRITION OR TAJ PHARMACEUR GREEN TEA FAT BURNER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "report_number": "150561",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120328",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DEFAECATION URGENCY",
+    "DIZZINESS",
+    "FEELING HOT",
+    "HAEMATEMESIS",
+    "HYPERSENSITIVITY",
+    "POLLAKIURIA",
+    "RASH"
+  ],
+  "date_started": "20120306",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC BEYOND RAW REFINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEGA MEN MULTIVITAMIN SAMPLE PACK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHOCOLATE WHEYBOLIC EXTREME 60",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "D4 SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

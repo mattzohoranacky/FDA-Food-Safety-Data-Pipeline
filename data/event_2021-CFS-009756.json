@@ -1,0 +1,30 @@
+{
+  "report_number": "2021-CFS-009756",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210923",
+  "reactions": [
+    "Blood pressure increased",
+    "Eye irritation",
+    "Gastrointestinal pain",
+    "Gingival pain",
+    "Nasal discomfort",
+    "Salivary gland pain",
+    "Toothache"
+  ],
+  "date_started": "20210805",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOM'S OF MAINE ANTIPLAQUE & WHITENING",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

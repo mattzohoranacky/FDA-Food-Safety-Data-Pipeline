@@ -1,0 +1,38 @@
+{
+  "report_number": "128262",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090616",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CONSTIPATION",
+    "DIARRHOEA",
+    "DISCOMFORT",
+    "DYSPHAGIA",
+    "HAEMOPTYSIS",
+    "LACERATION",
+    "MOUTH INJURY",
+    "PAIN",
+    "RASH PAPULAR",
+    "VOMITING"
+  ],
+  "date_started": "20090518",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WELCHES CHERRY DRINK JUICE",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

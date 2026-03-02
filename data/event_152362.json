@@ -1,0 +1,42 @@
+{
+  "report_number": "152362",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20120509",
+  "reactions": [
+    "ABNORMAL LOSS OF WEIGHT",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS SALMONELLA",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20120426",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "YUSHI SOUTH BEACH SASHIMI BENTO BOX CALIFORNIA ROLL",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YUSHI SOUTH BEACH SASHIMI BENTO BOX RAW TUNA SASHIMI",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YUSHI SOUTH BEACH SASHIMI BENTO BOX SMALL SALAD",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

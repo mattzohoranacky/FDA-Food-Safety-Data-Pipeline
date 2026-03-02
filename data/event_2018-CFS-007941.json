@@ -1,0 +1,27 @@
+{
+  "report_number": "2018-CFS-007941",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180607",
+  "reactions": [
+    "Abdominal pain",
+    "Feeling hot",
+    "Nausea"
+  ],
+  "date_started": "20180518",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

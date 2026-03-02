@@ -1,0 +1,36 @@
+{
+  "report_number": "2022-CFS-001471",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220131",
+  "reactions": [
+    "Abdominal distension",
+    "Abdominal pain upper",
+    "Flatulence",
+    "Heart rate increased",
+    "Pyrexia",
+    "Tremor",
+    "Vomiting"
+  ],
+  "date_started": "20220128",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IMPOSSIBLE BURGER",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi-vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "176872",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability"
+  ],
+  "date_created": "20140602",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "HEART RATE INCREASED"
+  ],
+  "date_started": "20140514",
+  "consumer": {
+    "age": "29.6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ZUDKER GROUP GYNEXIN 900 MG",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHAMAMILE TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

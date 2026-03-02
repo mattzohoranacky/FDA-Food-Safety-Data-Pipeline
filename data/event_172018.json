@@ -1,0 +1,35 @@
+{
+  "report_number": "172018",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131114",
+  "reactions": [
+    "ANOREXIA",
+    "BILIRUBIN CONJUGATED INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD IRON INCREASED",
+    "CHROMATURIA",
+    "DECREASED APPETITE",
+    "FAECES DISCOLOURED",
+    "HEPATIC ENZYME INCREASED",
+    "INFLAMMATION",
+    "JAUNDICE",
+    "PRURITUS"
+  ],
+  "date_started": "20130528",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INFCAP (HERBAL PREPARATION)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

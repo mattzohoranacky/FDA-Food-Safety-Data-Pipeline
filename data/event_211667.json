@@ -1,0 +1,30 @@
+{
+  "report_number": "211667",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170509",
+  "reactions": [
+    "COMPUTERISED TOMOGRAM ABDOMEN ABNORMAL",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "VOMITING",
+    "WHITE BLOOD CELL COUNT DECREASED"
+  ],
+  "date_started": "20170405",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BURN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

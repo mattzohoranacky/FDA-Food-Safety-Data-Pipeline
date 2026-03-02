@@ -1,0 +1,32 @@
+{
+  "report_number": "143995",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110825",
+  "reactions": [
+    "Adverse reaction",
+    "FLUSHING",
+    "HYPERSENSITIVITY",
+    "OCULAR HYPERAEMIA",
+    "PRURITUS",
+    "PYREXIA",
+    "SWELLING",
+    "URTICARIA"
+  ],
+  "date_started": "20110824",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHIQUITA BANANA",
+      "industry_code": "21",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

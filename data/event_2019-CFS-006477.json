@@ -1,0 +1,41 @@
+{
+  "report_number": "2019-CFS-006477",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190621",
+  "reactions": [
+    "Epistaxis",
+    "Fatigue",
+    "Headache",
+    "Local swelling",
+    "Nausea",
+    "Renal disorder",
+    "Renal impairment"
+  ],
+  "date_started": "20190201",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY BARISTA VEGAN COMBO CAFÉ LATTE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY BARISTA VEGAN COMBO CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY BARISTA VEGAN COMBO VANILLA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

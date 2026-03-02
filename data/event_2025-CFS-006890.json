@@ -1,0 +1,54 @@
+{
+  "report_number": "2025-CFS-006890",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Injury"
+  ],
+  "date_created": "20250501",
+  "reactions": [
+    "Mouth haemorrhage",
+    "Neuropathy peripheral",
+    "Oral pain",
+    "Pain",
+    "Swelling",
+    "Temperature intolerance"
+  ],
+  "date_started": "20250417",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BOB'S RED MILL GLUTEN FREE QUICK COOKING ROLLED OATS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ALDI ALMOND MILK",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "KIRKLAND SIGNATURE RAW HONEY",
+      "industry_code": "36",
+      "industry_name": "Food Sweeteners (Nutritive)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SIMPLE NATURE CHIA SEEDS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TARGET STRAWBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "123717",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100224",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "DYSPNOEA",
+    "EAR PAIN",
+    "RASH",
+    "URTICARIA"
+  ],
+  "date_started": "20100129",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HARDY AND SON CINNAMON SPICE TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

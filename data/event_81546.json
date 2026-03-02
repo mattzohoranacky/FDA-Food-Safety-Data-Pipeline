@@ -1,0 +1,29 @@
+{
+  "report_number": "81546",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20050601",
+  "reactions": [
+    "DYSPNOEA",
+    "HOSPITALISATION",
+    "HYPERSENSITIVITY",
+    "RASH"
+  ],
+  "date_started": "20050516",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIET COKE",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    }
+  ]
+}

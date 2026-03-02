@@ -1,0 +1,36 @@
+{
+  "report_number": "211211",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170430",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "URINE ODOUR ABNORMAL"
+  ],
+  "date_started": "20170429",
+  "consumer": {
+    "age": "25.95",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE PURIFIED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE MADE PRE-NATAL VITAMIN WITH DHA 1 CAPSULE/DAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE MADE VITAMIN D3 - 2000 IU/DAY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

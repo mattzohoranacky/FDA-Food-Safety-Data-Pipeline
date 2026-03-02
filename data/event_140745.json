@@ -1,0 +1,32 @@
+{
+  "report_number": "140745",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090731",
+  "reactions": [
+    "DROOLING",
+    "DYSPNOEA",
+    "HEART RATE ABNORMAL",
+    "LOSS OF CONSCIOUSNESS",
+    "MUSCULOSKELETAL STIFFNESS"
+  ],
+  "date_started": "20090721",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENDORUSH ENERGY DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

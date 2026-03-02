@@ -1,0 +1,42 @@
+{
+  "report_number": "152957",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120531",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "Adverse event",
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "FOOD POISONING",
+    "MALAISE",
+    "NAUSEA"
+  ],
+  "date_started": "20120522",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUEBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GRAPE TOMATOES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ITALIAN SALAD BLEND MIX",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

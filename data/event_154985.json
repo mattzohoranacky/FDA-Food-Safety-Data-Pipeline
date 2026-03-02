@@ -1,0 +1,43 @@
+{
+  "report_number": "154985",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120731",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "ANAEMIA",
+    "ANOREXIA",
+    "BLOOD UREA DECREASED",
+    "BODY TEMPERATURE INCREASED",
+    "DISCOMFORT",
+    "DIVERTICULUM",
+    "HAEMOGLOBIN DECREASED",
+    "HEPATIC CYST",
+    "NAUSEA",
+    "PANCREATITIS ACUTE",
+    "VOMITING",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20120626",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HERBAL EQUILIBRIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ESSENTIAL NUTRIENTS MULTIVITAMIN WITH OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "196141",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160511",
+  "reactions": [
+    "ALLERGY TO CHEMICALS",
+    "BLOOD PRESSURE INCREASED",
+    "CHEST PAIN",
+    "DIZZINESS",
+    "HYPERSENSITIVITY",
+    "NERVOUSNESS"
+  ],
+  "date_started": "20160421",
+  "consumer": {
+    "age": "74",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PRESERVISION AREDS SOFT GELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

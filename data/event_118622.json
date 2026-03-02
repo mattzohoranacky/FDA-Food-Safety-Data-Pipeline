@@ -1,0 +1,36 @@
+{
+  "report_number": "118622",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090818",
+  "reactions": [
+    "ASTHMA",
+    "PRURITUS"
+  ],
+  "date_started": "20090808",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OPTIFIBER SCFA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ADRENAL ESSENCE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LIVER PROTECT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

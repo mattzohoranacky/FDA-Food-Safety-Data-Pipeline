@@ -1,0 +1,42 @@
+{
+  "report_number": "2023-CFS-002859",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230216",
+  "reactions": [
+    "Botulism",
+    "Constipation",
+    "Dyspnoea",
+    "Eczema",
+    "Feeding disorder",
+    "Lethargy"
+  ],
+  "date_started": "20230214",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NUTRAMIGEN WITH PROBIOTIC HYPOALLERGENIC",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ALIMENTUM IMMUNE SUPPORT",
+      "industry_code": "40O",
+      "industry_name": "Liquid Concentrate Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ALIMENTUM IMMUNE SUPPORT",
+      "industry_code": "40O",
+      "industry_name": "Liquid Concentrate Formula"
+    }
+  ]
+}

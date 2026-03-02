@@ -1,0 +1,27 @@
+{
+  "report_number": "206696",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170123",
+  "reactions": [
+    "COUGH",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20161222",
+  "consumer": {
+    "age": "10",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FERROUS DROPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

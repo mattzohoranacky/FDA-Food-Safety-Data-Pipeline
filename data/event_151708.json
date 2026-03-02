@@ -1,0 +1,34 @@
+{
+  "report_number": "151708",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110927",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "FLUSHING",
+    "NAUSEA",
+    "RASH",
+    "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20110926",
+  "consumer": {
+    "age": "21",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVANCED FOOD CONCEPTS SUSHI MADE WITH SALMON (STEELHEAD TROUT)",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ADVANCED FOOD CONCEPTS SUSHI MADE WITH TUNA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

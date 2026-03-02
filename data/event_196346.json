@@ -1,0 +1,39 @@
+{
+  "report_number": "196346",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160517",
+  "reactions": [
+    "DYSPNOEA",
+    "FEELING ABNORMAL",
+    "FEELING COLD",
+    "LIP SWELLING",
+    "OBSTRUCTIVE AIRWAYS DISORDER",
+    "PAIN",
+    "PARAESTHESIA",
+    "PHARYNGEAL OEDEMA",
+    "SWELLING FACE",
+    "SWOLLEN TONGUE"
+  ],
+  "date_started": "20160425",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REXALL-SUNDOWN OSTEO BI-FLEX EASE ONE PER DAY MINI TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COENZYME Q-10",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

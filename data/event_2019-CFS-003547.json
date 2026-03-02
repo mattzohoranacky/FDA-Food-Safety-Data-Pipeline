@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-003547",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190405",
+  "reactions": [
+    "Asthenia",
+    "Delirium",
+    "Feeling abnormal",
+    "Feeling hot",
+    "Hyperhidrosis",
+    "Pollakiuria",
+    "Sepsis",
+    "Urinary tract infection"
+  ],
+  "date_started": "20190403",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROSUPPORT PM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

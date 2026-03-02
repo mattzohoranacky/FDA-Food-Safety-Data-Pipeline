@@ -1,0 +1,35 @@
+{
+  "report_number": "155962",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20120829",
+  "reactions": [
+    "BLOOD POTASSIUM INCREASED",
+    "CARDIAC DISORDER",
+    "DIZZINESS",
+    "NAUSEA",
+    "PARAESTHESIA",
+    "VOMITING"
+  ],
+  "date_started": "20120729",
+  "consumer": {
+    "age": "42.3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NOW POTASSIUM CHLORIDE POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI-VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

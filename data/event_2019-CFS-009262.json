@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-009262",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190908",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain",
+    "Nausea"
+  ],
+  "date_started": "20190906",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGAIN USDA ORGANIC PLANT PROTEIN AND SUPERFOODS POWDER",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

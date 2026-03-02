@@ -1,0 +1,55 @@
+{
+  "report_number": "120673",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20091120",
+  "reactions": [
+    "ACCIDENT",
+    "CEREBRAL HAEMORRHAGE"
+  ],
+  "date_started": "20090917",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR NATURA DETOXIGREEN DAILY DETOX AND ANTIOXIDANT SUPPORT WITH VITAMINS, MINERALS, ENZYMES, AMINO ACIDS, AND GREEN PHYTOFOODS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DR NATURA PARANIL LIVER AND COLON PURIFYING COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRNATURA COLONIX INTESTINAL CLEANER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRNATURA FLORA PROTECT PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRNATURA KLERITEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DRNATURA TOXINOUT HEAVY METAL TOXIN REMOVAL SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

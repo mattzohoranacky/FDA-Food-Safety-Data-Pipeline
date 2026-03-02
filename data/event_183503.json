@@ -1,0 +1,65 @@
+{
+  "report_number": "183503",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150306",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD HOMOCYSTEINE INCREASED",
+    "BLOOD UREA INCREASED",
+    "DIZZINESS",
+    "GLOMERULAR FILTRATION RATE DECREASED",
+    "HAEMOGLOBIN INCREASED",
+    "MALAISE",
+    "MONOCYTE COUNT INCREASED",
+    "NEUTROPHIL COUNT INCREASED",
+    "PROTEINURIA",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20150204",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "K10 - METACRIN DX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "K11 - BILEMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "K14 - METHYL SP",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "K32 - H-PLR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "K36 - CLEARVITE CR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KR70 - OXICELL SE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

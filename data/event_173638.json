@@ -1,0 +1,30 @@
+{
+  "report_number": "173638",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140131",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "PRURITUS",
+    "RASH",
+    "RASH ERYTHEMATOUS",
+    "STAPHYLOCOCCAL INFECTION",
+    "SURGERY"
+  ],
+  "date_started": "20120830",
+  "consumer": {
+    "age": "81",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SENSA",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

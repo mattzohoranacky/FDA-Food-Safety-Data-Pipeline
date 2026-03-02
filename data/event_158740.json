@@ -1,0 +1,35 @@
+{
+  "report_number": "158740",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20121107",
+  "reactions": [
+    "AMNESIA",
+    "DEHYDRATION",
+    "HEADACHE",
+    "MEMORY IMPAIRMENT",
+    "VOMITING"
+  ],
+  "date_started": "20121009",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE GREEN COFFEE BEAN EXTRACT 400 MG RAPID RELEASE CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-014321",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241115",
+  "reactions": [
+    "Chills",
+    "Diarrhoea",
+    "Dizziness",
+    "Dysstasia",
+    "Fatigue",
+    "Hypersensitivity",
+    "Nausea",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20241109",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SMD COLESLAW",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

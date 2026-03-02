@@ -1,0 +1,32 @@
+{
+  "report_number": "190482",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151013",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "BLOOD PRESSURE INCREASED",
+    "DYSPNOEA",
+    "HYPERSENSITIVITY",
+    "LIP SWELLING",
+    "THROAT TIGHTNESS"
+  ],
+  "date_started": "20150905",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NATURALS, FISH OIL 1000MG, WITH OMEGA-3 300MG SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "report_number": "161245",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20130116",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANOREXIA",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD IMMUNOGLOBULIN G INCREASED",
+    "CHILLS",
+    "CHROMATURIA",
+    "Death",
+    "FATIGUE",
+    "JAUNDICE",
+    "MALAISE",
+    "NAUSEA",
+    "PRURITUS"
+  ],
+  "date_started": "20120105",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MULTIPLE CAM PRODUCTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLIC ACID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ZHUANG GU GUAM JIE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

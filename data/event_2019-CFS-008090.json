@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-008090",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190807",
+  "reactions": [
+    "Haematochezia",
+    "Pyrexia"
+  ],
+  "date_started": "20190726",
+  "consumer": {
+    "age": "5",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC ALIMENTUM",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT SIMILAC PRO ADVANCE",
+      "industry_code": "40N",
+      "industry_name": "Ready to Serve Formula"
+    }
+  ]
+}

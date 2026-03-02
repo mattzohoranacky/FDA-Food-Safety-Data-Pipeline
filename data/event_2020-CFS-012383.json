@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-012383",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20201127",
+  "reactions": [
+    "Erythema",
+    "Skin irritation"
+  ],
+  "date_started": "20201127",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUMMER FRIDAYS JET LAG MASK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

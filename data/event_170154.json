@@ -1,0 +1,35 @@
+{
+  "report_number": "170154",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130917",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "HYPERSENSITIVITY",
+    "HYPERTENSION",
+    "OROPHARYNGEAL SWELLING",
+    "PARAESTHESIA",
+    "PRURITUS"
+  ],
+  "date_started": "20130826",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OSTEO BI-FLEX GLUCOSAMINE CHONDROITIN WITH 5-LOXIN ADVANCED PLUS JOINT SHIELD COATED CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

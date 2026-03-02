@@ -1,0 +1,28 @@
+{
+  "report_number": "144083",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20111003",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED",
+    "DIABETES MELLITUS",
+    "LOSS OF CONSCIOUSNESS",
+    "RENAL FAILURE"
+  ],
+  "date_started": "20110928",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

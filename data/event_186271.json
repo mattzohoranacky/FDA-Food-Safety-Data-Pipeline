@@ -1,0 +1,31 @@
+{
+  "report_number": "186271",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20150512",
+  "reactions": [
+    "Death",
+    "LISTERIOSIS",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20150316",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE BELL HOMEMADE VANILLA ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENSURE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

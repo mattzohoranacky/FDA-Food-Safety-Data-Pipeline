@@ -1,0 +1,36 @@
+{
+  "report_number": "170781",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130930",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "CHOKING",
+    "COUGH",
+    "DIZZINESS",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "EYE SWELLING",
+    "HYPERSENSITIVITY",
+    "LACRIMATION INCREASED",
+    "LOCAL SWELLING",
+    "SWELLING FACE",
+    "VOMITING"
+  ],
+  "date_started": "20130904",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CALCIUM CARBONATE TABLET ASSORTED FRUIT (CALCIUM CARBONATE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

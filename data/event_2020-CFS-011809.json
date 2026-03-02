@@ -1,0 +1,42 @@
+{
+  "report_number": "2020-CFS-011809",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20201114",
+  "reactions": [
+    "Abdominal distension",
+    "Anaphylactic reaction",
+    "Aspiration",
+    "Choking",
+    "Faeces discoloured",
+    "Gastrointestinal sounds abnormal",
+    "Milk allergy",
+    "Pulse absent",
+    "Swelling face",
+    "Vomiting"
+  ],
+  "date_started": "20201114",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL PREMATURE",
+      "industry_code": "40N",
+      "industry_name": "Ready to Serve Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ENFAMIL",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

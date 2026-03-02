@@ -1,0 +1,36 @@
+{
+  "report_number": "117243",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20090127",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20090124",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REESE'S FUN SIZE PEANUT PUTER CUPS",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NOODLE MACARONI AND CHEESE CHICKEN BREAST",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WENDY'S",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

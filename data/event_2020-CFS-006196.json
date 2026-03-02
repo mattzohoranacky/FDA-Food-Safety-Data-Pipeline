@@ -1,0 +1,35 @@
+{
+  "report_number": "2020-CFS-006196",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200620",
+  "reactions": [
+    "Abdominal pain upper",
+    "Dry throat",
+    "Feeling of body temperature change",
+    "Salivary hypersecretion",
+    "Tremor",
+    "Vomiting"
+  ],
+  "date_started": "20200620",
+  "consumer": {
+    "age": "38.6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HARD TIMES FOR MEN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One-a-Day for Men",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

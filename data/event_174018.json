@@ -1,0 +1,45 @@
+{
+  "report_number": "174018",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20140214",
+  "reactions": [
+    "CONVULSION",
+    "HEPATIC FAILURE",
+    "MUSCLE DISORDER",
+    "RENAL FAILURE"
+  ],
+  "date_started": "20140116",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IMAGE SPORTS DEXYFEN D.I.E.T ULTIMATE WEIGHT LOSS COMBO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BSN - AMINO X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BSN - SYNTHA 6 PROTEIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

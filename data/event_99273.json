@@ -1,0 +1,33 @@
+{
+  "report_number": "99273",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20080102",
+  "reactions": [
+    "EPIDIDYMAL TENDERNESS",
+    "HYPERSENSITIVITY",
+    "INSOMNIA",
+    "WEIGHT INCREASED"
+  ],
+  "date_started": "20071218",
+  "consumer": {
+    "age": "28.52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AUSSIE MOIST CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AUSSIE MOIST SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

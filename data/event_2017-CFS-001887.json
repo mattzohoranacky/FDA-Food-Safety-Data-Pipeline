@@ -1,0 +1,31 @@
+{
+  "report_number": "2017-CFS-001887",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171118",
+  "reactions": [
+    "Alanine aminotransferase decreased",
+    "Alanine aminotransferase increased",
+    "Aspartate aminotransferase decreased",
+    "Aspartate aminotransferase increased",
+    "Hyperbilirubinaemia",
+    "Jaundice",
+    "Renal failure"
+  ],
+  "date_started": "20150517",
+  "consumer": {
+    "age": "29.9",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALPHA 1 MAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

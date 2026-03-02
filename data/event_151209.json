@@ -1,0 +1,54 @@
+{
+  "report_number": "151209",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120413",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "ABDOMINAL PAIN UPPER",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "ASTHMA",
+    "BILIRUBIN CONJUGATED INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "DYSPNOEA",
+    "HEPATITIS",
+    "HEPATITIS ACUTE",
+    "INFLAMMATION",
+    "JAUNDICE",
+    "LARYNGEAL OEDEMA",
+    "LIVER INJURY",
+    "NAUSEA",
+    "THROAT TIGHTNESS",
+    "VOMITING"
+  ],
+  "date_started": "20041212",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE RIGHT APPROACH CORTITROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE RIGHT APPROACH CRAVE EASE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE RIGHT APPROACH TEGREEN 97",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

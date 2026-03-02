@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-000930",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20230130",
+  "reactions": [
+    "Diarrhoea",
+    "Food poisoning",
+    "Pain"
+  ],
+  "date_started": "20230126",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRITO LAYS DORITOS SPICY SWEET CHILI",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitafusion women's multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

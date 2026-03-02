@@ -1,0 +1,33 @@
+{
+  "report_number": "163803",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130326",
+  "reactions": [
+    "ABSCESS",
+    "FUNGAL INFECTION",
+    "RASH PAPULAR"
+  ],
+  "date_started": "20130226",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITACLEAR VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROACTIV 90 DAY KIT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

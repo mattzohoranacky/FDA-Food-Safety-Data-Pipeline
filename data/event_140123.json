@@ -1,0 +1,36 @@
+{
+  "report_number": "140123",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110520",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CEREBRAL HAEMORRHAGE",
+    "DECREASED APPETITE",
+    "DYSPEPSIA",
+    "DYSPNOEA",
+    "ERUCTATION",
+    "FOOD POISONING",
+    "LOCAL SWELLING",
+    "MEMORY IMPAIRMENT",
+    "VOMITING"
+  ],
+  "date_started": "20110508",
+  "consumer": {
+    "age": "72",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FENTIMANS DANDELION AND BURDOCK SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

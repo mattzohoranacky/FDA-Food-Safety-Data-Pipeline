@@ -1,0 +1,37 @@
+{
+  "report_number": "2021-CFS-008543",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20210818",
+  "reactions": [
+    "Alopecia",
+    "Skin irritation"
+  ],
+  "date_started": "20210301",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX QUENCHING COCONUT CURLS CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OGX QUENCHING CURLS SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "One A Day Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

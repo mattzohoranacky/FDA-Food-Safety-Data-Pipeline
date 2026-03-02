@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-011646",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20211118",
+  "reactions": [
+    "Abdominal discomfort",
+    "Hypersensitivity",
+    "Nasal congestion",
+    "Oropharyngeal pain"
+  ],
+  "date_started": "20211026",
+  "consumer": {
+    "age": "8",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REAL FOOD FROM THE GROUND UP BUTTERNUT SQUASH SEA SALT",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Digestive enzyme",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

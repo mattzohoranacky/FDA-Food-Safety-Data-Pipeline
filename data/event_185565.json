@@ -1,0 +1,68 @@
+{
+  "report_number": "185565",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150416",
+  "reactions": [
+    "ANGIOEDEMA",
+    "BLOOD PRESSURE DECREASED",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "FEELING HOT",
+    "FLUSHING",
+    "HYPERSENSITIVITY",
+    "LIP SWELLING",
+    "PALLOR",
+    "PRURITUS",
+    "RASH",
+    "RASH ERYTHEMATOUS",
+    "RESPIRATORY DISTRESS",
+    "SWELLING",
+    "SWELLING FACE",
+    "SYNCOPE",
+    "URTICARIA"
+  ],
+  "date_started": "20150320",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE HEALTHY HAIR FORMULA RAPID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ABSORBABLE CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ULTRA WOMAN MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

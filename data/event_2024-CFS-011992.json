@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-011992",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241007",
+  "reactions": [
+    "Abdominal discomfort",
+    "Diarrhoea",
+    "Pyrexia",
+    "Sleep disorder",
+    "Vomiting"
+  ],
+  "date_started": "20240825",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNITED AIRLINES FLIGHT PREPARED FOOD",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

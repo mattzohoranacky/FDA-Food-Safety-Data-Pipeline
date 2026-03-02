@@ -1,0 +1,32 @@
+{
+  "report_number": "178697",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140512",
+  "reactions": [
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "GASTROENTERITIS",
+    "INFLUENZA LIKE ILLNESS",
+    "METABOLIC ACIDOSIS",
+    "NEUTROPENIA",
+    "VOMITING"
+  ],
+  "date_started": "20140421",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER RABBITS ORGANICS SWEET POTATO, CORN, AND APPLE VEG & FRUIT PUREE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

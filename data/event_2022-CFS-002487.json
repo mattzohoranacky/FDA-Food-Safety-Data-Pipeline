@@ -1,0 +1,41 @@
+{
+  "report_number": "2022-CFS-002487",
+  "outcomes": [
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220221",
+  "reactions": [
+    "Decreased appetite",
+    "Diarrhoea",
+    "Fatigue",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20220118",
+  "consumer": {
+    "age": "7",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBOTT ELECARE 0-12 MOS",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Pedialyte",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "culterelle Probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "74647",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20041216",
+  "reactions": [
+    "DIARRHOEA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20041107",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COASTAL SEAFOOD CRAB CAKES",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DIET COKE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HOMEFRIES",
+      "industry_code": "51",
+      "industry_name": "Food Service/Conveyance"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TARTER SAUCE",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

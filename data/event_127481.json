@@ -1,0 +1,30 @@
+{
+  "report_number": "127481",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100607",
+  "reactions": [
+    "BLOOD PRESSURE FLUCTUATION",
+    "CHOKING SENSATION",
+    "DYSPNOEA EXERTIONAL",
+    "HEADACHE",
+    "HYPERTENSION",
+    "PHARYNGITIS",
+    "WHEEZING"
+  ],
+  "date_started": "20100409",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HILL COUNTRY FARE BAC'N BITES BACON CHIPS",
+      "industry_code": "18",
+      "industry_name": "Vegetable Protein Prod"
+    }
+  ]
+}

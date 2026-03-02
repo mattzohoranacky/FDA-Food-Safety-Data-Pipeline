@@ -1,0 +1,27 @@
+{
+  "report_number": "128357",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100511",
+  "reactions": [
+    "DIARRHOEA",
+    "GASTROENTERITIS",
+    "VOMITING"
+  ],
+  "date_started": "20100507",
+  "consumer": {
+    "age": "16",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WINN DIXIE ORGANIC WHOLE MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

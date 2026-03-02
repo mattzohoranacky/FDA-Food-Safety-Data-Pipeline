@@ -1,0 +1,38 @@
+{
+  "report_number": "191290",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151104",
+  "reactions": [
+    "PAIN",
+    "PRURITUS",
+    "URTICARIA"
+  ],
+  "date_started": "20150415",
+  "consumer": {
+    "age": "49",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHATTEM GARLIQUE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM WOMENS UNDER 50",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN E",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

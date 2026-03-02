@@ -1,0 +1,34 @@
+{
+  "report_number": "2020-CFS-000905",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20200129",
+  "reactions": [
+    "Arthralgia",
+    "Blood glucose increased",
+    "Fatigue",
+    "Headache",
+    "Pain"
+  ],
+  "date_started": "20180601",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EVLUTION NUTRITION BCAA ENERGY - HIGH PERFORMANCE AMINO ACID SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

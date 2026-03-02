@@ -1,0 +1,32 @@
+{
+  "report_number": "183894",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140924",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CHOLERA",
+    "DIARRHOEA",
+    "Death",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "Vibrio test positive"
+  ],
+  "date_started": "20130717",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

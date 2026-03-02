@@ -1,0 +1,33 @@
+{
+  "report_number": "83813",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060215",
+  "reactions": [
+    "BLOOD POTASSIUM DECREASED",
+    "DIZZINESS",
+    "HEART RATE INCREASED",
+    "INTERNATIONAL NORMALISED RATIO DECREASED",
+    "PALPITATIONS",
+    "PCO2 ABNORMAL",
+    "PROTHROMBIN TIME PROLONGED",
+    "RED BLOOD CELL COUNT DECREASED",
+    "TREMOR"
+  ],
+  "date_started": "20060214",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNNY GREEN TOTAL ENERGY GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "report_number": "176751",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140528",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ANOREXIA",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "CHROMATURIA",
+    "FAECES DISCOLOURED",
+    "FATIGUE",
+    "HEPATIC ENZYME INCREASED",
+    "HEPATOMEGALY",
+    "HEPATOSPLENOMEGALY",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "NAUSEA",
+    "SPLENOMEGALY",
+    "VOMITING"
+  ],
+  "date_started": "20130305",
+  "consumer": {
+    "age": "31",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HALO SUSPENSION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "METHYL MASTERZINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PCT REVOLUTION",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

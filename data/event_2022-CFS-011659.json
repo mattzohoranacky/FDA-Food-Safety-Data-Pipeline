@@ -1,0 +1,41 @@
+{
+  "report_number": "2022-CFS-011659",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220727",
+  "reactions": [
+    "Altered state of consciousness",
+    "Cognitive disorder",
+    "Disturbance in attention",
+    "Feeling jittery",
+    "Heart rate increased",
+    "Hypoaesthesia",
+    "Nausea",
+    "Paraesthesia",
+    "Respiratory rate increased",
+    "Sensation of heaviness"
+  ],
+  "date_started": "20220717",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SJ SHRED",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Water",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

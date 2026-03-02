@@ -1,0 +1,62 @@
+{
+  "report_number": "166444",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130610",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD POTASSIUM DECREASED",
+    "BLOOD UREA INCREASED",
+    "CHEST PAIN",
+    "FOREIGN BODY TRAUMA",
+    "HEPATIC ENZYME INCREASED",
+    "INFLUENZA LIKE ILLNESS",
+    "LIPASE INCREASED",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "NEUTROPHIL COUNT INCREASED",
+    "NEUTROPHIL PERCENTAGE INCREASED",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20130506",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN CINNDROMEX (LIVEWELL CENTER SUGAR SMART)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN COQMAX UBIQUINOL (LIVEWELL CENTER Q RIGHT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN OPTICLEANSE GHI CREAMY CHOCOLATE (LIVEWELL CENTER DETOX ESSENTIALS SHAKE CREAMY CHOCOLATE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN OPTICLEANSE GHI VANILA DELIGHT (LIVEWELL CENTER DETOX ESSENTIALS VANILA DELIGHT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN RESVERATIN PLUS (LIVEWELL CENTER CELLERATION)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

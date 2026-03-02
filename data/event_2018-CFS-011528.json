@@ -1,0 +1,52 @@
+{
+  "report_number": "2018-CFS-011528",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180917",
+  "reactions": [
+    "Alanine aminotransferase increased",
+    "Apparent death",
+    "Aspartate aminotransferase increased",
+    "Asthenia",
+    "Blood bilirubin increased",
+    "Cholecystitis acute",
+    "Cholestasis",
+    "General physical health deterioration",
+    "Headache",
+    "Hepatic failure",
+    "Hyporeflexia",
+    "Insomnia",
+    "Jaundice",
+    "Malaise",
+    "Mental status changes",
+    "Nausea",
+    "Prothrombin time prolonged",
+    "Pruritus",
+    "Pyrexia",
+    "Rash",
+    "Scleral pigmentation"
+  ],
+  "date_started": "20180811",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ASHWAGANDHA EXTRACT RAPID RELEASE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUPPLEM ENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

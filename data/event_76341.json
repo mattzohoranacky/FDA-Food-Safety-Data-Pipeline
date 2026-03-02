@@ -1,0 +1,28 @@
+{
+  "report_number": "76341",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention"
+  ],
+  "date_created": "20050217",
+  "reactions": [
+    "HEART RATE INCREASED",
+    "HYPERTENSION",
+    "PYREXIA"
+  ],
+  "date_started": "20050215",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RED BLISS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

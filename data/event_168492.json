@@ -1,0 +1,46 @@
+{
+  "report_number": "168492",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130729",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "ANOREXIA",
+    "ASCITES",
+    "AUTOIMMUNE HEPATITIS",
+    "BLOOD GLUCOSE INCREASED",
+    "CARDIO-RESPIRATORY ARREST",
+    "DECREASED APPETITE",
+    "DIVERTICULITIS",
+    "DYSPEPSIA",
+    "DYSPNOEA",
+    "Death",
+    "HEPATIC ENZYME INCREASED",
+    "HYPOTENSION",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "NAUSEA",
+    "URINARY TRACT INFECTION",
+    "VOMITING",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20111110",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "REUMOFAN PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-017017",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20221207",
+  "reactions": [
+    "Lip dry",
+    "Pain",
+    "Pruritus"
+  ],
+  "date_started": "20221201",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS CHAMOMILE LIP BALM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

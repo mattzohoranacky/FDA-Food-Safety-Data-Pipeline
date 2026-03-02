@@ -1,0 +1,38 @@
+{
+  "report_number": "2020-CFS-009281",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200924",
+  "reactions": [
+    "Endometrial cancer metastatic",
+    "Female reproductive tract carcinoma in situ",
+    "Hepatic cyst",
+    "Hiatus hernia",
+    "Large intestine polyp",
+    "Liver disorder",
+    "Pregnancy",
+    "Vaginal haemorrhage"
+  ],
+  "date_started": "20170126",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

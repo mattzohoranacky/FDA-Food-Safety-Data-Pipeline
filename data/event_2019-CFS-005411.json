@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-005411",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190530",
+  "reactions": [
+    "Chapped lips",
+    "Cheilitis",
+    "Lip discolouration",
+    "Lip pruritus"
+  ],
+  "date_started": "20190520",
+  "consumer": {
+    "age": "15.83",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIC EOS LASTING HYDRATION LIPCARE WILDBERRY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Hair, Skin and nail vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

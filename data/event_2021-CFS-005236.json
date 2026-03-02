@@ -1,0 +1,42 @@
+{
+  "report_number": "2021-CFS-005236",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210603",
+  "reactions": [
+    "Vomiting"
+  ],
+  "date_started": "20210601",
+  "consumer": {
+    "age": "4",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEMBER'S MARK ADVANTAGE INFANT FORMULA MILK BASED POWDER WITH IRON",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEMBER'S MARK GENTLE INFANT FORMULA MILK BASED POWDER WITH IRON",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEMBER'S MARK INFANT INFANT FORMULA MILK BASED POWDER WITH IRON",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEMBER'S MARK SENSITIVITY INFANT FORMULA MILK BASED POWDER WITH IRON",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

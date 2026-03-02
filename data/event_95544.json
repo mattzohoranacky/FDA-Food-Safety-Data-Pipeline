@@ -1,0 +1,44 @@
+{
+  "report_number": "95544",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20070816",
+  "reactions": [
+    "BACTERAEMIA",
+    "ENDOMETRIAL HYPERTROPHY",
+    "LEUKOCYTOSIS",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "PULMONARY OEDEMA",
+    "RENAL FAILURE ACUTE",
+    "SEPSIS",
+    "THROMBOCYTOPENIA",
+    "VAGINAL HAEMORRHAGE"
+  ],
+  "date_started": "20070426",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WALGREENS ESTRONATURAL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

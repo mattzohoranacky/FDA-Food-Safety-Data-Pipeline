@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-012079",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220803",
+  "reactions": [
+    "Abdominal pain",
+    "Cold sweat",
+    "Fatigue",
+    "Muscular weakness",
+    "Nausea",
+    "Tremor",
+    "Vomiting"
+  ],
+  "date_started": "20220729",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIER PROTEIN",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

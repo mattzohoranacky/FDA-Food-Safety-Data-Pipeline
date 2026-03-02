@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-010646",
+  "outcomes": [
+    "Life Threatening",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240814",
+  "reactions": [
+    "Abdominal pain",
+    "Anaphylactic reaction",
+    "Dyspnoea",
+    "Urticaria"
+  ],
+  "date_started": "20240814",
+  "consumer": {
+    "age": "6",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOLLY RANCHER POPSICLE TWIST",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

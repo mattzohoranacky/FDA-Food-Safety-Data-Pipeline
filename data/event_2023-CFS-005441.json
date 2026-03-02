@@ -1,0 +1,39 @@
+{
+  "report_number": "2023-CFS-005441",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230525",
+  "reactions": [
+    "Burning sensation",
+    "Dysphagia",
+    "Hypersensitivity",
+    "Paraesthesia oral",
+    "Pruritus",
+    "Rash",
+    "Swollen tongue"
+  ],
+  "date_started": "20230419",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURE ENCAPSULATIONS COLLAGEN JS CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "potassium",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

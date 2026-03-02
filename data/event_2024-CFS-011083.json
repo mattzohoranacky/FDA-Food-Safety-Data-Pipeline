@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-011083",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240903",
+  "reactions": [
+    "Asthenia",
+    "Blood pressure increased",
+    "Chills",
+    "Confusional state",
+    "Dizziness",
+    "Gastrooesophageal reflux disease",
+    "Headache",
+    "Listeriosis",
+    "Nausea"
+  ],
+  "date_started": "20240730",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BRIE PRESIDENT DOUBLE CREME",
+      "industry_code": "12",
+      "industry_name": "Cheese/Cheese Prod"
+    }
+  ]
+}

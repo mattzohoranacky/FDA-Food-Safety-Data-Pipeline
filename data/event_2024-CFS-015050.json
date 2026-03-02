@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-015050",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240618",
+  "reactions": [
+    "Agitation",
+    "Confusional state",
+    "Tachycardia"
+  ],
+  "date_started": "20240611",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND SHRUUMZ CHOCOLATE BAR FRUITY CEREAL",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

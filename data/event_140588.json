@@ -1,0 +1,29 @@
+{
+  "report_number": "140588",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20110609",
+  "reactions": [
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "ESCHERICHIA INFECTION",
+    "THIRST",
+    "VOMITING"
+  ],
+  "date_started": "20110603",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MARKET SIDE PREMIUM ROMAINE  SALAD",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

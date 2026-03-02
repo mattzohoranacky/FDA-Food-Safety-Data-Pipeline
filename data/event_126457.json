@@ -1,0 +1,29 @@
+{
+  "report_number": "126457",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20091123",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "GASTROENTERITIS SALMONELLA",
+    "VOMITING"
+  ],
+  "date_started": "20091108",
+  "consumer": {
+    "age": "2",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROSS SIMILAC ISOMIL ADVANCED FORMULA POWDER",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

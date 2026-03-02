@@ -1,0 +1,39 @@
+{
+  "report_number": "2018-CFS-001603",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180124",
+  "reactions": [
+    "Alopecia",
+    "Burning sensation",
+    "Hair texture abnormal",
+    "Skin ulcer"
+  ],
+  "date_started": "20180122",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT IRT CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT IRT SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONAT IRT SPRAY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

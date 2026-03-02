@@ -1,0 +1,42 @@
+{
+  "report_number": "157276",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20121001",
+  "reactions": [
+    "BACK PAIN",
+    "CHOKING",
+    "DYSPNOEA",
+    "MUSCULOSKELETAL CHEST PAIN",
+    "OESOPHAGEAL PAIN",
+    "OESOPHAGEAL SPASM",
+    "PAIN IN EXTREMITY"
+  ],
+  "date_started": "20120908",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FISH OIL ENTERIC COATED 1000 MG 0H5AF OMEGA3 FATTY ACIDS SOFT CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALTRATE CALCIUM CARBONATE CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

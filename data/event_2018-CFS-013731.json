@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-013731",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20181109",
+  "reactions": [
+    "Burning sensation",
+    "Pain",
+    "Rash",
+    "Skin reaction",
+    "Urticaria"
+  ],
+  "date_started": "20181017",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "UNSPECIFIED BLACK HAIR DYE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "black hair dye",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

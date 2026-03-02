@@ -1,0 +1,32 @@
+{
+  "report_number": "173300",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140121",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "CONVULSION",
+    "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "DYSPNOEA",
+    "NAUSEA",
+    "PARAESTHESIA",
+    "TONIC CLONIC MOVEMENTS",
+    "VOMITING"
+  ],
+  "date_started": "20131222",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SABA ACE APPETITE CONTROL ENERGY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

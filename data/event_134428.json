@@ -1,0 +1,38 @@
+{
+  "report_number": "134428",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110111",
+  "reactions": [
+    "ANXIETY",
+    "DIARRHOEA",
+    "DYSPNOEA",
+    "FEELING ABNORMAL",
+    "HYPERACUSIS",
+    "PALPITATIONS",
+    "PANIC ATTACK",
+    "PRURITUS",
+    "TREMOR"
+  ],
+  "date_started": "20101227",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL PETITES CALCIUM CARBONATE  VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FARMISURE VITAMIN D3 CHOLECALCIFEROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-000475",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190117",
+  "reactions": [
+    "Hypersensitivity",
+    "Pain",
+    "Palpitations",
+    "Purulent discharge",
+    "Salivary gland enlargement",
+    "Staphylococcal infection",
+    "Swelling",
+    "Swelling face"
+  ],
+  "date_started": "20181222",
+  "consumer": {
+    "age": "48.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GARNIER FRUCTIS EXTRA LIGHTENING HAIR COLOR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

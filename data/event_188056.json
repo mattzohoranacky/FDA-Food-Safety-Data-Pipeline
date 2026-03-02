@@ -1,0 +1,36 @@
+{
+  "report_number": "188056",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150714",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "INFLAMMATION",
+    "PRURITUS",
+    "SCAR",
+    "SKIN IRRITATION",
+    "SWELLING"
+  ],
+  "date_started": "20150628",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLACK HENNA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "198901",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20160722",
+  "reactions": [
+    "ACNE",
+    "ALOPECIA",
+    "INJURY",
+    "SCRATCH",
+    "ULCER"
+  ],
+  "date_started": "20150901",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN HAIR CARE SYSTEM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN LAVENDER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

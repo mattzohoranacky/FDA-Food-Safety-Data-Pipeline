@@ -1,0 +1,34 @@
+{
+  "report_number": "140981",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110614",
+  "reactions": [
+    "BLISTER",
+    "CHANGE OF BOWEL HABIT",
+    "DYSPNOEA",
+    "LOSS OF CONSCIOUSNESS",
+    "OROPHARYNGEAL SWELLING"
+  ],
+  "date_started": "20110524",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE NIACIN 100 MG TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PUIRTAN'S PRIDE CAL-1000 COMPLETE TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

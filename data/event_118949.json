@@ -1,0 +1,35 @@
+{
+  "report_number": "118949",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20090923",
+  "reactions": [
+    "BILIRUBIN CONJUGATED INCREASED",
+    "CHROMATURIA",
+    "FATIGUE",
+    "HEPATITIS",
+    "HEPATITIS ACUTE",
+    "HEPATOCELLULAR INJURY",
+    "JAUNDICE",
+    "LIVER INJURY",
+    "PRURITUS",
+    "RASH"
+  ],
+  "date_started": "20070416",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEXATRIM MAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

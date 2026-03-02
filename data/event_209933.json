@@ -1,0 +1,32 @@
+{
+  "report_number": "209933",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170405",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20170403",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXTRA CRUNCHY SKIPPY SUPERCHUNK",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM MULTI",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

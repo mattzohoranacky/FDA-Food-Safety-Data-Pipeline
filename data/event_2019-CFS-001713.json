@@ -1,0 +1,40 @@
+{
+  "report_number": "2019-CFS-001713",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190217",
+  "reactions": [
+    "Aggression",
+    "Anxiety",
+    "Blood testosterone decreased",
+    "Depression",
+    "Drug screen positive",
+    "Libido decreased",
+    "Testicular disorder",
+    "Weight decreased",
+    "Weight increased"
+  ],
+  "date_started": "20181230",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LOADED PREWORKOUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Caffeine",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

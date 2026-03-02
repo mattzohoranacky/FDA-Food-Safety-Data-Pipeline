@@ -1,0 +1,44 @@
+{
+  "report_number": "2018-CFS-006605",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180501",
+  "reactions": [
+    "Acute respiratory failure",
+    "Alveolitis allergic",
+    "Hypoxia",
+    "Influenza",
+    "Lymphadenopathy",
+    "Oxygen saturation decreased",
+    "Pneumonia",
+    "Pulmonary fibrosis",
+    "Respiratory failure",
+    "Respiratory tract inflammation",
+    "Urinary tract infection"
+  ],
+  "date_started": "20171220",
+  "consumer": {
+    "age": "76",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIMBREL - FLAVOCOXID 500MG MEDICAL FOOD PRODUCT",
+      "industry_code": "41G",
+      "industry_name": "Medical Foods, N.E.C."
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

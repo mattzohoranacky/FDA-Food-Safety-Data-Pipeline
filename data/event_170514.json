@@ -1,0 +1,30 @@
+{
+  "report_number": "170514",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130925",
+  "reactions": [
+    "DIARRHOEA"
+  ],
+  "date_started": "20130902",
+  "consumer": {
+    "age": "45.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI GREEK YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

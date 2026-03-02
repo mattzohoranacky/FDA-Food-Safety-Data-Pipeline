@@ -1,0 +1,31 @@
+{
+  "report_number": "202755",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20161006",
+  "reactions": [
+    "ACUTE HEPATIC FAILURE",
+    "HEPATIC ENZYME INCREASED"
+  ],
+  "date_started": "20160904",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TOTAL CONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FORMULA 1 HEALTHY MEAL-CAFE LATTE FLAVOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

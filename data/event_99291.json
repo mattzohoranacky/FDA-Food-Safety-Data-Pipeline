@@ -1,0 +1,29 @@
+{
+  "report_number": "99291",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20071227",
+  "reactions": [
+    "Adverse event",
+    "FOOD POISONING"
+  ],
+  "date_started": "20071220",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TASTY BITE JAIPUR VETGETABLE",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "STEAMED RICE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

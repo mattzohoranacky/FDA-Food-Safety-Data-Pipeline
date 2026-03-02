@@ -1,0 +1,32 @@
+{
+  "report_number": "68930",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20040513",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ANXIETY",
+    "BLOOD CHOLESTEROL INCREASED",
+    "FAT EMBOLISM",
+    "HOSPITALISATION",
+    "INTESTINAL HAEMORRHAGE"
+  ],
+  "date_started": "20030101",
+  "consumer": {
+    "age": "80",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

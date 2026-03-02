@@ -1,0 +1,31 @@
+{
+  "report_number": "130200",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100901",
+  "reactions": [
+    "BLOOD POTASSIUM DECREASED",
+    "DIZZINESS",
+    "HYPOAESTHESIA",
+    "NAUSEA",
+    "PALPITATIONS",
+    "TREMOR",
+    "VOMITING"
+  ],
+  "date_started": "20091222",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "QUE SHE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "report_number": "166389",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130328",
+  "reactions": [
+    "ARTHRALGIA",
+    "AUTOIMMUNE THYROIDITIS",
+    "BONE PAIN",
+    "FATIGUE",
+    "HEPATIC ENZYME INCREASED",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "MUSCLE SPASMS",
+    "THYROID DISORDER"
+  ],
+  "date_started": "20121220",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTHY LIFE CHEMISTRY B50",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTHY LIFE CHEMISTRY MULTIMINERALS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEALTHY LIFE CHEMISTRY VITAMIN C 500",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "9 OTHER DIETARY SUPPLEMENTS NOS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "report_number": "131241",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20101006",
+  "reactions": [
+    "ARTHRALGIA",
+    "DIARRHOEA",
+    "PETECHIAE",
+    "PLATELET COUNT DECREASED",
+    "SKIN HAEMORRHAGE",
+    "THROMBOCYTOPENIA"
+  ],
+  "date_started": "20100807",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CANADA DRY TONIC WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

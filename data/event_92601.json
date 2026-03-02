@@ -1,0 +1,87 @@
+{
+  "report_number": "92601",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070417",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "ABDOMINAL DISTENSION",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BILE DUCT OBSTRUCTION",
+    "BLOOD ALBUMIN DECREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD POTASSIUM DECREASED",
+    "BLOOD SODIUM DECREASED",
+    "BLOOD UREA DECREASED",
+    "DISEASE PROGRESSION",
+    "HEPATIC FAILURE",
+    "HEPATIC FUNCTION ABNORMAL",
+    "HEPATIC STEATOSIS",
+    "HEPATOMEGALY",
+    "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "SERUM FERRITIN INCREASED"
+  ],
+  "date_started": "20070409",
+  "consumer": {
+    "age": "43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMAZON HERBS AQUAZON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMAZON HERBS CALMAZON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMAZON HERBS DIGESTAZON PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMAZON HERBS ENVIRAZON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMAZON HERBS FIBERZON PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMAZON HERBS KAVAZON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMAZON HERBS WARRIOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "HERBAL SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

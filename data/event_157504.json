@@ -1,0 +1,31 @@
+{
+  "report_number": "157504",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121010",
+  "reactions": [
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD PRESSURE INCREASED",
+    "DIZZINESS",
+    "DYSPEPSIA",
+    "HEADACHE",
+    "VASCULAR HEADACHE"
+  ],
+  "date_started": "20120808",
+  "consumer": {
+    "age": "84",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRILL OMEGA-3 SUPER FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

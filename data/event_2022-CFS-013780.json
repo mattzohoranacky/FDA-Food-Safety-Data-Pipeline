@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-013780",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220908",
+  "reactions": [
+    "Diarrhoea",
+    "Pain",
+    "Vomiting"
+  ],
+  "date_started": "20220908",
+  "consumer": {
+    "age": "15",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PAQUI CHIP",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

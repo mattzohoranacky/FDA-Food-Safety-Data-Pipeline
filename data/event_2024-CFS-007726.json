@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-007726",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240614",
+  "reactions": [
+    "Abdominal pain upper",
+    "Food poisoning",
+    "Nausea",
+    "Pain",
+    "Pruritus"
+  ],
+  "date_started": "20240613",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RICE",
+      "industry_code": "2",
+      "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+    }
+  ]
+}

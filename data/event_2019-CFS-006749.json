@@ -1,0 +1,42 @@
+{
+  "report_number": "2019-CFS-006749",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190701",
+  "reactions": [
+    "Cold sweat",
+    "Dysarthria",
+    "Feeling abnormal",
+    "Feeling hot",
+    "Heart rate increased",
+    "Hypoaesthesia",
+    "Migraine",
+    "Movement disorder",
+    "Pallor",
+    "Paraesthesia",
+    "Pulse abnormal",
+    "Unresponsive to stimuli"
+  ],
+  "date_started": "20190603",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BODYDYNAMIX SLIMVANCE THERMOGENIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BCAA (BASE CHAIN AMNIO ACIDS)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

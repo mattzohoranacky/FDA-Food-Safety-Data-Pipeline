@@ -1,0 +1,37 @@
+{
+  "report_number": "212049",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170518",
+  "reactions": [
+    "ALLERGY TEST POSITIVE",
+    "DERMATITIS CONTACT",
+    "ERYTHEMA",
+    "EYE SWELLING",
+    "HYPERSENSITIVITY",
+    "OEDEMA"
+  ],
+  "date_started": "20170403",
+  "consumer": {
+    "age": "65",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVEDA COLOR CONSERVE SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "AVEDA LEVEL 8 HAIR DYE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "report_number": "215721",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170712",
+  "reactions": [
+    "DIZZINESS",
+    "HYPERSENSITIVITY",
+    "RESPIRATORY ARREST",
+    "TREMOR"
+  ],
+  "date_started": "20170614",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE PERFECT PACK - BALANCED HEALTH OMEGA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE PERFECT PACK - CONCENTRATED FRUITS AND VEGETABLES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NUTRILITE PERFECT PACK - DOUBLE X",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

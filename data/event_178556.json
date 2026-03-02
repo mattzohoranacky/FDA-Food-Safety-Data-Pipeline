@@ -1,0 +1,59 @@
+{
+  "report_number": "178556",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140811",
+  "reactions": [
+    "BLOOD CREATININE ABNORMAL",
+    "BLOOD PRESSURE INCREASED",
+    "CHILLS",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FOREIGN BODY TRAUMA",
+    "GENERAL PHYSICAL HEALTH DETERIORATION",
+    "HALLUCINATION",
+    "AUDITORY",
+    "MUSCULAR WEAKNESS",
+    "NAUSEA",
+    "OBSTRUCTIVE AIRWAYS DISORDER",
+    "PALPITATIONS",
+    "PERIPHERAL COLDNESS",
+    "POLYURIA",
+    "TREMOR",
+    "VISION BLURRED"
+  ],
+  "date_started": "20140723",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE FULL STRENGTH MINI OMEGA 3 (DIETARY SUPPLEMENT) SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

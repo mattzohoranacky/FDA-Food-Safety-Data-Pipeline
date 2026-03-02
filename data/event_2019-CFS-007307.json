@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-007307",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190718",
+  "reactions": [
+    "Erythema",
+    "Pruritus",
+    "Rash"
+  ],
+  "date_started": "20190713",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EQUATE BABY ALOE VERA AND VITAMIN E HYPOALLERGENIC BABY OIL GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin d",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

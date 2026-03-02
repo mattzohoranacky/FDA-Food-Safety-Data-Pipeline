@@ -1,0 +1,40 @@
+{
+  "report_number": "2023-CFS-001580",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230213",
+  "reactions": [
+    "Alopecia",
+    "Blister",
+    "Dry skin",
+    "Pruritus",
+    "Trichorrhexis"
+  ],
+  "date_started": "20230125",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX BOND REPAIR",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLAPLEX SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

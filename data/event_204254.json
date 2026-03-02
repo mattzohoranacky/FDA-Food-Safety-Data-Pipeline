@@ -1,0 +1,38 @@
+{
+  "report_number": "204254",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161028",
+  "reactions": [
+    "CARDIAC ARREST",
+    "CARDIOVASCULAR DISORDER",
+    "CIRCULATORY COLLAPSE",
+    "Emergency care",
+    "MYOCARDIAL INFARCTION"
+  ],
+  "date_started": "20141011",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONSTER ENERGY DRINK LOCA MOCA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONSTER ENERGY DRINK MEAN BEAN",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

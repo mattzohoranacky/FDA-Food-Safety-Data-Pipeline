@@ -1,0 +1,33 @@
+{
+  "report_number": "73028",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20041018",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain",
+    "Constipation",
+    "Irritability"
+  ],
+  "date_started": "20040920",
+  "consumer": {
+    "age": "3",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL LIPIL LOW IRON",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL LIPIL WITH IRON",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2017-CFS-002509",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171211",
+  "reactions": [
+    "Acne",
+    "Blister",
+    "Burns third degree",
+    "Pain"
+  ],
+  "date_started": "20171015",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUTROGENA DEEP CLEAN INVIGORATING FOAM SCRUB",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NEUTROGENA OIL-FREE ACNE WASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

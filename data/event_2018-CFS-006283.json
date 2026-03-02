@@ -1,0 +1,29 @@
+{
+  "report_number": "2018-CFS-006283",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180425",
+  "reactions": [
+    "Anaphylactic shock",
+    "Dyspnoea",
+    "Eye swelling",
+    "Pharyngeal oedema"
+  ],
+  "date_started": "20180421",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

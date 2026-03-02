@@ -1,0 +1,43 @@
+{
+  "report_number": "172188",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20131122",
+  "reactions": [
+    "ASTHENIA",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD PRESSURE INCREASED",
+    "BODY TEMPERATURE INCREASED",
+    "CHILLS",
+    "COUGH",
+    "DIARRHOEA",
+    "DYSURIA",
+    "HYPERHIDROSIS",
+    "NAUSEA",
+    "ORTHOSTATIC HYPOTENSION",
+    "PHARYNGITIS",
+    "RENAL FAILURE ACUTE",
+    "RHINITIS"
+  ],
+  "date_started": "20131022",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KYANI SUNRISE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "KYANI SUNSET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

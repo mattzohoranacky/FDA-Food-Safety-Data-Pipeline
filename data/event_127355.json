@@ -1,0 +1,45 @@
+{
+  "report_number": "127355",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20100519",
+  "reactions": [
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "HEART RATE INCREASED",
+    "URINARY TRACT INFECTION",
+    "VOMITING"
+  ],
+  "date_started": "20100517",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEAN'S GUACAMOLE FLAVORED DIP",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE ALL NATURAL SOUR CREAM",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SAUSAGE PATTY WITH GRAPE JELLY",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TACOS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    }
+  ]
+}

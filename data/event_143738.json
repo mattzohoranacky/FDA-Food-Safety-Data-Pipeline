@@ -1,0 +1,39 @@
+{
+  "report_number": "143738",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110912",
+  "reactions": [
+    "BLOOD CHOLESTEROL INCREASED",
+    "CHOLESTASIS",
+    "CHROMATURIA",
+    "HEPATOMEGALY",
+    "HYPERBILIRUBINAEMIA",
+    "JAUNDICE",
+    "NAUSEA",
+    "PAIN",
+    "PRURITUS",
+    "VOMITING"
+  ],
+  "date_started": "20100417",
+  "consumer": {
+    "age": "32",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "INCREDIBLE BULK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TREN 2 XTREME",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

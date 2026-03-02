@@ -1,0 +1,36 @@
+{
+  "report_number": "202767",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20161009",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "COELIAC DISEASE",
+    "DYSPEPSIA",
+    "HYPERSENSITIVITY",
+    "MALAISE",
+    "MIGRAINE",
+    "VERTIGO"
+  ],
+  "date_started": "20161007",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PILLSBURY GLUTEN FREE CREAMY MILK CHOCOLATE FROSTING",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PILLSBURY GLUTEN FREE DEVIL'S FOOD CAKE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

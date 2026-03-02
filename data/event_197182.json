@@ -1,0 +1,40 @@
+{
+  "report_number": "197182",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160606",
+  "reactions": [
+    "AMNESIA",
+    "ASTHENIA",
+    "BIOPSY STOMACH ABNORMAL",
+    "DELIRIUM",
+    "DIARRHOEA",
+    "FATIGUE",
+    "GASTRITIS",
+    "NAUSEA",
+    "OESOPHAGITIS",
+    "VOMITING"
+  ],
+  "date_started": "20160509",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ASHWAGANDHA EXTRACT (DIETARY SUPPLEMENT) CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMINS (UNSPECIFIED)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

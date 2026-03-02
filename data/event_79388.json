@@ -1,0 +1,36 @@
+{
+  "report_number": "79388",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050705",
+  "reactions": [
+    "CONSTIPATION",
+    "FATIGUE",
+    "FEELING ABNORMAL",
+    "GASTRIC DISORDER",
+    "INFLUENZA LIKE ILLNESS",
+    "MALAISE",
+    "MYALGIA"
+  ],
+  "date_started": "20050625",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SEVEN UP DIET SODA",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

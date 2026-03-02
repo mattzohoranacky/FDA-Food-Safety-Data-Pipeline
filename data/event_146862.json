@@ -1,0 +1,33 @@
+{
+  "report_number": "146862",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20111216",
+  "reactions": [
+    "DYSPNOEA",
+    "ERYTHEMA",
+    "PRURITUS"
+  ],
+  "date_started": "20111130",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN FIT FOOD LITE WHEY CHOCOLATE",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN OPTIFIBER SCFA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

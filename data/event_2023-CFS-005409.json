@@ -1,0 +1,28 @@
+{
+  "report_number": "2023-CFS-005409",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20221027",
+  "reactions": [
+    "Chemical burn",
+    "Eye discharge",
+    "Pain"
+  ],
+  "date_started": "20221017",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

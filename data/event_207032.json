@@ -1,0 +1,49 @@
+{
+  "report_number": "207032",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170131",
+  "reactions": [
+    "ASTHENIA",
+    "BLINDNESS TRANSIENT",
+    "DISORIENTATION",
+    "DISTURBANCE IN ATTENTION",
+    "DIZZINESS",
+    "FALL",
+    "GAIT DISTURBANCE",
+    "GASTROINTESTINAL DISORDER",
+    "HEADACHE",
+    "NAUSEA",
+    "SPEECH DISORDER",
+    "VISUAL ACUITY REDUCED",
+    "VISUAL IMPAIRMENT"
+  ],
+  "date_started": "20160620",
+  "consumer": {
+    "age": "73",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "B12 ENERGY BERRY MELTS (DIETARY SUPPLEMENT) TABLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREEN TEA CR (DIETARY SUPPLEMENT) CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "A LOT OF HEALTH PRODUCTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

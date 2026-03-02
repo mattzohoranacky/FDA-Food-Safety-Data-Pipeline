@@ -1,0 +1,31 @@
+{
+  "report_number": "140497",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110621",
+  "reactions": [
+    "BODY TEMPERATURE INCREASED",
+    "CAMPYLOBACTER INTESTINAL INFECTION",
+    "CHILLS",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS VIBRIO",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20110507",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

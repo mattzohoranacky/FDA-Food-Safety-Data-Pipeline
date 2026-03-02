@@ -1,0 +1,42 @@
+{
+  "report_number": "217529",
+  "outcomes": [
+    "Death",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170908",
+  "reactions": [
+    "CARDIAC ARREST",
+    "CIRCULATORY COLLAPSE",
+    "CONVULSION",
+    "Death",
+    "MALAISE",
+    "RESPIRATORY ARREST"
+  ],
+  "date_started": "20170829",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "IDAHOAN ROASTER GARLIC MASHED POTATOES",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BAKED FISH",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "GREEN BEANS",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

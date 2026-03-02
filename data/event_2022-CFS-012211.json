@@ -1,0 +1,47 @@
+{
+  "report_number": "2022-CFS-012211",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220808",
+  "reactions": [
+    "Abdominal pain",
+    "Chills",
+    "Chromaturia",
+    "Decreased appetite",
+    "Fatigue",
+    "Malaise",
+    "Nausea",
+    "Pain",
+    "Pruritus",
+    "Pyrexia"
+  ],
+  "date_started": "20220612",
+  "consumer": {
+    "age": "38.4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST LENTIL & LEEK CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Other supplements as per prose",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Probiotics (prior to 6/1/22)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

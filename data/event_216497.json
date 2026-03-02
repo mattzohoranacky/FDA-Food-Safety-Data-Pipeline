@@ -1,0 +1,34 @@
+{
+  "report_number": "216497",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170814",
+  "reactions": [
+    "BURNING SENSATION",
+    "ERYTHEMA",
+    "PRURITUS",
+    "RASH",
+    "SWELLING"
+  ],
+  "date_started": "20161215",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COLD PLASMA SUB-D",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM WITH VIT-D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

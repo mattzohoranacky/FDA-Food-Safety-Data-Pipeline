@@ -1,0 +1,37 @@
+{
+  "report_number": "177039",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140611",
+  "reactions": [
+    "ARTHRALGIA",
+    "EOSINOPHILIA MYALGIA SYNDROME",
+    "GAIT DISTURBANCE",
+    "JOINT STIFFNESS",
+    "MUSCLE FATIGUE",
+    "MUSCULOSKELETAL STIFFNESS",
+    "MYALGIA"
+  ],
+  "date_started": "20140610",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "XYMOGEN 5-HTP CR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MINI HALF-SIZE FISH OIL 1200MG STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

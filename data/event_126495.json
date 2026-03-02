@@ -1,0 +1,31 @@
+{
+  "report_number": "126495",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100517",
+  "reactions": [
+    "Adverse event",
+    "BLOOD POTASSIUM DECREASED",
+    "DIARRHOEA",
+    "FOOD POISONING",
+    "GASTRITIS VIRAL",
+    "VOMITING"
+  ],
+  "date_started": "20100503",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORGANIC VALLEY NONFAT DRY MILK",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    }
+  ]
+}

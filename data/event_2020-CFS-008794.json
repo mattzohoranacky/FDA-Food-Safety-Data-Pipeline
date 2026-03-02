@@ -1,0 +1,27 @@
+{
+  "report_number": "2020-CFS-008794",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200915",
+  "reactions": [
+    "Abdominal pain upper",
+    "Blood creatinine increased",
+    "Rash"
+  ],
+  "date_started": "20200818",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE OPTIFIBER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

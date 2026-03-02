@@ -1,0 +1,34 @@
+{
+  "report_number": "70020",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040614",
+  "reactions": [
+    "BURNING SENSATION",
+    "EMERGENCY CARE EXAMINATION",
+    "EYE IRRITATION",
+    "KERATOCONJUNCTIVITIS SICCA",
+    "VISION BLURRED"
+  ],
+  "date_started": "20031210",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIOSILK HAIR DYE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOSILK NATURAL HIGHLIGHT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

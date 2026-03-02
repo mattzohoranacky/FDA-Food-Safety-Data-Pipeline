@@ -1,0 +1,30 @@
+{
+  "report_number": "216436",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170809",
+  "reactions": [
+    "Ileus",
+    "Pancreatitis",
+    "Renal failure"
+  ],
+  "date_started": "20170716",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MICROPLEX VMZ",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "XEO MEGA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "report_number": "2024-CFS-001894",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240209",
+  "reactions": [
+    "Abdominal pain upper",
+    "Decreased appetite",
+    "Fatigue",
+    "Headache",
+    "Platelet transfusion",
+    "Thrombocytopenia",
+    "Vomiting"
+  ],
+  "date_started": "20230110",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "90 DAY RAIZ TEJOCOTE ROOT 100 PERCENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "B-12 VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OMEGA 3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_number": "200924",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160824",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "DYSPNOEA",
+    "FEELING ABNORMAL",
+    "PRESYNCOPE",
+    "PULMONARY MASS"
+  ],
+  "date_started": "20160813",
+  "consumer": {
+    "age": "86",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENEFIBER W WHEAT DEXTRIN (WHEAT DEXTRIN) ORAL POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLAXSEED (UNUM USITATISSIMUM)",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

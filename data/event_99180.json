@@ -1,0 +1,31 @@
+{
+  "report_number": "99180",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20070625",
+  "reactions": [
+    "BLISTER",
+    "Skin burning sensation"
+  ],
+  "date_started": "20070616",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SALON PRO NON-ACETONE NAIL POLISH REMOVER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "LIQUID SOAP",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

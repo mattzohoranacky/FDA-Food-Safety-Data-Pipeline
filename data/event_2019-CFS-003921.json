@@ -1,0 +1,26 @@
+{
+  "report_number": "2019-CFS-003921",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190415",
+  "reactions": [
+    "Food poisoning",
+    "Nausea"
+  ],
+  "date_started": "20190214",
+  "consumer": {
+    "age": "35.4",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAKE IN A CUP",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-000912",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20210126",
+  "reactions": [
+    "Pyrexia",
+    "Salmonellosis"
+  ],
+  "date_started": "20210114",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EARTH'S BEST ORGANIC DAIRY INFANT FORMULA WITH IRON MILK-BASED POWDER",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Gripe Water",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "report_number": "2023-CFS-013153",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20231128",
+  "reactions": [
+    "Blood pressure increased",
+    "Heart rate irregular"
+  ],
+  "date_started": "20231013",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

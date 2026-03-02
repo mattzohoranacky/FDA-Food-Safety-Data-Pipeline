@@ -1,0 +1,39 @@
+{
+  "report_number": "2025-CFS-007723",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20220929",
+  "reactions": [
+    "Abdominal pain",
+    "Blood bilirubin increased",
+    "Chromaturia",
+    "Dehydration",
+    "Emergency care",
+    "Gastrooesophageal reflux disease",
+    "Illness",
+    "Musculoskeletal chest pain",
+    "Urticaria",
+    "Weight decreased"
+  ],
+  "date_started": "20220502",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST SCOOPS PLANT-BASED ICE CREAM MINT + DARK MELTY CACAO CHIPS",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST SCOOPS PLANT-BASED ICE CREAM VANILLA + STICKY SWEET SALTED CARAMEL",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    }
+  ]
+}

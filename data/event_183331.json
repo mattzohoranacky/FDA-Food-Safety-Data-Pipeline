@@ -1,0 +1,37 @@
+{
+  "report_number": "183331",
+  "outcomes": [
+    "Life Threatening",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150219",
+  "reactions": [
+    "ANAPHYLACTIC SHOCK",
+    "CONVULSION",
+    "CYANOSIS",
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "FLUSHING",
+    "HYPERSENSITIVITY",
+    "PALPITATIONS",
+    "Product label issue",
+    "URTICARIA",
+    "VOMITING"
+  ],
+  "date_started": "20150209",
+  "consumer": {
+    "age": "13",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARL'S JR. RESTAURANT CRISP CUT POTATO FRIES",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

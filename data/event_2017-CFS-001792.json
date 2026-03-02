@@ -1,0 +1,39 @@
+{
+  "report_number": "2017-CFS-001792",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20171113",
+  "reactions": [
+    "Chest pain",
+    "Musculoskeletal pain",
+    "Myalgia",
+    "Rhabdomyolysis"
+  ],
+  "date_started": "20171112",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COR-PERFORMANCE CREATINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "fish oil",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

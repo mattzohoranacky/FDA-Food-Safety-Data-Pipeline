@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-003201",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190327",
+  "reactions": [
+    "Chest pain",
+    "Constipation",
+    "Cough",
+    "Headache",
+    "Nausea",
+    "Oropharyngeal pain",
+    "Throat tightness",
+    "Wheezing"
+  ],
+  "date_started": "20190322",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRUITSTAND RED SEEDLESS GRAPES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

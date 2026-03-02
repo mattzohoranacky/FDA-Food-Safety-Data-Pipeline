@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-011992",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220802",
+  "reactions": [
+    "Abdominal pain upper",
+    "Diarrhoea",
+    "Flatulence"
+  ],
+  "date_started": "20220801",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOXY ORGANIC STRAWBERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLE TRUTH BABY ARUGULA",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

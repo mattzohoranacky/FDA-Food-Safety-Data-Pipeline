@@ -1,0 +1,35 @@
+{
+  "report_number": "2018-CFS-010372",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180815",
+  "reactions": [
+    "Blood glucose increased",
+    "Blood pressure increased",
+    "Epistaxis",
+    "Headache",
+    "Nausea"
+  ],
+  "date_started": "20180701",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFE VANTAGE PROTANDIM NRF1 SYNERGIZER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFE VANTAGE PROTANDM NRF2 SYNERGIZER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

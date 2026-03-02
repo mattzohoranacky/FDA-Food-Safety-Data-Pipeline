@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-007147",
+  "outcomes": [
+    "Life Threatening",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20180516",
+  "reactions": [
+    "Abnormal sensation in eye",
+    "Dyspnoea",
+    "Eye discharge",
+    "Eye swelling",
+    "Hypersensitivity",
+    "Swelling face"
+  ],
+  "date_started": "20180103",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NATURALS PROBIOTIC GUMMIES 2 BILLION LIVE CULT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTLIVITAMIN FOR 50+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

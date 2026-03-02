@@ -1,0 +1,35 @@
+{
+  "report_number": "2024-CFS-002372",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240222",
+  "reactions": [
+    "Accidental overdose",
+    "Seizure",
+    "Tremor",
+    "Unresponsive to stimuli",
+    "Vomiting"
+  ],
+  "date_started": "20240218",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOMETOWN HERO TEQUILA SUNRISE 5MG DELTA-9 THC GUMMY",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "cocktail",
+      "industry_code": "32",
+      "industry_name": "Alcoholic Beverage"
+    }
+  ]
+}

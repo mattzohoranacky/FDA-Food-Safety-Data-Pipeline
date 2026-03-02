@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-015512",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Injury",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241207",
+  "reactions": [
+    "Burning sensation",
+    "Drug-induced liver injury",
+    "Fatigue",
+    "Hepatic enzyme increased",
+    "Hospitalisation",
+    "Hypersensitivity",
+    "Nausea",
+    "Pain"
+  ],
+  "date_started": "20241121",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "THE PAUSE LIFE SUPPLEMENT TURMERIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "report_number": "202543",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20161004",
+  "reactions": [
+    "LIPASE INCREASED",
+    "PANCREATITIS",
+    "PANCREATITIS ACUTE"
+  ],
+  "date_started": "20160914",
+  "consumer": {
+    "age": "22",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLETEST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NITROFLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SERIN OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "report_number": "167743",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130710",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DECREASED APPETITE",
+    "DEPRESSION",
+    "FEELING ABNORMAL",
+    "GASTROINTESTINAL DISORDER",
+    "GLOSSODYNIA",
+    "MALAISE",
+    "NAUSEA",
+    "THROAT IRRITATION"
+  ],
+  "date_started": "20130709",
+  "consumer": {
+    "age": "67",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BENEFIBER WITH WHEAT DEXTRIN (NCH) (WHEAT DEXTRIN) POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PROBIOTICS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

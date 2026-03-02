@@ -1,0 +1,32 @@
+{
+  "report_number": "2024-CFS-014500",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20241119",
+  "reactions": [
+    "Diarrhoea",
+    "Escherichia infection",
+    "Fatigue",
+    "Headache",
+    "Nausea",
+    "Pain",
+    "Pyrexia",
+    "Vomiting"
+  ],
+  "date_started": "20241024",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAL-ORGANIC FARMS ORGANIC CUT & PEELED BABY CARROTS",
+      "industry_code": "25",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

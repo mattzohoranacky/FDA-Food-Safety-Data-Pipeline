@@ -1,0 +1,31 @@
+{
+  "report_number": "2025-CFS-009020",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250607",
+  "reactions": [
+    "Hypersensitivity",
+    "Swelling"
+  ],
+  "date_started": "20250607",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRENCH ONION DIP",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SALT & VINEGAR STYLE POTATO CHIPS",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    }
+  ]
+}

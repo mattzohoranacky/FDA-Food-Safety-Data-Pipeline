@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-006432",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20250429",
+  "reactions": [
+    "Fatigue",
+    "Hypersensitivity",
+    "Nausea",
+    "Pain",
+    "Swelling"
+  ],
+  "date_started": "20250322",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MONSTER ULTRA BLUE HAWAIIAN PUNCH",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

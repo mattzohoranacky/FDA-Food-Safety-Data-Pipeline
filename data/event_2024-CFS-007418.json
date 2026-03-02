@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-007418",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220324",
+  "reactions": [
+    "Diarrhoea",
+    "Malaise",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20220320",
+  "consumer": {
+    "age": "13",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EGGLANDS BEST EGGS",
+      "industry_code": "15",
+      "industry_name": "Egg/Egg Prod"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "report_number": "200896",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160722",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DYSPNOEA",
+    "Hypersensitivity",
+    "URTICARIA",
+    "VOMITING"
+  ],
+  "date_started": "20160709",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ABBY'S BAKERY FROZEN HOME STYLE CINNAMON ROLLS",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

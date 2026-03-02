@@ -1,0 +1,40 @@
+{
+  "report_number": "2020-CFS-002154",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200215",
+  "reactions": [
+    "Alopecia",
+    "Dandruff",
+    "Dermatitis",
+    "Eczema",
+    "Hair texture abnormal"
+  ],
+  "date_started": "20200101",
+  "consumer": {
+    "age": "18.4",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL NO-POO DECADENCE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION DECADENCE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ULTRA DEFINING GEL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

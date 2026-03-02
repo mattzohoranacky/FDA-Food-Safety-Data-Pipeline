@@ -1,0 +1,42 @@
+{
+  "report_number": "152439",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20120516",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "CONFUSIONAL STATE",
+    "DEPRESSED MOOD",
+    "DIZZINESS",
+    "FATIGUE",
+    "HYPERSENSITIVITY",
+    "HYPOTRICHOSIS",
+    "LOCAL SWELLING",
+    "NAUSEA",
+    "OEDEMA",
+    "PAIN",
+    "PARAESTHESIA",
+    "URTICARIA"
+  ],
+  "date_started": "20120101",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLAIROL BRILLIANCE SEMI PERMANENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLAIROL NATURAL INSTINCTS SEMI PERMANENT",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

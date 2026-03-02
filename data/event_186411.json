@@ -1,0 +1,39 @@
+{
+  "report_number": "186411",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150526",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "MYALGIA",
+    "NAUSEA",
+    "SKIN IRRITATION"
+  ],
+  "date_started": "20150516",
+  "consumer": {
+    "age": "27",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MEHNDI HENNA KITS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DHA VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRENATAL MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

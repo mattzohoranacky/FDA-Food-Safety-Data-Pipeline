@@ -1,0 +1,39 @@
+{
+  "report_number": "2021-CFS-000807",
+  "outcomes": [
+    "Death"
+  ],
+  "date_created": "20210122",
+  "reactions": [
+    "Atelectasis",
+    "Death",
+    "Interstitial lung disease",
+    "Pneumonia"
+  ],
+  "date_started": "20200614",
+  "consumer": {
+    "age": "78",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHNSONS POWDER NO UPC",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamins B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamins C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

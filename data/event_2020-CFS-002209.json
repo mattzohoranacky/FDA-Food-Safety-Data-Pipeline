@@ -1,0 +1,46 @@
+{
+  "report_number": "2020-CFS-002209",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200217",
+  "reactions": [
+    "Acne",
+    "Hypersensitivity",
+    "Pruritus",
+    "Skin irritation",
+    "Urticaria"
+  ],
+  "date_started": "20200212",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PACIFICA KALE DETOX DEEP CLEANSING FACE WASH",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Iron supplements",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

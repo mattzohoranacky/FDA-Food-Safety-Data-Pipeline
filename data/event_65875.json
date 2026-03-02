@@ -1,0 +1,35 @@
+{
+  "report_number": "65875",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040120",
+  "reactions": [
+    "BLOOD CALCIUM INCREASED",
+    "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "HOSPITALISATION",
+    "HYPERCALCAEMIA",
+    "PHYSICAL EXAMINATION"
+  ],
+  "date_started": "20031118",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIBER LAXATIVE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY CALCIUM 600 PLUS D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

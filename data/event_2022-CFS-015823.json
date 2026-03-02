@@ -1,0 +1,35 @@
+{
+  "report_number": "2022-CFS-015823",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20221102",
+  "reactions": [
+    "Anxiety",
+    "Cold sweat",
+    "Disorientation",
+    "Loss of consciousness",
+    "Nausea",
+    "Vision blurred"
+  ],
+  "date_started": "20221021",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOLTERRA NATURALS HEMPZZZ DELTA 8",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CBD",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

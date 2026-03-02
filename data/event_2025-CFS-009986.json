@@ -1,0 +1,30 @@
+{
+  "report_number": "2025-CFS-009986",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20250625",
+  "reactions": [
+    "Autoimmune hepatitis",
+    "Drug-induced liver injury",
+    "Liver injury",
+    "Necrosis",
+    "Pneumothorax"
+  ],
+  "date_started": "20220716",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HILMA INDOOR/OUTDOOR SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

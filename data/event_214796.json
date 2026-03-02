@@ -1,0 +1,51 @@
+{
+  "report_number": "214796",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170705",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL SYMPTOM",
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "CHOLESTASIS",
+    "CHOLESTATIC LIVER INJURY",
+    "CHROMATURIA",
+    "DECREASED APPETITE",
+    "DRUG-INDUCED LIVER INJURY",
+    "FAECES PALE",
+    "HAEMORRHAGE",
+    "HEPATIC FAILURE",
+    "HEPATITIS A ANTIBODY POSITIVE",
+    "HEPATITIS CHOLESTATIC",
+    "HEPATOMEGALY",
+    "PLATELET COUNT INCREASED",
+    "PRURITUS",
+    "TRANSAMINASES INCREASED",
+    "WEIGHT DECREASED"
+  ],
+  "date_started": "20140819",
+  "consumer": {
+    "age": "24",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAX MUSCLE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORANGE TRENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

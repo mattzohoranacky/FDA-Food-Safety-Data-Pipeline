@@ -1,0 +1,83 @@
+{
+  "report_number": "174291",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140226",
+  "reactions": [
+    "ANXIETY",
+    "ARTHROPATHY",
+    "CHEST PAIN",
+    "CHILLS",
+    "CONFUSIONAL STATE",
+    "DELUSION",
+    "DEPRESSED MOOD",
+    "FEAR",
+    "FURUNCLE",
+    "HEART RATE INCREASED",
+    "INJURY",
+    "MULTIPLE ALLERGIES",
+    "MUSCULAR WEAKNESS",
+    "NEUROPATHY PERIPHERAL",
+    "OPIATES POSITIVE",
+    "RASH",
+    "SPEECH DISORDER",
+    "THINKING ABNORMAL",
+    "THIRST",
+    "URTICARIA"
+  ],
+  "date_started": "20140123",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA ALPHA CRS+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA FRANKINCENSE OIL BOSWELLIA FREREANA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA LAVENDER OIL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA LEMON, CITRUS LEMON OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA MICRO PLEX VMZ FOOD NUTRIENT COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA WILD ORANGE CITRUS SINENSIS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOTERRA X EO MEGA ESSENTIAL OIL OMEGA COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

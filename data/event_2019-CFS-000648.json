@@ -1,0 +1,32 @@
+{
+  "report_number": "2019-CFS-000648",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190121",
+  "reactions": [
+    "Dyspnoea",
+    "Erythema",
+    "Eye swelling",
+    "Feeling hot",
+    "Heart rate increased",
+    "Ocular hyperaemia",
+    "Paraesthesia"
+  ],
+  "date_started": "20190117",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC NIACIN VITAMIN B3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

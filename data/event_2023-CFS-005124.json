@@ -1,0 +1,36 @@
+{
+  "report_number": "2023-CFS-005124",
+  "outcomes": [
+    "Required Intervention",
+    "Disability",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230517",
+  "reactions": [
+    "Eye infection",
+    "Eye swelling",
+    "Ocular hyperaemia",
+    "Pruritus",
+    "Vision blurred"
+  ],
+  "date_started": "20230406",
+  "consumer": {
+    "age": "35.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLINIQUE HIGH IMPACT MASCARA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

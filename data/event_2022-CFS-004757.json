@@ -1,0 +1,33 @@
+{
+  "report_number": "2022-CFS-004757",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220406",
+  "reactions": [
+    "Ageusia",
+    "Anosmia",
+    "Chemical injury",
+    "Dyspnoea",
+    "Epistaxis",
+    "Gastrooesophageal reflux disease",
+    "Haematemesis",
+    "Pain"
+  ],
+  "date_started": "20220221",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FLOW ORGANIC LEMON GINER ALKALINE SPRING WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

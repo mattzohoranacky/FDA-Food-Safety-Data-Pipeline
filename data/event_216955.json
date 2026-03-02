@@ -1,0 +1,29 @@
+{
+  "report_number": "216955",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170823",
+  "reactions": [
+    "BACTERIAL INFECTION",
+    "IMMUNE SYSTEM DISORDER",
+    "IMMUNODEFICIENCY",
+    "LYMPH GLAND INFECTION",
+    "LYMPHADENOPATHY"
+  ],
+  "date_started": "20170821",
+  "consumer": {
+    "age": "19",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RUGBY POLYVITAMIN LIQUID",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

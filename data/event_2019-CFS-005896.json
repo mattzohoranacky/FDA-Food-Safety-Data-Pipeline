@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-005896",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20190611",
+  "reactions": [
+    "Gastrooesophageal reflux disease",
+    "Nausea"
+  ],
+  "date_started": "20190603",
+  "consumer": {
+    "age": "64.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OIKOS GREEK YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Herbal Teas",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

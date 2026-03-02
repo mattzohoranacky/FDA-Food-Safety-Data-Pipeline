@@ -1,0 +1,47 @@
+{
+  "report_number": "195779",
+  "outcomes": [
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160426",
+  "reactions": [
+    "ANXIETY",
+    "ATTENTION DEFICIT/HYPERACTIVITY DISORDER",
+    "DEPRESSION",
+    "DYSPNOEA",
+    "ERECTILE DYSFUNCTION",
+    "HYPOHIDROSIS",
+    "MENTAL IMPAIRMENT",
+    "OBSESSIVE-COMPULSIVE DISORDER",
+    "POLYNEUROPATHY",
+    "PRURITUS",
+    "TEMPERATURE INTOLERANCE"
+  ],
+  "date_started": "20080131",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIACIN (VITAMIN B3)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NIACINAMIDE B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "DAILY VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

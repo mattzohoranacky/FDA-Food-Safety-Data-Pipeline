@@ -1,0 +1,36 @@
+{
+  "report_number": "2019-CFS-009895",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190927",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Dizziness",
+    "Throat irritation",
+    "Vision blurred",
+    "Vomiting"
+  ],
+  "date_started": "20190926",
+  "consumer": {
+    "age": "54.1",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOSTESS FROSTED JUMBO DONETTES",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "daily multi vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

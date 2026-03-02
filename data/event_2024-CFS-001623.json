@@ -1,0 +1,36 @@
+{
+  "report_number": "2024-CFS-001623",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240205",
+  "reactions": [
+    "Abdominal discomfort"
+  ],
+  "date_started": "20240203",
+  "consumer": {
+    "age": "50.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GREAT VALUE HAZELNUT LIQUID COFFEE CREAMER",
+      "industry_code": "52",
+      "industry_name": "Miscellaneous Food Related Items"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Hair, skin and nails vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multi Vitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

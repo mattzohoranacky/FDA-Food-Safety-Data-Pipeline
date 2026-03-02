@@ -1,0 +1,29 @@
+{
+  "report_number": "2024-CFS-009435",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240626",
+  "reactions": [
+    "Cyanosis",
+    "Hyperhidrosis",
+    "Pallor",
+    "Vomiting"
+  ],
+  "date_started": "20240624",
+  "consumer": {
+    "age": "6",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KENDAMIL CLASSIC",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

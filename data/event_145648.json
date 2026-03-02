@@ -1,0 +1,93 @@
+{
+  "report_number": "145648",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Disability"
+  ],
+  "date_created": "20111115",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANXIETY",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BACK INJURY",
+    "BLOOD CHOLESTEROL INCREASED",
+    "BLOOD GLUCOSE INCREASED",
+    "BLOOD THYROID STIMULATING HORMONE NORMAL",
+    "BLOOD TRIGLYCERIDES INCREASED",
+    "CHEST PAIN",
+    "COUGH",
+    "DIABETES MELLITUS",
+    "DIZZINESS",
+    "DRUG INTERACTION",
+    "DYSPEPSIA",
+    "EMOTIONAL DISTRESS",
+    "FALL",
+    "FATIGUE",
+    "FEAR",
+    "GASTRITIS",
+    "GLYCOSYLATED HAEMOGLOBIN INCREASED",
+    "HEADACHE",
+    "HEPATIC STEATOSIS",
+    "HYPERSENSITIVITY",
+    "INJURY",
+    "JOINT INJURY",
+    "MYALGIA",
+    "NAUSEA",
+    "NERVOUSNESS",
+    "NUCLEAR MAGNETIC RESONANCE IMAGING",
+    "PAIN",
+    "PAIN IN EXTREMITY",
+    "PHARYNGITIS",
+    "PLANTAR FASCIITIS",
+    "THYROID NEOPLASM",
+    "URINARY TRACT INFECTION",
+    "VIRAL INFECTION",
+    "WRIST FRACTURE",
+    "X-RAY"
+  ],
+  "date_started": "20070104",
+  "consumer": {
+    "age": "33",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT CARB CONTROL CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT HARDCORE DRINK PACKETS IGNITION STIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT HARDCORE READY TO DRINK",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT MAX LIQUID CAPS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT NATURAL CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDROXYCUT REGULAR RAPID RELEASE CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

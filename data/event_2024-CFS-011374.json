@@ -1,0 +1,34 @@
+{
+  "report_number": "2024-CFS-011374",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20240912",
+  "reactions": [
+    "Hypersensitivity",
+    "Peripheral swelling",
+    "Pharyngeal swelling",
+    "Rash",
+    "Sinus congestion"
+  ],
+  "date_started": "20240907",
+  "consumer": {
+    "age": "35.3",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "COCA COLA CHERRY ZERO SUGAR",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRIDENT TROPICAL TWIST",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

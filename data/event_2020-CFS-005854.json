@@ -1,0 +1,43 @@
+{
+  "report_number": "2020-CFS-005854",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200610",
+  "reactions": [
+    "Decreased appetite",
+    "Insomnia",
+    "Lymphadenopathy",
+    "Pruritus",
+    "Skin reaction",
+    "Weight decreased",
+    "White blood cell count abnormal"
+  ],
+  "date_started": "20200509",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CLARIOL TEXTURE AND TIME HAIR DYE -BLACK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin B1",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

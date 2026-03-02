@@ -1,0 +1,36 @@
+{
+  "report_number": "2018-CFS-013479",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181109",
+  "reactions": [
+    "Dehydration",
+    "Diarrhoea",
+    "Dizziness",
+    "Hyperventilation",
+    "Migraine",
+    "Pain"
+  ],
+  "date_started": "20180801",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GO LEAN DETOX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Go Lean Detox",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

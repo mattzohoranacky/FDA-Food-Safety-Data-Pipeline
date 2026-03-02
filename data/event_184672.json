@@ -1,0 +1,35 @@
+{
+  "report_number": "184672",
+  "outcomes": [
+    "Life Threatening",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20150403",
+  "reactions": [
+    "BURNING SENSATION",
+    "CHOKING",
+    "DYSPHONIA",
+    "DYSPNOEA",
+    "FOREIGN BODY"
+  ],
+  "date_started": "20150225",
+  "consumer": {
+    "age": "70",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY CHELATED ZINC 50MG CAPLETS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SUPPLEMENTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

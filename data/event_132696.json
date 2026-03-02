@@ -1,0 +1,30 @@
+{
+  "report_number": "132696",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100308",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "GINGIVAL BLEEDING",
+    "MALAISE",
+    "MOUTH HAEMORRHAGE",
+    "VOMITING",
+    "WOUND"
+  ],
+  "date_started": "20100224",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STARKIST VERY LOW SODIUM CHUNK WHITE ALBACORE TUNA IN WATER",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

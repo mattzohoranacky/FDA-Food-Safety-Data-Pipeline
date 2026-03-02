@@ -1,0 +1,32 @@
+{
+  "report_number": "123665",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Congenital Anomaly",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20071109",
+  "reactions": [
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BURNING SENSATION",
+    "CHEST PAIN",
+    "VOMITING"
+  ],
+  "date_started": "20071106",
+  "consumer": {
+    "age": "40",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HILLSIDE BEVERAGES SELF HEATING COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

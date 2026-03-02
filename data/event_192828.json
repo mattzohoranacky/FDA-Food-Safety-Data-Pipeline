@@ -1,0 +1,49 @@
+{
+  "report_number": "192828",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160114",
+  "reactions": [
+    "ANGIOGRAM ABNORMAL",
+    "BLOOD CHOLESTEROL DECREASED",
+    "CEREBROVASCULAR ACCIDENT",
+    "COMPUTERISED TOMOGRAM ABNORMAL",
+    "DIPLOPIA",
+    "DIZZINESS",
+    "ECHOCARDIOGRAM ABNORMAL",
+    "GAIT DISTURBANCE",
+    "NAUSEA",
+    "NUCLEAR MAGNETIC RESONANCE IMAGING ABNORMAL",
+    "SINUS BRADYCARDIA",
+    "ULTRASOUND SCAN ABNORMAL",
+    "VOMITING"
+  ],
+  "date_started": "20150720",
+  "consumer": {
+    "age": "84",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE CHIA SEED CONTAINS OMEGA3 6 9 FATTY ACIDS NET WT 16OZ SOFTGEL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE L-CARNITINE 250MG RAPID RELEASE CAPSULES (DIETARY SUPPLEMENT) CAPSULE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE L-CARNITINE 500MG COATED CAPLETS (DIETARY SUPPLEMENT) CAPLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

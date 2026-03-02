@@ -1,0 +1,31 @@
+{
+  "report_number": "70163",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20040326",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "PHYSICAL EXAMINATION",
+    "SWELLING",
+    "URTICARIA"
+  ],
+  "date_started": "20040323",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANTENE PRO-V HAIR CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PANTENE PRO-V SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

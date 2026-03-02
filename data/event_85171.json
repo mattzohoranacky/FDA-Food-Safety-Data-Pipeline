@@ -1,0 +1,46 @@
+{
+  "report_number": "85171",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20060328",
+  "reactions": [
+    "DIZZINESS",
+    "DYSPNOEA",
+    "LOSS OF CONSCIOUSNESS",
+    "PRURITUS",
+    "URTICARIA"
+  ],
+  "date_started": "20060319",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JERGENS NATURAL GLOW BODY",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "JERGENS NATURAL GLOW FACE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "EYESHADOW",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MASCARA",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

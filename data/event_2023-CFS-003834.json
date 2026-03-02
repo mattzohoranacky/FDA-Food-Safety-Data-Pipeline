@@ -1,0 +1,28 @@
+{
+  "report_number": "2023-CFS-003834",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20230410",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Urticaria"
+  ],
+  "date_started": "20230406",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "VICTORIA'S SECRET LOVE SPELL LUXE LOTION",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

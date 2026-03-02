@@ -1,0 +1,45 @@
+{
+  "report_number": "2019-CFS-011736",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20191126",
+  "reactions": [
+    "Application site pruritus",
+    "Application site rash",
+    "Application site swelling",
+    "Application site vesicles",
+    "Blister",
+    "Cyst",
+    "Erythema",
+    "Hypersensitivity",
+    "Pruritus",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20190101",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOFTSHEEN-CARSON DARK AND LOVELY GO INTENSE",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Dark and Lovely After Color Conditioner",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Soft-Sheen Carson 20V Developer",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

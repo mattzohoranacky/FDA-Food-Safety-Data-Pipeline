@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-012404",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20191219",
+  "reactions": [
+    "Oral mucosal blistering"
+  ],
+  "date_started": "20191130",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORAHEALTH XYLIMELTS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "vitamin d",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

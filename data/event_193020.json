@@ -1,0 +1,37 @@
+{
+  "report_number": "193020",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160126",
+  "reactions": [
+    "DIARRHOEA",
+    "LISTERIOSIS"
+  ],
+  "date_started": "20160115",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DOLE BAGGED SALAD MIX",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FISH OIL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MELATONIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

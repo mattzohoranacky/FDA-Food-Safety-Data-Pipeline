@@ -1,0 +1,32 @@
+{
+  "report_number": "148343",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20120126",
+  "reactions": [
+    "DIARRHOEA",
+    "VOMITING",
+    "VOMITING PROJECTILE"
+  ],
+  "date_started": "20120122",
+  "consumer": {
+    "age": "1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SANTA CRUZ ORGANIC WHITE GRAPE JUICE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CHERRY FLAVORED LIQUID MULTI VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

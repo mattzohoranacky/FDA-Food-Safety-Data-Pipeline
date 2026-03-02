@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-009732",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240712",
+  "reactions": [
+    "Hypersensitivity",
+    "Pruritus",
+    "Urticaria"
+  ],
+  "date_started": "20240422",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AG1 WHOLE FOOD POUCH 360G NON SPECIFIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "VITAMIN D3 PLUS K2 LIQUID DIETARY SUPPLEMENT 1FL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

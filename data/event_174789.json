@@ -1,0 +1,30 @@
+{
+  "report_number": "174789",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140321",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "CHOLECYSTITIS",
+    "EPIGASTRIC DISCOMFORT",
+    "FOOD INTOLERANCE",
+    "LIVER FUNCTION TEST ABNORMAL",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20140318",
+  "consumer": {
+    "age": "34",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HEMOHIM 20 ML",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

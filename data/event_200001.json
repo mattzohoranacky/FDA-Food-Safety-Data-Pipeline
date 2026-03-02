@@ -1,0 +1,30 @@
+{
+  "report_number": "200001",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160729",
+  "reactions": [
+    "Adverse reaction",
+    "BLOOD BLISTER",
+    "DYSGEUSIA",
+    "HYPERSENSITIVITY",
+    "MUSCLE TIGHTNESS",
+    "OROPHARYNGEAL SWELLING"
+  ],
+  "date_started": "20160719",
+  "consumer": {
+    "age": "46",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRIENDLY'S SUNDAE XTREME CHOCOLATE PEANUT BUTTER CUP FROZEN DAIRY DESSERT",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    }
+  ]
+}

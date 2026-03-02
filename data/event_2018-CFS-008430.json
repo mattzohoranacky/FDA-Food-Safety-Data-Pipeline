@@ -1,0 +1,44 @@
+{
+  "report_number": "2018-CFS-008430",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180620",
+  "reactions": [
+    "Dyspnoea",
+    "Oedema peripheral",
+    "Pulmonary hypertension",
+    "Renal failure acute",
+    "Right ventricular failure",
+    "Weight increased"
+  ],
+  "date_started": "20180328",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURAL CELLULAR DEFENSE NCD 2 NATURAL ZEOLITE AS CLINOPTILOLITE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "calcium Citrate",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

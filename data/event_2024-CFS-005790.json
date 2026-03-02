@@ -1,0 +1,30 @@
+{
+  "report_number": "2024-CFS-005790",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240606",
+  "reactions": [
+    "Decreased appetite",
+    "Diarrhoea",
+    "Infection",
+    "Irritability",
+    "Pyrexia",
+    "Urinary tract infection"
+  ],
+  "date_started": "20240428",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER GOOD START SOOTHE PRO",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "report_number": "187195",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20150622",
+  "reactions": [
+    "CHEST DISCOMFORT",
+    "GASTRITIS",
+    "HEADACHE"
+  ],
+  "date_started": "20150618",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENSURE PROTEIN DRINK",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "GATORADE",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "report_number": "2018-CFS-001942",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20180203",
+  "reactions": [
+    "Anxiety",
+    "Breath sounds abnormal",
+    "Deafness",
+    "Dizziness",
+    "Dyspnoea",
+    "Feeling jittery",
+    "Flushing",
+    "Headache",
+    "Heart rate increased",
+    "Heart rate irregular",
+    "Insomnia",
+    "Malaise",
+    "Middle insomnia",
+    "Nausea",
+    "Rash"
+  ],
+  "date_started": "20180201",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVISION TRUCONTROL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRUVISION TRUFIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

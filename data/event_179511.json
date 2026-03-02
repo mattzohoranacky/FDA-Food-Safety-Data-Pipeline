@@ -1,0 +1,28 @@
+{
+  "report_number": "179511",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20140827",
+  "reactions": [
+    "Foreign body in gastrointestinal tract",
+    "HAEMOPTYSIS",
+    "Product contamination physical"
+  ],
+  "date_started": "20140822",
+  "consumer": {
+    "age": "6",
+    "age_unit": "month(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEECH-NUT SWEET PEAS",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

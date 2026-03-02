@@ -1,0 +1,46 @@
+{
+  "report_number": "160838",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20130107",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "DYSPNOEA",
+    "HEART RATE INCREASED",
+    "HYPERTENSION",
+    "PAIN",
+    "PRURITUS",
+    "PYREXIA",
+    "SKIN BURNING SENSATION",
+    "URTICARIA"
+  ],
+  "date_started": "20121218",
+  "consumer": {
+    "age": "26.43",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DG HEALTH CHOLESTEROL HEALTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DG HEALTH NIACIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DG HEALTH PHYTOSTEROL COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

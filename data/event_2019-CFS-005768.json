@@ -1,0 +1,39 @@
+{
+  "report_number": "2019-CFS-005768",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190610",
+  "reactions": [
+    "Adverse event",
+    "Blood pressure increased",
+    "Heart rate increased",
+    "Hypertension",
+    "Hypoaesthesia oral",
+    "Lip swelling",
+    "Pruritus",
+    "Tachycardia",
+    "Urticaria"
+  ],
+  "date_started": "20190501",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLETECH BLACK ONYX SHATTER POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOODBOLT XTEND ELITE BCCA CITRUS PASSIONFRUIT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

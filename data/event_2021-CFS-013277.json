@@ -1,0 +1,33 @@
+{
+  "report_number": "2021-CFS-013277",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20211222",
+  "reactions": [
+    "Alopecia",
+    "Dry skin",
+    "Hair texture abnormal",
+    "Pruritus"
+  ],
+  "date_started": "20201020",
+  "consumer": {
+    "age": "53.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitafusion woman's multi",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

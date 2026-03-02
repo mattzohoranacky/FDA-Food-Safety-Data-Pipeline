@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-004690",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180314",
+  "reactions": [
+    "Vomiting"
+  ],
+  "date_started": "20180314",
+  "consumer": {
+    "age": "11",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC ORGANIC COMPLETE NUTRITION FOR YOUR BABY'S FIRST YEAR",
+      "industry_code": "40C",
+      "industry_name": "Formula, Form Unspecified"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

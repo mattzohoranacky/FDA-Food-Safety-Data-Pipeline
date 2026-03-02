@@ -1,0 +1,36 @@
+{
+  "report_number": "196268",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20160512",
+  "reactions": [
+    "DEHYDRATION",
+    "DRY THROAT",
+    "HEADACHE",
+    "MIGRAINE",
+    "NAUSEA",
+    "SINUS HEADACHE",
+    "SINUSITIS"
+  ],
+  "date_started": "20160512",
+  "consumer": {
+    "age": "46.38",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY HAIR, SKIN AND NAILS WITH 3000MCG OF BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE'S BOUNTY",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

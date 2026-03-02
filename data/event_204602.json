@@ -1,0 +1,31 @@
+{
+  "report_number": "204602",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20161123",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "DIARRHOEA",
+    "PREMATURE LABOUR"
+  ],
+  "date_started": "20161112",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SABRA CLASSIC HUMMUS",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PRE NATAL VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

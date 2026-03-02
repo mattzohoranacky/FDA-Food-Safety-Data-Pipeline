@@ -1,0 +1,30 @@
+{
+  "report_number": "183491",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150304",
+  "reactions": [
+    "DIARRHOEA"
+  ],
+  "date_started": "20150228",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CC-STORE ORGANIC GOJI BERRIES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CNSNACK ORGANIC MATCHA GREEN TEA",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

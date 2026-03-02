@@ -1,0 +1,57 @@
+{
+  "report_number": "154139",
+  "outcomes": [
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20120706",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FEELING ABNORMAL",
+    "FEELING JITTERY",
+    "HEART RATE INCREASED",
+    "MALAISE",
+    "NAUSEA",
+    "VERTIGO"
+  ],
+  "date_started": "20120609",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA ACTIVE VITAPAK CALCIUM 600",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA ACTIVE VITAPAK CLA 1000",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA ACTIVE VITAPAK ENERGY ENHANCER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA ACTIVE VITAPAK L-CARNITINE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WOMEN'S ULTRA MEGA ACTIVE VITAPAK WOMEN'S ULTRA MEGA ACTIVE WITHOUT IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

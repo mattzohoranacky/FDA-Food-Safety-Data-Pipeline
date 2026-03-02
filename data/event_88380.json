@@ -1,0 +1,33 @@
+{
+  "report_number": "88380",
+  "outcomes": [
+    "Life Threatening",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060926",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "EYE SWELLING",
+    "SWELLING"
+  ],
+  "date_started": "20060924",
+  "consumer": {
+    "age": "41.21",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDRODERM GENTLE CLEANSER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "HYDRODERM WRINKLE REDUCER AND MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

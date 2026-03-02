@@ -1,0 +1,36 @@
+{
+  "report_number": "2017-CFS-001725",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171113",
+  "reactions": [
+    "Abdominal pain upper",
+    "Activities of daily living impaired",
+    "Diarrhoea",
+    "Diverticulum",
+    "Dyspepsia",
+    "Haematochezia",
+    "Malaise"
+  ],
+  "date_started": "20171018",
+  "consumer": {
+    "age": "51",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIGESTIVE ADVANTAGE GAS DEFENSE FORMULA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIGESTIVE ADVANTAGE INTENSIVE BOWEL SUPPORT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

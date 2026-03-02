@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-002540",
+  "outcomes": [
+    "Death",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240229",
+  "reactions": [
+    "Death"
+  ],
+  "date_started": "20240228",
+  "consumer": {
+    "age": "4",
+    "age_unit": "week(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "A2 PLATINUM PREMIUM INFANT FORMULA",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

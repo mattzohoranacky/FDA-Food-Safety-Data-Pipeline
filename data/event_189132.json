@@ -1,0 +1,63 @@
+{
+  "report_number": "189132",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150819",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "BALANCE DISORDER",
+    "BLOOD PRESSURE INCREASED",
+    "DEHYDRATION",
+    "DIZZINESS",
+    "DRUG INTERACTION",
+    "DRUG INTOLERANCE",
+    "GAIT DISTURBANCE",
+    "GASTROINTESTINAL SOUNDS ABNORMAL",
+    "HEART RATE INCREASED",
+    "NAUSEA",
+    "PALPITATIONS",
+    "SENSORY DISTURBANCE",
+    "VERTIGO"
+  ],
+  "date_started": "20150602",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITANS PRIDE HORSE CHESTNUT 300 MG COATED CAPLETS (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JARROSIL (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "TENDOFIT (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN A (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D (DIETARY SUPPLEMENT)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

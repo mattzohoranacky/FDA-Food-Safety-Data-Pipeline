@@ -1,0 +1,32 @@
+{
+  "report_number": "190818",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151021",
+  "reactions": [
+    "ABDOMINAL DISTENSION",
+    "COELIAC DISEASE",
+    "DIARRHOEA",
+    "DYSPEPSIA",
+    "HEADACHE"
+  ],
+  "date_started": "20150915",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHEERIOS GLUTEN-FREE",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

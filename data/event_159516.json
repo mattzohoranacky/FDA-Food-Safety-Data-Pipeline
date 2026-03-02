@@ -1,0 +1,35 @@
+{
+  "report_number": "159516",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121024",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ABDOMINAL PAIN UPPER",
+    "ABSCESS",
+    "BACK PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "CONSTIPATION",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "Foreign body",
+    "INFECTION",
+    "SURGERY",
+    "TENDERNESS"
+  ],
+  "date_started": "20121008",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KELLOGGS ORIGINAL FROSTED MINI WHEATS BITE SIZE",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

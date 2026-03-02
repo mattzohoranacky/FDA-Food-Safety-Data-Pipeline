@@ -1,0 +1,30 @@
+{
+  "report_number": "159316",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20121123",
+  "reactions": [
+    "DRY SKIN",
+    "IMPAIRED HEALING",
+    "PAIN",
+    "PRURITUS",
+    "RASH"
+  ],
+  "date_started": "20120810",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TATTOO INK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

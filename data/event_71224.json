@@ -1,0 +1,31 @@
+{
+  "report_number": "71224",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20040803",
+  "reactions": [
+    "Adverse event",
+    "BLOOD CULTURE POSITIVE",
+    "CULTURE WOUND POSITIVE",
+    "DEATH",
+    "GASTROENTERITIS VIBRIO",
+    "HOSPITALISATION"
+  ],
+  "date_started": "20040530",
+  "consumer": {
+    "age": "56",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAW OYSTERS",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

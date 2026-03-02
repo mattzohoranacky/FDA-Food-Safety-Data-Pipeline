@@ -1,0 +1,31 @@
+{
+  "report_number": "111881",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20090408",
+  "reactions": [
+    "DIARRHOEA",
+    "RECTAL HAEMORRHAGE"
+  ],
+  "date_started": "20081022",
+  "consumer": {
+    "age": "77",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE ACIDOPHILUS COMPLEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE LIFE'S GREENS POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

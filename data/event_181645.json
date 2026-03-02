@@ -1,0 +1,33 @@
+{
+  "report_number": "181645",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20141224",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CREATININE INCREASED",
+    "BLOOD PHOSPHORUS INCREASED",
+    "BLOOD UREA INCREASED",
+    "JAUNDICE",
+    "OCULAR ICTERUS",
+    "YELLOW SKIN"
+  ],
+  "date_started": "20141219",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EPI TEST BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

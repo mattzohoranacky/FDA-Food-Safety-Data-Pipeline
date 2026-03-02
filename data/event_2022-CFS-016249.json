@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-016249",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20221117",
+  "reactions": [
+    "Gastrointestinal disorder",
+    "Hepatic enzyme increased",
+    "Pruritus"
+  ],
+  "date_started": "20220529",
+  "consumer": {
+    "age": "47.6",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DAILY HARVEST FRENCH CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

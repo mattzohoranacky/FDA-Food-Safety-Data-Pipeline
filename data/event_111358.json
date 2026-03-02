@@ -1,0 +1,34 @@
+{
+  "report_number": "111358",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20090320",
+  "reactions": [
+    "ERUCTATION",
+    "FLATULENCE",
+    "SALMONELLOSIS",
+    "VERTIGO",
+    "VOMITING"
+  ],
+  "date_started": "20090318",
+  "consumer": {
+    "age": "59",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "TRADER JOE'S PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FRED MYER NONFAT LITE LEMON YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

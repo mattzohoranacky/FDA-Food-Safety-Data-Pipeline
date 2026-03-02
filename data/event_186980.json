@@ -1,0 +1,38 @@
+{
+  "report_number": "186980",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20150615",
+  "reactions": [
+    "ERUCTATION",
+    "FAECES DISCOLOURED",
+    "FLATULENCE"
+  ],
+  "date_started": "20150602",
+  "consumer": {
+    "age": "79.88",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "POLY-IRON 150 MG POLYSACCRIDE IRON CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN B12",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

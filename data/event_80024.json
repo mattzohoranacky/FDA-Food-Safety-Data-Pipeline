@@ -1,0 +1,30 @@
+{
+  "report_number": "80024",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20050527",
+  "reactions": [
+    "DIARRHOEA",
+    "FAECES DISCOLOURED"
+  ],
+  "date_started": "20050522",
+  "consumer": {
+    "age": "18",
+    "age_unit": "month(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GERBER BANANA STRAWBERRY MEDLEY JUICE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SPARKLETT'S BOTTLED WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    }
+  ]
+}

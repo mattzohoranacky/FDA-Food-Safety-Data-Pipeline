@@ -1,0 +1,31 @@
+{
+  "report_number": "173648",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140203",
+  "reactions": [
+    "ASTHMA",
+    "DYSPNOEA",
+    "HYPONATRAEMIA",
+    "LUNG INFILTRATION",
+    "PNEUMONIA",
+    "WHEEZING"
+  ],
+  "date_started": "20130901",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "USP LABS OXYELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

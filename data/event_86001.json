@@ -1,0 +1,29 @@
+{
+  "report_number": "86001",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060601",
+  "reactions": [
+    "Death",
+    "ENTEROBACTER INFECTION",
+    "SKIN DISCOLOURATION",
+    "SLEEP APNOEA SYNDROME"
+  ],
+  "date_started": "20060307",
+  "consumer": {
+    "age": "31",
+    "age_unit": "week(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC NEOSURE ADVANCE INFANT FORMULA WITH IRON",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

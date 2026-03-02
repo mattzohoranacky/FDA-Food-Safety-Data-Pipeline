@@ -1,0 +1,39 @@
+{
+  "report_number": "2022-CFS-011406",
+  "outcomes": [
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220526",
+  "reactions": [
+    "Abdominal pain",
+    "Diarrhoea",
+    "Food poisoning",
+    "Malaise",
+    "Nausea",
+    "Pyrexia"
+  ],
+  "date_started": "20220502",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JIF NATURAL CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Mary Ruth's daily multivitamin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Mary Ruth's probiotic",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

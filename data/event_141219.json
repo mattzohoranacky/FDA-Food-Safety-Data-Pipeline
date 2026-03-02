@@ -1,0 +1,29 @@
+{
+  "report_number": "141219",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20110706",
+  "reactions": [
+    "COUGH",
+    "DIZZINESS",
+    "DYSPNOEA",
+    "FOREIGN BODY ASPIRATION",
+    "FOREIGN BODY TRAUMA",
+    "SENSATION OF FOREIGN BODY"
+  ],
+  "date_started": "20110622",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CITRACAL MAXIMUM (CHOLECALCIFEROL + CALCIUM CITRATE)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

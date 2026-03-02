@@ -1,0 +1,43 @@
+{
+  "report_number": "2022-CFS-003614",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20220311",
+  "reactions": [
+    "Biopsy kidney",
+    "Creatine urine increased"
+  ],
+  "date_started": "20220115",
+  "consumer": {
+    "age": "21.54",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STANDARD PROCESS CAL MA PLUS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STANDARD PROCESS CATAPLEX B CORE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STANDARD PROCESS COMPLETE CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "STANDARD PROCESS VEG-E COMPLETE PRO CHOCOLATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

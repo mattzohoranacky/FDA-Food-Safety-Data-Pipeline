@@ -1,0 +1,32 @@
+{
+  "report_number": "134455",
+  "outcomes": [
+    "Death",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101203",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "CELLULITIS",
+    "Death",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "GASTROENTERITIS VIBRIO",
+    "MUSCULOSKELETAL DISORDER",
+    "NAUSEA",
+    "SKIN DISORDER",
+    "VOMITING"
+  ],
+  "date_started": "20101203",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHRIMP",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

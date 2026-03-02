@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-008689",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190822",
+  "reactions": [
+    "Fatigue",
+    "Somnolence"
+  ],
+  "date_started": "20190601",
+  "consumer": {
+    "age": "33.5",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "STARBUCKS DOUBLE SHOT",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

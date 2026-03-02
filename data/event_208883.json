@@ -1,0 +1,31 @@
+{
+  "report_number": "208883",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170313",
+  "reactions": [
+    "BLOOD PRESSURE INCREASED",
+    "HYPERTENSION"
+  ],
+  "date_started": "20170301",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA VIRILITY BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2022-CFS-009607",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220613",
+  "reactions": [
+    "Diarrhoea",
+    "Haematochezia"
+  ],
+  "date_started": "20220529",
+  "consumer": {
+    "age": "3",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NEUROPRO GENTLEASE READY TO FEED",
+      "industry_code": "40N",
+      "industry_name": "Ready to Serve Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "baby probiotics",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

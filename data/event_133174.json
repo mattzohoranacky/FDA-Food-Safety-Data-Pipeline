@@ -1,0 +1,32 @@
+{
+  "report_number": "133174",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20101005",
+  "reactions": [
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "GASTROENTERITIS SALMONELLA",
+    "GASTROINTESTINAL DISORDER",
+    "HAEMATOCHEZIA"
+  ],
+  "date_started": "20100924",
+  "consumer": {
+    "age": "6",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC POWDERED INFANT FORMULA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

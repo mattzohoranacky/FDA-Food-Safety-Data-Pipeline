@@ -1,0 +1,38 @@
+{
+  "report_number": "201402",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160909",
+  "reactions": [
+    "Apparent death",
+    "Diarrhoea",
+    "Lethargy",
+    "Pallor",
+    "Pyrexia",
+    "Respiratory rate increased"
+  ],
+  "date_started": "20150927",
+  "consumer": {
+    "age": "123",
+    "age_unit": "day(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RUGBY FER-IRON",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RUGBY TRI VI SOL",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

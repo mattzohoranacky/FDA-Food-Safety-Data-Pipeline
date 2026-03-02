@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-010193",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20220627",
+  "reactions": [
+    "Abdominal pain upper",
+    "Asthenia",
+    "Chills",
+    "Decreased appetite",
+    "Diarrhoea",
+    "Dyspepsia",
+    "Escherichia infection",
+    "Headache",
+    "Jaundice",
+    "Nausea",
+    "Pain",
+    "Pyrexia"
+  ],
+  "date_started": "20220603",
+  "consumer": {
+    "age": "29",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FRENCH LENTIL AND LEEK CRUMBLES",
+      "industry_code": "24",
+      "industry_name": "Vegetables/Vegetable Products"
+    }
+  ]
+}

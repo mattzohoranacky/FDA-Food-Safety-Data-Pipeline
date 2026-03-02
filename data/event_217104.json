@@ -1,0 +1,32 @@
+{
+  "report_number": "217104",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170613",
+  "reactions": [
+    "Adverse event",
+    "DIARRHOEA",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "FOOD POISONING",
+    "HEADACHE",
+    "PAIN",
+    "PRURITUS"
+  ],
+  "date_started": "20170608",
+  "consumer": {
+    "age": "41",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SEAFOOD ATLANTIC BARRACUDA",
+      "industry_code": "16",
+      "industry_name": "Fishery/Seafood Prod"
+    }
+  ]
+}

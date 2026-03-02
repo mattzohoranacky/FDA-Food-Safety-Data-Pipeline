@@ -1,0 +1,31 @@
+{
+  "report_number": "2024-CFS-007847",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20221017",
+  "reactions": [
+    "Abdominal pain",
+    "Dizziness",
+    "Nausea",
+    "Vomiting"
+  ],
+  "date_started": "20221014",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "AMPHORA INTERNATIONAL SOFT DRIED PASSION FRUIT",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ORCHARD VALLEY HARVEST PALEO NUT MIX",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

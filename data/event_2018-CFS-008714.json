@@ -1,0 +1,47 @@
+{
+  "report_number": "2018-CFS-008714",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180627",
+  "reactions": [
+    "Abdominal discomfort",
+    "Abdominal pain upper",
+    "Dysphagia",
+    "Dyspnoea",
+    "Foreign body",
+    "Hypersensitivity",
+    "Malaise",
+    "Muscle spasms",
+    "Nausea",
+    "Pharyngeal oedema",
+    "Pruritus",
+    "Rash generalised",
+    "Sinus disorder",
+    "Sinusitis",
+    "Throat tightness",
+    "Urticaria",
+    "Vomiting"
+  ],
+  "date_started": "20180528",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "GNC AMP WHEYBOLIC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BCAA PREWORKOUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

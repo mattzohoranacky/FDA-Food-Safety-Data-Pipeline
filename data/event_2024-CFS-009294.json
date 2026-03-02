@@ -1,0 +1,28 @@
+{
+  "report_number": "2024-CFS-009294",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20240620",
+  "reactions": [
+    "Diarrhoea",
+    "Haematochezia",
+    "Pyrexia",
+    "Salmonellosis"
+  ],
+  "date_started": "20240613",
+  "consumer": {
+    "age": "5",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL GENTLEEASE",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    }
+  ]
+}

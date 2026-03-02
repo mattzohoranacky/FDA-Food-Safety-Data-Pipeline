@@ -1,0 +1,32 @@
+{
+  "report_number": "201124",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160901",
+  "reactions": [
+    "HEPATIC ENZYME ABNORMAL",
+    "HEPATIC ENZYME INCREASED",
+    "HYPERSENSITIVITY",
+    "LIVER DISORDER"
+  ],
+  "date_started": "20160720",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE BLACK COHOSH 540MG CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "OTHER VITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

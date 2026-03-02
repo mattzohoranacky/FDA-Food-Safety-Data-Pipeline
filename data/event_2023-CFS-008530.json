@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-008530",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20230814",
+  "reactions": [
+    "Confusional state",
+    "Fatigue",
+    "Headache"
+  ],
+  "date_started": "20230801",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FOLGERS COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Adult Women vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

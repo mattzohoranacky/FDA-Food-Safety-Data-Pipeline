@@ -1,0 +1,27 @@
+{
+  "report_number": "96141",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20070216",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "GASTROENTERITIS VIRAL",
+    "HEADACHE"
+  ],
+  "date_started": "20070111",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

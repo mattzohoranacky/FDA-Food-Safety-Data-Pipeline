@@ -1,0 +1,36 @@
+{
+  "report_number": "95415",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20070810",
+  "reactions": [
+    "ANOREXIA",
+    "ASTHENIA",
+    "CHOLELITHIASIS",
+    "DEHYDRATION",
+    "MALAISE",
+    "PAIN",
+    "PYREXIA",
+    "VOMITING",
+    "WEIGHT DECREASED",
+    "YELLOW SKIN"
+  ],
+  "date_started": "20070626",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OS CAL 500 PLUS D TABLETS (CALCIUM CARBONATE PLUS VITAMIN D)",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

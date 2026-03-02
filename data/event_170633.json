@@ -1,0 +1,35 @@
+{
+  "report_number": "170633",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130917",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "COUGH",
+    "DIARRHOEA",
+    "HEADACHE",
+    "PHARYNGITIS",
+    "UPPER RESPIRATORY TRACT INFECTION"
+  ],
+  "date_started": "20130906",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI BITE COFFEE WITH DARK CHOCOLATE",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI KEY LIME WITH GRAHAM CRACKER AND WHITE CHOCOLATE",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

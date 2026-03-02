@@ -1,0 +1,27 @@
+{
+  "report_number": "2021-CFS-006211",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20210630",
+  "reactions": [
+    "Diarrhoea",
+    "Infection",
+    "Pyrexia"
+  ],
+  "date_started": "20210611",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATURE'S BOUNTY ULTRA STRENGTH PROBIOTIC 10, 20 BILLION LIVE PROBIOTIC CULTURES CAPSULES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

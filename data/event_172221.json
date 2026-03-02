@@ -1,0 +1,36 @@
+{
+  "report_number": "172221",
+  "outcomes": [
+    "Hospitalization",
+    "Required Intervention",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131115",
+  "reactions": [
+    "HYPERSENSITIVITY",
+    "LOCAL SWELLING",
+    "PRURITUS",
+    "SHOCK",
+    "SKIN SWELLING",
+    "THROAT TIGHTNESS",
+    "URTICARIA"
+  ],
+  "date_started": "20130930",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "EXEMPTION 4",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

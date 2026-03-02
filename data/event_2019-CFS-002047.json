@@ -1,0 +1,30 @@
+{
+  "report_number": "2019-CFS-002047",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20190224",
+  "reactions": [
+    "Diarrhoea"
+  ],
+  "date_started": "20190224",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KROGER FIELD GREENS, ROMAINE LETTUCE, CARROTS, ENDIVE, RADICCHIO BLEND SALAD MIX",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Vitamin D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

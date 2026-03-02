@@ -1,0 +1,45 @@
+{
+  "report_number": "146956",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20111220",
+  "reactions": [
+    "APATHY",
+    "BLOOD GLUCOSE INCREASED",
+    "CHILLS",
+    "CONFUSIONAL STATE",
+    "DEHYDRATION",
+    "HEART RATE IRREGULAR",
+    "INCONTINENCE",
+    "LETHARGY"
+  ],
+  "date_started": "20111202",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BIONIX MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIABESTEVIA 500MG STEVIA 500MG INULIN",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIABESTEVIA SUPPLEMENT TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

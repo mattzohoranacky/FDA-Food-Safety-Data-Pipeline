@@ -1,0 +1,30 @@
+{
+  "report_number": "2018-CFS-012374",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20181011",
+  "reactions": [
+    "Migraine"
+  ],
+  "date_started": "20181011",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING VALLEY TURMERIC/CURCUMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Equate Complete Multivitamin Men 50+",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

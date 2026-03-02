@@ -1,0 +1,36 @@
+{
+  "report_number": "91528",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070223",
+  "reactions": [
+    "DYSGEUSIA",
+    "FLUSHING",
+    "HYPERTENSION",
+    "PALPITATIONS"
+  ],
+  "date_started": "20070210",
+  "consumer": {
+    "age": "68",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CARDIO SALT",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "NO SALT",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    }
+  ]
+}

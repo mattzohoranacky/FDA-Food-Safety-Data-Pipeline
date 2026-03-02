@@ -1,0 +1,38 @@
+{
+  "report_number": "168881",
+  "outcomes": [
+    "Required Intervention"
+  ],
+  "date_created": "20130806",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "HYPERSENSITIVITY",
+    "STOMACH DISCOMFORT",
+    "THROAT TIGHTNESS",
+    "VOMITING"
+  ],
+  "date_started": "20130705",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FIT FOOD LITE WHEY VANILLA -XYMOGEN",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CENTRUM SILVER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "ZINC",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

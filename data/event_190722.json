@@ -1,0 +1,38 @@
+{
+  "report_number": "190722",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20151019",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "COELIAC DISEASE",
+    "CONSTIPATION"
+  ],
+  "date_started": "20150913",
+  "consumer": {
+    "age": "10",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HONEY NUT CHEERIOS  OAT CEREAL, SWEETENED",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLE GRAIN CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "YELLOW BOX CHEERIOS",
+      "industry_code": "5",
+      "industry_name": "Cereal Prep/Breakfast Food"
+    }
+  ]
+}

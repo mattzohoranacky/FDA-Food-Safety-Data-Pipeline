@@ -1,0 +1,38 @@
+{
+  "report_number": "192833",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20160114",
+  "reactions": [
+    "ALANINE AMINOTRANSFERASE INCREASED",
+    "ANGIOEDEMA",
+    "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "BLOOD BILIRUBIN INCREASED",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "DRUG-INDUCED LIVER INJURY",
+    "HEPATITIS A ANTIBODY POSITIVE",
+    "HEPATOCELLULAR INJURY",
+    "LIPASE INCREASED",
+    "NUCLEAR MAGNETIC RESONANCE IMAGING ABNORMAL",
+    "RASH",
+    "SERUM FERRITIN INCREASED",
+    "URTICARIA"
+  ],
+  "date_started": "20140905",
+  "consumer": {
+    "age": "53",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHARTREUSE HERBAL TEA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

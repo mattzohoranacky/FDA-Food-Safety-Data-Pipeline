@@ -1,0 +1,27 @@
+{
+  "report_number": "2019-CFS-007204",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20190716",
+  "reactions": [
+    "Anaphylactic reaction",
+    "Food allergy"
+  ],
+  "date_started": "20190505",
+  "consumer": {
+    "age": "51.3",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WHOLESOME MIXED NUTS",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

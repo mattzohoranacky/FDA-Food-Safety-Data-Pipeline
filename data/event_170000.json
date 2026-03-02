@@ -1,0 +1,29 @@
+{
+  "report_number": "170000",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130913",
+  "reactions": [
+    "ASTHMA",
+    "DIARRHOEA",
+    "HEADACHE",
+    "MALAISE",
+    "MIGRAINE"
+  ],
+  "date_started": "20130906",
+  "consumer": {
+    "age": "52",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHOBANI YOGURT",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

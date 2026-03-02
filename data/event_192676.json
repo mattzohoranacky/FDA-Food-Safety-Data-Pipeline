@@ -1,0 +1,41 @@
+{
+  "report_number": "192676",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160111",
+  "reactions": [
+    "ABDOMINAL PAIN UPPER",
+    "ASTHENIA",
+    "BACK PAIN",
+    "CHILLS",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "HEADACHE",
+    "MALAISE",
+    "MYALGIA",
+    "NAUSEA",
+    "PYREXIA",
+    "VOMITING"
+  ],
+  "date_started": "20151231",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BLUE BELL COOKIES AND CREME ICE CREAM",
+      "industry_code": "13",
+      "industry_name": "Ice Cream Prod"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "PEDIALYTE",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    }
+  ]
+}

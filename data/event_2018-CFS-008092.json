@@ -1,0 +1,33 @@
+{
+  "report_number": "2018-CFS-008092",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20180612",
+  "reactions": [
+    "Alopecia",
+    "Dry skin",
+    "Pruritus",
+    "Rash"
+  ],
+  "date_started": "20160227",
+  "consumer": {
+    "age": "46.42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTI-VITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

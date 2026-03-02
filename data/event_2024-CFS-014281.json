@@ -1,0 +1,27 @@
+{
+  "report_number": "2024-CFS-014281",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20241114",
+  "reactions": [
+    "Cerebrovascular accident",
+    "Dizziness"
+  ],
+  "date_started": "20240116",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIFE EXTENSIONS NO FLUSH NIACIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

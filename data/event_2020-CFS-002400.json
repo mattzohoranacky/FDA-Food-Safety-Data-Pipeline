@@ -1,0 +1,29 @@
+{
+  "report_number": "2020-CFS-002400",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20200220",
+  "reactions": [
+    "Anaphylactic shock",
+    "Angioedema",
+    "Swelling face",
+    "Urticaria"
+  ],
+  "date_started": "20190212",
+  "consumer": {
+    "age": "38.2",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREMIUM L ARGININE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

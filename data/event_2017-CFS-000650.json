@@ -1,0 +1,50 @@
+{
+  "report_number": "2017-CFS-000650",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20171010",
+  "reactions": [
+    "Acute respiratory distress syndrome",
+    "Bacteraemia",
+    "Bradycardia",
+    "Cardiopulmonary failure",
+    "Lactobacillus infection",
+    "PO2 decreased",
+    "White blood cell count increased"
+  ],
+  "date_started": "20170501",
+  "consumer": {
+    "age": "8",
+    "age_unit": "day(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALIGN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "CULTURELLE HEALTH AND WELLNESS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMILAC SPECIAL CARE 20 INFANT FORMULA",
+      "industry_code": "40O",
+      "industry_name": "Liquid Concentrate Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Fat emulsion",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

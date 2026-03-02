@@ -1,0 +1,37 @@
+{
+  "report_number": "195339",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150612",
+  "reactions": [
+    "ANAPHYLACTIC REACTION",
+    "Adverse reaction",
+    "DYSPHAGIA",
+    "PHARYNGEAL OEDEMA",
+    "RASH",
+    "SWELLING",
+    "SWELLING FACE",
+    "URTICARIA"
+  ],
+  "date_started": "20150601",
+  "consumer": {
+    "age": "17",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAINBOW LIGHT ACTIVE HEALTH TEEN WITH DERMACOMPLEX FOOD-BASED MULTIVITAMINS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "WHOLE FOODS BRAND 100 MG VITAMIN B2",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

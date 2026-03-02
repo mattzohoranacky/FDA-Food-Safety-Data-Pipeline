@@ -1,0 +1,31 @@
+{
+  "report_number": "2025-CFS-010334",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20250702",
+  "reactions": [
+    "Anxiety"
+  ],
+  "date_started": "20250626",
+  "consumer": {
+    "age": "62",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALTOIDS MINTS ORIGINALS IN TIN CAN",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "THE ORIGINAL CELEBRATED ALTOIDS MINTS",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    }
+  ]
+}

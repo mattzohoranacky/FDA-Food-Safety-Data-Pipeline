@@ -1,0 +1,36 @@
+{
+  "report_number": "197212",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160610",
+  "reactions": [
+    "BACTERIAL TEST POSITIVE",
+    "ENTEROCOCCAL INFECTION",
+    "ERYTHEMA",
+    "EYE SWELLING",
+    "RASH",
+    "STAPHYLOCOCCAL INFECTION"
+  ],
+  "date_started": "20160222",
+  "consumer": {
+    "age": "69",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KIRKLAND SIGNATURE ADULT MULTIVITAMIN GUMMIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NATURE MADE HAIR, SKIN, AND NAILS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "report_number": "184732",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20150409",
+  "reactions": [
+    "ASTHENIA",
+    "BALANCE DISORDER",
+    "HEART RATE DECREASED",
+    "HYPOTENSION",
+    "PULSE ABSENT",
+    "SYNCOPE",
+    "VOMITING"
+  ],
+  "date_started": "20150406",
+  "consumer": {
+    "age": "57",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SABRA HUMMUS SMALL DIPPER",
+      "industry_code": "37",
+      "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BOTTLE WATER",
+      "industry_code": "29",
+      "industry_name": "Soft Drink/Water"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CARROT CAKE",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    }
+  ]
+}

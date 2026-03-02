@@ -1,0 +1,31 @@
+{
+  "report_number": "90907",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20070119",
+  "reactions": [
+    "DERMATITIS DIAPER",
+    "DIARRHOEA"
+  ],
+  "date_started": "20070115",
+  "consumer": {
+    "age": "18",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LUNDBERG FAMILY FARMS RICE CHIPS, SEA SALT FLAVOR",
+      "industry_code": "7",
+      "industry_name": "Snack Food Item"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "APPLES",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

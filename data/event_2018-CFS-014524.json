@@ -1,0 +1,40 @@
+{
+  "report_number": "2018-CFS-014524",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20181211",
+  "reactions": [
+    "Aphagia",
+    "Bedridden",
+    "Breast swelling",
+    "Cerebrovascular accident",
+    "Confusional state",
+    "Gait disturbance",
+    "Headache",
+    "Ocular hyperaemia",
+    "Pain",
+    "Tremor"
+  ],
+  "date_started": "20181016",
+  "consumer": {
+    "age": "84",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREVAGEN EXTRA STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PREVAGEN REGULAR STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

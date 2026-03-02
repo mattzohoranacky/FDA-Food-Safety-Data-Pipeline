@@ -1,0 +1,36 @@
+{
+  "report_number": "189945",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20150924",
+  "reactions": [
+    "CRYING",
+    "ECZEMA",
+    "PRURITUS",
+    "SKIN LESION"
+  ],
+  "date_started": "20150923",
+  "consumer": {
+    "age": "1",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NUTRAMIGEN",
+      "industry_code": "40P",
+      "industry_name": "Powder Formula"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VANICREAM SOAP SHAMPOO AND MOISTURIZER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

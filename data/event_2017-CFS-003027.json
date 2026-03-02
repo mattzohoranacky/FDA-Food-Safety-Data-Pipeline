@@ -1,0 +1,31 @@
+{
+  "report_number": "2017-CFS-003027",
+  "outcomes": [
+    "Disability"
+  ],
+  "date_created": "20171225",
+  "reactions": [
+    "Gastrointestinal disorder",
+    "Milk allergy",
+    "Mucous stools",
+    "Pain"
+  ],
+  "date_started": "20171225",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BYRD'S FAMOUS ALMOND SHORTBREAD",
+      "industry_code": "3",
+      "industry_name": "Bakery Prod/Dough/Mix/Icing"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Probiotics Prenatal Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

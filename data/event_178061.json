@@ -1,0 +1,31 @@
+{
+  "report_number": "178061",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20140721",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "DIARRHOEA",
+    "DIARRHOEA HAEMORRHAGIC",
+    "ESCHERICHIA INFECTION",
+    "HAEMATOCHEZIA",
+    "MALAISE"
+  ],
+  "date_started": "20140716",
+  "consumer": {
+    "age": "14",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HILTON HAMBURGER",
+      "industry_code": "17",
+      "industry_name": "Meat, Meat Products and Poultry"
+    }
+  ]
+}

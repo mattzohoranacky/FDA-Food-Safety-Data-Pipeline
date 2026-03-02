@@ -1,0 +1,28 @@
+{
+  "report_number": "2020-CFS-006487",
+  "outcomes": [
+    "Hospitalization",
+    "Disability",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20200701",
+  "reactions": [
+    "Blood pressure increased",
+    "Drug screen positive",
+    "Panic attack"
+  ],
+  "date_started": "20200504",
+  "consumer": {
+    "age": "55",
+    "age_unit": "year(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CHARLOTTES WEB HEMP EXTRACT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

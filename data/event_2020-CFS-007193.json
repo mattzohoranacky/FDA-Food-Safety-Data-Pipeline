@@ -1,0 +1,27 @@
+{
+  "report_number": "2020-CFS-007193",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200724",
+  "reactions": [
+    "Dyspepsia",
+    "Malaise"
+  ],
+  "date_started": "20200717",
+  "consumer": {
+    "age": "24.9",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JUNIPER VALLEY WHOLE MILK",
+      "industry_code": "9",
+      "industry_name": "Milk/Butter/Dried Milk Prod"
+    }
+  ]
+}

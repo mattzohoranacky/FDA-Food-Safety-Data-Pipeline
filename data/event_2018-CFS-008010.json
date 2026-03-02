@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-008010",
+  "outcomes": [
+    "Life Threatening"
+  ],
+  "date_created": "20180610",
+  "reactions": [
+    "Asthenia",
+    "Fatigue",
+    "Feeling abnormal",
+    "Feeling cold",
+    "Headache",
+    "Pain",
+    "Serotonin syndrome",
+    "Vomiting"
+  ],
+  "date_started": "20180608",
+  "consumer": {
+    "age": "42",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPRING VALLEY 5-HTP L-5- HYDROXYTRYPTOPHAN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_number": "2020-CFS-008783",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20200914",
+  "reactions": [
+    "Cerebral vasoconstriction",
+    "Computerised tomogram abnormal",
+    "Haemorrhage intracranial",
+    "Headache",
+    "Hypoaesthesia",
+    "Paraesthesia",
+    "Vasculitis"
+  ],
+  "date_started": "20200910",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALPHA BRAIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

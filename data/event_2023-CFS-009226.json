@@ -1,0 +1,31 @@
+{
+  "report_number": "2023-CFS-009226",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20230831",
+  "reactions": [
+    "Chemical burn of skin",
+    "Erythema",
+    "Macule",
+    "Pain of skin",
+    "Skin irritation"
+  ],
+  "date_started": "20230624",
+  "consumer": {
+    "age": "16",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "OLD SPICE WILD COLLECTION DEODORANT SOLID KRAKENGARD 3OZ (ALUMINUM FREE)",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

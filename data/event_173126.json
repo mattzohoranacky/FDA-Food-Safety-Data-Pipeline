@@ -1,0 +1,36 @@
+{
+  "report_number": "173126",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20131216",
+  "reactions": [
+    "ATRIOVENTRICULAR BLOCK",
+    "CARDIAC STRESS TEST ABNORMAL",
+    "ECHOCARDIOGRAM ABNORMAL",
+    "HYPOTENSION",
+    "PRURITUS",
+    "REACTION TO PRESERVATIVES",
+    "SWELLING"
+  ],
+  "date_started": "20130825",
+  "consumer": {
+    "age": "75",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUNDOWN NATURALS FISH OIL 1290 MG WITH OMEGA-3 900 MG ODORLESS COATED MINI SOFTGELS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "UNSPECIFIED MULTIVITAMIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

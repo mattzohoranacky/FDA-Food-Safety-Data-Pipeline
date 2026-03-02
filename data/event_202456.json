@@ -1,0 +1,39 @@
+{
+  "report_number": "202456",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20161001",
+  "reactions": [
+    "ALOPECIA",
+    "HAIR TEXTURE ABNORMAL",
+    "PRURITUS",
+    "SKIN IRRITATION"
+  ],
+  "date_started": "20140612",
+  "consumer": {
+    "age": "60",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN SWEET ALMOND MINT CLEANSING",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALTRATE + D3",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MEGA FOOD VITAMIN FOR WOMEN OVER 55",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

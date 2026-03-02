@@ -1,0 +1,34 @@
+{
+  "report_number": "171267",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20131028",
+  "reactions": [
+    "BACK PAIN",
+    "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+    "PAIN IN EXTREMITY",
+    "RHABDOMYOLYSIS"
+  ],
+  "date_started": "20110701",
+  "consumer": {
+    "age": "28",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MUSCLE MILK",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "OXYELITE PRO",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

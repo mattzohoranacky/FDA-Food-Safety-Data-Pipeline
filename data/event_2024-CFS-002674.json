@@ -1,0 +1,26 @@
+{
+  "report_number": "2024-CFS-002674",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240306",
+  "reactions": [
+    "Blood cholesterol increased",
+    "Blood pressure increased",
+    "Blood triglycerides increased"
+  ],
+  "date_started": "20240305",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SIMPLE PROMISE CARDIO CLEAR 7",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

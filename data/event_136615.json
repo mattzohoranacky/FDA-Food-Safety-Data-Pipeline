@@ -1,0 +1,32 @@
+{
+  "report_number": "136615",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110308",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "DIARRHOEA HAEMORRHAGIC",
+    "GASTROENTERITIS SALMONELLA",
+    "NAUSEA",
+    "VOMITING"
+  ],
+  "date_started": "20110305",
+  "consumer": {
+    "age": "48",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "5 REDUCED FAT CREAMY PB",
+      "industry_code": "23",
+      "industry_name": "Nuts/Edible Seed"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "report_number": "2019-CFS-002586",
+  "outcomes": [
+    "Death",
+    "Hospitalization"
+  ],
+  "date_created": "20190313",
+  "reactions": [
+    "Death",
+    "Haemorrhage urinary tract",
+    "Urinary tract pain"
+  ],
+  "date_started": "20190131",
+  "consumer": {
+    "age": "79",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "100% MALE ULTRA BLEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PROSVENT ULTRA BLEND",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ULTIMAX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "100% Male Ultra Blend",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

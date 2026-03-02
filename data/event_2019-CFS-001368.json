@@ -1,0 +1,33 @@
+{
+  "report_number": "2019-CFS-001368",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20190212",
+  "reactions": [
+    "Abdominal pain",
+    "Coeliac disease",
+    "Diarrhoea",
+    "Nausea"
+  ],
+  "date_started": "20190211",
+  "consumer": {
+    "age": "47",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPICELY ORGANICS TACO SEASONING",
+      "industry_code": "28",
+      "industry_name": "Spices, Flavors And Salts"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Complex B",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

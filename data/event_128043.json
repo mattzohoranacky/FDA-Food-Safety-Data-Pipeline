@@ -1,0 +1,36 @@
+{
+  "report_number": "128043",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100702",
+  "reactions": [
+    "Adverse reaction",
+    "DYSPNOEA",
+    "LOCAL SWELLING",
+    "PRURITUS",
+    "URTICARIA",
+    "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20100520",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "JOHN FRIEDA LUXURIOUS VOLUME FULL SPLENDOR CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "JOHN FRIEDA SHAMPOO",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

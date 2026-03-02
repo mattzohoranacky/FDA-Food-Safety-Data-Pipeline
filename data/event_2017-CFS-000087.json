@@ -1,0 +1,36 @@
+{
+  "report_number": "2017-CFS-000087",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20170913",
+  "reactions": [
+    "Blood creatine phosphokinase increased",
+    "Blood pressure increased",
+    "Dizziness",
+    "Dyspnoea",
+    "Feeling abnormal",
+    "Hyperhidrosis",
+    "Hyponatraemia",
+    "Paraesthesia",
+    "Rhabdomyolysis",
+    "Ventricular extrasystoles",
+    "Visual impairment"
+  ],
+  "date_started": "20170727",
+  "consumer": {
+    "age": "15",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "C4 SPORT PRE-WORKOUT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

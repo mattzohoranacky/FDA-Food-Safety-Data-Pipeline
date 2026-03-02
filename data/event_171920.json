@@ -1,0 +1,28 @@
+{
+  "report_number": "171920",
+  "outcomes": [
+    "Hospitalization",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20130702",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "BODY TEMPERATURE INCREASED",
+    "DIARRHOEA",
+    "GASTROENTERITIS SALMONELLA",
+    "HAEMATOCHEZIA"
+  ],
+  "date_started": "20130628",
+  "consumer": {
+    "age": "6",
+    "age_unit": "week(s)"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ENFAMIL NUTRAMIGEN WITH ENFLORA LGG",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

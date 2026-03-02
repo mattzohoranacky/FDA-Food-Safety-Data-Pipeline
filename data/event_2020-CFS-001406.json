@@ -1,0 +1,31 @@
+{
+  "report_number": "2020-CFS-001406",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20200204",
+  "reactions": [
+    "Hair texture abnormal",
+    "Skin burning sensation"
+  ],
+  "date_started": "20191101",
+  "consumer": {
+    "age": "23",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DEVACURL ONE CONDITION ORIGINAL",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Iron Supplement",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

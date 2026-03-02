@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-010497",
+  "outcomes": [
+    "Death",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20180822",
+  "reactions": [
+    "Accidental death",
+    "Blood pressure increased",
+    "Brain injury",
+    "Brain oedema",
+    "Contusion",
+    "Convulsion",
+    "Death",
+    "Hypoxic-ischaemic encephalopathy",
+    "Needle track marks",
+    "Respiratory arrest",
+    "Scar",
+    "Toxicity to various agents"
+  ],
+  "date_started": "20180619",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "KRATOM",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

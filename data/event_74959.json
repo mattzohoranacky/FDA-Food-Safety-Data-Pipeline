@@ -1,0 +1,32 @@
+{
+  "report_number": "74959",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20041221",
+  "reactions": [
+    "HEART RATE IRREGULAR",
+    "PALPITATIONS",
+    "TACHYCARDIA"
+  ],
+  "date_started": "20041220",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SCHIFF MOVE FREE DOUBLE STRENGTH",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "FOLTEX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

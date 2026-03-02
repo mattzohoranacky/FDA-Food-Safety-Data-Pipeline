@@ -1,0 +1,31 @@
+{
+  "report_number": "2019-CFS-004307",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20190429",
+  "reactions": [
+    "Nausea",
+    "Palpitations"
+  ],
+  "date_started": "20190321",
+  "consumer": {
+    "age": "39",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX IONIX-SUPREME POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX NATURAL ACCELERATOR",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

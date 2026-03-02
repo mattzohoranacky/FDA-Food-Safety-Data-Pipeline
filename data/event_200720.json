@@ -1,0 +1,37 @@
+{
+  "report_number": "200720",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20160826",
+  "reactions": [
+    "HYPOAESTHESIA ORAL",
+    "TRANSIENT GLOBAL AMNESIA"
+  ],
+  "date_started": "20160821",
+  "consumer": {
+    "age": "66",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "FORSKOLIN EXTRACT DIETARY SUPPLEMENT",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "CALCIUM VITAMIN D CHEWIES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MULTIVITAMIN CHEWABLES",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

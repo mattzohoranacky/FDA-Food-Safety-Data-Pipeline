@@ -1,0 +1,28 @@
+{
+  "report_number": "2022-CFS-010412",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20220628",
+  "reactions": [
+    "Headache",
+    "Pyrexia",
+    "Rash",
+    "Swelling"
+  ],
+  "date_started": "20220622",
+  "consumer": {
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "CAMPBELL'S CONDENSED TOMATO SOUP",
+      "industry_code": "38",
+      "industry_name": "Soup"
+    }
+  ]
+}

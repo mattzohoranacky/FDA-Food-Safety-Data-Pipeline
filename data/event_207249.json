@@ -1,0 +1,33 @@
+{
+  "report_number": "207249",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170206",
+  "reactions": [
+    "BLADDER DISORDER",
+    "RENAL FAILURE",
+    "URINARY TRACT OBSTRUCTION",
+    "URINE OUTPUT DECREASED"
+  ],
+  "date_started": "20170109",
+  "consumer": {
+    "age": "63",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA PROSTATE",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "SUPER BETA VIRILITY BOOST",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

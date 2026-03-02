@@ -1,0 +1,37 @@
+{
+  "report_number": "2018-CFS-013857",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Disability",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20181123",
+  "reactions": [
+    "Abdominal pain upper",
+    "Asthenia",
+    "Confusional state",
+    "Gastroenteritis Escherichia coli",
+    "Kidney infection",
+    "Malaise",
+    "Pyrexia",
+    "Urine analysis abnormal",
+    "Vomiting",
+    "White blood cell count increased"
+  ],
+  "date_started": "20181001",
+  "consumer": {
+    "age": "72.1",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ROUSE'S TURKEY TOSSED SALAD TF",
+      "industry_code": "39",
+      "industry_name": "Prep Salad Prod"
+    }
+  ]
+}

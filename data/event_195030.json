@@ -1,0 +1,35 @@
+{
+  "report_number": "195030",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160404",
+  "reactions": [
+    "ALOPECIA",
+    "ERYTHEMA",
+    "HAIR TEXTURE ABNORMAL",
+    "PRURITUS",
+    "SKIN IRRITATION",
+    "WOUND"
+  ],
+  "date_started": "20151008",
+  "consumer": {
+    "age": "54",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "WEN CLEANSING CONDITIONER",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN D/1,000 IU",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

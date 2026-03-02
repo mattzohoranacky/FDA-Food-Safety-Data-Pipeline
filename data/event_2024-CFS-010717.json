@@ -1,0 +1,33 @@
+{
+  "report_number": "2024-CFS-010717",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Allergic Reaction"
+  ],
+  "date_created": "20240817",
+  "reactions": [
+    "Hypersensitivity",
+    "Loss of consciousness",
+    "Nausea",
+    "Oesophagitis",
+    "Rash",
+    "Swollen tongue",
+    "Tremor",
+    "Urticaria"
+  ],
+  "date_started": "20240817",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ONNIT ALPHA BRAIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

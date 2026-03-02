@@ -1,0 +1,32 @@
+{
+  "report_number": "211747",
+  "outcomes": [
+    "Hospitalization"
+  ],
+  "date_created": "20170511",
+  "reactions": [
+    "APPENDICITIS",
+    "APPENDICITIS PERFORATED",
+    "PAIN"
+  ],
+  "date_started": "20170416",
+  "consumer": {
+    "age": "38",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "MAX POTENCY CLA 1250",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "VITAMIN C",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

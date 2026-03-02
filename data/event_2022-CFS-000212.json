@@ -1,0 +1,37 @@
+{
+  "report_number": "2022-CFS-000212",
+  "outcomes": [
+    "Other Outcome"
+  ],
+  "date_created": "20220105",
+  "reactions": [
+    "Blister",
+    "Chapped lips"
+  ],
+  "date_started": "20220105",
+  "consumer": {
+    "age": "30.7",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "EOS SPARKLING SUGAR PLUM & POMEGRANATE PUNCH 2-PACK LIP BALM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Biotin",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Rirual Vitamins",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

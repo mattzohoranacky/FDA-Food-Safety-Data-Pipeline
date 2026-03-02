@@ -1,0 +1,38 @@
+{
+  "report_number": "214666",
+  "outcomes": [
+    "Life Threatening",
+    "Disability",
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170630",
+  "reactions": [
+    "Asthma",
+    "Hypersensitivity",
+    "Pleural effusion",
+    "Respiratory distress",
+    "Respiratory tract congestion",
+    "Respiratory tract oedema",
+    "Secretion discharge"
+  ],
+  "date_started": "20170628",
+  "consumer": {
+    "age": "50",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SOY LECITHIN",
+      "industry_code": "46",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "Red yeast rice",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

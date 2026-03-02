@@ -1,0 +1,42 @@
+{
+  "report_number": "196005",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20160411",
+  "reactions": [
+    "ABDOMINAL PAIN",
+    "ASTHENIA",
+    "BACTERIAL INFECTION",
+    "DEHYDRATION",
+    "DIARRHOEA",
+    "DIZZINESS",
+    "DRY MOUTH",
+    "FATIGUE",
+    "FEELING OF BODY TEMPERATURE CHANGE",
+    "HAEMATEMESIS",
+    "MUSCULAR WEAKNESS",
+    "NAUSEA",
+    "NEUROLOGICAL SYMPTOM",
+    "POISONING",
+    "POLYDIPSIA",
+    "PYREXIA",
+    "THIRST",
+    "VISION BLURRED",
+    "VOMITING"
+  ],
+  "date_started": "20160407",
+  "consumer": {
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "APPLESNAX SWEET APPLES APPLE SAUCE",
+      "industry_code": "20",
+      "industry_name": "Fruit/Fruit Prod"
+    }
+  ]
+}

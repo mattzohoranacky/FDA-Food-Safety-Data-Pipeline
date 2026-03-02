@@ -1,0 +1,37 @@
+{
+  "report_number": "177098",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140606",
+  "reactions": [
+    "DYSPHAGIA",
+    "DYSPNOEA",
+    "EXOPHTHALMOS",
+    "FOREIGN BODY TRAUMA",
+    "NECK PAIN",
+    "PANIC ATTACK",
+    "RETCHING",
+    "SLEEP DISORDER"
+  ],
+  "date_started": "20140523",
+  "consumer": {
+    "age": "71",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "NATUREMADE L-LYSINE 1000 MG TABLET (DIETARY SUPPLEMENT) TABLET",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "BIOTIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

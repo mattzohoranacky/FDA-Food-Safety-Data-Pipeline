@@ -1,0 +1,31 @@
+{
+  "report_number": "191634",
+  "outcomes": [
+    "Visited Emergency Room"
+  ],
+  "date_created": "20151026",
+  "reactions": [
+    "DIARRHOEA",
+    "VOMITING"
+  ],
+  "date_started": "20151023",
+  "consumer": {
+    "age": "10",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BEECH-NUT MIXED VEGETABLE BABY FOOD",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "SIMLAC ADVANCE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

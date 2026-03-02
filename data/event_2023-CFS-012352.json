@@ -1,0 +1,32 @@
+{
+  "report_number": "2023-CFS-012352",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20231108",
+  "reactions": [
+    "Chemical burn",
+    "Erythema",
+    "Skin exfoliation"
+  ],
+  "date_started": "20231103",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAPID WRINKLE REPAIR RETINOL MOISTURIZER SUNSCREEN SPF 30",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "RAPID WRINKLE REPAIR RETINOL PRO+ 0.3% NIGHT CREAM",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

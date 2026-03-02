@@ -1,0 +1,34 @@
+{
+  "report_number": "2023-CFS-005096",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Other Serious Outcome"
+  ],
+  "date_created": "20230517",
+  "reactions": [
+    "Blood pressure increased",
+    "Headache",
+    "Malaise",
+    "Throat irritation"
+  ],
+  "date_started": "20230409",
+  "consumer": {
+    "age": "61",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "BSN SYNTHA-6 ULTRA-PREMIUM PROTEIN MATRIX",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "PURITAN'S PRIDE GLUCOSAMINE CHONDROITIN",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

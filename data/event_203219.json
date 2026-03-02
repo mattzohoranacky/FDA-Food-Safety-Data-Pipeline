@@ -1,0 +1,35 @@
+{
+  "report_number": "203219",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20161020",
+  "reactions": [
+    "ABDOMINAL DISCOMFORT",
+    "OCCIPITAL NEURALGIA",
+    "PAIN",
+    "PAIN OF SKIN"
+  ],
+  "date_started": "20161007",
+  "consumer": {
+    "age": "35",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "PHARMACEUTIX XAQUIL XR?",
+      "industry_code": "41",
+      "industry_name": "Dietary Conventional Foods/Meal Replacements"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "NEEVO DHA",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

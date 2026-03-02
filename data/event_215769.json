@@ -1,0 +1,33 @@
+{
+  "report_number": "215769",
+  "outcomes": [
+    "Life Threatening",
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20170721",
+  "reactions": [
+    "BLOOD POTASSIUM INCREASED",
+    "BLOOD PRESSURE INCREASED",
+    "BLOOD SODIUM INCREASED",
+    "HEART RATE INCREASED",
+    "MUSCLE SPASMS",
+    "NAUSEA",
+    "POISONING",
+    "TACHYPNOEA"
+  ],
+  "date_started": "20170624",
+  "consumer": {
+    "age": "37",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SHAKEOLOGY PROTEIN MIX",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

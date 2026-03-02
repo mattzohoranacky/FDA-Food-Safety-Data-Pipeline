@@ -1,0 +1,31 @@
+{
+  "report_number": "160857",
+  "outcomes": [
+    "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20121229",
+  "reactions": [
+    "BURNING SENSATION",
+    "THERMAL BURN"
+  ],
+  "date_started": "20121228",
+  "consumer": {
+    "age": "58",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "SPLENDA IMITATION SWEETENER SINGLE INDIVIDUAL PACKS",
+      "industry_code": "45",
+      "industry_name": "Food Additives (Human Use)"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "COFFEE",
+      "industry_code": "31",
+      "industry_name": "Coffee/Tea"
+    }
+  ]
+}

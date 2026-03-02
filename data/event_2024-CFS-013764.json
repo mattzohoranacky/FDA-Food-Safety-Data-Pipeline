@@ -1,0 +1,38 @@
+{
+  "report_number": "2024-CFS-013764",
+  "outcomes": [
+    "Other Serious or Important Medical Event",
+    "Allergic Reaction"
+  ],
+  "date_created": "20241103",
+  "reactions": [
+    "Diarrhoea",
+    "Fatigue",
+    "Headache",
+    "Hypersensitivity",
+    "Nausea",
+    "Pain",
+    "Rash",
+    "Vomiting"
+  ],
+  "date_started": "20241102",
+  "consumer": {
+    "age": "20",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ALMOND MILK",
+      "industry_code": "14",
+      "industry_name": "Filled Milk/Imit Milk Prod"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "LATTE MILK STEAMER CUP",
+      "industry_code": "52",
+      "industry_name": "Miscellaneous Food Related Items"
+    }
+  ]
+}

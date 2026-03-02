@@ -1,0 +1,39 @@
+{
+  "report_number": "132809",
+  "outcomes": [
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20100305",
+  "reactions": [
+    "DIARRHOEA",
+    "IRRITABILITY",
+    "LOCAL SWELLING",
+    "RASH"
+  ],
+  "date_started": "20100228",
+  "consumer": {
+    "age": "11",
+    "age_unit": "month(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "O ORGANIC BABY FOOD ORGANIC APPLE SAUCE",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "O ORGANIC BABY FOOD ORGANIC BANANA",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "O ORGANIC BABY FOOD ORGANIC PEARS",
+      "industry_code": "40",
+      "industry_name": "Baby Food Products"
+    }
+  ]
+}

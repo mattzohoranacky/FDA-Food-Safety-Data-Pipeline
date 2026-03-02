@@ -1,0 +1,37 @@
+{
+  "report_number": "144515",
+  "outcomes": [
+    "Visited Emergency Room",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20110909",
+  "reactions": [
+    "BURNING SENSATION",
+    "DERMATITIS CONTACT",
+    "HYPERSENSITIVITY",
+    "LOCAL SWELLING",
+    "PAIN",
+    "PRURITUS",
+    "WOUND SECRETION"
+  ],
+  "date_started": "20110904",
+  "consumer": {
+    "age": "30",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "HOYU COLOR BIGEN ORIENTAL BLACK",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    },
+    {
+      "role": "CONCOMITANT",
+      "name_brand": "MOISTURE ESSENCE (SHAMPOO) AJ HAIR PRODUCTS",
+      "industry_code": "53",
+      "industry_name": "Cosmetics"
+    }
+  ]
+}

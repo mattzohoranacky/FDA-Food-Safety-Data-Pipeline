@@ -1,0 +1,36 @@
+{
+  "report_number": "2024-CFS-009939",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20240612",
+  "reactions": [
+    "Anxiety",
+    "Diarrhoea",
+    "Hallucination",
+    "Lethargy",
+    "Vomiting"
+  ],
+  "date_started": "20240511",
+  "consumer": {
+    "age": "25",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND SHRUUMZ BLUE RASPBERRY GUMMIES",
+      "industry_code": "33",
+      "industry_name": "Candy W/O Choc/Special/Chew Gum"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "DIAMOND SHRUUMZ INFUSED CONES",
+      "industry_code": "34",
+      "industry_name": "Choc/Cocoa Prod"
+    }
+  ]
+}

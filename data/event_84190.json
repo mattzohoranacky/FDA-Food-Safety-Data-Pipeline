@@ -1,0 +1,31 @@
+{
+  "report_number": "84190",
+  "outcomes": [
+    "Hospitalization",
+    "Other Serious or Important Medical Event",
+    "Visited a Health Care Provider"
+  ],
+  "date_created": "20060306",
+  "reactions": [
+    "BILE DUCT OBSTRUCTION DUE TO CALCULUS",
+    "HEPATIC ATROPHY",
+    "HEPATITIS CHOLESTATIC",
+    "HEPATOCELLULAR DAMAGE",
+    "INFLAMMATION",
+    "JAUNDICE"
+  ],
+  "date_started": "20051220",
+  "consumer": {
+    "age": "36",
+    "age_unit": "year(s)",
+    "gender": "Male"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "LIPO-6",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}

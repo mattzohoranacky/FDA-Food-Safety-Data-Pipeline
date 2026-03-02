@@ -1,0 +1,34 @@
+{
+  "report_number": "2019-CFS-001730",
+  "outcomes": [
+    "Hospitalization",
+    "Visited Emergency Room"
+  ],
+  "date_created": "20190219",
+  "reactions": [
+    "Abdominal pain upper",
+    "Haematochezia",
+    "Nausea",
+    "Small intestinal intussusception reduction"
+  ],
+  "date_started": "20190118",
+  "consumer": {
+    "age": "64",
+    "age_unit": "year(s)",
+    "gender": "Female"
+  },
+  "products": [
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX GREENS",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    },
+    {
+      "role": "SUSPECT",
+      "name_brand": "ISAGENIX IONIX SUPREME-NATURAL FRUIT FLAVOR-POWDER",
+      "industry_code": "54",
+      "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+    }
+  ]
+}
